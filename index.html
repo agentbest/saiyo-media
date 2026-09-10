@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>採用媒体の販売パートナー｜OfferBox・Wantedly・ワンキャリア｜株式会社エージェントベスト</title>
+<meta name="description" content="OfferBox・Wantedly・ワンキャリアの販売パートナー（代理店）。3つの採用媒体をひとつの窓口で比較・選定し、お申込みから運用まで伴走します。媒体の利用料金は各社の正規料金のままです。">
+<link rel="canonical" href="https://saiyo-media.agent-best.net/">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="株式会社エージェントベスト">
+<meta property="og:title" content="採用媒体の販売パートナー｜OfferBox・Wantedly・ワンキャリア｜株式会社エージェントベスト">
+<meta property="og:description" content="3つの採用媒体を、ひとつの窓口で。媒体選びからお申込み、運用までエージェントベストが伴走します。">
+<meta property="og:url" content="https://saiyo-media.agent-best.net/">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+<style>
+  :root{
+    --paper:#F3F6FB;--surface:#FFFFFF;--surface-2:#E9EFF8;
+    --ink:#0E1B30;--ink-soft:#48586F;--ink-faint:#8291A5;
+    --line:#E0E8F2;--line-strong:#CAD6E5;
+    --accent:#6B3FA0;--accent-strong:#57318A;--accent-ink:#4C2A7A;--accent-tint:#EDE4F7;
+    --success:#12A150;--success-ink:#0B7A3B;--success-tint:#DCF3E6;
+    --navy:#0B1A32;--on-navy:#EAF0F8;--on-navy-soft:#9CB0CB;--on-navy-line:#20324D;
+    --ob:#0D7E93;--wt:#2B4BD0;--oc:#C2610C;
+    --sans:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic",YuGothic,"Noto Sans JP","Segoe UI",sans-serif;
+    --mono:"SFMono-Regular","SF Mono","Cascadia Code",Consolas,"Roboto Mono",monospace;
+    --maxw:1080px;--radius:16px;
+    --shadow:0 1px 2px rgba(14,27,48,.05),0 16px 38px -20px rgba(14,27,48,.26);
+  }
+  /* 白ベースに統一（B2B LP共通。ダークモードは無効） */
+  :root[data-theme="light"]{
+    --paper:#F3F6FB;--surface:#FFFFFF;--surface-2:#E9EFF8;--ink:#0E1B30;--ink-soft:#48586F;--ink-faint:#8291A5;
+    --line:#E0E8F2;--line-strong:#CAD6E5;--accent:#6B3FA0;--accent-strong:#57318A;--accent-ink:#4C2A7A;--accent-tint:#EDE4F7;
+    --success:#12A150;--success-ink:#0B7A3B;--success-tint:#DCF3E6;--navy:#0B1A32;--on-navy:#EAF0F8;--on-navy-soft:#9CB0CB;--on-navy-line:#20324D;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.75;
+    -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;overflow-x:hidden}
+  h1,h2,h3,h4,p{margin:0}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}
+
+  .btn{display:inline-flex;align-items:center;gap:9px;font-weight:800;font-size:.95rem;padding:14px 26px;border-radius:11px;
+    cursor:pointer;border:1px solid transparent;transition:transform .15s ease,background .2s ease,box-shadow .2s ease;white-space:nowrap}
+  .btn-primary{background:var(--accent);color:#fff;box-shadow:0 10px 26px -10px var(--accent)}
+  .btn-primary:hover{background:var(--accent-strong);transform:translateY(-2px)}
+  .btn-ghost{border-color:var(--line-strong);color:var(--ink);background:var(--surface)}
+  .btn-ghost:hover{border-color:var(--accent);color:var(--accent-ink)}
+  .btn-lg{padding:17px 34px;font-size:1.02rem}
+  .btn .arw{font-family:var(--mono)}
+
+  header.nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--paper) 86%,transparent);
+    backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line)}
+  .nav-in{display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:800}
+  .brand-logo{display:block;height:34px;width:auto;flex:none}
+  .brand .brand-sub{display:block;padding-left:11px;border-left:1px solid var(--line)}
+  .brand .nm{font-size:.98rem;line-height:1.2}
+  .brand .nm small{display:block;font-family:var(--mono);font-size:.56rem;letter-spacing:.12em;color:var(--ink-faint);font-weight:600}
+  .nav .cta-mini{font-size:.9rem;padding:10px 20px}
+  @media (max-width:560px){.brand .brand-sub{display:none}}
+
+  .hero{position:relative;background:var(--navy);color:var(--on-navy);overflow:hidden;border-bottom:1px solid var(--on-navy-line)}
+  .hero::before{content:"";position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(48% 44% at 86% 6%,rgba(107,63,160,.34),transparent 62%),
+      radial-gradient(42% 42% at 6% 96%,rgba(18,161,80,.20),transparent 64%)}
+  .hero-grid{position:absolute;inset:0;opacity:.5;pointer-events:none;
+    background-image:linear-gradient(var(--on-navy-line) 1px,transparent 1px);background-size:100% 48px;
+    -webkit-mask-image:linear-gradient(180deg,transparent,#000 16%,#000 74%,transparent);
+            mask-image:linear-gradient(180deg,transparent,#000 16%,#000 74%,transparent)}
+  .hero-in{position:relative;padding:66px 22px 54px}
+  .hero-eyebrow{display:inline-flex;align-items:center;gap:9px;font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--on-navy);font-weight:700;background:rgba(255,255,255,.08);
+    border:1px solid var(--on-navy-line);padding:7px 14px;border-radius:999px}
+  h1.hero-title{font-weight:900;letter-spacing:.005em;font-size:clamp(2.1rem,5.6vw,3.6rem);line-height:1.28;margin:22px 0 0;text-wrap:balance}
+  h1.hero-title .hl{color:var(--success);white-space:nowrap}
+  .hero-lead{margin:22px 0 0;max-width:37em;color:var(--on-navy-soft);font-size:1.06rem}
+  .hero-cta{display:flex;flex-wrap:wrap;gap:14px;margin:30px 0 0;align-items:center}
+  .hero-cta .note{font-family:var(--mono);font-size:.72rem;color:var(--on-navy-soft)}
+  .hero-trust{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:44px 0 0}
+  .htile{background:rgba(255,255,255,.04);border:1px solid var(--on-navy-line);border-radius:13px;padding:18px}
+  .htile .n{font-family:var(--mono);font-weight:800;font-size:1.6rem;line-height:1;color:var(--on-navy);font-variant-numeric:tabular-nums}
+  .htile .n em{font-style:normal;font-size:.9rem;color:var(--success);margin-left:2px}
+  .htile .l{font-size:.76rem;color:var(--on-navy-soft);margin-top:8px}
+  @media (max-width:760px){.hero-trust{grid-template-columns:repeat(2,1fr)}}
+
+  .medias{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 0}
+  .mtag{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:999px;border:1px solid var(--on-navy-line);
+    background:rgba(255,255,255,.05);font-weight:800;font-size:.86rem;color:var(--on-navy)}
+  .mtag i{width:9px;height:9px;border-radius:50%;display:inline-block}
+  .mtag small{font-family:var(--mono);font-size:.62rem;color:var(--on-navy-soft);font-weight:600;letter-spacing:.06em}
+
+  section{padding:78px 0}
+  .band{background:var(--surface-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .sec-head{display:flex;flex-direction:column;gap:12px;margin-bottom:42px;max-width:46em}
+  .sec-head .kick{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-ink);font-weight:600}
+  .sec-head.center{margin:0 auto 44px;text-align:center;align-items:center}
+  h2{font-weight:900;font-size:clamp(1.6rem,3.6vw,2.4rem);line-height:1.34;text-wrap:balance}
+  .sec-head p{color:var(--ink-soft);font-size:1.02rem}
+
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .pcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px;box-shadow:var(--shadow)}
+  .pcard .ico{width:44px;height:44px;border-radius:11px;background:var(--accent-tint);color:var(--accent-ink);display:grid;place-items:center;margin-bottom:16px}
+  .pcard h4{font-size:1.12rem;font-weight:800;margin-bottom:8px}
+  .pcard p{color:var(--ink-soft);font-size:.95rem}
+  @media (max-width:760px){.grid3{grid-template-columns:1fr}}
+
+  /* media cards */
+  .mcards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .mcard{background:var(--surface);border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column}
+  .mcard .top{padding:26px 26px 20px;border-top:5px solid var(--c)}
+  .mcard .kind{font-family:var(--mono);font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--c);font-weight:700}
+  .mcard h3{font-size:1.5rem;font-weight:900;margin-top:8px;line-height:1.2}
+  .mcard .by{font-size:.8rem;color:var(--ink-faint);margin-top:4px}
+  .mcard .desc{margin-top:14px;font-size:.94rem;color:var(--ink-soft)}
+  .mcard .nums{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0 26px 6px}
+  .mcard .num{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+  .mcard .num b{font-family:var(--mono);font-size:1.25rem;font-weight:800;color:var(--c);display:block;line-height:1.1;font-variant-numeric:tabular-nums}
+  .mcard .num b em{font-style:normal;font-size:.72rem;margin-left:1px}
+  .mcard .num span{font-size:.72rem;color:var(--ink-soft);display:block;margin-top:5px;line-height:1.4}
+  .mcard .fit{padding:18px 26px 26px;margin-top:auto}
+  .mcard .fit h5{margin:0 0 8px;font-size:.78rem;font-weight:800;letter-spacing:.06em;color:var(--ink-faint)}
+  .mcard .fit ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+  .mcard .fit li{display:flex;gap:9px;font-size:.9rem;color:var(--ink-soft)}
+  .mcard .fit li .ck{width:18px;height:18px;border-radius:50%;background:var(--c);color:#fff;flex:none;display:grid;place-items:center;font-size:.62rem;font-weight:800;margin-top:4px}
+  .mcard .src{padding:0 26px 22px;font-family:var(--mono);font-size:.66rem;color:var(--ink-faint);line-height:1.6}
+  @media (max-width:900px){.mcards{grid-template-columns:1fr}}
+
+  /* comparison table */
+  .tblwrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}
+  table.cmp{width:100%;border-collapse:collapse;min-width:720px;font-size:.92rem}
+  table.cmp th,table.cmp td{padding:16px 18px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+  table.cmp thead th{background:var(--navy);color:var(--on-navy);font-size:.86rem;font-weight:800}
+  table.cmp tbody th{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;color:var(--ink-faint);white-space:nowrap;font-weight:700;width:11em;background:var(--paper)}
+  table.cmp tbody tr:last-child th,table.cmp tbody tr:last-child td{border-bottom:0}
+  table.cmp td b{font-weight:800}
+  table.cmp td .pill{display:inline-block;font-family:var(--mono);font-size:.64rem;font-weight:700;letter-spacing:.06em;padding:2px 8px;border-radius:6px;background:var(--accent-tint);color:var(--accent-ink);margin-right:6px}
+  .cmp-note{margin-top:14px;font-family:var(--mono);font-size:.7rem;color:var(--ink-faint);line-height:1.7}
+
+  /* solution rows */
+  .sol{display:flex;flex-direction:column;gap:14px;max-width:900px;margin:0 auto}
+  .srow{display:grid;grid-template-columns:auto 1fr;gap:20px;align-items:flex-start;background:var(--surface);
+    border:1px solid var(--line);border-radius:var(--radius);padding:26px 30px;box-shadow:var(--shadow)}
+  .srow .no{width:46px;height:46px;border-radius:12px;flex:none;background:var(--navy);color:#fff;display:grid;place-items:center;font-family:var(--mono);font-weight:800;font-size:1.1rem}
+  .srow:nth-child(1) .no{background:var(--success)}
+  .srow h4{font-size:1.18rem;font-weight:800;margin-bottom:6px}
+  .srow p{color:var(--ink-soft);font-size:.96rem}
+  .srow .tag{display:inline-block;font-family:var(--mono);font-size:.64rem;font-weight:700;letter-spacing:.08em;padding:3px 9px;border-radius:6px;background:var(--success-tint);color:var(--success-ink);margin-bottom:8px}
+
+  /* price cards */
+  .pgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .pbox{background:var(--surface);border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column}
+  .pbox .ph{padding:22px 24px;background:var(--navy);color:var(--on-navy)}
+  .pbox .ph .kind{font-family:var(--mono);font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--success)}
+  .pbox .ph h4{font-size:1.25rem;font-weight:900;margin-top:6px}
+  .pbox .pb{padding:22px 24px;display:flex;flex-direction:column;gap:12px;flex:1}
+  .pbox .pl{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding-bottom:12px;border-bottom:1px dashed var(--line-strong);font-size:.92rem;color:var(--ink-soft)}
+  .pbox .pl:last-of-type{border-bottom:0;padding-bottom:0}
+  .pbox .pl b{font-family:var(--mono);color:var(--ink);font-weight:800;white-space:nowrap;font-variant-numeric:tabular-nums}
+  .pbox .pl span{max-width:60%}
+  .pbox .pn{font-size:.76rem;color:var(--ink-faint);margin-top:auto;padding-top:8px}
+  @media (max-width:900px){.pgrid{grid-template-columns:1fr}}
+  .price-band{max-width:900px;margin:22px auto 0;background:var(--success-tint);border:1px solid #BFE6CE;border-radius:14px;padding:16px 20px;display:flex;gap:14px;align-items:flex-start}
+  .price-band .ck{width:26px;height:26px;border-radius:50%;background:var(--success);color:#fff;flex:none;display:grid;place-items:center;font-size:.8rem;font-weight:800;margin-top:2px}
+  .price-band p{font-size:.94rem;color:var(--success-ink);font-weight:700}
+  .price-band p small{display:block;font-weight:500;color:var(--ink-soft);margin-top:4px;font-size:.8rem}
+
+  .flow{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+  .fstep{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px 22px;position:relative}
+  .fstep .no{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--accent-ink);font-weight:700}
+  .fstep h4{font-size:1.05rem;font-weight:800;margin:8px 0 6px}
+  .fstep p{font-size:.88rem;color:var(--ink-soft)}
+  .fstep .arw{position:absolute;right:-11px;top:50%;transform:translateY(-50%);color:var(--line-strong);font-family:var(--mono);font-weight:800;z-index:1}
+  .fstep:last-child .arw{display:none}
+  @media (max-width:760px){.flow{grid-template-columns:1fr 1fr}.fstep .arw{display:none}}
+  @media (max-width:440px){.flow{grid-template-columns:1fr}}
+
+  /* faq */
+  .faq{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:10px}
+  .faq details{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:0 22px;box-shadow:var(--shadow)}
+  .faq summary{cursor:pointer;list-style:none;display:flex;gap:14px;align-items:flex-start;padding:18px 0;font-weight:800;font-size:1rem}
+  .faq summary::-webkit-details-marker{display:none}
+  .faq summary .q{font-family:var(--mono);color:var(--accent);font-weight:800;flex:none}
+  .faq summary .pm{margin-left:auto;font-family:var(--mono);color:var(--ink-faint);flex:none;transition:transform .2s}
+  .faq details[open] summary .pm{transform:rotate(45deg)}
+  .faq .a{padding:0 0 20px 2.2em;color:var(--ink-soft);font-size:.95rem}
+
+  /* profile / company */
+  .profile{display:grid;grid-template-columns:.8fr 1.2fr;gap:0;background:var(--surface);border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:var(--shadow);max-width:920px;margin:0 auto}
+  .profile .left{background:var(--navy);color:var(--on-navy);padding:38px 30px;text-align:center}
+  .profile .left .av{width:74px;height:74px;border-radius:20px;margin:0 auto 16px;background:linear-gradient(145deg,var(--accent),#A98BD0);display:grid;place-items:center;color:#fff;font-weight:900;font-size:1.3rem}
+  .profile .left b{font-size:1.3rem;font-weight:900;display:block}
+  .profile .left span{font-size:.84rem;color:var(--on-navy-soft)}
+  .profile .right{padding:34px 32px}
+  .profile h4{font-size:.94rem;font-weight:800;margin-bottom:12px}
+  .profile .quote{margin-top:22px;padding:16px 18px;background:var(--accent-tint);border-radius:12px;color:var(--accent-ink);font-size:.92rem;font-weight:700}
+  .profile .profile-link{display:inline-block;margin-top:16px;font-size:.9rem;font-weight:700;color:var(--accent-ink)}
+  .profile .profile-link:hover{text-decoration:underline}
+  .ilist{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-direction:column;gap:10px}
+  .ilist li{display:flex;gap:10px;font-size:.94rem;color:var(--ink-soft)}
+  .ilist li .ck{width:20px;height:20px;border-radius:50%;background:var(--success-tint);color:var(--success-ink);flex:none;display:grid;place-items:center;font-size:.7rem;font-weight:800;margin-top:3px}
+  .chips{display:flex;flex-wrap:wrap;gap:10px}
+  .chip{background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:8px 16px;font-weight:700;font-size:.86rem;color:var(--ink-soft)}
+  @media (max-width:760px){.profile{grid-template-columns:1fr}}
+
+  .company{display:grid;grid-template-columns:1.1fr 1fr;gap:24px;align-items:center;max-width:960px;margin:0 auto}
+  .cinfo{display:flex;flex-direction:column;gap:14px}
+  .cinfo .row{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:start;font-size:.95rem}
+  .cinfo .row .k{font-family:var(--mono);font-size:.68rem;letter-spacing:.06em;color:var(--ink-faint);padding-top:3px;white-space:nowrap}
+  .cinfo .row .v a{color:var(--accent-ink);font-weight:700}
+  .voice{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:32px;position:relative}
+  .voice blockquote{margin:8px 0 0;font-size:1.05rem;font-weight:600;line-height:1.7}
+  .voice .who{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);display:flex;align-items:center;gap:12px}
+  .voice .who .av{width:40px;height:40px;border-radius:11px;background:linear-gradient(140deg,var(--accent),var(--success));flex:none}
+  .voice .who b{font-size:.92rem}
+  .voice .who span{display:block;font-size:.78rem;color:var(--ink-faint)}
+  @media (max-width:680px){.company{grid-template-columns:1fr}}
+
+  .final{position:relative;overflow:hidden;background:var(--navy);color:var(--on-navy);border-radius:22px;padding:56px 44px;text-align:center}
+  .final::before{content:"";position:absolute;inset:0;background:
+    radial-gradient(46% 80% at 18% 6%,rgba(18,161,80,.22),transparent 60%),
+    radial-gradient(46% 80% at 86% 94%,rgba(107,63,160,.30),transparent 60%)}
+  .final>*{position:relative}
+  .final .lbl{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--success)}
+  .final h2{margin-top:14px}
+  .final p{color:var(--on-navy-soft);margin:16px auto 0;max-width:34em}
+
+  footer.ft{border-top:1px solid var(--line);padding:40px 0;color:var(--ink-faint);font-size:.82rem}
+  .ft-links{display:flex;flex-wrap:wrap;gap:14px 24px;margin-bottom:22px;padding-bottom:20px;border-bottom:1px solid var(--line)}
+  .ft-links a{color:var(--ink-soft);font-weight:700;font-size:.9rem}
+  .ft-links a:hover{color:var(--accent-ink)}
+  .ft-tag{line-height:1.7}
+  .ft-tm{margin-top:14px;line-height:1.7;font-size:.76rem}
+
+  .formcard{max-width:640px;margin:30px auto 0;background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:clamp(24px,4vw,40px);box-shadow:var(--shadow);text-align:left;color:var(--ink)}
+  .field{margin-bottom:18px}
+  .field>label,.field .lbl{display:block;font-size:.86rem;font-weight:800;letter-spacing:.03em;margin-bottom:7px}
+  .req{font-size:.64rem;font-weight:700;color:var(--accent-ink);border:1px solid var(--accent);border-radius:999px;padding:.1em .7em;margin-left:.5em;letter-spacing:.08em;vertical-align:1px}
+  .field input[type=text],.field input[type=email],.field textarea{width:100%;font-family:inherit;font-size:1rem;color:var(--ink);background:var(--paper);border:1px solid var(--line-strong);border-radius:10px;padding:.8em 1em;transition:border-color .2s,box-shadow .2s}
+  .field textarea{resize:vertical;line-height:1.8}
+  .field input:focus,.field textarea:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-tint)}
+  .checks{display:flex;flex-wrap:wrap;gap:8px 14px}
+  .checks label{display:inline-flex;align-items:center;gap:7px;font-size:.92rem;font-weight:700;margin:0;cursor:pointer}
+  .checks input{accent-color:var(--accent);width:16px;height:16px}
+  .form-error{color:#B23B3B;font-size:.86rem;min-height:1.2em;margin-bottom:.4rem}
+  .submit-btn{width:100%;justify-content:center;font-size:1rem;padding-block:1.05em}
+  .submit-btn:disabled{opacity:.6;cursor:default;transform:none}
+  .privacy-note{margin-top:14px;font-size:.75rem;color:var(--ink-faint);text-align:center}
+  .thanks{text-align:center;padding:16px 0}
+  .thanks-mark{width:46px;height:46px;border-radius:50%;border:2px solid var(--success);display:inline-block;position:relative}
+  .thanks-mark::after{content:"";position:absolute;left:15px;top:8px;width:12px;height:21px;border-right:2px solid var(--success);border-bottom:2px solid var(--success);transform:rotate(40deg)}
+  .thanks h3{font-size:1.3rem;font-weight:900;margin-top:16px}
+  .thanks p{color:var(--ink-soft);margin-top:10px;font-size:.94rem}
+  .thanks .sched{margin-top:22px;padding-top:18px;border-top:1px solid var(--line);font-size:.9rem;color:var(--ink-soft)}
+  .thanks .sched a{color:var(--accent-ink);font-weight:800;text-decoration:underline;text-underline-offset:3px}
+
+  .rv{opacity:0;transform:translateY(16px);transition:opacity .7s ease,transform .7s ease}
+  .rv.in{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+</style>
+<noscript><style>.rv{opacity:1;transform:none}</style></noscript>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="#top" aria-label="株式会社エージェントベスト">
+      <img class="brand-logo" src="logo.png" alt="株式会社エージェントベスト" width="508" height="120">
+      <span class="nm brand-sub"><small>採用媒体 販売パートナー</small></span>
+    </a>
+    <a href="#entry" class="btn btn-primary cta-mini">お問い合わせ</a>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-grid"></div>
+    <div class="wrap hero-in">
+      <span class="hero-eyebrow">OfferBox ／ Wantedly ／ ワンキャリア　販売パートナー（代理店）</span>
+      <h1 class="hero-title">3つの採用媒体を、<br><span class="hl">ひとつの窓口</span>で。</h1>
+      <p class="hero-lead">
+        エージェントベストは、<b style="color:var(--on-navy)">OfferBox・Wantedly・ワンキャリア</b>の販売パートナーです。
+        「どの媒体が自社に合うのか」の比較から、お申込み、掲載・スカウトの運用まで、採用担当者さまの隣で一緒に進めます。
+        媒体の利用料金は<b style="color:var(--on-navy)">各社の正規料金のまま</b>。当社を通しても上乗せはありません。
+      </p>
+      <div class="hero-cta">
+        <a href="#entry" class="btn btn-primary btn-lg">媒体選びを相談する<span class="arw">→</span></a>
+        <a href="#media" class="btn btn-ghost btn-lg" style="background:rgba(255,255,255,.06);border-color:var(--on-navy-soft);color:var(--on-navy)">3媒体を比べる</a>
+        <span class="note">相談無料／営業のお電話はいたしません</span>
+      </div>
+      <div class="medias" aria-label="取り扱い媒体">
+        <span class="mtag"><i style="background:var(--ob)"></i>OfferBox <small>新卒・スカウト型</small></span>
+        <span class="mtag"><i style="background:var(--wt)"></i>Wantedly <small>新卒・中途・共感採用</small></span>
+        <span class="mtag"><i style="background:var(--oc)"></i>ワンキャリア <small>新卒・掲載＋スカウト</small></span>
+      </div>
+      <div class="hero-trust">
+        <div class="htile"><div class="n">3<em>媒体</em></div><div class="l">取り扱い採用媒体（各社の販売パートナー）</div></div>
+        <div class="htile"><div class="n">0<em>円</em></div><div class="l">媒体選定のご相談・お見積り</div></div>
+        <div class="htile"><div class="n">正規<em>料金</em></div><div class="l">代理店経由でも上乗せなし</div></div>
+        <div class="htile"><div class="n">新卒<em>＋中途</em></div><div class="l">両方の採用に対応</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROBLEM -->
+  <section id="problem">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">01 ・ 媒体選びの悩み</span>
+        <h2>媒体は増えたのに、「どれを使えばいいか」は分かりにくい。</h2>
+        <p>採用担当者さまからよく伺う3つの声です。</p>
+      </div>
+      <div class="grid3">
+        <div class="pcard rv">
+          <div class="ico" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h10M4 18h7"/></svg></div>
+          <h4>媒体ごとに営業を受けるのが大変</h4>
+          <p>各社から個別に提案を受け、料金体系もバラバラ。並べて比較する時間が取れないまま、なんとなく前年踏襲になりがち。</p>
+        </div>
+        <div class="pcard rv">
+          <div class="ico" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l3 2"/></svg></div>
+          <h4>契約したあと、運用が回らない</h4>
+          <p>掲載やスカウトは「申し込んで終わり」ではなく、日々の運用で成果が変わる。ひとり人事では手が回らない。</p>
+        </div>
+        <div class="pcard rv">
+          <div class="ico" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 17l6-6 4 4 8-8"/><path d="M14 7h7v7"/></svg></div>
+          <h4>新卒と中途で、窓口が分かれている</h4>
+          <p>新卒はスカウト型、中途は共感採用、と媒体が違えば担当も契約も別々。全体を見て設計できる相手がいない。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MEDIA -->
+  <section class="band" id="media">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">02 ・ 取り扱い媒体</span>
+        <h2>それぞれに得意な採用がある、3つの媒体。</h2>
+        <p>当社は3社すべての販売パートナーです。特定の媒体に寄せず、貴社の採用に合うものをご提案します。</p>
+      </div>
+      <div class="mcards">
+        <article class="mcard rv" style="--c:var(--ob)">
+          <div class="top">
+            <span class="kind">新卒 ・ スカウト型（逆求人）</span>
+            <h3>OfferBox</h3>
+            <p class="by">株式会社i-plug</p>
+            <p class="desc">企業から学生に直接オファーを送る、新卒スカウト型採用のスタンダード。適性検査を標準搭載し、条件だけでなく「学生の個性」で探せます。</p>
+          </div>
+          <div class="nums">
+            <div class="num"><b>25<em>万人</em></b><span>2027年卒 学生登録実績</span></div>
+            <div class="num"><b>2<em>万社+</em></b><span>累計導入企業数</span></div>
+            <div class="num"><b>No.1</b><span>逆求人型就活サービス 学生満足度（オリコン 3年連続）</span></div>
+            <div class="num"><b>2<em>プラン</em></b><span>早期型（定額）／成功報酬型</span></div>
+          </div>
+          <div class="fit">
+            <h5>こんな企業に</h5>
+            <ul>
+              <li><span class="ck">✓</span>知名度や立地に頼らず、狙った学生層に自分から会いに行きたい</li>
+              <li><span class="ck">✓</span>初めての新卒採用で、成功報酬型からリスク小さく始めたい</li>
+              <li><span class="ck">✓</span>適性検査で自社に合う学生を見極めたい</li>
+            </ul>
+          </div>
+          <p class="src">出典：OfferBox公式サイト（2026年9月時点）。満足度は2025年オリコン顧客満足度®調査 逆求人型就活サービス。</p>
+        </article>
+
+        <article class="mcard rv" style="--c:var(--wt)">
+          <div class="top">
+            <span class="kind">新卒 ・ 中途 ／ 共感でつながる採用</span>
+            <h3>Wantedly</h3>
+            <p class="by">ウォンテッドリー株式会社</p>
+            <p class="desc">会社の想いやカルチャーへの「共感」を軸にマッチングするビジネスSNS。会社ページ・ストーリー・募集・ダイレクトスカウトを、成功報酬0円の定額で。</p>
+          </div>
+          <div class="nums">
+            <div class="num"><b>450<em>万人</em></b><span>登録ユーザー（約）</span></div>
+            <div class="num"><b>0<em>円</em></b><span>成功報酬（採用人数によらず定額）</span></div>
+            <div class="num"><b>無制限</b><span>募集・ストーリーの掲載数</span></div>
+            <div class="num"><b>3<em>プラン</em></b><span>ライト／スタンダード／プレミアム</span></div>
+          </div>
+          <div class="fit">
+            <h5>こんな企業に</h5>
+            <ul>
+              <li><span class="ck">✓</span>条件よりも「何を目指す会社か」で共感してくれる人を採りたい</li>
+              <li><span class="ck">✓</span>エンジニア・セールス・デザイナーなど、20〜30代の採用を継続的に行いたい</li>
+              <li><span class="ck">✓</span>採用コンテンツを資産として蓄積し、中長期の採用基盤を作りたい</li>
+            </ul>
+          </div>
+          <p class="src">出典：ウォンテッドリー株式会社 サービス資料（2026年版）。</p>
+        </article>
+
+        <article class="mcard rv" style="--c:var(--oc)">
+          <div class="top">
+            <span class="kind">新卒 ・ 掲載 ＋ スカウト ＋ イベント</span>
+            <h3>ワンキャリア</h3>
+            <p class="by">株式会社ワンキャリア</p>
+            <p class="desc">学生のクチコミ・選考体験談を軸にした就活サイト。求人掲載、スカウト、社名非公開イベント、採用計画のデータまで、年間の新卒採用をトータルで支えます。</p>
+          </div>
+          <div class="nums">
+            <div class="num"><b>7,000<em>社+</em></b><span>導入企業数</span></div>
+            <div class="num"><b>35<em>万人+</em></b><span>利用学生数（2025年3月末）</span></div>
+            <div class="num"><b>95<em>%</em></b><span>旧帝大・早慶・GMARCH・関関同立の登録率（約）</span></div>
+            <div class="num"><b>70<em>万件+</em></b><span>学生クチコミ・選考体験談</span></div>
+          </div>
+          <div class="fit">
+            <h5>こんな企業に</h5>
+            <ul>
+              <li><span class="ck">✓</span>上位校・就活に積極的な学生との接点を厚くしたい</li>
+              <li><span class="ck">✓</span>掲載とスカウト、イベントを組み合わせて年間で母集団を作りたい</li>
+              <li><span class="ck">✓</span>クチコミを味方につけて、知名度の壁を越えたい</li>
+            </ul>
+          </div>
+          <p class="src">出典：ワンキャリア 採用ご担当者向けサイト（2026年9月時点）。</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- COMPARISON -->
+  <section id="compare">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">03 ・ 比較早見表</span>
+        <h2>どの媒体が合うか、ひと目で。</h2>
+        <p>迷ったら、この表を持ってご相談ください。組み合わせのご提案もできます。</p>
+      </div>
+      <div class="tblwrap rv">
+        <table class="cmp">
+          <thead><tr><th scope="col"></th><th scope="col">OfferBox</th><th scope="col">Wantedly</th><th scope="col">ワンキャリア</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">対象</th><td><b>新卒</b></td><td><b>新卒・中途</b>（20〜30代が中心）</td><td><b>新卒</b></td></tr>
+            <tr><th scope="row">採用の型</th><td>スカウト型（企業から学生へオファー）</td><td>共感型（会社ページ・ストーリー・募集）＋ダイレクトスカウト</td><td>掲載型＋スカウト＋イベント</td></tr>
+            <tr><th scope="row">料金の型</th><td><span class="pill">定額</span>早期型<br><span class="pill">成果</span>成功報酬型</td><td><span class="pill">定額</span>期間契約（6・12・24ヶ月）。成功報酬0円</td><td><span class="pill">定額</span>掲載・スカウト・イベントのパッケージ</td></tr>
+            <tr><th scope="row">強み</th><td>適性検査で「個性」から探せる。高い開封率</td><td>価値観で集まるので入社後のギャップが小さい。コンテンツが資産化</td><td>クチコミ70万件超。上位校の登録率が高い</td></tr>
+            <tr><th scope="row">立ち上がり</th><td>短期（オファー送信から）</td><td>スカウトありプランは短期／ライトは中長期</td><td>掲載開始から。イベントで一気に接点を作ることも</td></tr>
+            <tr><th scope="row">運用の手間</th><td>オファー文面・送信の継続運用が要</td><td>記事の改善と継続発信が要</td><td>掲載内容の更新とスカウト運用が要</td></tr>
+            <tr><th scope="row">当社の運用支援</th><td>OfferBox運用代行（完全成果報酬型）あり</td><td>スカウト代行・記事作成の支援</td><td>スカウト代行・掲載原稿の支援</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="cmp-note">※ 各媒体の仕様・料金は各社の定めによります。最新の内容はご相談時に確認のうえご案内します。</p>
+    </div>
+  </section>
+
+  <!-- WHY US -->
+  <section class="band" id="why">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">04 ・ 当社を通すメリット</span>
+        <h2>媒体に直接申し込むのと、何が違うのか。</h2>
+      </div>
+      <div class="sol">
+        <div class="srow rv">
+          <div class="no">01</div>
+          <div><span class="tag">上乗せなし</span><h4>料金はそのまま、比較と選定が付いてくる</h4><p>媒体の利用料金は各社の正規料金と同じです。当社への手数料は媒体側から支払われるため、貴社の負担は増えません。そのうえで、3媒体を横並びで比較し、貴社の採用要件に合う組み合わせをご提案します。</p></div>
+        </div>
+        <div class="srow rv">
+          <div class="no">02</div>
+          <div><h4>特定の媒体に寄らない、中立の提案</h4><p>当社は3社すべての販売パートナーです。「新卒はOfferBoxとワンキャリアの併用、若手の中途はWantedly」のように、採用計画全体を見て配分を設計できます。</p></div>
+        </div>
+        <div class="srow rv">
+          <div class="no">03</div>
+          <div><h4>申込みから運用まで、窓口はひとつ</h4><p>お申込みの手続き、キャンペーンのご案内、運用のご相談まで当社が窓口になります。契約後に「誰に聞けばいいか分からない」をなくします。</p></div>
+        </div>
+        <div class="srow rv">
+          <div class="no">04</div>
+          <div><span class="tag" style="background:var(--accent-tint);color:var(--accent-ink)">運用まで</span><h4>スカウト代行・運用代行と組み合わせられる</h4><p>媒体を選んで終わりではなく、スカウト文面の作成、送信、返信対応まで代行できます。OfferBoxは完全成果報酬型の運用代行もご用意しています。</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICE -->
+  <section id="price">
+    <div class="wrap">
+      <div class="sec-head center rv">
+        <span class="kick">05 ・ 料金の目安</span>
+        <h2>各媒体の正規料金で、お申込みいただけます。</h2>
+      </div>
+      <div class="pgrid">
+        <div class="pbox rv">
+          <div class="ph"><span class="kind">OfferBox</span><h4>2つのプランから選べる</h4></div>
+          <div class="pb">
+            <div class="pl"><span>早期型プラン</span><b>定額</b></div>
+            <div class="pl"><span>成功報酬型プラン</span><b>採用決定時に課金</b></div>
+            <div class="pl"><span>当社の運用代行（任意）</span><b>20万円／1名</b></div>
+            <p class="pn">※ 各プランの金額・キャンペーンは時期により変わります。最新の料金表をご相談時にお渡しします。運用代行は入社承諾時のみ課金の完全成果報酬型です。</p>
+          </div>
+        </div>
+        <div class="pbox rv">
+          <div class="ph"><span class="kind">Wantedly</span><h4>期間契約の定額。成功報酬0円</h4></div>
+          <div class="pb">
+            <div class="pl"><span>ライト（スカウトなし）12ヶ月</span><b>72万円〜</b></div>
+            <div class="pl"><span>スタンダード（スカウト150通〜）6ヶ月</span><b>90万円〜</b></div>
+            <div class="pl"><span>プレミアム（スカウト300通〜）6ヶ月</span><b>132万円〜</b></div>
+            <p class="pn">※ 税抜。ウォンテッドリー株式会社の2026年版サービス資料より。24ヶ月契約ほど月額が下がります。運用支援プラン・広告・記事制作などのオプションもあります。</p>
+          </div>
+        </div>
+        <div class="pbox rv">
+          <div class="ph"><span class="kind">ワンキャリア</span><h4>掲載・スカウト・イベントの組み合わせ</h4></div>
+          <div class="pb">
+            <div class="pl"><span>求人掲載（インターン・本選考）</span><b>年間パッケージ</b></div>
+            <div class="pl"><span>スカウト（通数制）</span><b>パッケージに追加</b></div>
+            <div class="pl"><span>社名非公開イベント・オンラインイベント</span><b>枠ごと</b></div>
+            <p class="pn">※ 卒年ごとにパッケージとキャンペーンが設定されます（エリア別・理系・体育会特化など）。ご希望に合わせてお見積りします。</p>
+          </div>
+        </div>
+      </div>
+      <div class="price-band rv">
+        <span class="ck">✓</span>
+        <p>お見積り・媒体選定のご相談は無料です。<small>複数媒体を同時に検討される場合も、1回のご相談でまとめてご案内します。各媒体のキャンペーン（早期申込・複数年・リピート等）は、条件に合えば必ずご案内します。</small></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FLOW -->
+  <section class="band" id="flow">
+    <div class="wrap">
+      <div class="sec-head center rv">
+        <span class="kick">06 ・ ご利用の流れ</span>
+        <h2>ご相談から、利用開始まで。</h2>
+      </div>
+      <div class="flow">
+        <div class="fstep rv"><div class="no">STEP 01</div><h4>ご相談</h4><p>フォームから採用計画（職種・人数・時期）をお送りください。担当者よりご連絡します。</p><span class="arw" aria-hidden="true">→</span></div>
+        <div class="fstep rv"><div class="no">STEP 02</div><h4>媒体選定・お見積り</h4><p>3媒体を横並びで比較し、貴社に合う媒体と組み合わせ、料金をご提案します。</p><span class="arw" aria-hidden="true">→</span></div>
+        <div class="fstep rv"><div class="no">STEP 03</div><h4>お申込み</h4><p>当社経由でお申込み手続きを進めます。ご契約・ご請求は媒体各社の規定に従います。</p><span class="arw" aria-hidden="true">→</span></div>
+        <div class="fstep rv"><div class="no">STEP 04</div><h4>利用開始・運用</h4><p>初期設定をサポート。ご希望に応じてスカウト代行・運用代行で成果まで伴走します。</p><span class="arw" aria-hidden="true">→</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq">
+    <div class="wrap">
+      <div class="sec-head center rv">
+        <span class="kick">07 ・ よくあるご質問</span>
+        <h2>代理店経由について、よく聞かれること。</h2>
+      </div>
+      <div class="faq rv">
+        <details><summary><span class="q">Q</span>代理店を通すと、料金は高くなりますか？<span class="pm">＋</span></summary><div class="a">高くなりません。媒体の利用料金は各社の正規料金と同一で、当社への手数料は媒体側から支払われます。貴社の負担は直接申し込む場合と同じです。</div></details>
+        <details><summary><span class="q">Q</span>すでに媒体を使っています。相談できますか？<span class="pm">＋</span></summary><div class="a">ご相談いただけます。更新・追加のお手続きは媒体各社の規定により当社経由で扱えない場合がありますが、運用のご相談やスカウト代行は現在の契約のままでもお受けできます。</div></details>
+        <details><summary><span class="q">Q</span>複数の媒体を同時に申し込めますか？<span class="pm">＋</span></summary><div class="a">できます。新卒でOfferBoxとワンキャリアを併用する、新卒と中途で媒体を分ける、といった組み合わせを1回のご相談でまとめてご案内します。</div></details>
+        <details><summary><span class="q">Q</span>申込みだけでなく、運用も頼めますか？<span class="pm">＋</span></summary><div class="a">お受けできます。スカウト文面の作成・送信・返信対応の代行、掲載原稿の作成支援に対応しています。OfferBoxは完全成果報酬型の運用代行（入社承諾時に20万円／1名）もございます。</div></details>
+        <details><summary><span class="q">Q</span>中途採用でも使えますか？<span class="pm">＋</span></summary><div class="a">Wantedlyは新卒・中途の両方で使えます。OfferBoxとワンキャリアは新卒向けです。中途採用については、Wantedlyに加えて、中途向けの他媒体の運用代行もあわせてご案内できます。</div></details>
+        <details><summary><span class="q">Q</span>契約や請求はどこと行いますか？<span class="pm">＋</span></summary><div class="a">原則として媒体各社と貴社の間でのご契約・ご請求になります（当社は販売パートナーとして手続きをお手伝いします）。媒体によっては当社経由でのご請求に切り替えられる場合もあります。</div></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- REPRESENTATIVE -->
+  <section class="band" id="representative">
+    <div class="wrap">
+      <div class="sec-head center rv">
+        <span class="kick">08 ・ 代表紹介</span>
+        <h2>媒体の提案は、代表が直接見ています。</h2>
+      </div>
+      <div class="profile rv">
+        <div class="left">
+          <div class="av" aria-hidden="true">AB</div>
+          <b>松岡 良次</b>
+          <span>株式会社エージェントベスト 代表取締役</span>
+        </div>
+        <div class="right">
+          <h4>経歴</h4>
+          <ul class="ilist" style="margin-top:0">
+            <li><span class="ck">✓</span><span>法政大学卒業、神奈川県出身</span></li>
+            <li><span class="ck">✓</span><span>人材領域で10年以上のビジネス経験</span></li>
+            <li><span class="ck">✓</span><span>WEB広告ベンチャー・大手人材会社・人材系スタートアップにて、IT・スタートアップ・メガベンチャー企業の採用支援に従事</span></li>
+            <li><span class="ck">✓</span><span>2020年4月に株式会社エージェントベストを創業</span></li>
+          </ul>
+          <h4 style="margin-top:22px">専門領域</h4>
+          <div class="chips">
+            <span class="chip">IT・WEB業界</span>
+            <span class="chip">スタートアップ支援</span>
+            <span class="chip">中途・新卒採用</span>
+            <span class="chip">採用媒体の立ち上げ・運用</span>
+          </div>
+          <p class="quote">媒体は道具です。どの道具を、いつ、どう使うかで結果が変わる。だから特定の媒体に寄らず、貴社の採用計画から逆算してご提案します。</p>
+          <a class="profile-link" href="https://www.agent-best.net/profile/" target="_blank" rel="noopener">代表プロフィールを見る &#8599;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- COMPANY -->
+  <section id="company">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">09 ・ 運営会社</span>
+        <h2>株式会社エージェントベスト</h2>
+      </div>
+      <div class="company">
+        <div class="cinfo rv">
+          <div class="row"><span class="k">代表者</span><span class="v">代表取締役　松岡 良次</span></div>
+          <div class="row"><span class="k">設立</span><span class="v">2020年4月1日</span></div>
+          <div class="row"><span class="k">所在地</span><span class="v">東京都港区六本木4-8-7　嶋田ビル5階</span></div>
+          <div class="row"><span class="k">事業内容</span><span class="v">採用媒体の販売パートナー（OfferBox・Wantedly・ワンキャリア）／採用支援（RPO・スカウト代行）／有料職業紹介事業／採用代行・RPOマッチングサイト「<a href="https://eraberusaiyodaiko.com/" target="_blank" rel="noopener">エラベル</a>」／キャリアメディア・求人サイトの運営</span></div>
+          <div class="row"><span class="k">許可番号</span><span class="v">有料職業紹介事業 許可番号 13-ユ-316964</span></div>
+          <div class="row"><span class="k">公式サイト</span><span class="v"><a href="https://www.agent-best.net/" target="_blank" rel="noopener">www.agent-best.net</a>　／　<a href="https://www.agent-best.net/company/" target="_blank" rel="noopener">会社情報</a></span></div>
+        </div>
+        <div class="voice rv" style="box-shadow:none">
+          <blockquote style="font-size:1.02rem">日本に、<br>磁力を生む。</blockquote>
+          <div class="who"><span class="av" aria-hidden="true"></span><div><b>MISSION</b><span>力のある人が、力を発揮できる企業に集まる流れを、一人ずつ、一社ずつ。</span></div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section id="entry">
+    <div class="wrap">
+      <div class="final rv">
+        <span class="lbl">Contact ・ 相談無料</span>
+        <h2>まずは、採用計画からお聞かせください。</h2>
+        <p>採用ご担当者さま向けの窓口です。検討中の媒体があればその比較から、決まっていなければ媒体選びから、一緒に整理します。内容を確認のうえ、担当者よりご連絡いたします。</p>
+
+        <div class="formcard">
+          <form id="contact-form" novalidate>
+            <div class="field">
+              <label for="company">会社名 <span class="req">必須</span></label>
+              <input type="text" id="company" name="company" required autocomplete="organization">
+            </div>
+            <div class="field">
+              <label for="name">お名前 <span class="req">必須</span></label>
+              <input type="text" id="name" name="name" required autocomplete="name">
+            </div>
+            <div class="field">
+              <label for="email">メールアドレス <span class="req">必須</span></label>
+              <input type="email" id="email" name="email" required autocomplete="email">
+            </div>
+            <div class="field">
+              <span class="lbl">ご興味のある媒体（任意・複数可）</span>
+              <div class="checks">
+                <label><input type="checkbox" name="media" value="OfferBox">OfferBox</label>
+                <label><input type="checkbox" name="media" value="Wantedly">Wantedly</label>
+                <label><input type="checkbox" name="media" value="ワンキャリア">ワンキャリア</label>
+                <label><input type="checkbox" name="media" value="未定・相談したい">未定・相談したい</label>
+              </div>
+            </div>
+            <div class="field">
+              <label for="message">お問い合わせ内容 <span class="req">必須</span></label>
+              <textarea id="message" name="message" rows="6" required placeholder="例：28卒で営業職を5名採用予定。OfferBoxとワンキャリアのどちらが合うか相談したい。"></textarea>
+            </div>
+            <p class="form-error" id="form-error" role="alert"></p>
+            <button type="submit" class="btn btn-primary submit-btn" id="submit-btn">送信する <span class="arw" aria-hidden="true">→</span></button>
+            <p class="privacy-note">送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+          </form>
+
+          <div class="thanks" id="thanks" hidden>
+            <span class="thanks-mark" aria-hidden="true"></span>
+            <h3>送信しました</h3>
+            <p>お問い合わせありがとうございます。<br>内容を確認のうえ、担当者よりご連絡いたします。</p>
+            <p class="sched">
+              お急ぎの場合は、こちらから打ち合わせの日程を直接ご予約いただけます。<br>
+              <a href="https://timerex.net/s/r_matsuoka/6666f3b5/" target="_blank" rel="noopener">日程を選んで予約する ↗</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="ft">
+  <div class="wrap">
+    <nav class="ft-links">
+      <a href="#entry">お問い合わせ</a>
+      <a href="https://www.agent-best.net/" target="_blank" rel="noopener">エージェントベスト公式サイト &#8599;</a>
+      <a href="https://scout.agent-best.net/" target="_blank" rel="noopener">スカウト代行サービス &#8599;</a>
+      <a href="https://scoutdaikou-offerbox.agent-best.net/" target="_blank" rel="noopener">OfferBox運用代行 &#8599;</a>
+      <a href="https://green.agent-best.net/" target="_blank" rel="noopener">Green運用代行 &#8599;</a>
+      <a href="https://infra.agent-best.net/" target="_blank" rel="noopener">Infra長期インターン採用代理店 &#8599;</a>
+      <a href="https://eraberusaiyodaiko.com/" target="_blank" rel="noopener">採用代行マッチング「エラベル」 &#8599;</a>
+    </nav>
+    <p class="ft-tag">日本に、磁力を生む。<br>
+      東京都港区六本木4-8-7 嶋田ビル5階／有料職業紹介事業 許可番号 13-ユ-316964<br>
+      © 株式会社エージェントベスト. 採用媒体 販売パートナー。</p>
+    <p class="ft-tm">「OfferBox」は株式会社i-plug、「Wantedly」はウォンテッドリー株式会社、「ワンキャリア」は株式会社ワンキャリアの商標またはサービス名です。当社は各社の販売パートナー（代理店）であり、各サービスの運営者ではありません。掲載の数値は各社の公表資料に基づくもので、時点により変動します。</p>
+  </div>
+</footer>
+
+<script>
+  (function(){
+    var els=document.querySelectorAll('.rv');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in')});return;}
+    var io=new IntersectionObserver(function(en){
+      en.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});
+    },{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(e,i){e.style.transitionDelay=(Math.min(i%3,2)*70)+'ms';io.observe(e);});
+  })();
+
+  (function(){
+    // お問い合わせ：コーポレートサイト（agent-best.net/contact）と同一のGoogleフォームへ送信
+    var FORM_ACTION='https://docs.google.com/forms/d/e/1FAIpQLSd8Zk9Rxsg292K8R_ttnRYa5d4uXMBkSFrnlEVTFts6feRx6g/formResponse';
+    var ENTRY={company:'entry.1620407772',name:'entry.2140471957',email:'entry.417521654',message:'entry.1952858857'};
+    var SOURCE='採用媒体 販売パートナーLP（saiyo-media.agent-best.net）';
+
+    var form=document.getElementById('contact-form'),
+        thanks=document.getElementById('thanks'),
+        errBox=document.getElementById('form-error'),
+        submitBtn=document.getElementById('submit-btn');
+    if(!form)return;
+
+    form.addEventListener('submit',function(e){
+      e.preventDefault();
+      errBox.textContent='';
+      var get=function(id){return document.getElementById(id).value.trim();};
+      var company=get('company'),name=get('name'),email=get('email'),message=get('message');
+      if(!company||!name||!email||!message){errBox.textContent='必須項目をご入力ください。';return;}
+      if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){errBox.textContent='メールアドレスの形式をご確認ください。';return;}
+      var media=Array.prototype.map.call(form.querySelectorAll('input[name="media"]:checked'),function(c){return c.value;}).join('、');
+
+      submitBtn.disabled=true;submitBtn.textContent='送信中...';
+      var data=new FormData();
+      data.append(ENTRY.company,company);
+      data.append(ENTRY.name,name);
+      data.append(ENTRY.email,email);
+      data.append(ENTRY.message,message+(media?'\n\n興味のある媒体：'+media:'')+'\n\n---\nお問い合わせ元：'+SOURCE);
+
+      fetch(FORM_ACTION,{method:'POST',mode:'no-cors',body:data})
+        .then(function(){
+          form.hidden=true;thanks.hidden=false;
+          thanks.scrollIntoView({behavior:'smooth',block:'center'});
+        })
+        .catch(function(){
+          submitBtn.disabled=false;submitBtn.textContent='送信する';
+          errBox.textContent='送信に失敗しました。お手数ですが、時間をおいて再度お試しください。';
+        });
+    });
+  })();
+</script>
+</body>
+</html>
