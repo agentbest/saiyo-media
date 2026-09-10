@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saiyo-media.agent-best.net/sitemap.xml

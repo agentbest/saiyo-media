@@ -172,6 +172,39 @@
   .price-band p{font-size:.94rem;color:var(--success-ink);font-weight:700}
   .price-band p small{display:block;font-weight:500;color:var(--ink-soft);margin-top:4px;font-size:.8rem}
 
+  /* cases */
+  .cases{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+  .case{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:26px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:14px}
+  .case .who{font-family:var(--mono);font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-ink);font-weight:700}
+  .case h4{font-size:1.14rem;font-weight:900;line-height:1.4}
+  .case .mix{display:flex;flex-wrap:wrap;gap:6px}
+  .case .mix span{font-size:.74rem;font-weight:800;padding:4px 10px;border-radius:999px;color:#fff}
+  .case dl{margin:0;display:flex;flex-direction:column;gap:10px}
+  .case dt{font-size:.74rem;font-weight:800;letter-spacing:.06em;color:var(--ink-faint)}
+  .case dd{margin:2px 0 0;font-size:.92rem;color:var(--ink-soft)}
+  @media (max-width:900px){.cases{grid-template-columns:1fr}}
+  /* checklist */
+  .checklist{max-width:860px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .checklist label{display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;cursor:pointer;font-size:.94rem;color:var(--ink-soft);transition:border-color .15s}
+  .checklist label:hover{border-color:var(--accent)}
+  .checklist input{margin-top:4px;width:18px;height:18px;accent-color:var(--accent);flex:none}
+  .checklist b{display:block;color:var(--ink);font-weight:800;margin-bottom:2px}
+  .checklist-note{max-width:860px;margin:18px auto 0;font-size:.86rem;color:var(--ink-soft);text-align:center}
+  @media (max-width:680px){.checklist{grid-template-columns:1fr}}
+  /* media hubs */
+  .hubs{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+  .hub{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:22px 20px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:8px;transition:transform .15s,border-color .15s}
+  .hub:hover{transform:translateY(-3px);border-color:var(--accent)}
+  .hub b{font-size:1.02rem;font-weight:900}
+  .hub span{font-size:.84rem;color:var(--ink-soft);line-height:1.6}
+  .hub i{font-style:normal;font-family:var(--mono);font-size:.7rem;color:var(--accent-ink);font-weight:700;margin-top:auto;padding-top:6px}
+  .hubs-more{text-align:center;margin-top:24px}
+  @media (max-width:900px){.hubs{grid-template-columns:repeat(2,1fr)}}
+  @media (max-width:520px){.hubs{grid-template-columns:1fr}}
+  .nav-links{display:flex;gap:18px;font-size:.9rem;font-weight:700;color:var(--ink-soft);margin-left:auto;margin-right:8px}
+  .nav-links a:hover{color:var(--accent-ink)}
+  @media (max-width:720px){.nav-links{display:none}}
+
   .flow{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
   .fstep{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px 22px;position:relative}
   .fstep .no{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;color:var(--accent-ink);font-weight:700}
@@ -276,6 +309,11 @@
       <img class="brand-logo" src="logo.png" alt="株式会社エージェントベスト" width="508" height="120">
       <span class="nm brand-sub"><small>採用媒体 販売パートナー</small></span>
     </a>
+    <nav class="nav-links">
+      <a href="#media">3媒体を比べる</a>
+      <a href="#price">料金</a>
+      <a href="/media/">記事</a>
+    </nav>
     <a href="#entry" class="btn btn-primary cta-mini">お問い合わせ</a>
   </div>
 </header>
@@ -450,11 +488,54 @@
     </div>
   </section>
 
-  <!-- WHY US -->
-  <section class="band" id="why">
+  <!-- CASES -->
+  <section class="band" id="cases">
     <div class="wrap">
       <div class="sec-head rv">
-        <span class="kick">04 ・ 当社を通すメリット</span>
+        <span class="kick">04 ・ 活用シナリオ</span>
+        <h2>規模と目的が違えば、組み合わせも変わる。</h2>
+        <p>ご相談で多い3つの型を整理しました。実在の企業ではなく、モデルケースです。</p>
+      </div>
+      <div class="cases">
+        <article class="case rv">
+          <span class="who">Case 01 ・ 初めての新卒採用</span>
+          <h4>新卒3〜5名、人事は兼務1名。何から始めるか。</h4>
+          <div class="mix"><span style="background:var(--ob)">OfferBox 成功報酬型</span></div>
+          <dl>
+            <dt>組み立て</dt><dd>まずOfferBoxの成功報酬型1本に絞ります。初期費用を抑えつつ、学生に自分から会いに行く動きを社内に作るのが先。</dd>
+            <dt>運用</dt><dd>オファー文面は当社でたたき台を作成。承認後の面談は現場の若手社員に出てもらい、人事は日程調整に集中。</dd>
+            <dt>次の一手</dt><dd>2年目に母集団を広げたくなったら、ワンキャリアの掲載を足すか、OfferBoxを早期型へ切り替えるかを実績を見て判断。</dd>
+          </dl>
+        </article>
+        <article class="case rv">
+          <span class="who">Case 02 ・ 新卒30名 ＋ 若手中途</span>
+          <h4>従業員300名。新卒と中途を別々の窓口で回していた。</h4>
+          <div class="mix"><span style="background:var(--oc)">ワンキャリア 掲載＋イベント</span><span style="background:var(--ob)">OfferBox 早期型</span><span style="background:var(--wt)">Wantedly スタンダード</span></div>
+          <dl>
+            <dt>組み立て</dt><dd>新卒はワンキャリアの掲載と社名非公開イベントで母集団を作り、理系の狙い撃ちにOfferBoxを併用。若手中途はWantedlyの会社ページとスカウトで。</dd>
+            <dt>運用</dt><dd>3媒体の申込・キャンペーン・請求の窓口を当社に一本化。スカウト送信は当社が代行し、人事は面接と内定者フォローに専念。</dd>
+            <dt>次の一手</dt><dd>媒体ごとの内定承諾率を並べて、翌年の予算配分を組み直します。</dd>
+          </dl>
+        </article>
+        <article class="case rv">
+          <span class="who">Case 03 ・ スタートアップのエンジニア採用</span>
+          <h4>シリーズA。中途エンジニアが中心、新卒は少数でも採りたい。</h4>
+          <div class="mix"><span style="background:var(--wt)">Wantedly スタンダード</span><span style="background:var(--ob)">OfferBox 成功報酬型</span></div>
+          <dl>
+            <dt>組み立て</dt><dd>Wantedlyで会社ページとストーリーを整え、募集記事とスカウトでエンジニアに直接届ける。新卒はOfferBoxの成功報酬型で理系に絞ってオファー。</dd>
+            <dt>運用</dt><dd>ストーリーは月1本を目安に当社が構成案を出し、社員インタビューを記事化。スカウト文面は職種ごとに型を作って回します。</dd>
+            <dt>次の一手</dt><dd>採用が続く段階で、Wantedlyの契約期間を長くして月額を下げるか、プレミアムへ上げるかを検討。</dd>
+          </dl>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY US -->
+  <section id="why">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">05 ・ 当社を通すメリット</span>
         <h2>媒体に直接申し込むのと、何が違うのか。</h2>
       </div>
       <div class="sol">
@@ -479,10 +560,10 @@
   </section>
 
   <!-- PRICE -->
-  <section id="price">
+  <section class="band" id="price">
     <div class="wrap">
       <div class="sec-head center rv">
-        <span class="kick">05 ・ 料金の目安</span>
+        <span class="kick">06 ・ 料金の目安</span>
         <h2>各媒体の正規料金で、お申込みいただけます。</h2>
       </div>
       <div class="pgrid">
@@ -522,10 +603,10 @@
   </section>
 
   <!-- FLOW -->
-  <section class="band" id="flow">
+  <section id="flow">
     <div class="wrap">
       <div class="sec-head center rv">
-        <span class="kick">06 ・ ご利用の流れ</span>
+        <span class="kick">07 ・ ご利用の流れ</span>
         <h2>ご相談から、利用開始まで。</h2>
       </div>
       <div class="flow">
@@ -537,11 +618,33 @@
     </div>
   </section>
 
+  <!-- CHECKLIST -->
+  <section class="band" id="checklist">
+    <div class="wrap">
+      <div class="sec-head center rv">
+        <span class="kick">08 ・ 申込前チェックリスト</span>
+        <h2>ご相談の前に、この8つが決まっていると早い。</h2>
+        <p>決まっていなくても大丈夫です。一緒に整理するところから始められます。</p>
+      </div>
+      <div class="checklist rv">
+        <label><input type="checkbox"><span><b>採用人数と職種</b>新卒・中途それぞれ何名、どの職種か</span></label>
+        <label><input type="checkbox"><span><b>入社時期と選考の締切</b>いつまでに内定を出したいか</span></label>
+        <label><input type="checkbox"><span><b>採用に割ける時間</b>週に何時間、誰が動けるか（オファーや記事を書く人がいるか）</span></label>
+        <label><input type="checkbox"><span><b>年間の媒体予算</b>上限の目安。決まっていなければ「未定」で構いません</span></label>
+        <label><input type="checkbox"><span><b>いま使っている媒体と契約期間</b>更新時期が近いものがあるか</span></label>
+        <label><input type="checkbox"><span><b>採りたい学生・候補者の像</b>大学群・学部・経験・志向など、言葉になっている範囲で</span></label>
+        <label><input type="checkbox"><span><b>会社の強みと弱み</b>知名度・立地・待遇・カルチャーのうち、どれで勝負するか</span></label>
+        <label><input type="checkbox"><span><b>運用を外に出したい範囲</b>文面作成・送信・返信対応・面談設定のどこまでか</span></label>
+      </div>
+      <p class="checklist-note">チェックの状態は送信されません。整理用としてお使いください。</p>
+    </div>
+  </section>
+
   <!-- FAQ -->
   <section id="faq">
     <div class="wrap">
       <div class="sec-head center rv">
-        <span class="kick">07 ・ よくあるご質問</span>
+        <span class="kick">09 ・ よくあるご質問</span>
         <h2>代理店経由について、よく聞かれること。</h2>
       </div>
       <div class="faq rv">
@@ -555,11 +658,30 @@
     </div>
   </section>
 
+  <!-- MEDIA HUBS -->
+  <section class="band" id="articles">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <span class="kick">10 ・ 記事で読む</span>
+        <h2>媒体の使いこなしと選び方を、記事にしています。</h2>
+        <p>申し込んだあとに困らないための運用ノウハウと、規模・業界・職種ごとの媒体の選び方。3媒体を扱う販売パートナーの立場で書いています。</p>
+      </div>
+      <div class="hubs">
+        <a class="hub rv" href="/media/offerbox/"><b>OfferBox</b><span>ターゲット設計、オファー文面、承認後の面談まで。</span><i>記事を見る →</i></a>
+        <a class="hub rv" href="/media/wantedly/"><b>Wantedly</b><span>会社ページ・ストーリー・募集・スカウトの作り方と運用。</span><i>記事を見る →</i></a>
+        <a class="hub rv" href="/media/onecareer/"><b>ワンキャリア</b><span>掲載・スカウト・イベント・クチコミの使い方。</span><i>記事を見る →</i></a>
+        <a class="hub rv" href="/media/hikaku/"><b>媒体比較・選び方</b><span>規模・業界・職種・予算ごとに、どれを先に検討するか。</span><i>記事を見る →</i></a>
+        <a class="hub rv" href="/media/knowhow/"><b>採用ノウハウ</b><span>スカウト文面、母集団形成、内定辞退、KPI、スケジュール。</span><i>記事を見る →</i></a>
+      </div>
+      <div class="hubs-more rv"><a href="/media/" class="btn btn-ghost">記事一覧を見る<span class="arw">→</span></a></div>
+    </div>
+  </section>
+
   <!-- REPRESENTATIVE -->
-  <section class="band" id="representative">
+  <section id="representative">
     <div class="wrap">
       <div class="sec-head center rv">
-        <span class="kick">08 ・ 代表紹介</span>
+        <span class="kick">11 ・ 代表紹介</span>
         <h2>媒体の提案は、代表が直接見ています。</h2>
       </div>
       <div class="profile rv">
@@ -591,10 +713,10 @@
   </section>
 
   <!-- COMPANY -->
-  <section id="company">
+  <section class="band" id="company">
     <div class="wrap">
       <div class="sec-head rv">
-        <span class="kick">09 ・ 運営会社</span>
+        <span class="kick">12 ・ 運営会社</span>
         <h2>株式会社エージェントベスト</h2>
       </div>
       <div class="company">
@@ -673,6 +795,7 @@
   <div class="wrap">
     <nav class="ft-links">
       <a href="#entry">お問い合わせ</a>
+      <a href="/media/">記事一覧</a>
       <a href="https://www.agent-best.net/" target="_blank" rel="noopener">エージェントベスト公式サイト &#8599;</a>
       <a href="https://scout.agent-best.net/" target="_blank" rel="noopener">スカウト代行サービス &#8599;</a>
       <a href="https://scoutdaikou-offerbox.agent-best.net/" target="_blank" rel="noopener">OfferBox運用代行 &#8599;</a>
