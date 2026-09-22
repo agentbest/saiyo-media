@@ -9,7 +9,7 @@ tags: ["OfferBox", "Wantedly", "新卒採用", "媒体比較", "共感採用"]
 pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-wantedly"
-related: ["hikaku-offerbox-onecareer", "hikaku-onecareer-wantedly"]
+related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka"]
 ---
 
 「新卒採用にWantedlyは使えますか。OfferBoxとどう違いますか」という相談は、スタートアップや若い会社から多く受けます。**結論から言うと、OfferBoxは新卒の学生に絞って企業からオファーを送る媒体、Wantedlyは新卒も中途も含めて、会社の想いに共感した人が集まる媒体です。** どちらも「企業から動ける」点は共通していますが、届く相手と、企業が用意するものが違います。この記事では、その違いが新卒採用の設計にどう効くかを整理します。

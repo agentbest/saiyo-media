@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wantedlyのスカウト運用のKPI設計｜送った数ではなく「読んだ数」から始め、返信・面談・選考の各段を、変化と面談の言葉で見る｜採用媒体の販売パートナー</title>
+<meta name="description" content="Wantedlyのスカウト運用のKPIの設計。送信数や返信率の目標値を先に置く失敗、見る段（読んだ数→送った数→返信→面談→選考→決定）とそれぞれの意味、数字の目標値ではなく「先月からの変化」と「面談で聞いた言葉」で見る理由、各段が止まっているときに直す場所。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://saiyo-media.agent-best.net/media/wt-scout-kpi/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="株式会社エージェントベスト">
+<meta property="og:title" content="Wantedlyのスカウト運用のKPI設計｜送った数ではなく「読んだ数」から始め、返信・面談・選考の各段を、変化と面談の言葉で見る｜採用媒体の販売パートナー">
+<meta property="og:description" content="Wantedlyのスカウト運用のKPIの設計。送信数や返信率の目標値を先に置く失敗、見る段（読んだ数→送った数→返信→面談→選考→決定）とそれぞれの意味、数字の目標値ではなく「先月からの変化」と「面談で聞いた言葉」で見る理由、各段が止まっているときに直す場所。">
+<meta property="og:url" content="https://saiyo-media.agent-best.net/media/wt-scout-kpi/">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Wantedlyのスカウト運用のKPI設計｜送った数ではなく「読んだ数」から始め、返信・面談・選考の各段を、変化と面談の言葉で見る","description":"Wantedlyのスカウト運用のKPIの設計。送信数や返信率の目標値を先に置く失敗、見る段（読んだ数→送った数→返信→面談→選考→決定）とそれぞれの意味、数字の目標値ではなく「先月からの変化」と「面談で聞いた言葉」で見る理由、各段が止まっているときに直す場所。","datePublished":"2026-09-11","dateModified":"2026-09-11","author":{"@type":"Person","name":"松岡 良次"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト"},"mainEntityOfPage":"https://saiyo-media.agent-best.net/media/wt-scout-kpi/"}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/" aria-label="株式会社エージェントベスト">
+      <img class="brand-logo" src="/logo.png" alt="株式会社エージェントベスト" width="508" height="120">
+      <span class="brand-sub">採用媒体 販売パートナー</span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">記事</a>
+      <a href="/#media">3媒体を比べる</a>
+      <a href="/#price">料金</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/wantedly/">Wantedly</a><i>›</i><span>Wantedlyのスカウト運用のKPI設計｜送った数ではなく「読んだ数」から始め、返信・面談・選考の各段を、変化と面談の言葉で見る</span></div></nav><main class="wrap article">
+  <p class="art__kicker">Wantedly / スカウト運用</p>
+  <h1>Wantedlyのスカウト運用のKPI設計｜送った数ではなく「読んだ数」から始め、返信・面談・選考の各段を、変化と面談の言葉で見る</h1>
+  <p class="art__meta">公開 2026-09-11</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">この作業の目的｜どこで止まっているかを、毎月見つける</a></li><li><a href="#h2">目標値を先に置く失敗</a></li><li><a href="#h3">見る段と、それぞれの意味</a></li><li><a href="#h4">数字の目標値ではなく、変化と言葉で見る</a></li><li><a href="#h5">止まっている段ごとの、直す場所</a></li><li><a href="#h6">返信率だけを追うと起きること</a></li><li><a href="#h7">上司に報告する形</a></li><li><a href="#h8">KPIを直す頻度と、台帳との関係</a></li><li><a href="#h9">社内の分担</a></li><li><a href="#h10">まとめ</a></li><li><a href="#h11">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>スカウト運用のKPIというと、「月に何通送る」「返信率を何割にする」という目標値を先に置く形になりがちです。ところが、送信数を目標にすると読まずに送ることになり、返信率を目標にすると煽りの文面に寄ります。<strong>結論から言うと、Wantedlyのスカウト運用のKPIは、送った数ではなく「読んだ数」から始め、返信・面談・選考・決定の各段を並べ、目標値ではなく「先月からの変化」と「面談で聞いた言葉」で見ます。段ごとに、止まっているときに直す場所が違うので、KPIは目標ではなく「どこで止まっているかを見つける表」として使います。</strong> この記事では、目標値を先に置く失敗、見る段とその意味、変化と言葉で見る理由、止まっている段ごとの直す場所、返信率だけを追うと起きること、報告の形、直す頻度、台帳との関係、分担を整理します。この記事では、目標値の具体は書きません。自社の台帳から出る変化が、自社の基準です。OfferBoxでのKPIの考え方は<a href="/media/ob-kpi-sekkei/">OfferBoxのKPI設計</a>で書きましたが、Wantedlyでも同じ順番です。</p>
+<h2 id="h1">この作業の目的｜どこで止まっているかを、毎月見つける</h2>
+<p>KPIの目的は、達成することではなく、「スカウトから決定までの流れの、どこで止まっているか」を毎月見つけることです。</p>
+<p>止まっている段が分かれば、直す場所が決まります。文面か、絞り込みか、返信対応か、面談か、選考か。段を分けずに「返信率が低い」とだけ見ると、文面を直すしかなくなり、原因が返信対応や募集記事にあっても気づきません。</p>
+<h2 id="h2">目標値を先に置く失敗</h2>
+<div class="tw"><table><thead><tr><th>目標</th><th>何が起きるか</th></tr></thead><tbody><tr><td>「月に〇通送る」</td><td>読まずに送る。テンプレになり、返信が減る</td></tr><tr><td>「返信率〇割」</td><td>煽りの文面に寄る。返信は増えるが面談で離れる</td></tr><tr><td>「面談数〇件」</td><td>返信した人を無理に面談に呼ぶ。合わない人が増える</td></tr><tr><td>「一般に良いとされる返信率に合わせる」</td><td>自社の相手と条件が違う。当てはまらない</td></tr><tr><td>全部の段に目標値を置く</td><td>数字を作るための運用になる</td></tr></tbody></table></div>
+<p>共通するのは、「数字を作ること」が目的になることです。数字は、運用の結果であって、目的ではありません。</p>
+<h2 id="h3">見る段と、それぞれの意味</h2>
+<div class="tw"><table><thead><tr><th>段</th><th>何を数えるか</th><th>意味</th></tr></thead><tbody><tr><td>読んだ数</td><td>プロフィールを読んで、送るか送らないかを判断した数</td><td>運用の起点。これが送る数の上限</td></tr><tr><td>送った数</td><td>読んで、一文を書いて送った数</td><td>読んだ数との差が「送らない判断」の数</td></tr><tr><td>返信</td><td>返信が来た数と、内容の型（前向き・質問・断り）</td><td>文面と絞り込みと会社ページの結果</td></tr><tr><td>面談</td><td>面談まで進んだ数</td><td>返信対応の速さと、日程調整の結果</td></tr><tr><td>選考</td><td>選考に進んだ数</td><td>面談の質と、選考への移し方の結果</td></tr><tr><td>決定</td><td>決まった数</td><td>全体の結果</td></tr></tbody></table></div>
+<p>「読んだ数」から始めるのが要点です。送った数から始めると、「もっと送れ」になります。読んだ数から始めると、「読む時間をどう確保するか」の話になり、運用が続きます。</p>
+<aside class="cta-inline">
+  <p>いま使っている媒体の運用の相談だけでも構いません。いまのスカウトの数字を、段に分けて一緒に並べ直します。</p>
+  <a href="/#entry">運用の相談をする</a>
+</aside>
+<h3 class="insight">エージェントベストの見解</h3>
+<p>相談で最も多い思い込みは、「返信率が、スカウト運用の良し悪しを表す」というものです。当社は3媒体すべての販売パートナーとしてWantedlyのスカウトの運用を見ていますが、返信率が高い会社が、決定まで進んでいるとは限りません。煽りの文面で返信を集め、面談で「思っていたのと違う」と離れる。返信率だけを見ていると、この会社は「うまくいっている」に見えます。逆に、返信率は目立たなくても、返信した人のほとんどが面談に来て、選考に進む会社があります。当社がKPIを設計するとき、返信率を単独では見ません。返信から面談、面談から選考、の各段を並べて、どこで細くなっているかを見ます。返信率は、その表の一行にすぎません。</p>
+<h2 id="h4">数字の目標値ではなく、変化と言葉で見る</h2>
+<p>各段の数字は、目標値と比べるのではなく、次の2つで見ます。</p>
+<ul><li><strong>先月からの変化</strong>：増えたか、減ったか、変わらないか。増減の理由を、その月に直したことと結びつける</li><li><strong>面談で聞いた言葉</strong>：「どこを読んで来たか」「文面のどこに反応したか」「記事と違ったこと」。数字の理由は、この言葉にある</li></ul>
+<p>目標値を置かない理由は、自社の相手と募集と時期で、数字の水準が変わるからです。「返信率が低い」かどうかは、他社と比べても分からず、自社の先月と比べて初めて分かります。</p>
+<p>数字が変わった月は、「何を変えたか」を必ずしも一つに絞れないことがあります。だから、月に一度、一か所だけ直します。一か所だけ直していれば、変化の理由が分かります。</p>
+<h2 id="h5">止まっている段ごとの、直す場所</h2>
+<div class="tw"><table><thead><tr><th>細くなっている段</th><th>見る場所</th><th>直す場所</th></tr></thead><tbody><tr><td>読んだ数が少ない</td><td>読む時間が取れているか</td><td>送る人の枠、絞り込みの条件。<a href="/media/wt-scout-target/">スカウト対象の絞り方</a></td></tr><tr><td>読んだのに送っていない（送らない判断が多い）</td><td>絞り込みが広い</td><td>条件を絞る</td></tr><tr><td>送ったのに返信が来ない</td><td>文面に相手の一文があるか、会社ページと募集記事が整っているか</td><td><a href="/media/wt-scout-bunmen/">スカウト文面の書き方</a>、会社ページ、募集記事</td></tr><tr><td>返信は来るが面談に進まない</td><td>返信への対応の速さ、日程調整の往復</td><td><a href="/media/wt-scout-henshin-go/">返信が来たあとの進め方</a></td></tr><tr><td>面談はするが選考に進まない</td><td>面談の設計、選考への移し方</td><td><a href="/media/wt-scout-casual-mendan/">カジュアル面談の設計</a>、<a href="/media/wt-scout-senkou-ikou/">面談から選考へ移す方法</a></td></tr><tr><td>選考に進むが決まらない</td><td>選考の型、条件、面談との整合</td><td>選考の設計。スカウトの外</td></tr></tbody></table></div>
+<p>「細くなっている段の一つ前」を見るのが原則です。面談に進まないなら、面談ではなく返信対応を見ます。</p>
+<h2 id="h6">返信率だけを追うと起きること</h2>
+<p>返信率を唯一のKPIにすると、次のことが起きます。</p>
+<ul><li><strong>文面が煽りに寄る</strong>：「限定」「特別」で返信は増える</li><li><strong>絞り込みが「返信しやすい人」に寄る</strong>：転職を強く考えている人だけに送り、募集に合う人が外れる</li><li><strong>面談以降が見えなくなる</strong>：返信で満足し、面談で離れても気づかない</li><li><strong>送る数が減る</strong>：返信率を下げないために、送らなくなる</li></ul>
+<p>返信率は、「文面と絞り込みが相手に届いているか」を見る一つの指標で、それ以上ではありません。</p>
+<aside class="cta-inline">
+  <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。段ごとの数字を毎月出す仕組みを、台帳から作る形でお伝えします。</p>
+  <a href="/#entry">媒体選びを相談する</a>
+</aside>
+<h2 id="h7">上司に報告する形</h2>
+<p>報告は、送った数と返信率ではなく、次の形にします。</p>
+<ol><li><strong>段ごとの数（読んだ・送った・返信・面談・選考・決定）</strong>：一行ずつ</li><li><strong>先月からの変化</strong>：どの段が増え、どの段が減ったか</li><li><strong>その月に直した一か所</strong>：何を直したか</li><li><strong>面談で聞いた言葉</strong>：数件でよい。「文面の〇〇に反応した」「記事の△△が分からなかった」</li><li><strong>来月に直す一か所</strong>：どの段が細いので、どこを直すか</li></ol>
+<p>「返信率が低い」という報告より、「返信から面談への段が細く、返信対応が遅れていたので、来月は対応する人を決める」という報告のほうが、上司も判断できます。</p>
+<h2 id="h8">KPIを直す頻度と、台帳との関係</h2>
+<ul><li><strong>段の構成は、変えない</strong>：読んだ→送った→返信→面談→選考→決定。この形は固定</li><li><strong>毎月、数字を出す</strong>：台帳から数える。台帳の型は<a href="/media/wt-scout-target/">スカウト対象の絞り方</a>と<a href="/media/wt-scout-henshin-go/">返信が来たあとの進め方</a>で書いたものを合わせる</li><li><strong>毎週、返信の段だけ軽く見る</strong>：毎週の見方は<a href="/media/wt-scout-review/">スカウトの返信率を毎週見直す方法</a></li><li><strong>四半期に一度、段の細さの傾向を見る</strong>：毎月の一か所直しで、細い段が変わったか</li><li><strong>KPIの表そのものは、半年に一度見直す</strong>：段を足すか、数え方を変えるか</li></ul>
+<p>台帳が無ければ、KPIは出ません。KPIを設計する前に、台帳を付ける形を作ります。</p>
+<h2 id="h9">社内の分担</h2>
+<div class="tw"><table><thead><tr><th>作業</th><th>誰が</th></tr></thead><tbody><tr><td>段の構成を決める</td><td>人事</td></tr><tr><td>台帳から毎月数える</td><td>人事</td></tr><tr><td>面談で聞いた言葉を集める</td><td>面談に出る人</td></tr><tr><td>細い段を見つけ、直す一か所を決める</td><td>人事と責任者</td></tr><tr><td>上司に報告する</td><td>人事</td></tr><tr><td>半年に一度、KPIの表を見直す</td><td>人事</td></tr></tbody></table></div>
+<p>運用代行や代理店が支えられるのは、段の設計、台帳からKPIを出す形、報告の型、細い段の見つけ方、直す場所の案までで、数えること、面談で聞くこと、直すかどうかの判断は企業が行います。代理店の代行の範囲は<a href="/media/kh-dairiten-unyou/">代理店に運用まで頼めるか</a>で書きました。</p>
+<h3 class="insight">エージェントベストの見解</h3>
+<p>媒体を比べたり運用を見直したりするときに、Wantedlyのスカウトの成果を「返信率が他社と比べてどうか」で判断しようとする会社は多いのですが、他社の返信率は、相手も募集も文面も違う数字で、自社の判断には使えません。当社が3媒体の販売パートナーとして持っている他社の数字は、参考として話すことはあっても、自社の目標にはしないようお願いしています。自社の判断に使えるのは、自社の先月の数字と、面談で聞いた言葉だけです。当社がKPIの設計で最初にやるのは、段を並べた表を作り、台帳から数える形を作ることで、目標値を置くことではありません。表が三か月分溜まれば、その会社の基準が見えます。それが、その会社のKPIです。</p>
+<h2 id="h10">まとめ</h2>
+<ul><li>KPIは達成するものではなく「どこで止まっているかを毎月見つける表」。送信数や返信率の目標値を先に置かない</li><li>段は、読んだ→送った→返信→面談→選考→決定。読んだ数から始める</li><li>目標値ではなく、先月からの変化と、面談で聞いた言葉で見る。月に一か所だけ直すと、変化の理由が分かる</li><li>細くなっている段の一つ前を見て、直す場所を決める。返信率だけを追うと、煽りと絞り込みの偏りと面談以降の見落としが起きる</li><li>報告は、段ごとの数・変化・直した一か所・面談の言葉・来月の一か所。台帳が無ければKPIは出ない</li></ul>
+<h2 id="h11">よくある質問</h2>
+<h3>上司から「返信率の目標を出せ」と言われています</h3>
+<p>目標値ではなく、「段ごとの数と、先月からの変化と、直した一か所」の形で報告することを提案します。返信率の目標値を置くと、煽りの文面に寄り、面談で離れる人が増えて、結果として決定が減ることを伝えます。どうしても数字が要るなら、「先月より返信から面談への段を太くする」のように、変化で置きます。</p>
+<h3>台帳を付けていないので、数字が出せません</h3>
+<p>まず台帳を付け始めます。読んだ数、送った数、返信の有無、面談の有無、選考の有無を、一行ずつ。一か月分あれば、段の表が出ます。三か月分あれば、変化が見えます。KPIの設計は、台帳のあとです。</p>
+<h3>スカウト運用のKPI設計は、御社に相談できますか</h3>
+<p>できます。当社は、段の設計、台帳からKPIを出す形、報告の型、細い段の見つけ方、直す場所の案を支えられます。数えること、面談で聞くこと、直すかどうかの判断は、企業が行ってください。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーとして、Wantedlyのスカウト運用を支えています。3媒体の全体像は<a href="/media/hikaku-3baitai/">3媒体の違いと選び方</a>にまとめています。</p>
+  </div>
+  
+  <aside class="cta-end">
+  <p class="cta-end__lead">OfferBox・Wantedly・ワンキャリアを、ひとつの窓口で</p>
+  <p class="cta-end__sub">エージェントベストは3媒体の販売パートナーです。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
+  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/wt-scout-boshu-renkei/">Wantedlyのスカウトと募集記事のつなげ方｜文面で挙げた「重なる点」が、募集記事の同じ言葉で受け止められる状態にする</a></li><li><a href="/media/wt-scout-bunmen/">Wantedlyのスカウト文面の書き方｜相手の一文→重なる点→話す場の案内、の3段を短く書き、会社の説明は会社ページに任せる</a></li><li><a href="/media/wt-scout-bunmen-rei-biz/">Wantedlyのビジネス職向けスカウト文面の型｜「営業経験」ではなく「誰に、何を、どう売ってきたか」を読み、自社の顧客と売り方の場面で誘う</a></li><li><a href="/media/wt-scout-bunmen-rei-design/">Wantedlyのデザイナー向けスカウト文面の型｜作品の「見た目」ではなく「何を、誰のために、どう決めたか」を読み、自社のデザインの場面で誘う</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表取締役。人材領域で10年以上、WEB広告・大手人材会社・人材系スタートアップを経て2020年に創業。
+  OfferBox・Wantedly・ワンキャリアの販売パートナーとして、採用企業の媒体選定から運用まで支援しています。（有料職業紹介事業 許可番号 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">株式会社エージェントベスト</div>
+        <div style="margin-top:6px">OfferBox・Wantedly・ワンキャリア 販売パートナー</div>
+      </div>
+      <div class="foot-links">
+        <a href="/">販売パートナーについて</a>
+        <a href="/media/">記事一覧</a>
+        <a href="/media/offerbox/">OfferBox</a>
+        <a href="/media/wantedly/">Wantedly</a>
+        <a href="/media/onecareer/">ワンキャリア</a>
+        <a href="/media/hikaku/">媒体比較・選び方</a>
+        <a href="/media/knowhow/">採用ノウハウ</a>
+        <a href="/#entry">お問い合わせ</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">「OfferBox」は株式会社i-plug、「Wantedly」はウォンテッドリー株式会社、「ワンキャリア」は株式会社ワンキャリアの商標またはサービス名です。当社は各社の販売パートナー（代理店）であり、各サービスの運営者ではありません。<br>運営：株式会社エージェントベスト（有料職業紹介事業 許可番号 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>

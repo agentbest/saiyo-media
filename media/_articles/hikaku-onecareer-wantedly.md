@@ -9,7 +9,7 @@ tags: ["ワンキャリア", "Wantedly", "新卒採用", "媒体比較", "クチ
 pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-onecareer-wantedly"
-related: ["hikaku-offerbox-onecareer", "hikaku-offerbox-wantedly"]
+related: ["hikaku-3baitai", "hikaku-onecareer-mynavi", "hikaku-onecareer-openwork", "hikaku-offerbox-onecareer"]
 ---
 
 ワンキャリアとWantedlyは、どちらも「学生が自分から見に来る」性質を持つ媒体です。だから比較されることが多いのですが、**見に来る学生が何を見に来ているかが違います。** ワンキャリアの学生は、選考のクチコミや体験談、インターン・本選考の情報を見に来ます。Wantedlyの学生は、会社の想いや働く人の様子を見に来ます。この記事では、その違いが新卒採用の設計にどう効くかを整理します。
