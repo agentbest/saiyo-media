@@ -100,7 +100,7 @@ related: ["ob-shinsotsu-30-unyou", "ob-bunkei-unyou", "ob-daikigyo-unyou", "ob-g
 | 内定者に名義の若手と教える人を会わせる | 人事と職種 |
 | 辞退の理由を「決め手」まで聞く | 人事 |
 
-- **人事が一人なら、検索・下書き・送信・一次返信を外に出し、面談の設定と内定後に絞る**：[人事が1人の会社のOfferBox運用](/media/ob-jinji-hitori-unyou/)
+- **人事が一人なら、検索・下書き・送信・一次返信を外に出し、面談の設定と内定後に絞る**：[人事が1人の会社がOfferBoxで最初に決めること](/media/ob-jinji-hitori-unyou/)
 - **人事が二人なら、作業で分ける**：返信と台帳、送信と現場との調整。[OfferBoxをチームで運用するときの役割分担](/media/ob-team-unyou/)
 - **主軸にするなら、外に出す範囲を申込の前に決める**：[OfferBoxの運用代行に任せられる範囲と自社で持つ判断](/media/ob-unyou-daikou-hanni/)
 

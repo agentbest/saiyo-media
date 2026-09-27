@@ -96,7 +96,7 @@ related: ["ob-bunkei-unyou", "ob-daikigyo-unyou", "ob-gaishi-unyou", "ob-hajimet
 | 辞退の理由を「決め手」まで聞く | 人事 |
 
 - **兼務の人事は、検索・下書き・送信・一次返信を外に出し、一人ひとりの段を追うことに絞る**：[OfferBoxの運用代行に任せられる範囲と自社で持つ判断](/media/ob-unyou-daikou-hanni/)
-- **人事が一人の会社の週の形**：[人事が1人の会社のOfferBox運用](/media/ob-jinji-hitori-unyou/)
+- **人事が一人の会社の週の形**：[人事が1人の会社がOfferBoxで最初に決めること](/media/ob-jinji-hitori-unyou/)
 
 運用代行や代理店が支えられるのは、一人ひとりの段の台帳の型、文面の型、検索・下書き・送信・一次返信、次の一人の準備の型までで、名義の選定、一人ひとりへの一文、面談、承諾の期限の判断、辞退の理由を聞くことは企業が行います。代理店の代行の範囲は[代理店に運用まで頼めるか](/media/kh-dairiten-unyou/)で書きました。
 
