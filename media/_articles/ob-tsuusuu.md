@@ -9,7 +9,7 @@ tags: ["OfferBox", "オファー枠", "通数", "料金プラン", "送信ペー
 pubDate: 2026-09-28
 reviewedAt: 2026-09-28
 slug: "ob-tsuusuu"
-related: ["ob-campaign", "ob-hiyou-souba", "ob-plan-erabikata", "ob-seika-plan"]
+related: ["ob-campaign", "ob-kikan", "ob-mitsumori", "ob-dairiten-keiyu"]
 sources:
   - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
     url: "https://offerbox.jp/company/fee"

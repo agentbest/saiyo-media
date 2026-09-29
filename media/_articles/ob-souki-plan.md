@@ -9,7 +9,7 @@ tags: ["OfferBox", "早期定額型", "料金プラン", "EXオプション", "�
 pubDate: 2026-09-23
 reviewedAt: 2026-09-23
 slug: "ob-souki-plan"
-related: ["ob-plan-erabikata", "ob-seika-plan", "ob-campaign", "ob-hiyou-souba"]
+related: ["ob-plan-erabikata", "ob-seika-plan", "ob-campaign", "ob-ex-option"]
 sources:
   - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
     url: "https://offerbox.jp/company/fee"

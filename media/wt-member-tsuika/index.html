@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wantedlyのメンバー追加の方法｜招待リンク・招待メール・CSVの3通りと、管理画面の権限は別の話｜採用媒体の販売パートナー</title>
+<meta name="description" content="Wantedlyのメンバー追加は、社員の個人アカウントを会社アカウントに紐づけることです。招待リンク・招待メール・CSV一括追加の方法、追加できる権限、招待から登録した人のスカウト受け取り設定、SAML・SCIM連携（β版）まで、公式ヘルプから整理します。">
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#0B1A32">
+<link rel="canonical" href="https://saiyo-media.agent-best.net/media/wt-member-tsuika/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="株式会社エージェントベスト">
+<meta property="og:title" content="Wantedlyのメンバー追加の方法｜招待リンク・招待メール・CSVの3通りと、管理画面の権限は別の話｜採用媒体の販売パートナー">
+<meta property="og:description" content="Wantedlyのメンバー追加は、社員の個人アカウントを会社アカウントに紐づけることです。招待リンク・招待メール・CSV一括追加の方法、追加できる権限、招待から登録した人のスカウト受け取り設定、SAML・SCIM連携（β版）まで、公式ヘルプから整理します。">
+<meta property="og:url" content="https://saiyo-media.agent-best.net/media/wt-member-tsuika/">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="/icon-192.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/media/assets/media.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Wantedlyのメンバー追加の方法｜招待リンク・招待メール・CSVの3通りと、管理画面の権限は別の話","description":"Wantedlyのメンバー追加は、社員の個人アカウントを会社アカウントに紐づけることです。招待リンク・招待メール・CSV一括追加の方法、追加できる権限、招待から登録した人のスカウト受け取り設定、SAML・SCIM連携（β版）まで、公式ヘルプから整理します。","datePublished":"2026-09-30","dateModified":"2026-09-30","author":{"@type":"Person","name":"松岡 良次"},"publisher":{"@type":"Organization","name":"株式会社エージェントベスト"},"mainEntityOfPage":"https://saiyo-media.agent-best.net/media/wt-member-tsuika/"}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
+</head>
+<body>
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="brand" href="/" aria-label="株式会社エージェントベスト">
+      <img class="brand-logo" src="/logo.png" alt="株式会社エージェントベスト" width="508" height="120">
+      <span class="brand-sub">採用媒体 販売パートナー</span>
+    </a>
+    <nav class="nav-links">
+      <a href="/media/">記事</a>
+      <a href="/#media">3媒体を比べる</a>
+      <a href="/#price">料金</a>
+    </nav>
+    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+  </div>
+</header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/wantedly/">Wantedly</a><i>›</i><span>Wantedlyのメンバー追加の方法｜招待リンク・招待メール・CSVの3通りと、管理画面の権限は別の話</span></div></nav><main class="wrap article">
+  <p class="art__kicker">Wantedly / 機能・仕様</p>
+  <h1>Wantedlyのメンバー追加の方法｜招待リンク・招待メール・CSVの3通りと、管理画面の権限は別の話</h1>
+  <p class="art__meta">公開 2026-09-30</p>
+  <nav class="toc"><p class="toc__t">この記事の内容</p><ol><li><a href="#h1">結論｜追加の方法は3通り、操作できるのは全体の管理者</a></li><li><a href="#h2">仕組み｜3つの追加方法</a></li><li><a href="#h3">仕組み｜追加したあとに気をつけること</a></li><li><a href="#h4">確認する項目｜追加の前に決めておくこと</a></li><li><a href="#h5">注意点</a></li><li><a href="#h6">まとめ</a></li><li><a href="#h7">よくある質問</a></li></ol></nav>
+  <div class="body">
+<p>Wantedlyの会社ページに社員を載せたい、面談を担当する社員にも管理画面を使ってほしい。そう考えて「メンバー追加」を調べると、会社ページに紐づけることと、管理画面の権限を渡すことが混ざって見えることがあります。結論から言うと、メンバー追加は社員のWantedly個人アカウントを会社アカウントに紐づけることで、会社ページで「どんな人が働いているか」が見えるようになる手続きです。管理画面に入れる権限は、その上に別に付けるものです。この記事では、公式ヘルプで確認できる追加の方法と、追加するときの注意点を整理します（2026年9月30日時点。最新は公式ページでご確認ください）。</p>
+<h2 id="h1">結論｜追加の方法は3通り、操作できるのは全体の管理者</h2>
+<ul><li><strong>メンバー追加とは</strong>：社員の個人アカウントを会社アカウントに紐づけること。会社ページで働いている人が見えるようになる</li><li><strong>方法</strong>：招待リンク／招待メール／CSVでの一括追加（社員番号での管理も可）</li><li><strong>操作できる人</strong>：メンバーの追加・削除ができるのは全体の「管理者」</li><li><strong>管理画面の権限は別</strong>：採用の管理画面に入れるのは、採用の「管理者」「担当」の権限を付けた人。人数の上限はプランで決まり、ライト15名・スタンダード30名・プレミアム無制限</li><li><strong>スカウトの受け取り</strong>：招待を受けてから個人アカウントを作った人は、最初からスカウトを受け取らない設定になる</li></ul>
+<h2 id="h2">仕組み｜3つの追加方法</h2>
+<h3>招待リンク</h3>
+<p>招待用のリンクを作り、社内のチャットなどで共有して、社員に紐づけてもらう方法です。人数が少ないときや、社内に一度に案内したいときに使いやすい方法です。</p>
+<h3>招待メール</h3>
+<p>社員のメールアドレスに招待を送る方法です。誰に招待を出したかが分かりやすく、個別に声をかけたい社員を追加するときに向いています。</p>
+<h3>CSVでの一括追加</h3>
+<p>社員の情報をCSVにまとめて一括で追加する方法です。社員番号で管理することもできます。人数が多い会社や、入社のたびにまとめて追加したい会社では、社員番号で管理しておくと、異動や退職のときの紐づけ解除も追いやすくなります。</p>
+<h3>紐づけの解除</h3>
+<p>退職などで会社との紐づけを外す手順も、ヘルプに記事があります。追加と解除を同じ担当が持つようにしておくと、会社ページに退職した人が残り続けることを防げます。</p>
+<aside class="cta-inline">
+  <p>会社ページに誰を出すか、社員の協力の頼み方から一緒に考えます。運用の相談だけでも構いません。</p>
+  <a href="/#entry">運用の相談をする</a>
+</aside>
+<h2 id="h3">仕組み｜追加したあとに気をつけること</h2>
+<h3>スカウトの受け取り設定</h3>
+<p>招待を受けてから新しく個人アカウントを作った人は、最初からスカウトを受け取らない設定になるとされています。一方で、もともとWantedlyの個人アカウントを持っていた人は、本人の設定のままです。設定を変えていなければ「月5通まで」の状態です。社員の中には、自分の個人アカウントにほかの会社からスカウトが届くことを気にする人もいます。追加をお願いするときは、この設定を本人が確認・変更できることを伝えておくと、協力を頼みやすくなります。</p>
+<h3>管理画面の権限と人数</h3>
+<p>メンバーとして紐づけただけでは、採用の管理画面には入れません。面談を担当する社員に候補者の情報を見てもらうには、採用の「担当」などの権限を付けます。採用の管理画面に入れる人数は、採用の「管理者」と「担当」の合計で数え、プランの上限に収まる必要があります。権限の分け方は<a href="/media/wt-kanri-gamen/">Wantedlyの管理画面の基本操作</a>にまとめています。</p>
+<h3>SAML・SCIM連携</h3>
+<p>社内のアカウント管理の仕組みと連携するSAML（シングルサインオン）とSCIM（プロビジョニング）は、β版として提供されています。動作が保証されているのはGoogle Workspace・Azure AD・OneLogin・Oktaだけです。また、Google Workspaceと接続すると、社内報や社内ポータルを見た社員が自動でメンバーに追加されます。こちらは社内向けの機能と組み合わせる使い方です。</p>
+<h3 class="insight">エージェントベストの見解</h3>
+<p>メンバー追加の相談で最も多い思い込みは、「追加すれば会社ページが充実する」というものです。実際には、紐づけただけの社員はプロフィールが空のまま並ぶことが多く、候補者から見ると「人はいるが、どんな人か分からない」状態になります。Wantedlyは、会社の考え方や一緒に働く人に共感して話を聞きに来てもらう媒体なので、人数よりも、候補者が面談で会うことになる人のプロフィールが読めることのほうが効きます。当社は3媒体の販売パートナーとして運用も見ていますが、うまく回っている会社は、最初に全員を追加するのではなく、面談に出る人と、候補者が自分を重ねやすい若手の数人から追加し、その人たちのプロフィールを一緒に整えています。載せる人の選び方は<a href="/media/wt-kaisha-page-member/">Wantedlyの会社ページに載せるメンバーの選び方</a>も参考になります。</p>
+<h2 id="h4">確認する項目｜追加の前に決めておくこと</h2>
+<ol><li><strong>全体の管理者は誰か</strong>：メンバーの追加・削除ができるのは全体の管理者です。入社・退職のたびに誰が操作するかを決めます</li><li><strong>どの方法で追加するか</strong>：少人数なら招待リンクか招待メール、人数が多いならCSVと社員番号での管理を選びます</li><li><strong>誰に管理画面の権限を付けるか</strong>：面談をする人など、候補者の情報を見る必要がある人だけに採用の権限を付け、人数がプランの上限に収まるかを確認します</li><li><strong>スカウト受け取り設定の案内</strong>：招待から新規登録した人は受け取らない設定、既存アカウントの人は本人の設定のままであることを伝えます</li><li><strong>退職時の紐づけ解除</strong>：退職や異動のときに、誰がいつ解除するかを決めておきます</li></ol>
+<h2 id="h5">注意点</h2>
+<ul><li><strong>メンバー追加と管理画面の権限は別</strong>：紐づけただけでは採用の管理画面には入れません</li><li><strong>権限を付けた人数はプランの上限に数えられる</strong>：採用の管理者と担当の合計で数えます</li><li><strong>既存アカウントの社員は本人の設定のまま</strong>：スカウトを受け取る設定になっている場合があります。変更は本人が行います</li><li><strong>SAML・SCIMはβ版</strong>：動作保証は4つのサービスに限られます</li><li><strong>社外の人は紐づけの対象として考えない</strong>：会社アカウントを自社の社員以外が運用するには「代行利用に関する覚書」が必要です</li></ul>
+<aside class="cta-inline">
+  <p>社員の協力が得にくい、という相談も多く受けています。3媒体のどれが合うかも含めて整理します。</p>
+  <a href="/#entry">無料で相談する</a>
+</aside>
+<h3 class="insight">エージェントベストの見解</h3>
+<p>メンバー追加で、あとから効いてくるのは「退職した人の扱い」です。紐づけを外し忘れると、会社ページに辞めた人が残り、面談で候補者から「この方と話したい」と言われて困ることがあります。当社が運用の立ち上げで案内しているのは、メンバーの追加と解除を、人事の入退社の手続きの一覧に入れてしまうことです。入社の手続きの中で招待を送り、退職の手続きの中で紐づけを外す。こうしておけば、Wantedlyの担当が替わっても、会社ページの顔ぶれが実態とずれません。CSVでの一括追加と社員番号での管理は、この運用と相性がよく、人事の名簿と照らし合わせて差分を見るだけで済みます。追加の方法を選ぶときは、入れやすさより、外しやすさで選ぶほうが、長く使ったときに手間が少なくなります。</p>
+<h2 id="h6">まとめ</h2>
+<ul><li>メンバー追加は、社員の個人アカウントを会社アカウントに紐づけ、会社ページで働く人を見せる手続き</li><li>方法は招待リンク・招待メール・CSVでの一括追加。社員番号での管理もできる</li><li>追加・削除ができるのは全体の管理者。採用の管理画面の権限は別に付け、人数はプランの上限に数える</li><li>招待から新規登録した人はスカウトを受け取らない設定。既存アカウントは本人の設定のまま</li><li>SAML・SCIM連携はβ版。退職時の紐づけ解除まで手続きに組み込んでおく</li></ul>
+<h2 id="h7">よくある質問</h2>
+<h3>メンバーに追加した社員は、全員が管理画面に入れますか</h3>
+<p>入れません。メンバー追加は会社アカウントへの紐づけで、採用の管理画面に入れるのは、採用の「管理者」「担当」の権限を付けた人です。権限を付けた人数は、ライト15名・スタンダード30名・プレミアム無制限というプランの上限に数えられます。</p>
+<h3>社員の個人アカウントに、ほかの会社からスカウトが届きませんか</h3>
+<p>招待を受けてから新しく個人アカウントを作った人は、最初からスカウトを受け取らない設定になるとされています。もともとアカウントを持っていた人は本人の設定のままで、変えていなければ「月5通まで」です。設定は本人が変更できます。</p>
+<h3>人数が多いので、まとめて追加する方法はありますか</h3>
+<p>CSVでの一括追加ができ、社員番号で管理することもできます。社内のアカウント管理の仕組みと連携するSAML・SCIMもありますが、β版で、動作保証はGoogle Workspace・Azure AD・OneLogin・Oktaに限られます。</p>
+  </div>
+  <section class="sources"><h2>出典</h2><ul><li><a href="https://help.wantedly.com/hc/ja/articles/8786949564057" target="_blank" rel="noopener">Wantedly ヘルプ｜メンバー追加について（2024-11-12更新）</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/8787477084569" target="_blank" rel="noopener">Wantedly ヘルプ｜招待リンクでメンバーを追加</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/8788046760217" target="_blank" rel="noopener">Wantedly ヘルプ｜招待メールでメンバーを追加</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/32783058197913" target="_blank" rel="noopener">Wantedly ヘルプ｜CSVでメンバーを一括追加</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/33063476108441" target="_blank" rel="noopener">Wantedly ヘルプ｜社員番号でのメンバー管理</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/8788920882073" target="_blank" rel="noopener">Wantedly ヘルプ｜メンバーの紐づけ解除</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/8761119733017" target="_blank" rel="noopener">Wantedly ヘルプ｜権限の種類と人数の上限（2026-07-09更新）</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/900007188103" target="_blank" rel="noopener">Wantedly ヘルプ｜SAML・SCIM連携（β版）</a></li><li><a href="https://help.wantedly.com/hc/ja/articles/205465195" target="_blank" rel="noopener">Wantedly ヘルプ｜Google Workspaceとの接続</a></li></ul></section>
+  <aside class="cta-end">
+  <p class="cta-end__lead">OfferBox・Wantedly・ワンキャリアを、ひとつの窓口で</p>
+  <p class="cta-end__sub">エージェントベストは3媒体の販売パートナーです。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
+  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
+</aside>
+  <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/wt-kanri-gamen/">Wantedlyの管理画面の基本操作｜7つのメニューと3系統の権限を、誰が何を触るかで分ける</a></li><li><a href="/media/wt-seikaku-shindan/">Wantedlyの性格診断の仕組み｜候補者が受ける診断と、会社ページに出るカルチャーマップ</a></li><li><a href="/media/wt-ai-kinou/">WantedlyのAI機能でできること｜AIエージェントモードは候補者リストまで、送る判断と一文は人が持つ</a></li><li><a href="/media/wt-boshu-koukai/">Wantedlyの募集の公開・非公開の設定｜4つのステータスと、戻せない操作を先に知っておく</a></li></ul></section>
+  <aside class="author">
+  <p class="author__t">監修</p>
+  <p class="author__n">松岡 良次</p>
+  <p class="author__b">株式会社エージェントベスト代表取締役。人材領域で10年以上、WEB広告・大手人材会社・人材系スタートアップを経て2020年に創業。
+  OfferBox・Wantedly・ワンキャリアの販売パートナーとして、採用企業の媒体選定から運用まで支援しています。（有料職業紹介事業 許可番号 13-ユ-316964）</p>
+</aside>
+</main><footer>
+  <div class="wrap">
+    <div class="foot-in">
+      <div>
+        <div class="foot-brand">株式会社エージェントベスト</div>
+        <div style="margin-top:6px">OfferBox・Wantedly・ワンキャリア 販売パートナー</div>
+      </div>
+      <div class="foot-links">
+        <a href="/">販売パートナーについて</a>
+        <a href="/media/">記事一覧</a>
+        <a href="/media/offerbox/">OfferBox</a>
+        <a href="/media/wantedly/">Wantedly</a>
+        <a href="/media/onecareer/">ワンキャリア</a>
+        <a href="/media/hikaku/">媒体比較・選び方</a>
+        <a href="/media/knowhow/">採用ノウハウ</a>
+        <a href="/#entry">お問い合わせ</a>
+        <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
+      </div>
+    </div>
+    <div class="foot-copy">「OfferBox」は株式会社i-plug、「Wantedly」はウォンテッドリー株式会社、「ワンキャリア」は株式会社ワンキャリアの商標またはサービス名です。当社は各社の販売パートナー（代理店）であり、各サービスの運営者ではありません。<br>運営：株式会社エージェントベスト（有料職業紹介事業 許可番号 13-ユ-316964）</div>
+  </div>
+</footer>
+</body>
+</html>
