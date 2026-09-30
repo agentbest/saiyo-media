@@ -243,7 +243,7 @@
   /* profile / company */
   .profile{display:grid;grid-template-columns:.8fr 1.2fr;gap:0;background:var(--surface);border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:var(--shadow);max-width:920px;margin:0 auto}
   .profile .left{background:var(--navy);color:var(--on-navy);padding:38px 30px;text-align:center}
-  .profile .left .av{width:74px;height:74px;border-radius:20px;margin:0 auto 16px;background:linear-gradient(145deg,var(--accent),#A98BD0);display:grid;place-items:center;color:#fff;font-weight:900;font-size:1.3rem}
+  .profile .left .av{width:74px;height:74px;border-radius:20px;margin:0 auto 16px;background:#fff;border:1px solid var(--line);padding:10px;box-sizing:border-box}
   .profile .left b{font-size:1.3rem;font-weight:900;display:block}
   .profile .left span{font-size:.84rem;color:var(--on-navy-soft)}
   .profile .right{padding:34px 32px}
@@ -267,6 +267,7 @@
   .voice blockquote{margin:8px 0 0;font-size:1.05rem;font-weight:600;line-height:1.7}
   .voice .who{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);display:flex;align-items:center;gap:12px}
   .voice .who .av{width:40px;height:40px;border-radius:11px;background:linear-gradient(140deg,var(--accent),var(--success));flex:none}
+  .voice .who .av.av--logo{background:#fff;border:1px solid var(--line);padding:5px;box-sizing:border-box}
   .voice .who b{font-size:.92rem}
   .voice .who span{display:block;font-size:.78rem;color:var(--ink-faint)}
   @media (max-width:680px){.company{grid-template-columns:1fr}}
@@ -313,6 +314,7 @@
   .rv.in{opacity:1;transform:none}
   @media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
   :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+  .av img{width:100%;height:100%;object-fit:contain;display:block}
 </style>
 <noscript><style>.rv{opacity:1;transform:none}</style></noscript>
 </head>
@@ -706,7 +708,7 @@
       </div>
       <div class="profile rv">
         <div class="left">
-          <div class="av" aria-hidden="true">AB</div>
+          <div class="av"><img src="icon-192.png" alt="株式会社エージェントベストのロゴ" width="192" height="192"></div>
           <b>松岡 良次</b>
           <span>株式会社エージェントベスト 代表取締役</span>
         </div>
@@ -750,7 +752,7 @@
         </div>
         <div class="voice rv" style="box-shadow:none">
           <blockquote style="font-size:1.02rem">日本に、<br>磁力を生む。</blockquote>
-          <div class="who"><span class="av" aria-hidden="true"></span><div><b>MISSION</b><span>力のある人が、力を発揮できる企業に集まる流れを、一人ずつ、一社ずつ。</span></div></div>
+          <div class="who"><span class="av av--logo"><img src="icon-192.png" alt="" width="192" height="192"></span><div><b>MISSION</b><span>力のある人が、力を発揮できる企業に集まる流れを、一人ずつ、一社ずつ。</span></div></div>
         </div>
       </div>
     </div>
