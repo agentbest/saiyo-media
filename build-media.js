@@ -33,8 +33,8 @@ const PILLAR = Object.fromEntries(PILLARS.map(p => [p.key, p]));
 
 /* CTA。読者は採用企業だけ。窓口はLPの /#entry */
 const CTA = { href: '/#entry', label: '媒体選びを相談する',
-  lead: 'OfferBox・Wantedly・ワンキャリアを、ひとつの窓口で',
-  sub: 'エージェントベストは3媒体の販売パートナーです。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。' };
+  lead: '求人媒体選びを、ひとつの窓口で',
+  sub: 'エージェントベストは新卒・中途・インターンの求人媒体を扱う求人広告代理店です。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。' };
 
 const esc = s => String(s == null ? '' : s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -161,7 +161,7 @@ function mdToHtml(src) {
 /* ---------- ページの外枠 ---------- */
 const BRAND = `<a class="brand" href="/" aria-label="株式会社エージェントベスト">
       <img class="brand-logo" src="/logo.png" alt="株式会社エージェントベスト" width="508" height="120">
-      <span class="brand-sub">採用媒体 販売パートナー</span>
+      <span class="brand-sub">求人広告代理店</span>
     </a>`;
 
 function head(o) {
@@ -202,7 +202,7 @@ ${o.jsonld ? `<script type="application/ld+json">${JSON.stringify(o.jsonld)}</sc
     ${BRAND}
     <nav class="nav-links">
       <a href="/media/">記事</a>
-      <a href="/#media">3媒体を比べる</a>
+      <a href="/#media">取り扱い媒体</a>
       <a href="/#price">料金</a>
     </nav>
     <a class="btn btn-primary cta-mini" href="${CTA.href}">お問い合わせ</a>
@@ -216,17 +216,17 @@ function foot() {
     <div class="foot-in">
       <div>
         <div class="foot-brand">株式会社エージェントベスト</div>
-        <div style="margin-top:6px">OfferBox・Wantedly・ワンキャリア 販売パートナー</div>
+        <div style="margin-top:6px">求人広告代理店（新卒・中途・インターン）</div>
       </div>
       <div class="foot-links">
-        <a href="/">販売パートナーについて</a>
+        <a href="/">求人広告代理店について</a>
         <a href="/media/">記事一覧</a>
         ${PILLARS.map(p => `<a href="/media/${p.key}/">${esc(p.name)}</a>`).join('\n        ')}
         <a href="/#entry">お問い合わせ</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>
-    <div class="foot-copy">「OfferBox」は株式会社i-plug、「Wantedly」はウォンテッドリー株式会社、「ワンキャリア」は株式会社ワンキャリアの商標またはサービス名です。当社は各社の販売パートナー（代理店）であり、各サービスの運営者ではありません。<br>運営：株式会社エージェントベスト（有料職業紹介事業 許可番号 13-ユ-316964）</div>
+    <div class="foot-copy">掲載の媒体名は各社の商標またはサービス名です。当社は求人広告代理店であり、各サービスの運営者ではありません。<br>運営：株式会社エージェントベスト（有料職業紹介事業 許可番号 13-ユ-316964）</div>
   </div>
 </footer>
 </body>
@@ -291,7 +291,7 @@ function articleHtml(a, all) {
     publisher: { '@type': 'Organization', name: '株式会社エージェントベスト' },
     mainEntityOfPage: SITE + url,
   };
-  return head({ title: `${a.title}｜採用媒体の販売パートナー`, desc: a.description, url, ogType: 'article', jsonld })
+  return head({ title: `${a.title}｜求人広告代理店エージェントベスト`, desc: a.description, url, ogType: 'article', jsonld })
     + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: p.name, url: `/media/${p.key}/` }, { name: a.title }])
     + `<main class="wrap article">
   <p class="art__kicker">${esc(p.name)}${a.series ? ' / ' + esc(a.series) : ''}</p>
@@ -489,7 +489,7 @@ function main() {
     for (let n = 1; n <= pages; n++) {
       const items = list.slice((n - 1) * PER_PAGE, n * PER_PAGE);
       w(n === 1 ? `${p.key}/index.html` : `${p.key}/page-${n}.html`, listPage({
-        title: `${p.name}の記事一覧${n > 1 ? `（${n}ページ目）` : ''}｜採用媒体の販売パートナー`,
+        title: `${p.name}の記事一覧${n > 1 ? `（${n}ページ目）` : ''}｜求人広告代理店エージェントベスト`,
         desc: p.lead, url: `/media/${p.key}/${n > 1 ? `page-${n}.html` : ''}`,
         h1: p.name, lead: p.lead, nav: pillarNav(p.key),
         crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: p.name }],
@@ -501,11 +501,11 @@ function main() {
   const topPages = Math.max(1, Math.ceil(all.length / PER_PAGE));
   for (let n = 1; n <= topPages; n++) {
     w(n === 1 ? 'index.html' : `page-${n}.html`, listPage({
-      title: `採用媒体の使いこなしと選び方の記事｜OfferBox・Wantedly・ワンキャリア`,
-      desc: 'OfferBox・Wantedly・ワンキャリアの運用ノウハウと、規模・業界・職種ごとの媒体の選び方。3媒体の販売パートナーが実務の判断に使える形でまとめています。',
+      title: `求人媒体の使いこなしと選び方の記事｜求人広告代理店エージェントベスト`,
+      desc: 'OfferBox・Wantedly・ワンキャリアの運用ノウハウと、規模・業界・職種ごとの媒体の選び方。求人広告代理店が実務の判断に使える形でまとめています。',
       url: `/media/${n > 1 ? `page-${n}.html` : ''}`,
       h1: '採用媒体の使いこなしと、選び方。',
-      lead: 'どの媒体を選ぶか、申し込んだあとどう運用するか。OfferBox・Wantedly・ワンキャリアの3媒体を扱う販売パートナーの立場で、実務の判断に使える形にまとめています。',
+      lead: 'どの媒体を選ぶか、申し込んだあとどう運用するか。新卒・中途・インターンの求人媒体を扱う求人広告代理店の立場で、実務の判断に使える形にまとめています。',
       nav: pillarNav(''),
       crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事' }],
       items: all.slice((n - 1) * PER_PAGE, n * PER_PAGE), total: all.length,
