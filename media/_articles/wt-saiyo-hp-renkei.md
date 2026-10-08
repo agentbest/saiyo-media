@@ -9,7 +9,7 @@ tags: ["Wantedly", "採用サイト", "役割分担", "コンテンツ制作", "
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-saiyo-hp-renkei"
-related: ["wt-boshu-abtest", "wt-boshu-dou", "wt-boshu-fukusu", "wt-boshu-hyouka"]
+related: ["wt-alumni", "wt-boshu-abtest", "wt-boshu-dou", "wt-boshu-fukusu"]
 ---
 
 Wantedlyを使い始めると、「採用サイトとWantedly、どちらに何を書くか」「同じことを両方に書くのは無駄ではないか」という問いが出ます。**結論から言うと、Wantedlyは候補者と「出会う場所」、採用サイトは候補者が会社を「確かめる場所」で、役割が違います。募集とストーリーと話を聞きに行く入口はWantedlyに、条件と選考の流れと制度と会社概要は採用サイトに置き、会社の「なぜ」と価値観の場面と社員の話は、両方に同じものを置きます。** 片方だけ整える、両方で内容が食い違う、採用サイトが古い、が起きると、Wantedlyで出会った候補者が採用サイトで離れます。この記事では、候補者の動き、それぞれに置くもの、両方に置くもの、失敗、導線、更新の順番、分担を整理します。どちらに先に費用と時間をかけるかは[Wantedlyと採用サイト、どちらを先に整えるか](/media/wt-heiyou-saiyo-hp/)で書きました。

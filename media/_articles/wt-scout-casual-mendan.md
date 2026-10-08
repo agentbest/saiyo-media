@@ -9,7 +9,7 @@ tags: ["Wantedly", "カジュアル面談", "面談設計", "スカウト運用"
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-casual-mendan"
-related: ["wt-scout-mendan-shitsumon", "wt-scout-henshin-go", "wt-scout-jitai", "wt-scout-senkou-ikou"]
+related: ["wt-scout-mendan-shitsumon", "wt-mendan-tantou-ikusei", "wt-scout-henshin-go", "wt-scout-jitai"]
 ---
 
 Wantedlyでは、スカウトへの返信も、募集記事の「話を聞きに行きたい」も、最初に「面談」につながります。この面談は「カジュアル面談」と呼ばれ、選考ではなく、お互いを知る場です。ところが、設計されていないと、選考の面接になったり、人事の会社説明会になったり、雑談で終わって次が無かったりします。**結論から言うと、カジュアル面談は「お互いを知る場」として、話す人・時間・形・流れ・終わったあとの選択肢を先に決めておきます。流れは、短い自己紹介、相手の話を聞く、仕事の場面を一つ話す、質問に答える、次の選択肢を伝える、の順で、話す時間より聞く時間を長くします。終わったあとに翌日までに連絡し、面談で聞いた言葉を記事に戻します。** この記事では、面談の役割、やりがちな失敗、決めること、流れの型、話す人の準備、面談後の連絡、記事への反映、分担を整理します。返信から面談までの進め方は[スカウトに返信が来たあとの進め方](/media/wt-scout-henshin-go/)で書きました。

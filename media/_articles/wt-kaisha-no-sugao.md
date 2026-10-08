@@ -9,7 +9,7 @@ tags: ["Wantedly", "素顔", "本音", "コンテンツ制作", "情報管理"]
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-kaisha-no-sugao"
-related: ["wt-boshu-abtest", "wt-boshu-dou", "wt-boshu-fukusu", "wt-boshu-hyouka"]
+related: ["wt-alumni", "wt-boshu-abtest", "wt-boshu-dou", "wt-boshu-fukusu"]
 ---
 
 Wantedlyの記事は「素顔を出す」「本音で書く」と言われます。ところが、どこまで出してよいかが決まっていないと、書く人は迷い、迷った結果は「良いことだけ」になります。**結論から言うと、Wantedlyで出す「素顔」とは、うまくいっていないこと・迷い・判断の理由であり、顧客名や機密や個人の情報ではありません。出せる本音と出してはいけない情報を先に分けておけば、書く人は迷わず、良いことだけにも、出しすぎにもなりません。** この記事では、素顔の意味、出したほうがよいもの、出してはいけないもの、迷うものの扱い、2つの失敗、範囲を先に決める手順、確認の流れ、分担を整理します。

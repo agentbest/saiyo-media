@@ -9,7 +9,7 @@ tags: ["OfferBox", "採用人数", "課題別", "チーム運用", "分担"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-ninzu-ooi"
-related: ["ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai", "ob-bunmen-mannerika"]
+related: ["ob-ninzu-henkou", "ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai"]
 ---
 
 採用人数が多い。一人二人ではなく、まとまった人数を、OfferBoxで採る。送る数が増え、承認が増え、面談が増えます。ここで起きるのは、「読んで書く」が追いつかず、読まずに送る形に戻ることです。**結論から言うと、採用人数が多いときは、送る数から逆算して、「読んで書く」を何人で割るかを先に決めます。作業で分けるか学生で分けるかを決め、承認への対応と面談の枠を、送る前に確保します。名義が増えたら、質を揃える合意と見本を持ち、台帳は一つにして週に一度見ます。人数が多くても、一人あたりの文面を薄くしません。職種と時期の波に、人を寄せます。** この記事では、人数が多いときに起きること、逆算、分け方、枠の確保、名義と質、台帳、薄くしないこと、波への寄せ方、分担を整理します。チーム運用の基本は[OfferBoxをチームで運用するときの役割分担](/media/ob-team-unyou/)、送信計画は[OfferBoxで採用人数から逆算する送信計画](/media/ob-ninzu-keikaku/)で書きました。この記事は、それらを「人数が多い」という症状から辿るものです。

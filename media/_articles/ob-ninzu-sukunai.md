@@ -9,7 +9,7 @@ tags: ["OfferBox", "採用人数", "課題別", "少人数採用", "集中"]
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-ninzu-sukunai"
-related: ["ob-kikan-mijikai", "ob-ninzu-ooi", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai"]
+related: ["ob-kikan-mijikai", "ob-ninzu-henkou", "ob-ninzu-ooi", "ob-bosyu-shokushu-ooi"]
 ---
 
 採用人数が少ない。一人か二人を、OfferBoxで採る。人数が少ないと、「少ないのだから軽く」と考えるか、逆に「取りこぼさないために数を送る」と考えがちです。どちらも、少ない人数の採用には合いません。**結論から言うと、採用人数が少ないときは、送る数を増やさず、「読める数」を「合う学生」に集中させます。「こんな人」を一人に絞り、送る数を読める数に固定し、承認した学生を最後まで一人が見ます。辞退の予備を持ち、面談を長めに深くし、時期を絞って集中します。少ない人数の運用でも、型と台帳と内定者は残します。** この記事では、少ないときの失敗、「こんな人」の絞り方、集中のさせ方、最後まで見ること、予備、面談、時期、残すもの、分担を整理します。人数が多い場合は[採用人数が多い会社のOfferBox運用の分担](/media/ob-ninzu-ooi/)、人事一人の運用は[人事1人でOfferBoxを回す方法](/media/ob-hitori-jinji/)で書きました。

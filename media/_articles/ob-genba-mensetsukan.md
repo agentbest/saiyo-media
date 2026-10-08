@@ -9,7 +9,7 @@ tags: ["OfferBox", "面接官", "現場社員", "選考", "運用ノウハウ"]
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "ob-genba-mensetsukan"
-related: ["ob-gakusei-hyouka-kijun", "ob-genba-makikomi", "ob-tekisei-katsuyou", "ob-boshu-youkou"]
+related: ["ob-gakusei-hyouka-kijun", "ob-genba-makikomi", "ob-kotowari-renraku", "ob-mendan-kiroku"]
 ---
 
 OfferBoxで承認され、初回面談を経て、選考に進んだ学生を、現場の面接官が面接する。ここで、面接官がナビ経由の学生と同じ入り方をすると、学生は「面談で話したことは、伝わっていないのか」と感じます。**結論から言うと、OfferBox経由の学生は、企業が選んで送り、文面で一文に触れ、面談で話した学生です。面接官には、その経緯と、この段階で見る項目を1枚で渡し、「なぜうちに」「志望度は」を聞かない理由を先に説明します。** 経緯を知らない面接官が志望動機から入ると、学生は構え、面談で作った温度が消えます。この記事では、OfferBox経由の学生の違い、面接官に渡す1枚、避ける言葉、面接の入り方、結果を戻す型、面接官の負担の減らし方、やりがちな失敗、分担を整理します。面接官との段階ごとの合意は[選考フローを短くする考え方](/media/ob-senkou-sekkei/)、現場の巻き込み方は[現場社員を巻き込む方法](/media/ob-genba-makikomi/)で書きました。

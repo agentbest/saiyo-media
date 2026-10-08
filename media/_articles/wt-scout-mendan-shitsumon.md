@@ -9,7 +9,7 @@ tags: ["Wantedly", "カジュアル面談", "質問", "スカウト運用", "面
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-mendan-shitsumon"
-related: ["wt-scout-casual-mendan", "wt-scout-henshin-go", "wt-scout-jitai", "wt-scout-senkou-ikou"]
+related: ["wt-scout-casual-mendan", "wt-mendan-tantou-ikusei", "wt-scout-henshin-go", "wt-scout-jitai"]
 ---
 
 カジュアル面談で、会社側は何を聞いてよいのか。聞かなさすぎると相手のことが分からず、聞きすぎると面接になります。**結論から言うと、カジュアル面談で聞くのは「どこを読んで来たか」「いま何をしているか」「何を知りたいか」「どんな働き方を考えているか」「気になっていること」の5つで、志望動機、転職理由の深掘り、他社の選考状況、評価のための質問、仕事に関係ない個人の事情は聞きません。聞く目的は、相手を評価することではなく、相手が何を求めて来たかを知り、それに合わせて話すことと、記事の材料を得ることです。** この記事では、聞く目的、聞くこと、聞かないこと、聞き方、答えにくそうなときの扱い、記録と使い方、分担を整理します。面談の流れの設計は[カジュアル面談の設計](/media/wt-scout-casual-mendan/)で書きました。この記事は、その中の「聞く」部分に絞った話です。

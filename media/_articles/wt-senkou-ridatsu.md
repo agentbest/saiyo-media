@@ -9,7 +9,7 @@ tags: ["Wantedly", "選考離脱", "課題別", "カジュアル面談", "選考
 pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-senkou-ridatsu"
-related: ["wt-mendan-tsunagaranai", "wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu"]
+related: ["wt-kotowari-renraku", "wt-mendan-kiroku", "wt-mendan-tsunagaranai", "wt-chimeido"]
 ---
 
 Wantedlyのカジュアル面談まで来て、選考に進んだのに、途中で離脱する。この症状は、「本気ではなかった」で片づけられがちです。ところが、Wantedly経由の候補者には、他の経路の候補者と違う離脱の理由があります。**結論から言うと、Wantedly経由の離脱の多くは、「読んだ会社」と「選考で会った会社」の差から起きます。会社ページと記事とストーリーを読み、「お互いを知る場」で話し、その会社の印象を持って選考に入ったのに、選考が急に「面接」になり、面接官が記事と面談を知らず「志望動機」から聞き、書類が急に重く、条件が選考で初めて出る。離脱を段ごと（面談→選考の入口・一次・二次以降・最終）に切り分け、差が出た段だけを直します。「面談の続き」として選考を組み、離脱の理由を聞ける範囲で聞き、離脱が続く段を月に数えます。** この記事では、Wantedly経由に特有の離脱、段ごとのサインと直し方、面談の続きとしての選考、理由の集め方、段を数えること、分担を整理します。面談から選考への移し方は[Wantedlyのカジュアル面談から選考へ移す方法](/media/wt-scout-senkou-ikou/)、面談後の辞退は[Wantedlyで面談後に辞退されるときの見直し](/media/wt-scout-jitai/)で書きました。この記事は、選考に入ったあとの離脱です。

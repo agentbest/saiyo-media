@@ -9,7 +9,7 @@ tags: ["OfferBox", "現場社員", "巻き込み", "協力", "運用ノウハウ
 pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "ob-genba-makikomi"
-related: ["ob-genba-mensetsukan", "ob-boshu-youkou", "ob-bunkei-gakusei", "ob-chihou-gakusei"]
+related: ["ob-genba-mensetsukan", "ob-mendan-tantou-ikusei", "ob-boshu-youkou", "ob-bunkei-gakusei"]
 ---
 
 OfferBoxの運用で、現場社員の協力があると、文面は現場の言葉になり、面談は仕事の話になり、承認と面談の質が上がります。ところが、「現場が協力してくれない」という相談は多いものです。**結論から言うと、現場が協力しない理由の多くは、頼み方にあります。頼むことを「名義・仕事の一文・面談」の3つに絞り、それ以外の負担を人事が吸収し、若手1人から始め、承認した学生の反応を現場に戻す。この形なら、協力は続きます。** 逆に、「現場に全部やってもらう」か「全く頼まない」のどちらかだと、続かないか、文面が人事の言葉になります。この記事では、頼むことの絞り方、負担の吸収、始め方、伝え方、断られる理由への対処、反応の戻し方、広げる段階、やりがちな失敗を整理します。
