@@ -317,6 +317,14 @@
   .av img{width:100%;height:100%;object-fit:contain;display:block}
 </style>
 <noscript><style>.rv{opacity:1;transform:none}</style></noscript>
+<!-- GA4（記事メディア /media/ と同じプロパティ。送信は generate_lead イベントで数える） -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1XXMP8Y1B4"></script>
+<script>
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js',new Date());
+  gtag('config','G-1XXMP8Y1B4');
+</script>
 </head>
 <body>
 
@@ -859,6 +867,13 @@
         submitBtn=document.getElementById('submit-btn');
     if(!form)return;
 
+    // 記事メディアからの導線（/?from=ページ&media=媒体#entry）。媒体は事前にチェックし、from は文面に付ける
+    var qs=new URLSearchParams(location.search), FROM=(qs.get('from')||'').slice(0,120), PRE=qs.get('media');
+    if(PRE)Array.prototype.forEach.call(form.querySelectorAll('input[name="media"]'),function(c){if(c.value===PRE)c.checked=true;});
+    var ev=function(n,p){try{if(window.gtag)gtag('event',n,p||{});}catch(_){}};
+    var started=false;
+    form.addEventListener('input',function(){if(!started){started=true;ev('form_start',{form_location:'lp',from:FROM});}});
+
     form.addEventListener('submit',function(e){
       e.preventDefault();
       errBox.textContent='';
@@ -873,11 +888,12 @@
       data.append(ENTRY.company,company);
       data.append(ENTRY.name,name);
       data.append(ENTRY.email,email);
-      data.append(ENTRY.message,message+(media?'\n\n興味のある媒体：'+media:'')+'\n\n---\nお問い合わせ元：'+SOURCE);
+      data.append(ENTRY.message,message+(media?'\n\n興味のある媒体：'+media:'')+'\n\n---\nお問い合わせ元：'+SOURCE+(FROM?'（導線：'+FROM+'）':''));
 
       fetch(FORM_ACTION,{method:'POST',mode:'no-cors',body:data})
         .then(function(){
           form.hidden=true;thanks.hidden=false;
+          ev('generate_lead',{form_location:'lp',from:FROM});
           thanks.scrollIntoView({behavior:'smooth',block:'center'});
         })
         .catch(function(){

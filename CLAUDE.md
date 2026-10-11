@@ -28,3 +28,11 @@
 - LPに媒体ごとの料金・登録者数は載せない（媒体が増えると保てない。Wantedlyのプラン料金は公式非公開、ワンキャリアの金額は書かない方針）。料金欄は「料金の決まり方」だけ
 - 「業界最大級」「No.1」など媒体側の最上級表現は載せない（注記と基準日が頁ごとに違う）
 - 代表プロフィールは jobsite と同じ文面に統一済み
+
+## 問い合わせ導線（2026-10-11）
+- **記事末は記事内フォーム**（`build-media.js` の `ctaBlock`、送信は `media/assets/media.js`）。LPと同じGoogleフォーム・同じ entry ID。相談内容は任意、文面に「興味のある媒体／読んでいた記事URL」を付ける。送信後はLPと同じくTimerexを案内（直リンクにはしない）。
+- 文言は柱ごと（`PILLAR_CTA`）。媒体の料金・最上級表現は書かない。金額はOfferBox運用代行（20万円／1名）だけ。
+- 本文中の `/#entry` リンクはビルド時に `#consult`（記事末フォーム）へ置換。スクロール途中で下部バー（`.sticky-cta`）、閉じたらそのタブでは出さない。
+- 一覧・トップからLPへは `/?from=<ページ>&media=<媒体>#entry`。LPは media を事前チェックし、from を文面末尾に「（導線：…）」で付ける。
+- GA4（G-1XXMP8Y1B4）: `cta_click`（cta_location）／`form_start`／**`generate_lead`（送信成功。form_location=article|lp）**。LPにもGAタグを入れた（それまでLPは計測なし）。
+- メディアトップ（/media/）は悩み→業界→職種→規模→媒体→新着の入口構成。業界・職種・規模のチップは hikaku の series/target から自動。悩みの12本は `WORRIES`。

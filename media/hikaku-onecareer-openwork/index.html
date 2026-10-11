@@ -27,6 +27,7 @@
   gtag('js',new Date());
   gtag('config','G-1XXMP8Y1B4');
 </script>
+<script src="/media/assets/media.js" defer></script>
 </head>
 <body>
 <header class="nav">
@@ -40,7 +41,7 @@
       <a href="/#media">取り扱い媒体</a>
       <a href="/#price">料金</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+    <a class="btn btn-primary cta-mini" href="#consult" data-cta="nav">無料相談</a>
   </div>
 </header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/hikaku/">媒体比較・選び方</a><i>›</i><span>ワンキャリアとOpenWorkの違い｜クチコミの見られ方</span></div></nav><main class="wrap article">
   <p class="art__kicker">媒体比較・選び方 / 媒体比較</p>
@@ -61,7 +62,7 @@
 <p>直せないものを直そうとするより、読まれる前提で「先に説明する」「聞ける場を作る」に時間を使うほうが、内定承諾には効きます。</p>
 <aside class="cta-inline">
   <p>内定承諾までのどこで学生が迷っているか、クチコミを読むところから一緒に整理します。相談だけでも構いません。</p>
-  <a href="/#entry">運用の相談をする</a>
+  <a href="#consult" data-cta="inline">運用の相談をする</a>
 </aside>
 <h3 class="insight">エージェントベストの見解</h3>
 <p>申し込んだあと、ワンキャリアの体験談を直したのに内定承諾が増えない会社に共通するのは、「選考の印象は良くなったが、内定者が最後に読むものが別にある」ことに気づいていない状態です。選考中の学生は体験談を読んで自社を続けるかを決めます。内定を受けるかを決める段階では、社員が書いた評価を読みます。当社が3媒体すべての販売パートナーとして契約後の運用を見ている経験では、内定辞退が減った会社は、選考体験談を直したうえで、内定者に「社員クチコミで気になる点があれば聞いてほしい」と先に言い、実際に現場社員と話せる場を作った会社です。書かれていることを否定するのではなく、事実なら取り組みを、古いなら現状を、内定者の前で話す。採用担当が直せるのは選考の運用までで、その先は「先に説明する」設計で対応するのが現実的です。</p>
@@ -74,7 +75,7 @@
 <ul><li><strong>選考の途中で辞退が多い</strong> → ワンキャリアの選考体験談を先に読む。直せる範囲にある</li><li><strong>内定を出しても承諾されない</strong> → OpenWorkの社員クチコミを先に読む。先に説明する設計を作る</li><li><strong>どちらも多い</strong> → 選考体験談から。直せる範囲を先に直し、その後で社員クチコミへの向き合い方を決める</li><li><strong>自社の評判が学生の間でどう語られているか分からない</strong> → 両方を一度読む。段階ごとに何が書かれているかを把握する</li><li><strong>社員クチコミの内容が古い</strong> → 選考の中で現状を話す設計を先に。組織が変わった話は、内定者が読む前に伝える</li></ul>
 <aside class="cta-inline">
   <p>自社に合う媒体がどれか、当社が扱う3媒体を並べてご案内します。申込前提ではありません。</p>
-  <a href="/#entry">媒体選びを相談する</a>
+  <a href="#consult" data-cta="inline">媒体選びを相談する</a>
 </aside>
 <h2 id="h5">社内の分担</h2>
 <p>ワンキャリアの体験談への向き合い方は、採用担当と面接官の範囲です。この点は<a href="/media/hikaku-onecareer-rikunabi/">ワンキャリアとリクナビの違い</a>でも書きました。</p>
@@ -94,18 +95,41 @@
 <p>当社が販売パートナーとして窓口になるのは、OfferBox・Wantedly・ワンキャリアの3媒体です。OpenWorkの企業向けサービスは各社の窓口になりますが、クチコミを段階ごとに読み分け、内定承諾までの設計を組む相談は、ワンキャリアの運用を見ている立場からお受けできます。3媒体の全体像は<a href="/media/hikaku-3baitai/">3媒体の違いと選び方</a>にまとめています。</p>
   </div>
   
-  <aside class="cta-end">
-  <p class="cta-end__lead">求人媒体選びを、ひとつの窓口で</p>
-  <p class="cta-end__sub">エージェントベストは新卒・中途・インターンの求人媒体を扱う求人広告代理店です。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
-  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
-</aside>
+  <section class="consult" id="consult" aria-labelledby="consult-t">
+  <div class="consult__head">
+    <p class="consult__kick">相談無料 ／ 求人広告代理店エージェントベスト</p>
+    <h2 class="consult__lead" id="consult-t">どの媒体にするか、決めきれない方へ</h2>
+    <ul class="consult__points"><li>新卒・中途・インターンの取り扱い媒体を、貴社の採用計画に合わせて横並びで比較します</li><li>媒体選定・お見積りは無料。申込前提でなくて構いません</li><li>料金は各媒体の正規料金のまま。代理店を通しても上乗せはありません</li></ul>
+  </div>
+  <form class="consult__form" data-consult novalidate data-media="未定・相談したい" data-from="hikaku-onecareer-openwork" data-title="ワンキャリアとOpenWorkの違い｜クチコミの見られ方">
+    <div class="cf-row">
+      <label><span class="cf-l">会社名<span class="req">必須</span></span><input type="text" name="company" required autocomplete="organization"></label>
+      <label><span class="cf-l">お名前<span class="req">必須</span></span><input type="text" name="name" required autocomplete="name"></label>
+    </div>
+    <label><span class="cf-l">メールアドレス<span class="req">必須</span></span><input type="email" name="email" required autocomplete="email"></label>
+    <label><span class="cf-l">ご相談内容<span class="opt">任意</span></span><textarea name="message" rows="3" placeholder="例：28卒で営業職を5名、中途でエンジニアを2名採用予定。どの媒体を組み合わせるか相談したい。"></textarea></label>
+    <p class="cf-err" role="alert"></p>
+    <button type="submit" class="btn btn-primary cf-submit">媒体選びを相談する →</button>
+    <p class="cf-note">相談無料 ／ 営業のお電話はしません ／ 正規料金・上乗せなし ／ 厚生労働大臣許可 13-ユ-316964<br>送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+  </form>
+  <div class="consult__thanks" hidden>
+    <p class="consult__lead">送信しました</p>
+    <p>お問い合わせありがとうございます。内容を確認のうえ、担当者よりご連絡いたします。</p>
+    <p>お急ぎの場合は、打ち合わせの日程を直接ご予約いただけます。<br><a href="https://timerex.net/s/r_matsuoka/6666f3b5/" target="_blank" rel="noopener" data-cta="timerex">日程を選んで予約する ↗</a></p>
+  </div>
+</section>
   <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/hikaku-onecareer-mynavi/">ワンキャリアとマイナビの違い｜学生が見に来る理由が違う</a></li><li><a href="/media/hikaku-onecareer-wantedly/">ワンキャリアとWantedlyの違い｜新卒採用で使うなら</a></li><li><a href="/media/hikaku-3baitai/">OfferBox・Wantedly・ワンキャリアの違いと選び方｜3媒体を同じ軸で並べる</a></li><li><a href="/media/hikaku-offerbox-onecareer/">OfferBoxとワンキャリアの違い｜スカウト型とクチコミ型</a></li></ul></section>
   <aside class="author">
   <p class="author__t">監修</p>
   <p class="author__n">松岡 良次</p>
   <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
 </aside>
-</main><footer>
+</main>
+<div class="sticky-cta" hidden>
+  <p>媒体選びを無料で相談<span>正規料金のまま・相談だけでもOK</span></p>
+  <a href="#consult" data-cta="sticky">相談する</a>
+  <button type="button" class="sticky-cta__x" aria-label="閉じる">×</button>
+</div><footer>
   <div class="wrap">
     <div class="foot-in">
       <div>
@@ -120,7 +144,7 @@
         <a href="/media/onecareer/">ワンキャリア</a>
         <a href="/media/hikaku/">媒体比較・選び方</a>
         <a href="/media/knowhow/">採用ノウハウ</a>
-        <a href="/#entry">お問い合わせ</a>
+        <a href="/?from=media-footer#entry" data-cta="footer">お問い合わせ</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>

@@ -27,6 +27,7 @@
   gtag('js',new Date());
   gtag('config','G-1XXMP8Y1B4');
 </script>
+<script src="/media/assets/media.js" defer></script>
 </head>
 <body>
 <header class="nav">
@@ -40,7 +41,7 @@
       <a href="/#media">取り扱い媒体</a>
       <a href="/#price">料金</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+    <a class="btn btn-primary cta-mini" href="#consult" data-cta="nav">無料相談</a>
   </div>
 </header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/offerbox/">OfferBox</a><i>›</i><span>OfferBoxでエンジニア志望の学生を見つける検索の考え方</span></div></nav><main class="wrap article">
   <p class="art__kicker">OfferBox / 職種別</p>
@@ -61,7 +62,7 @@
 <p>技術名を譲れない条件にすると、検索結果は少なくなり、その中にいるのは「自社と同じ技術をすでに使った学生」だけです。新卒のエンジニア採用は、入社後に自社の技術を学ぶ前提なので、探すのは「学べる学生」であって「学んだ学生」ではありません。条件の絞りすぎと広げすぎの見分け方は<a href="/media/ob-kensaku-jyoken/">OfferBoxの検索条件の組み方</a>で書きました。</p>
 <aside class="cta-inline">
   <p>エンジニアの検索が「情報系・技術名」で止まっている。そう感じたら、求める行動を三つ書き出すところから。</p>
-  <a href="/#entry">運用の相談をする</a>
+  <a href="#consult" data-cta="inline">運用の相談をする</a>
 </aside>
 <h3 class="insight">エージェントベストの見解</h3>
 <p>エンジニアの検索で、発注側がよく誤解しているのは「技術名で絞れば、エンジニアに向く学生が見つかる」という考え方です。技術名は、学生が書いた場合にだけ検索に掛かります。同じことを作っていても、技術名を書く学生と、作ったものだけを書く学生がいて、後者は技術名の検索から外れます。当社は3媒体すべての販売パートナーとしてOfferBoxの契約後の運用を見ていますが、エンジニア採用で承認と面談が続いている会社は、技術名の一致ではなく「作ったものがあるか」「詰まったときに何をしたか」で読んでいます。技術名の一致で絞った会社は、送る相手がすぐに尽き、送れる学生を探して条件を緩めた結果、文面が会社紹介になり、承認が落ちる、という流れをたどります。技術名は、文面で触れる材料としては使えますが、探す条件としては細すぎます。検索は「作ったことがあるか」で広めに組み、技術名は読んだあとに文面で使う。この使い分けが、送る数と承認を両立させます。</p>
@@ -79,7 +80,7 @@
 <p>検索、文面、面談で見るものが揃っていると、「どの条件で見つけた学生が、面談まで来て、選考に進んだか」が読めます。面談の組み方は<a href="/media/ob-mendan-sekkei/">OfferBoxの面談設計</a>で書きました。</p>
 <aside class="cta-inline">
   <p>検索結果を人事だけで読んでいて、制作物の近さが判断できない。そう感じたら、エンジニアが読む時間を週に一度決めるところから。</p>
-  <a href="/#entry">運用の相談をする</a>
+  <a href="#consult" data-cta="inline">運用の相談をする</a>
 </aside>
 <h3 class="insight">エージェントベストの見解</h3>
 <p>エンジニアの検索条件を組む前に、当社が先に決めてもらうのは「検索結果を誰が読むか」です。営業職の検索は、求める行動が決まれば人事だけで読めます。エンジニアの検索は、「作ったものがあるか」までは人事で読めますが、「自社の開発に近いか」は人事では判断できません。ここをエンジニアに回す時間を決めずに検索を組むと、人事が技術名の印象で送る相手を決めるか、エンジニアに全件を回して止まるか、のどちらかになります。当社が運用を見ている会社で回っているのは、人事が一次で「作ったものがある学生」に絞り、週に一度、エンジニアが二次で「近い・遠い」を付ける、という二段の読み方です。エンジニアの時間は週に一度のまとまった枠だけで済み、人事は技術の判断をしなくてよくなります。検索条件は、この二段の読み方が回る量に合わせて広さを決めます。条件を先に組んで、読む人をあとで探す順番だと、検索は組めても運用が止まります。現場社員に頼むことを絞る考え方は<a href="/media/ob-genba-makikomi/">OfferBoxの運用に現場社員を巻き込む方法</a>で書きました。</p>
@@ -99,18 +100,41 @@
 <p>頼めますが、「どのエンジニアか」の一言と、求める行動の三つ、二次の判断をするエンジニアは社内で決めておきます。代行に任せられるのは、決まった行動で検索を組み、一次で「作ったものがある学生」に絞り、エンジニアの二次に回す作業です。二次の判断まで代行に任せると、技術の近さを社外の人が決めることになり、面談でずれが出ます。範囲の決め方は<a href="/media/ob-unyou-daikou-hanni/">運用代行に任せる範囲</a>で書きました。</p>
   </div>
   
-  <aside class="cta-end">
-  <p class="cta-end__lead">求人媒体選びを、ひとつの窓口で</p>
-  <p class="cta-end__sub">エージェントベストは新卒・中途・インターンの求人媒体を扱う求人広告代理店です。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
-  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
-</aside>
+  <section class="consult" id="consult" aria-labelledby="consult-t">
+  <div class="consult__head">
+    <p class="consult__kick">相談無料 ／ 求人広告代理店エージェントベスト</p>
+    <h2 class="consult__lead" id="consult-t">OfferBoxの運用、ひとりで抱えていませんか</h2>
+    <ul class="consult__points"><li>検索条件・オファー文面・承認後の面談まで、いまの運用を一緒に点検します</li><li>運用代行は入社承諾時のみ課金の完全成果報酬（20万円／1名）</li><li>これから申し込む場合も、料金はOfferBoxの正規料金のままです</li></ul>
+  </div>
+  <form class="consult__form" data-consult novalidate data-media="OfferBox" data-from="ob-engineer-target" data-title="OfferBoxでエンジニア志望の学生を見つける検索の考え方">
+    <div class="cf-row">
+      <label><span class="cf-l">会社名<span class="req">必須</span></span><input type="text" name="company" required autocomplete="organization"></label>
+      <label><span class="cf-l">お名前<span class="req">必須</span></span><input type="text" name="name" required autocomplete="name"></label>
+    </div>
+    <label><span class="cf-l">メールアドレス<span class="req">必須</span></span><input type="email" name="email" required autocomplete="email"></label>
+    <label><span class="cf-l">ご相談内容<span class="opt">任意</span></span><textarea name="message" rows="3" placeholder="例：28卒で5名採用予定。オファーの承認率が低いので、文面と検索条件を見直したい。"></textarea></label>
+    <p class="cf-err" role="alert"></p>
+    <button type="submit" class="btn btn-primary cf-submit">OfferBoxの運用を相談する →</button>
+    <p class="cf-note">相談無料 ／ 営業のお電話はしません ／ 正規料金・上乗せなし ／ 厚生労働大臣許可 13-ユ-316964<br>送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+  </form>
+  <div class="consult__thanks" hidden>
+    <p class="consult__lead">送信しました</p>
+    <p>お問い合わせありがとうございます。内容を確認のうえ、担当者よりご連絡いたします。</p>
+    <p>お急ぎの場合は、打ち合わせの日程を直接ご予約いただけます。<br><a href="https://timerex.net/s/r_matsuoka/6666f3b5/" target="_blank" rel="noopener" data-cta="timerex">日程を選んで予約する ↗</a></p>
+  </div>
+</section>
   <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/ob-engineer-offer-bunmen/">OfferBoxでエンジニアを採るオファー文面の書き方</a></li><li><a href="/media/ob-consultant-target/">OfferBoxでコンサルタント志望の学生を見つける検索の考え方</a></li><li><a href="/media/ob-denki-sekkei-target/">OfferBoxで電気・電子設計志望の学生を見つける検索の考え方</a></li><li><a href="/media/ob-designer-target/">OfferBoxでデザイナー志望の学生を見つける検索の考え方</a></li></ul></section>
   <aside class="author">
   <p class="author__t">監修</p>
   <p class="author__n">松岡 良次</p>
   <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
 </aside>
-</main><footer>
+</main>
+<div class="sticky-cta" hidden>
+  <p>OfferBoxの運用を無料で相談<span>正規料金のまま・相談だけでもOK</span></p>
+  <a href="#consult" data-cta="sticky">相談する</a>
+  <button type="button" class="sticky-cta__x" aria-label="閉じる">×</button>
+</div><footer>
   <div class="wrap">
     <div class="foot-in">
       <div>
@@ -125,7 +149,7 @@
         <a href="/media/onecareer/">ワンキャリア</a>
         <a href="/media/hikaku/">媒体比較・選び方</a>
         <a href="/media/knowhow/">採用ノウハウ</a>
-        <a href="/#entry">お問い合わせ</a>
+        <a href="/?from=media-footer#entry" data-cta="footer">お問い合わせ</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>

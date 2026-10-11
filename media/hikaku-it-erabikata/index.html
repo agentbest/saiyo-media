@@ -27,6 +27,7 @@
   gtag('js',new Date());
   gtag('config','G-1XXMP8Y1B4');
 </script>
+<script src="/media/assets/media.js" defer></script>
 </head>
 <body>
 <header class="nav">
@@ -40,7 +41,7 @@
       <a href="/#media">取り扱い媒体</a>
       <a href="/#price">料金</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+    <a class="btn btn-primary cta-mini" href="#consult" data-cta="nav">無料相談</a>
   </div>
 </header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/hikaku/">媒体比較・選び方</a><i>›</i><span>IT・Web業界の採用媒体の選び方</span></div></nav><main class="wrap article">
   <p class="art__kicker">媒体比較・選び方 / 業界別</p>
@@ -57,7 +58,7 @@
 <p>軸の詳しい見方は<a href="/media/hikaku-keisai-vs-scout/">掲載型とスカウト型の違い</a>、<a href="/media/hikaku-kyoukan-vs-jouken/">共感型と条件型の媒体の違い</a>で書きました。</p>
 <aside class="cta-inline">
   <p>自社に合う媒体がどれか、3媒体を並べてご案内します。IT・Web業界で、自社開発か受託か、BtoCかBtoBか、作る側か使う側かの位置から、どれを先に検討するかを一緒に整理します。</p>
-  <a href="/#entry">媒体選びを相談する</a>
+  <a href="#consult" data-cta="inline">媒体選びを相談する</a>
 </aside>
 <h3 class="insight">エージェントベストの見解</h3>
 <p>これをやる前に、先に「自社開発か受託か」「BtoCかBtoBか」「作る側か使う側か」の三つで自社の位置を決めておかないと、「IT業界」の一語で送って、自社を指していない学生に届き、面談で「思っていたITと違う」と離れます。当社は3媒体すべての販売パートナーとして、IT・Webの会社の相談を受けますが、「IT業界で成長したい方へ」「Webサービスを作る会社です」の文面で、受託の会社が自社開発志望の学生に、事業会社のIT部門がWeb系志望の学生に、BtoBの会社がBtoCのサービス名を知っている学生に送っている形が多くあります。順番は、三つの位置を決め、「当社は〇〇（受託）で、△△（BtoB）で、□□（作る側）」を一行にし、情報系には開発の環境と役割を、文系には職種名と仕事の中身を、それぞれ最初の一文に置くことです。</p>
@@ -70,7 +71,7 @@
 <ul><li><strong>受託・BtoB・IT部門は、送る型と記事を置く型を組み合わせる</strong>：文面で「〇〇（位置）で、あなたの△△を読んで」を、記事で「開発の一日」と「リリースの日」を。<a href="/media/ob-heiyou-wantedly/">OfferBoxとWantedlyの併用</a></li></ul>
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。IT・Web業界で、リリースの前で動けないエンジニアの時間を開発の環境の一文と名義と面談だけに固定し、絞る作業を外に出す形をお伝えします。</p>
-  <a href="/#entry">運用の相談をする</a>
+  <a href="#consult" data-cta="inline">運用の相談をする</a>
 </aside>
 <h2 id="h6">見せ方｜「IT業界」ではなく、三つの位置と、開発の環境と、職種の中身</h2>
 <ul><li><strong>三つの位置を、最初の一文で</strong>：「当社は受託で、BtoBで、作る側です。〇〇業界の△△を作っています」。「IT業界」「Webサービス」の一語で済ませない</li><li><strong>情報系には、開発の環境と役割を、他社と並べて読まれる前提で</strong>：「言語は〇〇、環境は△△、チームは□□人規模、レビューは〇〇、リリースは△△の頻度」。数値は実態で。この記事では書かない</li><li><strong>文系には、職種名と仕事の中身を</strong>：「ディレクターは、クライアントとエンジニアの間で〇〇を決める仕事です」。「ITに興味」を求めない</li></ul>
@@ -91,18 +92,41 @@
 <p>できます。当社は、位置の整理、一行の型、一枚の型、文面と記事の型、送る型の作業、記事を整える部分を支えられます。位置の決定、開発の環境の記述、職種の中身の開示、割合の実態、名義の選定、面談は、企業が行ってください。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーとして、3媒体を並べてご案内しています。3媒体の全体像は<a href="/media/hikaku-3baitai/">3媒体の違いと選び方</a>にまとめています。</p>
   </div>
   
-  <aside class="cta-end">
-  <p class="cta-end__lead">求人媒体選びを、ひとつの窓口で</p>
-  <p class="cta-end__sub">エージェントベストは新卒・中途・インターンの求人媒体を扱う求人広告代理店です。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
-  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
-</aside>
+  <section class="consult" id="consult" aria-labelledby="consult-t">
+  <div class="consult__head">
+    <p class="consult__kick">相談無料 ／ 求人広告代理店エージェントベスト</p>
+    <h2 class="consult__lead" id="consult-t">どの媒体にするか、決めきれない方へ</h2>
+    <ul class="consult__points"><li>新卒・中途・インターンの取り扱い媒体を、貴社の採用計画に合わせて横並びで比較します</li><li>媒体選定・お見積りは無料。申込前提でなくて構いません</li><li>料金は各媒体の正規料金のまま。代理店を通しても上乗せはありません</li></ul>
+  </div>
+  <form class="consult__form" data-consult novalidate data-media="未定・相談したい" data-from="hikaku-it-erabikata" data-title="IT・Web業界の採用媒体の選び方">
+    <div class="cf-row">
+      <label><span class="cf-l">会社名<span class="req">必須</span></span><input type="text" name="company" required autocomplete="organization"></label>
+      <label><span class="cf-l">お名前<span class="req">必須</span></span><input type="text" name="name" required autocomplete="name"></label>
+    </div>
+    <label><span class="cf-l">メールアドレス<span class="req">必須</span></span><input type="email" name="email" required autocomplete="email"></label>
+    <label><span class="cf-l">ご相談内容<span class="opt">任意</span></span><textarea name="message" rows="3" placeholder="例：28卒で営業職を5名、中途でエンジニアを2名採用予定。どの媒体を組み合わせるか相談したい。"></textarea></label>
+    <p class="cf-err" role="alert"></p>
+    <button type="submit" class="btn btn-primary cf-submit">媒体選びを相談する →</button>
+    <p class="cf-note">相談無料 ／ 営業のお電話はしません ／ 正規料金・上乗せなし ／ 厚生労働大臣許可 13-ユ-316964<br>送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+  </form>
+  <div class="consult__thanks" hidden>
+    <p class="consult__lead">送信しました</p>
+    <p>お問い合わせありがとうございます。内容を確認のうえ、担当者よりご連絡いたします。</p>
+    <p>お急ぎの場合は、打ち合わせの日程を直接ご予約いただけます。<br><a href="https://timerex.net/s/r_matsuoka/6666f3b5/" target="_blank" rel="noopener" data-cta="timerex">日程を選んで予約する ↗</a></p>
+  </div>
+</section>
   <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/hikaku-agri-erabikata/">農業業界の採用媒体の選び方｜農業法人・農業関連の会社の新卒採用</a></li><li><a href="/media/hikaku-butsuryu-erabikata/">物流業界の採用媒体の選び方</a></li><li><a href="/media/hikaku-consul-erabikata/">コンサルティング業界の採用媒体の選び方｜大手は独自の早い選考と憧れが集まり、中小・専門のコンサルは知られていない</a></li><li><a href="/media/hikaku-dantai-erabikata/">官公庁・団体業界の採用媒体の選び方｜官公庁は独自の試験と日程が中心で、民間の媒体を使えるかは各機関の規定で決まる</a></li></ul></section>
   <aside class="author">
   <p class="author__t">監修</p>
   <p class="author__n">松岡 良次</p>
   <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
 </aside>
-</main><footer>
+</main>
+<div class="sticky-cta" hidden>
+  <p>媒体選びを無料で相談<span>正規料金のまま・相談だけでもOK</span></p>
+  <a href="#consult" data-cta="sticky">相談する</a>
+  <button type="button" class="sticky-cta__x" aria-label="閉じる">×</button>
+</div><footer>
   <div class="wrap">
     <div class="foot-in">
       <div>
@@ -117,7 +141,7 @@
         <a href="/media/onecareer/">ワンキャリア</a>
         <a href="/media/hikaku/">媒体比較・選び方</a>
         <a href="/media/knowhow/">採用ノウハウ</a>
-        <a href="/#entry">お問い合わせ</a>
+        <a href="/?from=media-footer#entry" data-cta="footer">お問い合わせ</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>

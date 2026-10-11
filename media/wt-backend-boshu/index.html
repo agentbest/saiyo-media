@@ -27,6 +27,7 @@
   gtag('js',new Date());
   gtag('config','G-1XXMP8Y1B4');
 </script>
+<script src="/media/assets/media.js" defer></script>
 </head>
 <body>
 <header class="nav">
@@ -40,7 +41,7 @@
       <a href="/#media">取り扱い媒体</a>
       <a href="/#price">料金</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+    <a class="btn btn-primary cta-mini" href="#consult" data-cta="nav">無料相談</a>
   </div>
 </header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/wantedly/">Wantedly</a><i>›</i><span>Wantedlyでバックエンドエンジニアを採る募集記事の書き方｜言語名ではなく「何のデータを、どのくらいの規模で、どこまで自分たちで持っているか」を書く</span></div></nav><main class="wrap article">
   <p class="art__kicker">Wantedly / 職種別</p>
@@ -61,7 +62,7 @@
 <p>「なにを」の書き方の基本は<a href="/media/wt-boshu-nani-wo/">「なにをやっているのか」の書き方</a>で書きました。</p>
 <aside class="cta-inline">
   <p>いま使っている媒体の運用の相談だけでも構いません。バックエンドの募集記事を、言語名の一覧から「何のデータを、どの規模で」に一緒に直します。</p>
-  <a href="/#entry">運用の相談をする</a>
+  <a href="#consult" data-cta="inline">運用の相談をする</a>
 </aside>
 <h3 class="insight">エージェントベストの見解</h3>
 <p>バックエンドエンジニアの募集記事を出す前に、先に決めておかないと効果が出ないのは、「基盤をどこまで自分たちで持つか」と「障害の当番があるか」です。当社がWantedlyのバックエンドの募集を支えるとき、言語とデータベースの名前は揃っているのに、この二つが書かれていない募集記事が多くあります。バックエンドエンジニアが面談で最初に聞くのは、言語の版ではなく、「基盤は誰が見ていますか」「夜間の対応はありますか」です。ここに答えがないと、「基盤の運用も障害対応も、全部一人でやらされる」を想像して離れます。当番があっても構いません。「当番はある。〇人で回していて、夜間は△△の範囲まで。振り返りは□□の形でしている」と書けば、それを前提に読む人が来ます。当社が最初にお願いするのは、技術構成の確認ではなく、「基盤を誰が持ち、障害が起きたら誰が対応するか」の一文です。</p>
@@ -77,7 +78,7 @@
 <p>「最初の月に何を任せ、誰がレビューするか」を書くと、経験年数の条件がいらなくなります。「基盤も持つ」「画面も持つ」を求めるなら、「こんな人」でなく「なにを」と「どうやって」に境界を書きます。書き方の基本は<a href="/media/wt-boshu-konna/">「こんなことやります」の書き方</a>で書きました。</p>
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。バックエンドエンジニアに話を聞いて募集記事にする時間と、面談の時間を、募集ごとにお伝えします。</p>
-  <a href="/#entry">媒体選びを相談する</a>
+  <a href="#consult" data-cta="inline">媒体選びを相談する</a>
 </aside>
 <h2 id="h6">スカウトと面談への接続</h2>
 <ul><li><strong>スカウトの文面は、募集記事の「何のデータを、どの規模で」と同じ言葉で</strong>：相手が扱っているデータと仕組みを読み、自社の仕組みと重ねる。言語名を並べない。<a href="/media/wt-scout-bunmen-rei-eng/">エンジニア向けスカウト文面の型</a></li><li><strong>面談には、バックエンドエンジニアが出る</strong>：一人目の募集なら、レビューする人か、基盤を見ている人が出る</li><li><strong>面談で話すのは、仕組みの話</strong>：いま分割や移行をしている部分の図を見せる、詰まっているところを話す、相手ならどう分けるかを聞く。会社説明を繰り返さない</li><li><strong>障害の話を隠さない</strong>：最近起きた障害と、どう直したかを話す</li></ul>
@@ -102,18 +103,41 @@
 <p>できます。当社は、募集記事の型、技術構成を文で書く直し方、「こんな人」を行動に直す作業、スカウト文面との整合の確認を支えられます。担当範囲の決定、技術構成と数値の正確さ、面談は、社内で担ってください。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーとして、Wantedlyの募集記事とスカウトの運用を支えています。3媒体の全体像は<a href="/media/hikaku-3baitai/">3媒体の違いと選び方</a>にまとめています。</p>
   </div>
   
-  <aside class="cta-end">
-  <p class="cta-end__lead">求人媒体選びを、ひとつの窓口で</p>
-  <p class="cta-end__sub">エージェントベストは新卒・中途・インターンの求人媒体を扱う求人広告代理店です。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
-  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
-</aside>
+  <section class="consult" id="consult" aria-labelledby="consult-t">
+  <div class="consult__head">
+    <p class="consult__kick">相談無料 ／ 求人広告代理店エージェントベスト</p>
+    <h2 class="consult__lead" id="consult-t">Wantedlyの発信とスカウト、止まっていませんか</h2>
+    <ul class="consult__points"><li>会社ページ・ストーリー・募集・スカウトのどこで止まっているかを一緒に見ます</li><li>スカウト文面の作成から送信・返信対応まで、代行もできます</li><li>これから申し込む場合も、料金はWantedlyの正規料金のままです</li></ul>
+  </div>
+  <form class="consult__form" data-consult novalidate data-media="Wantedly" data-from="wt-backend-boshu" data-title="Wantedlyでバックエンドエンジニアを採る募集記事の書き方｜言語名ではなく「何のデータを、どのくらいの規模で、どこまで自分たちで持っているか」を書く">
+    <div class="cf-row">
+      <label><span class="cf-l">会社名<span class="req">必須</span></span><input type="text" name="company" required autocomplete="organization"></label>
+      <label><span class="cf-l">お名前<span class="req">必須</span></span><input type="text" name="name" required autocomplete="name"></label>
+    </div>
+    <label><span class="cf-l">メールアドレス<span class="req">必須</span></span><input type="email" name="email" required autocomplete="email"></label>
+    <label><span class="cf-l">ご相談内容<span class="opt">任意</span></span><textarea name="message" rows="3" placeholder="例：エンジニアの募集を出しているが応募が少ない。ストーリーとスカウトの回し方を相談したい。"></textarea></label>
+    <p class="cf-err" role="alert"></p>
+    <button type="submit" class="btn btn-primary cf-submit">Wantedlyの運用を相談する →</button>
+    <p class="cf-note">相談無料 ／ 営業のお電話はしません ／ 正規料金・上乗せなし ／ 厚生労働大臣許可 13-ユ-316964<br>送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+  </form>
+  <div class="consult__thanks" hidden>
+    <p class="consult__lead">送信しました</p>
+    <p>お問い合わせありがとうございます。内容を確認のうえ、担当者よりご連絡いたします。</p>
+    <p>お急ぎの場合は、打ち合わせの日程を直接ご予約いただけます。<br><a href="https://timerex.net/s/r_matsuoka/6666f3b5/" target="_blank" rel="noopener" data-cta="timerex">日程を選んで予約する ↗</a></p>
+  </div>
+</section>
   <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/wt-backend-scout/">Wantedlyでバックエンドエンジニアにスカウトを送る文面の考え方｜言語名ではなく「何のデータを、どう扱っている人か」を読み、自社の仕組みの場面で誘う</a></li><li><a href="/media/wt-engineer-boshu/">Wantedlyでエンジニアを採る募集記事の書き方｜技術名の一覧ではなく「何を作っていて、どう進めていて、いま何を決めようとしているか」を書く</a></li><li><a href="/media/wt-frontend-boshu/">Wantedlyでフロントエンドエンジニアを採る募集記事の書き方｜フレームワーク名ではなく「どの画面を、誰のために、デザイナーとどう分担して作るか」を書く</a></li><li><a href="/media/wt-infra-boshu/">Wantedlyでインフラエンジニアを採る募集記事の書き方｜基盤の名前ではなく「何を動かしていて、何を自分たちで持ち、止まったとき誰がどう動くか」を書く</a></li></ul></section>
   <aside class="author">
   <p class="author__t">監修</p>
   <p class="author__n">松岡 良次</p>
   <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
 </aside>
-</main><footer>
+</main>
+<div class="sticky-cta" hidden>
+  <p>Wantedlyの運用を無料で相談<span>正規料金のまま・相談だけでもOK</span></p>
+  <a href="#consult" data-cta="sticky">相談する</a>
+  <button type="button" class="sticky-cta__x" aria-label="閉じる">×</button>
+</div><footer>
   <div class="wrap">
     <div class="foot-in">
       <div>
@@ -128,7 +152,7 @@
         <a href="/media/onecareer/">ワンキャリア</a>
         <a href="/media/hikaku/">媒体比較・選び方</a>
         <a href="/media/knowhow/">採用ノウハウ</a>
-        <a href="/#entry">お問い合わせ</a>
+        <a href="/?from=media-footer#entry" data-cta="footer">お問い合わせ</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>

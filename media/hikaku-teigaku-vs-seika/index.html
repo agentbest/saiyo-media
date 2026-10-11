@@ -27,6 +27,7 @@
   gtag('js',new Date());
   gtag('config','G-1XXMP8Y1B4');
 </script>
+<script src="/media/assets/media.js" defer></script>
 </head>
 <body>
 <header class="nav">
@@ -40,7 +41,7 @@
       <a href="/#media">取り扱い媒体</a>
       <a href="/#price">料金</a>
     </nav>
-    <a class="btn btn-primary cta-mini" href="/#entry">お問い合わせ</a>
+    <a class="btn btn-primary cta-mini" href="#consult" data-cta="nav">無料相談</a>
   </div>
 </header><nav class="crumb" aria-label="パンくず"><div class="wrap"><a href="/">ホーム</a><i>›</i><a href="/media/">記事</a><i>›</i><a href="/media/hikaku/">媒体比較・選び方</a><i>›</i><span>定額型と成功報酬型の媒体の違い｜費用がいつ発生するかで、運用の動機と予算の組み方が変わる</span></div></nav><main class="wrap article">
   <p class="art__kicker">媒体比較・選び方 / 媒体比較</p>
@@ -61,7 +62,7 @@
 <p>ただし、成功報酬型が「リスクゼロ」ではありません。費用は出なくても、運用に使った時間は戻りません。この点は次の節で書きます。</p>
 <aside class="cta-inline">
   <p>料金は各媒体の正規料金のままです。型の違いと自社の採用人数から、どちらが合うかをご案内します。</p>
-  <a href="/#entry">媒体選びを相談する</a>
+  <a href="#consult" data-cta="inline">媒体選びを相談する</a>
 </aside>
 <h3 class="insight">エージェントベストの見解</h3>
 <p>相談で最も多い思い込みは、「成功報酬型なら、採れなくても損はしない」というものです。実際には、費用は出なくても、運用に使った時間は出ています。スカウト型の媒体なら、検索し、文面を書き、送り、返信する時間。掲載型なら、原稿を整え、応募に対応する時間。この時間は、成功報酬型でも定額型でも同じだけ要ります。当社は3媒体すべての販売パートナーとして契約後の運用を見ていますが、成功報酬型で「損はしないから」と運用に時間を割かず、結果として採れず、「媒体が効かなかった」となる会社があります。損をしていないように見えて、時間を使って何も得ていません。型を選ぶときは、費用のリスクだけでなく、「時間を使う覚悟があるか」を先に確認することを勧めます。時間を使わないなら、どちらの型でも結果は同じです。</p>
@@ -79,7 +80,7 @@
 <p>ただし、「多く採る」と「多く採れる」は別です。多く採る予定で定額型を選び、結果として少ししか採れなければ、1人あたりの費用は上がります。予定の人数は、前年の実績から現実的に置きます。</p>
 <aside class="cta-inline">
   <p>申込前に、採用人数の見通しと運用に使える時間を一緒に整理しませんか。型はそこから決まります。</p>
-  <a href="/#entry">運用の相談をする</a>
+  <a href="#consult" data-cta="inline">運用の相談をする</a>
 </aside>
 <h2 id="h5">予算の組み方が違う</h2>
 <p>定額型は、契約時に費用が確定するので、年度の予算に組みやすい。上限が決まっている会社に向きます。</p>
@@ -98,18 +99,41 @@
 <p>変わりません。当社の代理店手数料は媒体側から支払われるので、企業が支払う料金は各社の正規料金のままです。定額型と成功報酬型のどちらを選んでも、当社の立場は変わらないので、採用人数と運用の時間から合う型を率直にご案内できます。3媒体の全体像は<a href="/media/hikaku-3baitai/">3媒体の違いと選び方</a>にまとめています。</p>
   </div>
   
-  <aside class="cta-end">
-  <p class="cta-end__lead">求人媒体選びを、ひとつの窓口で</p>
-  <p class="cta-end__sub">エージェントベストは新卒・中途・インターンの求人媒体を扱う求人広告代理店です。媒体の比較からお申込み、運用まで伴走します。料金は各媒体の正規料金のままです。</p>
-  <a class="btn btn-primary" href="/#entry">媒体選びを相談する</a>
-</aside>
+  <section class="consult" id="consult" aria-labelledby="consult-t">
+  <div class="consult__head">
+    <p class="consult__kick">相談無料 ／ 求人広告代理店エージェントベスト</p>
+    <h2 class="consult__lead" id="consult-t">どの媒体にするか、決めきれない方へ</h2>
+    <ul class="consult__points"><li>新卒・中途・インターンの取り扱い媒体を、貴社の採用計画に合わせて横並びで比較します</li><li>媒体選定・お見積りは無料。申込前提でなくて構いません</li><li>料金は各媒体の正規料金のまま。代理店を通しても上乗せはありません</li></ul>
+  </div>
+  <form class="consult__form" data-consult novalidate data-media="未定・相談したい" data-from="hikaku-teigaku-vs-seika" data-title="定額型と成功報酬型の媒体の違い｜費用がいつ発生するかで、運用の動機と予算の組み方が変わる">
+    <div class="cf-row">
+      <label><span class="cf-l">会社名<span class="req">必須</span></span><input type="text" name="company" required autocomplete="organization"></label>
+      <label><span class="cf-l">お名前<span class="req">必須</span></span><input type="text" name="name" required autocomplete="name"></label>
+    </div>
+    <label><span class="cf-l">メールアドレス<span class="req">必須</span></span><input type="email" name="email" required autocomplete="email"></label>
+    <label><span class="cf-l">ご相談内容<span class="opt">任意</span></span><textarea name="message" rows="3" placeholder="例：28卒で営業職を5名、中途でエンジニアを2名採用予定。どの媒体を組み合わせるか相談したい。"></textarea></label>
+    <p class="cf-err" role="alert"></p>
+    <button type="submit" class="btn btn-primary cf-submit">媒体選びを相談する →</button>
+    <p class="cf-note">相談無料 ／ 営業のお電話はしません ／ 正規料金・上乗せなし ／ 厚生労働大臣許可 13-ユ-316964<br>送信いただいた情報は、お問い合わせ対応の目的にのみ利用いたします。</p>
+  </form>
+  <div class="consult__thanks" hidden>
+    <p class="consult__lead">送信しました</p>
+    <p>お問い合わせありがとうございます。内容を確認のうえ、担当者よりご連絡いたします。</p>
+    <p>お急ぎの場合は、打ち合わせの日程を直接ご予約いただけます。<br><a href="https://timerex.net/s/r_matsuoka/6666f3b5/" target="_blank" rel="noopener" data-cta="timerex">日程を選んで予約する ↗</a></p>
+  </div>
+</section>
   <section class="related"><h2>あわせて読む</h2><ul><li><a href="/media/hikaku-3baitai/">OfferBox・Wantedly・ワンキャリアの違いと選び方｜3媒体を同じ軸で並べる</a></li><li><a href="/media/hikaku-baitai-vs-daikou/">媒体を自社で運用するか代行に出すかの違い｜何を持ち、何を外に出すか</a></li><li><a href="/media/hikaku-event-vs-keisai/">イベント型と掲載型の違い｜会って伝えるか、読んで伝えるか</a></li><li><a href="/media/hikaku-keisai-vs-scout/">掲載型とスカウト型の違い｜置いて待つか、選んで送るか</a></li></ul></section>
   <aside class="author">
   <p class="author__t">監修</p>
   <p class="author__n">松岡 良次</p>
   <p class="author__b">株式会社エージェントベスト代表。大手人材会社およびスタートアップ人材企業にて、IT・スタートアップ・メガベンチャー企業の採用支援に従事。独立後はIT・スタートアップ・コンサル領域に特化し、20〜30代のキャリア支援を行う。（厚生労働大臣許可 13-ユ-316964）</p>
 </aside>
-</main><footer>
+</main>
+<div class="sticky-cta" hidden>
+  <p>媒体選びを無料で相談<span>正規料金のまま・相談だけでもOK</span></p>
+  <a href="#consult" data-cta="sticky">相談する</a>
+  <button type="button" class="sticky-cta__x" aria-label="閉じる">×</button>
+</div><footer>
   <div class="wrap">
     <div class="foot-in">
       <div>
@@ -124,7 +148,7 @@
         <a href="/media/onecareer/">ワンキャリア</a>
         <a href="/media/hikaku/">媒体比較・選び方</a>
         <a href="/media/knowhow/">採用ノウハウ</a>
-        <a href="/#entry">お問い合わせ</a>
+        <a href="/?from=media-footer#entry" data-cta="footer">お問い合わせ</a>
         <a href="https://www.agent-best.net/" target="_blank" rel="noopener">運営会社</a>
       </div>
     </div>
