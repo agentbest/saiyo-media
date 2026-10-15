@@ -1103,7 +1103,7 @@ function main() {
   }
 
   /* LP（index.html は手書き。og:image は /images/og/lp.jpg を直書きしている） */
-  og('lp', { pillar: 'site', pill: '求人広告代理店', title: '求人媒体選びを、ひとつの窓口で', chips: ['新卒', '中途', 'インターン'] });
+  og('lp', { pillar: 'site', pill: '求人広告代理店', title: 'どの媒体で採るか。そこから、一緒に。', chips: ['新卒', '中途', 'インターン'] });
   /* 同じ名前は1回だけ（ページ送りで何度も積まれるため） */
   const seenOg = new Set();
   fs.writeFileSync(path.join(DIR, 'tools', 'eyecatch', 'og-specs.json'),
