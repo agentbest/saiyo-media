@@ -40,4 +40,5 @@
 ## 記事の見た目（2026-10-15）
 - メディア（/media/ 以下）の見た目はコーポレートの記事（www.agent-best.net/media/、agentbest-lp の `src/pages/media/[slug].astro`）に揃えた。白地×#1C1C2E、見出しはグレー帯＋左線、メタはチップ、目次・出典ボックス・シェア・関連記事・同じ柱の他の記事（巡回6件）・監修者（SNSリンク付き）の順。LPのパープルはメディアでは使わない。
 - 記事末フォーム・下部バー・GA4イベントの仕組みは変えていない（色だけコーポレートのCTAに合わせた）。
-- アイキャッチ画像は未対応（コーポレートは全記事に1200×630のPNGがある）。
+- アイキャッチ（1200×630 JPEG）は `images/media/<slug>.jpg`。`node tools/eyecatch/render.js` で無い記事だけ作る（`--force` で全作り直し、slug指定で個別）。ヘッドレスChromeを1つ立ててDevTools Protocolで撮る（依存なし、1,000枚で約2分）。見た目は `tools/eyecatch/template.html`、色は柱ごと。
+- **記事を足したら render.js → build-media.js の順に流す。** 画像がある記事だけ、記事上部・一覧のサムネ・og:image（summary_large_image）・JSON-LDに使う。PNGだと1枚300KBになるのでJPEGにしている。

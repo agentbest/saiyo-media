@@ -89,6 +89,10 @@ const TRUST = ['相談無料', '営業のお電話はしません', '正規料�
 const entryHref = (from, media) =>
   `/?from=${encodeURIComponent(from)}${media ? '&media=' + encodeURIComponent(media) : ''}#entry`;
 
+/* アイキャッチ（tools/eyecatch/render.js が images/media/<slug>.jpg に作る）。無い記事は画像なしで出す */
+const IMG_DIR = path.join(DIR, 'images', 'media');
+const imgOf = slug => fs.existsSync(path.join(IMG_DIR, slug + '.jpg')) ? `/images/media/${slug}.jpg` : '';
+
 const esc = s => String(s == null ? '' : s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
@@ -235,7 +239,10 @@ function head(o) {
 <meta property="og:description" content="${escAttr(o.desc)}">
 <meta property="og:url" content="${escAttr(canon)}">
 <meta property="og:locale" content="ja_JP">
-<meta name="twitter:card" content="summary">
+${o.image ? `<meta property="og:image" content="${escAttr(SITE + o.image)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">` : '<meta name="twitter:card" content="summary">'}
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" href="/icon-192.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -401,6 +408,7 @@ function articleHtml(a, all) {
   // 本文中の相談リンク（cta-inline）はLPへ飛ばさず、記事末のフォームへ
   html = html.replace(/href="\/#entry"/g, 'href="#consult" data-cta="inline"');
   const url = `/media/${a.slug}/`;
+  const img = imgOf(a.slug);
   const toc = heads.length >= 3
     ? `<nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol>`
       + heads.map(h => `<li><a href="#${h.id}">${esc(h.text)}</a></li>`).join('') + `</ol></nav>` : '';
@@ -432,6 +440,7 @@ function articleHtml(a, all) {
     mainEntityOfPage: { '@type': 'WebPage', '@id': SITE + url }, url: SITE + url,
     headline: a.title, description: a.description,
     datePublished: a.pubDate, dateModified: a.reviewedAt || a.pubDate, inLanguage: 'ja',
+    ...(img ? { image: SITE + img } : {}),
     author: { '@type': 'Person', name: '松岡 良次', url: 'https://www.agent-best.net/profile/',
       jobTitle: '代表取締役', worksFor: { '@id': 'https://www.agent-best.net/#organization' },
       sameAs: SNS.map(s => s[1]) },
@@ -447,9 +456,10 @@ function articleHtml(a, all) {
       { '@type': 'ListItem', position: 4, name: a.title, item: SITE + url },
     ],
   }];
-  return head({ title: `${a.title}｜求人広告代理店エージェントベスト`, desc: a.description, url, ogType: 'article', jsonld, navCta: '#consult' })
+  return head({ title: `${a.title}｜求人広告代理店エージェントベスト`, desc: a.description, url, ogType: 'article', jsonld, navCta: '#consult', image: img })
     + `<main class="wrap article">
   <nav class="breadcrumb" aria-label="パンくず"><a href="/">ホーム</a><span aria-hidden="true">/</span><a href="/media/">記事</a><span aria-hidden="true">/</span><a href="/media/${p.key}/">${esc(p.name)}</a></nav>
+  ${img ? `<img class="eyecatch" src="${img}" alt="" width="1200" height="630">` : ''}
   <h1>${esc(a.title)}</h1>
   <p class="meta">
     <a class="meta-hub" href="/media/${p.key}/">${esc(p.name)}</a>${a.series ? `<span class="meta-theme">${esc(a.series)}</span>` : ''}
@@ -477,10 +487,14 @@ function pillarOrder(all, key) {
 /* ---------- 一覧 ---------- */
 function card(a) {
   const p = PILLAR[a.pillar] || PILLARS[0];
-  return `<li><a href="/media/${esc(a.slug)}/">
-      <span class="art-title">${esc(a.title)}</span>
-      <span class="art-desc">${esc(a.description || '')}</span>
-      <span class="art-meta"><span class="tag">${esc(p.name)}</span>${a.series ? `<span class="theme">${esc(a.series)}</span>` : ''}</span>
+  const img = imgOf(a.slug);
+  return `<li><a href="/media/${esc(a.slug)}/"${img ? ' class="has-img"' : ''}>
+      ${img ? `<img class="art-image" src="${img}" alt="" loading="lazy" decoding="async" width="1200" height="630">` : ''}
+      <span class="art-body">
+        <span class="art-title">${esc(a.title)}</span>
+        <span class="art-desc">${esc(a.description || '')}</span>
+        <span class="art-meta"><span class="tag">${esc(p.name)}</span>${a.series ? `<span class="theme">${esc(a.series)}</span>` : ''}</span>
+      </span>
     </a></li>`;
 }
 /* ページ送り。42ページぶんの数字を全部並べず、先頭・前後2・末尾と「前へ／次へ」だけ出す */
@@ -641,6 +655,7 @@ header.nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);bac
 .article{max-width:var(--readw);padding-top:32px;padding-bottom:64px;font-size:16px}
 .article .breadcrumb{font-size:.85rem;color:var(--ink-faint);margin-bottom:12px;display:flex;flex-wrap:wrap;gap:.4em;align-items:baseline}
 .article .breadcrumb a:hover{color:var(--head)}
+.article .eyecatch{display:block;width:100%;height:auto;border-radius:12px;margin-bottom:24px}
 .article h1{font-size:1.65rem;line-height:1.5;margin:8px 0;color:var(--ink)}
 .article .meta{font-size:.85rem;color:var(--ink-faint);margin-bottom:28px;display:flex;flex-wrap:wrap;align-items:center;gap:.5em}
 .article .meta-hub{font-weight:700;color:var(--head);background:var(--surface-3);border-radius:4px;padding:2px 9px}
@@ -712,6 +727,9 @@ header.nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);bac
 .art-meta .tag,.art-meta .theme{font-size:.74rem;border-radius:4px;padding:2px 8px;line-height:1.6}
 .art-meta .tag{background:var(--head);color:#fff}
 .art-meta .theme{background:var(--surface-3);color:var(--ink-faint)}
+.art-list a.has-img{display:grid;grid-template-columns:180px minmax(0,1fr);gap:1em;align-items:center}
+.art-image{display:block;width:100%;height:auto;aspect-ratio:1200/630;object-fit:cover;border-radius:9px;background:var(--surface-3)}
+.art-body{display:block;min-width:0}
 .art-list.compact a{display:flex;justify-content:space-between;align-items:baseline;gap:.8em}
 .art-theme{flex-shrink:0;font-size:.74rem;color:var(--ink-faint);background:var(--surface-3);border-radius:4px;padding:2px 8px}
 .more{margin:1em 0 0;font-size:.9rem}
@@ -822,6 +840,7 @@ footer{background:var(--navy);color:var(--on-navy-soft);padding:46px 0 40px;font
   .article h1{font-size:1.35rem}
   .body h2{font-size:1.15rem}
   .art-desc{-webkit-line-clamp:1}
+  .art-list a.has-img{grid-template-columns:116px minmax(0,1fr);gap:.75em}
 }
 `;
 
