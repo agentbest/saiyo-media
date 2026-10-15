@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとX（旧Twitter）の使い分け｜Xは「今日の場面を流す場」、Wantedlyは「判断に使う中身を残す場」"
-description: "WantedlyとX（旧Twitter）を使い分けるときの考え方。それぞれの役割（Xは短い言葉で今日の場面を流す、Wantedlyは何をしている会社か・なぜか・誰と何をするかを残す）、使い分けの分担（本人の名義で今日を流し、判断に要ることはWantedlyに書く）。"
+title: "WantedlyとX（旧Twitter）の使い分け｜流す場と残す場の分担"
+description: "WantedlyとX（旧Twitter）は、Xを短い言葉で今日の場面を流す場、Wantedlyを判断に使う中身を残す場として使い分けます。本人の名義での発信、書くことの線、公式と本音の範囲、工数の置き方を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-x"
 related: ["wt-heiyou-note", "wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-findy"]
+sources:
+  - name: "Wantedly ヘルプ｜ストーリーをシェアしたい"
+    url: "https://help.wantedly.com/hc/ja/articles/9410001965977"
+  - name: "Wantedly ヘルプ｜ストーリーのガイドラインについて（Wantedly有料プランをご契約中の企業様向け）"
+    url: "https://help.wantedly.com/hc/ja/articles/60028110654745"
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 社員や代表がXを使っていて、採用に活かせないかと考えている。あるいは、Wantedlyの記事をXで流しているが、何をXに書き、何をWantedlyに書くかが決まっていない。**結論から言うと、Xは「短い言葉で今日の場面を流す場」、Wantedlyは「判断に使う中身を残す場」で、役割が違います。使い分けるなら、本人の名義で今日の場面を流し、応募の判断に要ること（何をしている会社か、なぜか、誰と何をするか、最初の年）はWantedlyに書き、本音の範囲は両方で同じ線を引くことです。** この記事では、それぞれの役割、使い分けの分担、書くことの線、公式と本人の名義、本音の範囲、工数、やりがちな失敗、社内の分担を整理します。Wantedlyの記事をSNSで広げる方法は[Wantedlyの記事をSNSで広げる方法](/media/wt-sns-kakusan/)、SNS全般は[SNSからの母集団形成](/media/kh-boshudan-sns/)で書きました。Xの仕様や数値は書きません。

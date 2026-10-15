@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyとインターン媒体の併用｜インターン媒体は「枠と時期」、Wantedlyは「中身と通年」。入口を分け、来た学生に見せるものを揃え、受け入れる時間を先に取る"
-description: "Wantedlyとインターン媒体を併用するときの考え方。それぞれの役割（インターン媒体は決まった時期に枠を埋める入口、Wantedlyは会社の中身を読んで通年で来る入口）、併用するときの分担（入口ごとに来る学生の状態が違う）、募集記事と会社ページをインターン媒体の側から見直す。"
+title: "Wantedlyとインターン媒体の併用｜枠と時期、中身と通年の分担"
+description: "Wantedlyとインターン媒体は、インターン媒体を決まった時期に枠を埋める入口、Wantedlyを中身を読んで通年で来る入口として併用します。入口ごとの見せ方、記事の見直し、受け入れ時間の確保を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-intern-baitai"
 related: ["wt-heiyou-offerbox", "wt-heiyou-onecareer", "wt-heiyou-shinsotsu-baitai", "wt-heiyou-heiyou-yosan"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 インターンの募集をインターン媒体で出していて、Wantedlyも使っている。あるいは、Wantedlyでインターンを募集していて、インターン媒体を足すか迷っている。この二つは、同じ「インターンを集める」でも、来る学生の状態が違います。**結論から言うと、インターン媒体は「決まった時期に、決まった枠を埋める入口」、Wantedlyは「会社の中身を読んだ学生が、時期を問わず来る入口」です。併用するなら、入口ごとに来た学生に見せるものを揃え、受け入れる側の時間を先に取り、片方の締切に合わせてもう片方を止めないことです。** この記事では、それぞれの役割、併用するときの分担、募集記事と会社ページの見直し、予算と工数の配分、やりがちな失敗、社内の分担を整理します。Wantedlyのインターン募集記事そのものは[Wantedlyのインターン募集記事の書き方](/media/wt-boshu-intern/)、インターンからの母集団形成の全体は[インターンからの母集団形成](/media/kh-boshudan-intern/)で書きました。

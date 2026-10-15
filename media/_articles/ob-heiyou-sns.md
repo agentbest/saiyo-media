@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとSNS採用の併用｜オファーを受け取った学生は送ってきた人と会社をSNSで確かめる"
-description: "OfferBoxとSNS採用を併用するときの考え方。それぞれの役割（OfferBoxは企業が選んで送る入口、SNSは学生が送ってきた人と会社の今を確かめる場）、送る社員の名義とSNSの本人像を揃える、公式アカウントは一報に絞る、文面とSNSに書くことの線、本音の範囲。"
+title: "OfferBoxとSNS採用の併用｜名義とSNSの本人像を揃える"
+description: "OfferBoxとSNS採用を併用するときは、オファーを受け取った学生がSNSで送り手と会社を確かめる前提で、送る社員の名義とSNSの本人像を揃えます。公式アカウントの役割、書くことの線、SNSの数字の読み方を解説します。"
 pillar: "offerbox"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-sns"
 related: ["ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu", "ob-heiyou-heiyou-yosan"]
+sources:
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 OfferBoxでオファーを送っている。会社の公式SNSがあり、社員の中にSNSで発信している人もいる。「SNSを採用に使えないか」「フォロワーが増えれば承認が上がるのではないか」と聞かれます。**結論から言うと、オファーを受け取った学生は、承認する前に、送ってきた人と会社をSNSでも確かめます。OfferBoxは「企業が選んで送る入口」、SNSは「文面の本当らしさを確かめる場」であって、学生を集める入口ではありません。併用するなら、送る社員の名義とSNSの本人像を揃え、公式アカウントは一報に絞り、文面とSNSに書くことの線を引き、SNSの数字で承認を判断しないことです。** この記事では、それぞれの役割、学生が確かめること、送る社員の本人像、公式と本人の名義、書くことの線、数字の読み方、工数、やりがちな失敗、社内の分担を整理します。SNS全般の考え方は[SNSからの母集団形成](/media/kh-boshudan-sns/)で書きました。SNSの種類ごとの仕様と数値は書きません。

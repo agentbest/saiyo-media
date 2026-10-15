@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとdodaキャンパスの違い｜同じオファー型を、資料ではなく自社の運用で比べる"
-description: "新卒採用でOfferBoxとdodaキャンパスをどう比べるか。どちらも企業から学生へオファーを送る型なので、資料の比較では差が見えにくいです。資料で分かること・分からないことを分け、自社で小さく試して比べる手順と、先に検討する条件、併用するときの分担を整理します。"
+title: "OfferBoxとdodaキャンパスの違い｜自社で小さく試して比べる手順"
+description: "OfferBoxとdodaキャンパスはどちらもオファー型のため、資料の比較では差が見えにくく、自社で小さく試して比べる方法が向いています。資料で分かること・分からないこと、比べる手順、先に検討する条件、併用の分担を整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-doda-campus"
 related: ["hikaku-3baitai", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka", "hikaku-offerbox-labbase"]
+sources:
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
+  - name: "OfferBox 1週間無料トライアル 申込フォーム（i-plug）"
+    url: "https://app.offerbox.jp/v2/company/form"
 ---
 
 「OfferBoxとdodaキャンパスの資料を並べたが、どちらも同じように見える」という声を、新卒採用の担当者からよく聞きます。**結論から言うと、この2つは型が同じなので、資料を並べても決め手は出ません。決め手は、自社の学生像と文面で小さく試したときに、どちらの運用が社内で続くかです。** OfferBoxは株式会社i-plug、dodaキャンパスは株式会社ベネッセi-キャリアが運営する、どちらも新卒向けのオファー型（逆求人型）サービスです。この記事ではdodaキャンパスの仕様や料金には触れず、資料で分かることと分からないことを分けたうえで、自社で比べる手順を整理します。

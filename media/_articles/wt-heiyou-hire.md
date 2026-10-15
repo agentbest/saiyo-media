@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとWantedly Hireの関係｜Wantedlyは「候補者が来る場」、採用管理の仕組みは「段と担当と次の連絡日を持つ場」。同じ会社の提供でも、段の定義と担当は自社で決めてから入れる"
-description: "Wantedlyと、ウォンテッドリー株式会社が提供する採用管理の仕組み（Wantedly Hire）の関係の考え方。募集の場と管理の場の役割の違い、同じ会社の提供であることの意味、入口がWantedlyだけの会社と複数の会社での位置づけ。"
+title: "WantedlyとWantedly Hireの関係｜来る場と管理する場の違い"
+description: "WantedlyとWantedly Hireは、候補者が来る場と、段・担当・次の連絡日を持つ管理の場という役割の違いがあります。同じ会社の提供である意味、導入の前に自社で決めること、確認する項目を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-hire"
 related: ["wt-heiyou-ats", "wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-findy"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedly Hireとの連携に必要なAPIキーを発行したい"
+    url: "https://help.wantedly.com/hc/ja/articles/38532967897113"
+  - name: "Wantedly ヘルプ｜企業から労働条件等が明示されるタイミングを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/360028277672"
 ---
 
 Wantedlyを使っていると、同じウォンテッドリー株式会社が提供する採用管理の仕組み（Wantedly Hire）の案内を目にすることがあります。「Wantedlyと何が違うのか」「入れたほうがいいのか」「入れると管理が楽になるのか」と聞かれます。**結論から言うと、Wantedlyは「候補者が来る場」、採用管理の仕組みは「候補者の段と担当と次の連絡日を持つ場」で、役割が違います。同じ会社の提供なので候補者の受け渡しは想定しやすい一方、段の定義と担当は仕組みが決めてくれるものではなく、自社で決めてから入れるものです。** この記事では、募集の場と管理の場の役割、同じ会社の提供であることの意味、入口が一つの会社と複数の会社での位置づけ、導入の前に決めること、確認する項目、やりがちな失敗、社内の分担を整理します。機能の範囲・提供の条件・料金は変わることがあるので、公式ページで現在の内容を確認してください。この記事では仕様と数値を書きません。Wantedlyの応募とスカウトの管理の基本は[Wantedlyの応募・スカウトの管理の仕方](/media/wt-scout-oubo-kanri/)で書きました。

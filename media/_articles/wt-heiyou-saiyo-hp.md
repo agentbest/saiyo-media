@@ -1,6 +1,6 @@
 ---
 title: "Wantedlyと採用サイト、どちらを先に整えるか｜費用と時間の配分"
-description: "Wantedlyと採用サイトのどちらに先に費用と時間をかけるかの考え方。採用サイトがない・古い会社が作り直す前に直す三つ（条件・選考の流れ・会社概要）と、制作会社に出す範囲、更新が止まらない体制を整理します。"
+description: "Wantedlyと採用サイトのどちらを先に整えるかは、出会う場所と確かめる場所という役割の違いから決めます。採用サイトで最低限直す条件・選考の流れ・会社概要、制作会社に出す範囲、更新の体制を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-saiyo-hp"
 related: ["wt-heiyou-heiyou-yosan", "wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-findy"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜ストーリーのガイドラインについて（Wantedly有料プランをご契約中の企業様向け）"
+    url: "https://help.wantedly.com/hc/ja/articles/60028110654745"
+  - name: "Wantedly ヘルプ｜募集をWantedly以外のページに埋め込みたい"
+    url: "https://help.wantedly.com/hc/ja/articles/9237461264409"
 ---
 
 Wantedlyを始めたい、または始めている。ところが、採用サイトがない、あっても数年前のままで、「先に採用サイトを作り直すべきか」「Wantedlyと採用サイトの両方に、費用と時間をどう分けるか」が決まらない。**結論から言うと、Wantedlyは「候補者が出会う場所」、採用サイトは「候補者が確かめる場所」です。採用サイトを作り直す前に、確かめる段で候補者を失わないために「条件・選考の流れ・会社概要」だけを直し、費用と時間は出会う側のWantedlyに寄せます。採用サイトの作り直しは、Wantedlyで来た候補者が確かめる段で何を見ているかが分かってからです。** この記事では、それぞれの役割、どちらを先に整えるか、採用サイトで最低限直す項目、費用と時間の配分、制作会社に出す範囲、更新が止まらない体制、やりがちな失敗、社内の分担を整理します。「何をどちらに置くか」は[Wantedlyと採用サイトに何を置くか](/media/wt-saiyo-hp-renkei/)で書きました。この記事は、その前段の「どちらに先に投資するか」を扱います。数値は書きません。

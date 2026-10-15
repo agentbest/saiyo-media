@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとYOUTRUSTの使い分け｜YOUTRUSTは「社員のつながりの先に届く場」、Wantedlyは「届いた人が会社を読む場」"
-description: "WantedlyとYOUTRUSTを使い分けるときの運用の考え方。それぞれの役割（YOUTRUSTは社員のつながりの先に本人の名義で届く場、Wantedlyは届いた人が会社を読んで来る場）、社員に頼むことの範囲と型（登録ではなく「この記事をこの人に」）。"
+title: "WantedlyとYOUTRUSTの使い分け｜社員に頼むことの範囲と型"
+description: "WantedlyとYOUTRUSTは、YOUTRUSTを社員のつながりの先に届く場、Wantedlyを届いた人が会社を読む場として使い分けます。社員に頼むことの範囲と型、副業から始まる関わり、面談の入口と台帳を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-youtrust"
 related: ["wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-findy", "wt-heiyou-green"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 社員のつながりを軸にしたキャリアSNS（YOUTRUST）を使い始めた、または検討している。Wantedlyも使っている。二つの違いは分かっていても、「社員に何をどこまで頼むか」「つながりの先から来た人を、どう受けるか」「副業から関わりたいという人を、どの流れに入れるか」が決まっていないと、社員に登録を頼んだところで止まります。**結論から言うと、YOUTRUSTは「社員のつながりの先に、本人の名義で届く場」、Wantedlyは「届いた人が、会社を読んで来る場」です。使い分けるなら、社員に頼むのは登録ではなく「この記事を、この人に」であり、副業から始まる関わりの受け皿をWantedlyの募集記事に用意し、面談の入口を一つにし、登録した社員の数やつながりの数を母集団と読まないことです。** この記事では、それぞれの役割、社員に頼むことの範囲と型、副業から始まる関わりの受け皿、面談の入口、数字の読み方、工数と名義、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[WantedlyとYOUTRUSTの違い](/media/hikaku-wantedly-youtrust/)、リファラル全般は[Wantedlyとリファラル採用の併用](/media/wt-heiyou-referral/)で書きました。両サービスの仕様と数値は書きません。

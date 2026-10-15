@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとGreenの違い｜共感で集めるか、求人で応募を集めるか"
-description: "中途採用でWantedlyとGreenをどう使い分けるか。会社の想いを書いて共感した人が集まる型と、求人票の条件を見て応募が集まる型の違いを、候補者が読むもの・企業が用意するもの・社内で書ける人の有無・併用するときの分担の順で整理します。"
+title: "WantedlyとGreenの違い｜共感で集めるか、求人で集めるか"
+description: "WantedlyとGreenの違いは、会社の想いに共感した人が集まるか、求人票の条件を見て応募が集まるかです。候補者が読むもの、企業が用意するもの、社内で書ける人の有無、併用するときの分担を整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,6 +10,13 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-wantedly-green"
 related: ["hikaku-offerbox-wantedly", "hikaku-wantedly-bizreach", "hikaku-wantedly-doda", "hikaku-wantedly-findy"]
+sources:
+  - name: "Wantedly ヘルプ｜会社ページの「私たちについて」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/8950640244761"
+  - name: "Wantedly ヘルプ｜「ストーリー」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
+  - name: "Wantedly ヘルプ｜企業から労働条件等が明示されるタイミングを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/360028277672"
 ---
 
 「エンジニアやWeb系の職種を中途で採りたい。WantedlyとGreenのどちらがいいか」という相談を、IT系の会社やスタートアップからよく受けます。**結論から言うと、この2つは候補者が集まる理由が違います。Wantedlyは会社の想いに共感した人が集まる型、Greenは求人票の条件を見て応募する型です。** どちらが優れているかではなく、自社が「想いを書いて見せられるか」と「条件で応募を集めたいか」で先に検討する媒体が決まります。Wantedlyはウォンテッドリー株式会社が運営する、会社と人がつながるビジネスSNSで、募集情報を掲載する場です。Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。この記事ではGreenの仕様や料金には触れず、集まる理由の違いが採用の設計にどう効くかを整理します。

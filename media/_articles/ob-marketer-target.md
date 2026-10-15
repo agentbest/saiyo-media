@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxでマーケター志望の学生を見つける検索の考え方"
-description: "OfferBoxでマーケターを採るときの検索条件の考え方。マーケ志望の学生は多く、SNS運用の経験も多く書かれていますが、自社のマーケに合う学生はその中の一部です。「どのマーケか」で求める行動を決める、SNSが得意な学生を探さない、学生が書いた数値の大小で見ない。"
+title: "OfferBoxでマーケター志望の学生を見つける検索の考え方｜三つの行動で読む"
+description: "OfferBoxでマーケター志望の学生を探すなら、「どのマーケか」で求める行動を決め、SNSが得意かや数値の大小ではなく、試した・測った・直したの三つで自由記述を読みます。絞り方と広げ方も解説します。"
 pillar: "offerbox"
 series: "職種別"
 target: "マーケター"
@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-marketer-target"
 related: ["ob-marketer-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxでマーケターを採るとき、検索条件で最初にぶつかるのは「マーケ志望の学生は多いのに、自社のマーケに合う学生が見つからない」という問題です。**結論から言うと、マーケターの検索は「マーケ志望」や「SNSが得意」で探すのではなく、「どのマーケか」で求める行動を決め、学生が書いた数値の大小ではなく「試した・測った・直した」の行動で読みます。** マーケ志望の学生の多くはSNSの運用経験を書きますが、自社のマーケがSNSでないなら、その経験は自社の仕事と離れています。探すのは経験の種類ではなく、行動の型です。この記事では、マーケター志望の学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxでマーケターを採るオファー文面の書き方](/media/ob-marketer-offer-bunmen/)で書きました。

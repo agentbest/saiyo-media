@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyと新卒ナビサイトの併用｜ナビは「エントリーを集める場」、Wantedlyは「会社を読んでもらう場」。ナビから来た学生に読ませる場所として置き、ナビの時期にWantedlyを止めない"
-description: "Wantedlyと新卒ナビサイトを併用するときの考え方。それぞれの役割（ナビは決まった時期にエントリーを集める場、Wantedlyは会社の中身を読んで通年で来る場）、併用するときの分担（ナビから来た学生にどこで会社を読ませるか）。"
+title: "Wantedlyと新卒ナビサイトの併用｜ナビの時期も止めない分担"
+description: "Wantedlyと新卒ナビサイトは、ナビをエントリーを集める場、Wantedlyを会社の中身を読んでもらう場として併用します。ナビから来た学生に会社を読ませる導線、書くことの分け方、ナビの時期の工数配分を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-shinsotsu-baitai"
 related: ["wt-heiyou-intern-baitai", "wt-heiyou-offerbox", "wt-heiyou-onecareer", "wt-heiyou-heiyou-yosan"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜「会社ページ」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/8950114847001"
 ---
 
 新卒採用をナビサイトで回していて、Wantedlyを足すか迷っている。あるいは、Wantedlyで新卒を集めていて、ナビサイトを足すべきか考えている。この二つは、同じ「新卒を集める」でも、学生が開く動機と、来たときの状態が違います。**結論から言うと、ナビサイトは「決まった時期に、エントリーを集める場」、Wantedlyは「会社の中身を読んだ学生が、時期を問わず来る場」です。併用するなら、Wantedlyを「ナビから来た学生に会社を読ませる場所」として置き、ナビの時期にWantedlyの更新を止めず、二つに同じ文章を貼らないことです。** この記事では、それぞれの役割、併用するときの分担、書くことの分け方、予算と工数の配分、やりがちな失敗、社内の分担を整理します。スカウト型とナビ型の違いは[スカウト型とナビ型の違い](/media/hikaku-scout-vs-navi/)、Wantedlyの新卒向け募集記事は[新卒向け募集記事の書き方](/media/wt-boshu-shinsotsu/)で書きました。ナビサイトの仕様や数値は、この記事では書きません。

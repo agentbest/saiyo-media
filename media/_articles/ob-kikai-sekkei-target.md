@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxで機械設計志望の学生を見つける検索の考え方"
-description: "OfferBoxで機械設計を採るときの検索条件の考え方。機械系専攻で絞れば数は出ますが、同じ学生に多くの製造業が送っていて、承認は付いても面談で比べられます。設計のどの段階かを先に決めて求める行動を変える、専攻とCAD経験はあればよい条件にする。"
+title: "OfferBoxで機械設計志望の学生を見つける検索の考え方｜設計の段階で決める"
+description: "OfferBoxで機械設計志望の学生を探すなら、設計のどの段階かを先に決めて求める行動を変え、専攻とCAD経験はあればよい条件にします。自由記述を四つの行動で読む方法と機械系以外への広げ方を解説します。"
 pillar: "offerbox"
 series: "職種別"
 target: "機械設計"
@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-kikai-sekkei-target"
 related: ["ob-kikai-sekkei-offer-bunmen", "ob-denki-sekkei-target", "ob-hinshitsu-target", "ob-kenkyu-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで機械設計を採るとき、検索条件で最初にぶつかるのは、他の職種と少し違います。機械系の専攻で絞れば、検索結果は出ます。問題は、その学生に多くの製造業が同じように送っていて、承認は付いても面談で比べられることです。**結論から言うと、機械設計の検索は、機械系で絞って終わりにするのではなく、設計のどの段階かを先に決めて求める行動を変え、自由記述を「作って動かした・動かなかったときに直した」の行動で読み、他社が読んでいない学生を見つけます。** 検索結果の数ではなく、読んだ相手に送ることが、機械設計の検索の中心です。この記事では、機械設計志望の学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで機械設計を採るオファー文面の書き方](/media/ob-kikai-sekkei-offer-bunmen/)で書きました。

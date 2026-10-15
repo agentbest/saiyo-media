@@ -1,6 +1,6 @@
 ---
-title: "メーカー業界の会社がWantedlyで採用するときの設計｜候補者の「メーカー志望」は製品名で知られたBtoCの大手を指し、BtoBの中堅・中小メーカーは「メーカー」の一語では見えない"
-description: "メーカー業界（BtoBの中堅・中小メーカー、部品・素材・機械・設備のメーカー、地方のメーカー、事業承継期のメーカー、大手の新規事業・DX部門）の会社がWantedlyで採用するときの設計の総論。"
+title: "メーカー業界の会社がWantedlyで採用するときの設計｜製造の実態を書く"
+description: "メーカー業界の会社がWantedlyで採用するには、BtoBの中堅・中小でも製造の実態を書けば目立ちます。「メーカー志望」の像との差、技術職の中途・DX・新規事業など向く職種、ストーリーとスカウトの設計を解説します。"
 pillar: "wantedly"
 series: "業界別"
 target: "メーカー"
@@ -10,6 +10,9 @@ pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "wt-maker-katsuyou"
 related: ["wt-agri-katsuyou", "wt-butsuryu-katsuyou", "wt-consul-katsuyou", "wt-dantai-katsuyou"]
+sources:
+  - name: "Wantedly ヘルプ｜募集作成のポイントを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16228729226521"
 ---
 
 BtoBの中堅・中小メーカー、部品・素材・機械・設備のメーカー、地方のメーカー、事業承継期のメーカー、大手の新規事業・DX部門が、Wantedlyで採用する。候補者が「メーカー志望」と言うとき指しているのは、製品名で知られたBtoCの大手で、BtoBの中堅・中小メーカーは「メーカー」の一語では見えない。会社の側は、「うちは製品が地味で、知られていなくて、Wantedlyのようなスタートアップの場には向かない」と考えて、会社ページを作らないか、作っても「ものづくりへの情熱」「技術力」で埋める。**結論から言うと、BtoBのメーカーは、Wantedlyに向いていないのではなく、書き方を変えれば目立ちます。スタートアップと成長企業が並ぶ場に、製造の実態——工場の一日、設計と工場の間の調整、顧客の技術者との仕様の決め方、最終製品のどこに使われているか——を具体的に書くメーカーは少なく、書けば区別されます。「ものづくり」「技術力」ではなく、「なにを」を最終製品と用途と顧客で書き、Wantedlyを技術職の中途（設計、生産技術、品質、技術営業）、DX、新規事業、事業承継期の二代目が「変えたいこと」で使います。技術職の新卒は、学校推薦と研究室の流れの側で採ります。** この記事はメーカーの総論で、業種ごとの各論は[化学](/media/wt-kagaku-katsuyou/)、[食品](/media/wt-shokuhin-katsuyou/)、[電機](/media/wt-denki-katsuyou/)、[半導体](/media/wt-handoutai-katsuyou/)、[自動車](/media/wt-jidosha-katsuyou/)で書きました。媒体の選び方は[メーカー業界の採用媒体の選び方](/media/hikaku-maker-erabikata/)、知名度のない会社の書き方は[Wantedlyで知名度をどう扱うか](/media/wt-chimeido/)で書きました。数値と料金は書きません。

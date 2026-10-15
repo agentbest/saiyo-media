@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとリクナビの違い｜母集団の広さで選ぶか、届ける相手で選ぶか"
-description: "新卒採用でOfferBoxとリクナビをどう使い分けるか。学生が検索して応募するナビ型と、企業から学生へオファーを送るスカウト型の違いを、母集団の性質・採用の時期・採用担当の時間の使い方・併用の分担の順で整理します。登録者数などの数値では比べません。"
+title: "OfferBoxとリクナビの違い｜母集団の広さか届ける相手か"
+description: "OfferBoxとリクナビの違いは、学生が検索して応募するナビ型か、企業からオファーを送るスカウト型かです。母集団の性質・採用の時期・担当の時間の使い方・併用の分担の順で整理します。登録者数などの数値では比べません。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-rikunabi"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
 ---
 
 「リクナビに載せているが、応募は来ても採りたい学生に会えない」「OfferBoxは登録者数がナビより少ないと聞くが、それで足りるのか」という相談を受けます。**結論から言うと、母集団の広さで選ぶか、届ける相手で選ぶかの違いであって、登録者数の大小で決める話ではありません。** リクナビは学生が企業を探して応募するナビ型、OfferBoxは企業が学生を選んでオファーを送るスカウト型です。この記事ではリクナビの仕様や数値には触れず、母集団の性質、採用の時期、採用担当の時間の使い方、併用するときの分担の順で、型の違いを整理します。

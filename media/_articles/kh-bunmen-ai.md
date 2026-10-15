@@ -1,6 +1,6 @@
 ---
-title: "スカウト文面にAIを使う範囲｜AIに任せられるのは「型の下書き・整える・削る・見本の生成・並べて比べる」まで"
-description: "OfferBox・Wantedly・ワンキャリアのどれで送る場合にも共通する、スカウト文面にAIを使うときの範囲の考え方。"
+title: "スカウト文面にAIを使う範囲｜任せる範囲と人が持つ範囲"
+description: "OfferBox・Wantedly・ワンキャリアのスカウト文面でAIに任せられるのは、型の下書き・整える・削る・見本の生成・並べて比べるまでです。人が持つ範囲、相手の情報の扱い、AIが書いた文面の点検の仕方を整理します。"
 pillar: "knowhow"
 series: "スカウト文面"
 target: "スカウト文面"
@@ -10,6 +10,13 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "kh-bunmen-ai"
 related: ["kh-bunmen-abtest", "kh-bunmen-bunkei", "kh-bunmen-chihou", "kh-bunmen-chuuto"]
+sources:
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "Wantedly 利用規約"
+    url: "https://service-terms.wantedly.com/user_terms/ja_JP"
+  - name: "個人情報保護委員会「法令・ガイドライン等」"
+    url: "https://www.ppc.go.jp/personalinfo/legal/"
 ---
 
 スカウトの文面に、AIを使いたい。一通ごとに読んで書く時間がなく、AIに書かせれば数が出る。ところが、AIに全部書かせた文面は、相手に「読んでいない」と読まれます。**結論から言うと、AIに任せられるのは、型の下書き、聞いた言葉を整える、長い文面を削る、件名の候補、避ける言葉の点検、返信が来た文面と来なかった文面の比較、までです。「相手のプロフィールを読んで一文を拾う」「重なりを書く」「名義の人が確認する」「守れるかを判断する」「送る判断」は、人が持ちます。相手の情報をAIに入れる前に、媒体の規約と自社のルールを確認します。三つの媒体で、この考え方は同じです。** この記事では、AIに全部書かせると起きること、任せられる範囲、人が持つ範囲、相手の情報の扱い、AIが書いた文面の点検、分担を整理します。文面の骨組みは[スカウト文面の基本構成](/media/kh-bunmen-kihon/)、型の管理は[スカウト文面のテンプレート管理](/media/kh-bunmen-template/)、変える範囲は[スカウトを一通ずつ変える範囲の決め方](/media/kh-bunmen-kojinka/)で書きました。

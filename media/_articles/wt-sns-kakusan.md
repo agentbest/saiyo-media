@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyの記事をSNSで広げる方法｜会社の公式で流すより、記事に出た本人が一言添えて出すほうが届く"
-description: "Wantedlyの会社ページ・募集記事・ストーリーをSNSで広げる方法。SNSの役割は「Wantedlyの中で出会えない人に、記事を届ける入口」であること、会社の公式アカウントで全記事を流す・広告の言葉で流す・タイトルだけ流す失敗、届く形（記事に出た本人が一言添える。"
+title: "Wantedlyの記事をSNSで広げる方法｜本人が一言添えて出す"
+description: "Wantedlyの記事をSNSで広げるなら、会社の公式で流すより、記事に出た本人が一言添えて出すほうが届きます。SNSの役割、やりがちな失敗、届く形と公式アカウントの使い方、どのSNSを選ぶか、反応の見方を整理します。"
 pillar: "wantedly"
 series: "コンテンツ制作"
 target: "会社ページ・募集・ストーリー"
@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-sns-kakusan"
 related: ["wt-boshu-hyouka", "wt-naiyou-review", "wt-naiyou-shisan", "wt-ouen"]
+sources:
+  - name: "Wantedly ヘルプ｜ストーリーをシェアしたい"
+    url: "https://help.wantedly.com/hc/ja/articles/9410001965977"
+  - name: "Wantedly ヘルプ｜募集の応援について"
+    url: "https://help.wantedly.com/hc/ja/articles/8847365590809"
 ---
 
 Wantedlyの記事は、Wantedlyの中で候補者に読まれます。ただし、Wantedlyの中で出会えない人もいます。まだWantedlyを使っていない人、たまたま募集を見ていない人。SNSは、そうした人に記事を届ける入口になります。**結論から言うと、Wantedlyの記事をSNSで広げるなら、会社の公式アカウントで全記事を流すより、記事に出た本人が「自分の言葉を一言添えて」出すほうが届きます。流すのは記事の場面を一文にしたもので、広告の言葉やタイトルだけでは開かれません。どのSNSを使うかは、読ませたい候補者がいる場所で決めます。** この記事では、SNSの役割、やりがちな失敗、届く形、公式アカウントの使い方、どのSNSか、反応の見方、続ける仕組み、分担を整理します。Wantedlyの応援機能との関係は[応援機能を社内で使う方法](/media/wt-ouen/)で書きました。この記事は、Wantedlyの外のSNSで広げる話です。

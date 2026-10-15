@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxを含む複数媒体の予算配分の考え方｜予算は「費用」と「担当の時間」の二つで置く"
-description: "OfferBoxと他の媒体（Wantedly・ワンキャリア・ナビサイトなど）を併用するときの予算配分の考え方。予算は費用と担当の時間の二つで置く、媒体ごとの費用と時間の性格、OfferBoxの時間は送る時期に集中し外に出せる部分が多い。"
+title: "OfferBoxを含む複数媒体の予算配分の考え方｜費用と担当の時間で置く"
+description: "OfferBoxを含む複数媒体の予算は、費用と担当の時間の二つで置きます。媒体ごとの費用と時間の性格、OfferBoxの時間が送る時期に集中し外に出せる部分が多いこと、配分の手順とやりがちな失敗を整理します。"
 pillar: "offerbox"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-heiyou-yosan"
 related: ["ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu", "ob-heiyou-intern-baitai"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "ワンキャリア 料金・よくある質問（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/price/"
 ---
 
 新卒採用で、OfferBoxと、Wantedlyやワンキャリアやナビサイトを併用している。来年の採用予算をどう配分するか、上司に説明を求められる。ところが、媒体ごとの費用を並べて割り振っても、送る時期に「文面を書く時間も、当日に返す時間もなくて、送れなかった」という形で崩れることが多くあります。**結論から言うと、予算は「費用」と「担当の時間」の二つで置きます。OfferBoxは、送る時期に時間が集中し、その時間の多くは外に出せる媒体です。配分は、採る人数と「こんな人」を決め、「自社で持つ時間」を先に決め、回っている入口に寄せ、費用と代行の範囲は各媒体の現在の条件を確認して置き、見直しは契約の切れ目で行います。** この記事では、予算の二つの側、媒体ごとの費用と時間の性格、OfferBoxの時間の置き方、配分の手順、複数媒体で配分するときの考え方、やりがちな失敗、社内の分担を整理します。母集団形成全体の予算は[母集団形成の予算配分](/media/kh-boshudan-yosan/)、効果の並べ方は[OfferBoxを含む複数媒体の効果を並べて見る方法](/media/ob-heiyou-heiyou-kpi/)で書きました。費用の数値は、この記事では書きません。

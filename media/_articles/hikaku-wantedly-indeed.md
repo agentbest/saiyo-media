@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとIndeedの違い｜検索で見つかるか、会社ページに来てもらうか"
-description: "中途採用でWantedlyとIndeedをどう使い分けるか。求人が検索で見つかる型と、会社の想いを読んで共感した人が来る型の違いを、候補者が探す起点・企業が書くもの・時間の使い方・順番・併用の分担の順で整理します。数値や料金では比べません。"
+title: "WantedlyとIndeedの違い｜検索で見つかるか、会社ページに来るか"
+description: "WantedlyとIndeedの違いは、求人が検索で見つかる型か、会社の想いを読んで共感した人が来る型かです。候補者が探す起点、企業が書くもの、時間の使い方、順番、併用の分担を整理します。数値や料金では比べません。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,6 +10,13 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-wantedly-indeed"
 related: ["hikaku-wantedly-bizreach", "hikaku-wantedly-doda", "hikaku-wantedly-findy", "hikaku-wantedly-green"]
+sources:
+  - name: "Wantedly ヘルプ｜会社ページの「私たちについて」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/8950640244761"
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "Wantedly ヘルプ｜企業から労働条件等が明示されるタイミングを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/360028277672"
 ---
 
 「Indeedに求人を出している。Wantedlyも足すべきか」「Wantedlyの募集は、検索で見つかるのか」という相談を受けます。**結論から言うと、この2つは候補者が自社を見つける起点が違います。Indeedは求人が検索で見つかる型、Wantedlyは会社の想いを読んで共感した人が会社ページに来る型です。** 「探している人に見つけてもらう」のか、「読んで共感した人に来てもらう」のかで、先に検討する媒体が決まります。Wantedlyはウォンテッドリー株式会社が運営する、会社と人がつながるビジネスSNSで、募集情報を掲載する場です。Indeedは、求人情報を検索できる求人検索エンジンです。この記事ではIndeedの仕様や料金には触れず、見つかる起点の違いが採用の設計にどう効くかを整理します。
@@ -108,7 +115,7 @@ Wantedlyの運用は、通年で会社ページを育てることです。スト
 
 ### Wantedlyの募集記事は、検索で見つかりますか
 
-Wantedlyは、検索で見つけてもらう設計ではなく、会社ページとスカウトで届ける設計です。探している人に検索で見つけてもらいたいなら、Indeedのような求人検索の場を先に検討します。探していない人にも届けたいなら、Wantedlyの型が向きます。
+Wantedlyは、条件で求人を探す場というより、会社ページとストーリーとスカウトで届ける設計です。公式は、ストーリーを検索エンジンやSNS経由での流入に強い採用ホームページとしても使えると説明しています。職種や条件で探している人に求人検索で見つけてもらいたいなら、Indeedのような求人検索の場を先に検討します。探していない人にも届けたいなら、Wantedlyの型が向きます。
 
 ### Indeedの求人票を、そのままWantedlyの募集記事に使えますか
 

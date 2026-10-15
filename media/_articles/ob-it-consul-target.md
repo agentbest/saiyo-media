@@ -1,6 +1,6 @@
 ---
 title: "OfferBoxでITコンサルタント志望の学生を見つける検索の考え方"
-description: "OfferBoxでITコンサルタントを採るときの検索条件の考え方。情報系で絞ると相手が足りず、コンサル志望とSE志望が一つの検索に混ざります。検索の前に自社の「間」の位置（要件を決める側か、実装の管理に近いか）と客先常駐の範囲を決める。"
+description: "OfferBoxでITコンサルタントに合う学生を探すときは、検索の前に自社の位置と客先常駐の範囲を決めます。コンサル志望とSE志望が混ざる理由、「論理的」ではなく四つの行動で読む自由記述、情報系以外への広げ方を整理します。"
 pillar: "offerbox"
 series: "職種別"
 target: "ITコンサルタント"
@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-it-consul-target"
 related: ["ob-it-consul-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxでITコンサルタントを採るとき、検索条件で最初にぶつかるのは「情報系で絞ると足りず、広げるとコンサル志望とSE志望が混ざって、文面が書けない」という問題です。**結論から言うと、ITコンサルタントの検索は専攻や志望職種で探すのではなく、検索の前に自社の「間」の位置と客先常駐の範囲を決め、情報系とプログラミング経験をあればよい条件に置き、自由記述を「業務を分解した・人の間に立って合意させた・仕組みで手間を減らした」の行動で読みます。** この記事では、ITコンサルタントに合う学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxでITコンサルタントを採るオファー文面の書き方](/media/ob-it-consul-offer-bunmen/)で書きました。

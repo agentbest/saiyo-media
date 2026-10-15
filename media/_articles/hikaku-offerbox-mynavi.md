@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとマイナビの違い｜企業から送るか、学生が探しに来るか"
-description: "新卒採用でOfferBoxとマイナビをどう使い分けるか。企業から学生へオファーを送るスカウト型と、学生が企業を検索して応募するナビ型の違いを、学生から見える景色・社内で必要な時間と人・先に検討する条件・併用するときの分担の順で整理します。"
+title: "OfferBoxとマイナビの違い｜企業から送るか学生が探しに来るか"
+description: "OfferBoxとマイナビの違いは、企業から学生へオファーを送るスカウト型か、学生が企業を検索して応募するナビ型かです。学生から見える景色、社内で必要な時間と人、先に検討する条件、併用の分担を整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-mynavi"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
 ---
 
 「マイナビには載せている。OfferBoxも足したほうがいいのか」「マイナビをやめてOfferBoxに移すべきか」という相談を、新卒採用をしている会社からよく受けます。**結論から言うと、この2つは型が違うので、置き換えではなく役割の分担で考えます。** マイナビは学生が企業を探して応募する型、OfferBoxは企業が学生を探してオファーを送る型です。この記事ではマイナビの仕様や料金には触れず、型の違いと、自社の動き方によってどう使い分けるかだけを整理します。

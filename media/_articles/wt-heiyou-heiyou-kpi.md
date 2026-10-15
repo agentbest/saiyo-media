@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyを含む複数媒体の効果を並べて見る方法｜入口の数は媒体ごとに前提が違うので並べない。面談から先の共通の段と「近い人」の数と日数で並べ、Wantedlyには記事の資産と来た人の言葉を足す"
-description: "Wantedlyと他の媒体（OfferBox・ワンキャリア・ナビサイトなど）を併用しているときに、効果を並べて見る方法。媒体ごとに数が出る段が違う（Wantedlyは閲覧・応援・話を聞きに行きたい、スカウト型は送信・開封・承認、ナビはエントリー）。"
+title: "Wantedlyを含む複数媒体の効果を並べて見る方法｜並べる段と見る数"
+description: "Wantedlyを含む複数媒体の効果は、入口の数ではなく面談から先の共通の段と「近い人」の数と日数で並べます。媒体ごとに数が出る段の違い、台帳の揃え方、Wantedlyに足す記事の資産と来た人の言葉を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-heiyou-kpi"
 related: ["wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-findy", "wt-heiyou-green"]
+sources:
+  - name: "Wantedly ヘルプ｜アナリティクスの「募集」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9468096203929"
 ---
 
 Wantedlyと、OfferBoxやワンキャリアやナビサイトを併用している。上司から「どの媒体が効いているのか、並べて見せてほしい」と言われる。ところが、管理画面に出る数字は媒体ごとに違い、Wantedlyの閲覧数と、スカウト型の開封数と、ナビのエントリー数を同じ表に置いても、何も判断できません。**結論から言うと、入口の数は媒体ごとに前提が違うので並べません。並べるのは、面談から先の共通の段（面談・選考・内定）と、「こんな人」に近い人が各段に何人いるか、各段までの日数です。台帳を一つにして、媒体は列の一つとして持ち、Wantedlyには「記事の資産」と「来た人の言葉」を足して見ます。** この記事では、媒体ごとに数が出る段の違い、共通の段で並べる考え方、台帳の項目、予算と工数の見方、Wantedlyだけに足す項目、やりがちな失敗、社内の分担を整理します。媒体全般の並べ方は[媒体の効果を並べて比べる方法](/media/hikaku-baitai-kouka-hikaku/)、Wantedly単体のKPIは[Wantedlyの効果が測れないときのKPIの置き直し](/media/wt-kouka-sokutei/)で書きました。数値は書きません。
