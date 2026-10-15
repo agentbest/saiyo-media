@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとLinkedInの使い分け｜LinkedInは「職務経歴でつながる場」、Wantedlyは「会社の中身を読んで来る場」"
-description: "WantedlyとLinkedInを使い分けるときの運用の考え方。それぞれの役割（LinkedInは職務経歴でつながり本人の名義で発信する場、Wantedlyは会社の中身を読んで来る場）、社員のプロフィールを会社の入口にする、日本語の記事を先に書いて英語に直す。"
+title: "WantedlyとLinkedInの使い分け｜経歴でつながる場との分担"
+description: "WantedlyとLinkedInは、LinkedInを職務経歴でつながり本人の名義で発信する場、Wantedlyを会社の中身を読んで来る場として使い分けます。社員のプロフィールの活かし方、英語記事の作り方を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyとdodaの使い分け｜総合型は「複数の窓口で候補者に会う場」、Wantedlyは「会った候補者が会社を読む場」"
-description: "Wantedlyとdoda（総合型の転職サービス）を使い分けるときの運用の考え方。それぞれの役割（総合型は求人票と複数の窓口で候補者に会う場、Wantedlyは会った候補者が会社の中身を読む場）、求人票に書くことと会社ページに書くことの線。"
+title: "Wantedlyとdodaの使い分け｜会う場と読ませる場の分担"
+description: "Wantedlyとdodaは、総合型を複数の窓口で候補者に会う場、Wantedlyを会った候補者が会社を読む場として使い分けます。求人票と会社ページに書くことの線、記事への導線、台帳と工数を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

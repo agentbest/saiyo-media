@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyとnoteの使い分け｜noteは「考えを外の読者に書く場」、Wantedlyは「こんな人に向けて応募の文脈で書く場」"
-description: "Wantedlyとnoteを使い分けるときの考え方。それぞれの役割（noteは個人や会社の考えを会社の外の読者に書く場、Wantedlyは「こんな人」に向けて応募の文脈で書く場）、使い分けの分担（同じ文章を貼らない、noteの考えをWantedlyでは場面に書き直す）。"
+title: "Wantedlyとnoteの使い分け｜同じ文章を貼らない書き分け"
+description: "Wantedlyとnoteは、noteを考えを外の読者に書く場、Wantedlyを「こんな人」に向けて応募の文脈で書く場として使い分けます。同じ文章を貼らず場面に書き直す方法、名義と本音の範囲、工数を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとYouTubeの使い分け｜動画は「場面を見せる」、Wantedlyは「読んで応募する場所」"
-description: "WantedlyとYouTube（採用動画）を使い分けるときの考え方。それぞれの役割（動画は声と動きで場面を見せる、Wantedlyは読んで「話を聞きに行きたい」と来る場所）、使い分けの分担（動画は温度を上げる、応募はWantedlyの記事の側で決まる）。"
+title: "WantedlyとYouTubeの使い分け｜動画は温度、判断は記事"
+description: "WantedlyとYouTubeは、動画を声と動きで場面を見せる場、Wantedlyを読んで「話を聞きに行きたい」と来る場所として使い分けます。動画は温度を上げ判断は記事で決まる分担、動画の中身と工数を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

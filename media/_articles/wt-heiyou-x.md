@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとX（旧Twitter）の使い分け｜Xは「今日の場面を流す場」、Wantedlyは「判断に使う中身を残す場」"
-description: "WantedlyとX（旧Twitter）を使い分けるときの考え方。それぞれの役割（Xは短い言葉で今日の場面を流す、Wantedlyは何をしている会社か・なぜか・誰と何をするかを残す）、使い分けの分担（本人の名義で今日を流し、判断に要ることはWantedlyに書く）。"
+title: "WantedlyとX（旧Twitter）の使い分け｜流す場と残す場の分担"
+description: "WantedlyとX（旧Twitter）は、Xを短い言葉で今日の場面を流す場、Wantedlyを判断に使う中身を残す場として使い分けます。本人の名義での発信、書くことの線、公式と本音の範囲、工数の置き方を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

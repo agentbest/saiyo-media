@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとYOUTRUSTの使い分け｜YOUTRUSTは「社員のつながりの先に届く場」、Wantedlyは「届いた人が会社を読む場」"
-description: "WantedlyとYOUTRUSTを使い分けるときの運用の考え方。それぞれの役割（YOUTRUSTは社員のつながりの先に本人の名義で届く場、Wantedlyは届いた人が会社を読んで来る場）、社員に頼むことの範囲と型（登録ではなく「この記事をこの人に」）。"
+title: "WantedlyとYOUTRUSTの使い分け｜社員に頼むことの範囲と型"
+description: "WantedlyとYOUTRUSTは、YOUTRUSTを社員のつながりの先に届く場、Wantedlyを届いた人が会社を読む場として使い分けます。社員に頼むことの範囲と型、副業から始まる関わり、面談の入口と台帳を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

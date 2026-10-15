@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとWantedlyの併用｜新卒スカウトと共感採用｜OfferBoxは「選んで送り、承認をもらう入口」、Wantedlyは「承認した学生が面談の前に読む場所」"
-description: "OfferBoxとWantedlyを新卒採用で併用するときの、OfferBoxの運用から見た使い方。それぞれの役割（OfferBoxは企業が選んで送り承認をもらう入口、Wantedlyは承認した学生が面談の前に会社を読む場所）、承認後の連絡の型に記事を入れる。"
+title: "OfferBoxとWantedlyの併用｜承認後に記事を読んでもらう"
+description: "OfferBoxとWantedlyを併用するときは、OfferBoxを承認をもらう入口、Wantedlyを承認した学生が面談前に読む場所と分けます。承認後の連絡に記事を入れる型、文面の会社紹介の置き方、内定者のストーリーの活用を解説します。"
 pillar: "offerbox"
 series: "併用・比較"
 target: "併用"

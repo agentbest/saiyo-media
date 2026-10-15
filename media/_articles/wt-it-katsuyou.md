@@ -1,6 +1,6 @@
 ---
-title: "IT・Web業界の会社がWantedlyで採用するときの設計"
-description: "IT・Web業界（SIer、SES、Web系自社開発、SaaS、ゲーム、ネット広告、メガベンチャー、受託開発、ITコンサル、大手の子会社・DX部門）の会社がWantedlyで採用するときの設計の総論。"
+title: "IT・Web業界の会社がWantedlyで採用するときの設計｜区分を最初に書く"
+description: "IT・Web業界の会社がWantedlyで採用するには、SIerや自社開発など自社の区分を会社ページの最初に書き、エンジニアと非エンジニアの入口を分けます。技術スタックとリモートの実態、ストーリーとスカウトを解説します。"
 pillar: "wantedly"
 series: "業界別"
 target: "IT・Web"

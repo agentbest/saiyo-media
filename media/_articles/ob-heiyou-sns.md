@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとSNS採用の併用｜オファーを受け取った学生は送ってきた人と会社をSNSで確かめる"
-description: "OfferBoxとSNS採用を併用するときの考え方。それぞれの役割（OfferBoxは企業が選んで送る入口、SNSは学生が送ってきた人と会社の今を確かめる場）、送る社員の名義とSNSの本人像を揃える、公式アカウントは一報に絞る、文面とSNSに書くことの線、本音の範囲。"
+title: "OfferBoxとSNS採用の併用｜名義とSNSの本人像を揃える"
+description: "OfferBoxとSNS採用を併用するときは、オファーを受け取った学生がSNSで送り手と会社を確かめる前提で、送る社員の名義とSNSの本人像を揃えます。公式アカウントの役割、書くことの線、SNSの数字の読み方を解説します。"
 pillar: "offerbox"
 series: "併用・比較"
 target: "併用"

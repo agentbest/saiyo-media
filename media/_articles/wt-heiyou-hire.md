@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとWantedly Hireの関係｜Wantedlyは「候補者が来る場」、採用管理の仕組みは「段と担当と次の連絡日を持つ場」。同じ会社の提供でも、段の定義と担当は自社で決めてから入れる"
-description: "Wantedlyと、ウォンテッドリー株式会社が提供する採用管理の仕組み（Wantedly Hire）の関係の考え方。募集の場と管理の場の役割の違い、同じ会社の提供であることの意味、入口がWantedlyだけの会社と複数の会社での位置づけ。"
+title: "WantedlyとWantedly Hireの関係｜来る場と管理する場の違い"
+description: "WantedlyとWantedly Hireは、候補者が来る場と、段・担当・次の連絡日を持つ管理の場という役割の違いがあります。同じ会社の提供である意味、導入の前に自社で決めること、確認する項目を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

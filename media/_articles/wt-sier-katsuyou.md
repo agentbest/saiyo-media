@@ -1,6 +1,6 @@
 ---
-title: "SIer業界の会社がWantedlyで採用するときの設計｜大手（親会社系・独立系）・中堅・地方のSIer"
-description: "SIer業界（親会社系の大手SIer、独立系の大手、中堅SIer、地方のSIer、大手の子会社・DX部門、自社サービス化を進めるSIer）の会社がWantedlyで採用するときの設計。"
+title: "SIer業界の会社がWantedlyで採用するときの設計｜常駐と作る割合を書く"
+description: "SIer業界の会社がWantedlyで採用するなら、作る割合と常駐の割合、協力会社との関係を書けるか先に確かめ、作らない仕事もPMと上流として書きます。採用構造との相性、ストーリーと面談、スカウトの設計を解説します。"
 pillar: "wantedly"
 series: "業界別"
 target: "SIer"

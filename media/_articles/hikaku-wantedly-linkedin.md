@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとLinkedInの違い｜同じビジネスSNSでも、プロフィールの中心が違う"
-description: "中途採用でWantedlyとLinkedInをどう使い分けるか。どちらもビジネスSNSですが、プロフィールの中心と、集まる人の広がりが違います。職務経歴を中心にした世界規模のSNSと、会社の想いを中心にした国内のSNSの違いを、対象・見せ方・言語・併用の分担の順で整理します。"
+title: "WantedlyとLinkedInの違い｜プロフィールの中心と集まる人"
+description: "WantedlyとLinkedInの違いは、プロフィールの中心と集まる人の広がりです。職務経歴を中心にした世界規模のSNSと、会社の想いを中心にした国内のSNSを、対象・見せ方・言語・併用の分担の順で整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"

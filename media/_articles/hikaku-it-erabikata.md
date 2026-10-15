@@ -1,6 +1,6 @@
 ---
-title: "IT・Web業界の採用媒体の選び方"
-description: "IT・Web業界（Web系の自社開発、受託のWeb制作・開発、メガベンチャー、ネット広告・メディア、事業会社のIT部門、SIer・SES・SaaS・ゲーム）の新卒採用で、採用媒体をどう選ぶか。"
+title: "IT・Web業界の採用媒体の選び方｜位置と開発環境と職種で見せる"
+description: "IT・Web業界の採用媒体選びでは、「IT業界」で一括りにせず、自社の位置・開発の環境・職種の中身を見せます。自社開発・受託・SIer・SESなどの採用構造、判断軸の当て方、学生が確かめること、組み合わせを整理します。"
 pillar: "hikaku"
 series: "業界別"
 target: "IT・Web"

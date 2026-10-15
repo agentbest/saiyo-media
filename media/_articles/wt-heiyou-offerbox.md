@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとOfferBoxの併用｜新卒採用の場合｜OfferBoxは「企業から学生に送る入口」、Wantedlyは「送られた学生が会社を読む場所」"
-description: "WantedlyとOfferBoxを新卒採用で併用するときの運用の分担。それぞれの役割（OfferBoxは企業が学生を選んで送る、Wantedlyは学生が会社を読んで来る）、オファーを送る社員のストーリーを先に出す、文面と記事の言葉を揃える、送る時期と通年の分担。"
+title: "WantedlyとOfferBoxの併用｜新卒採用での役割分担"
+description: "WantedlyとOfferBoxを新卒採用で併用するときは、OfferBoxを企業が学生を選んで送る入口、Wantedlyを送られた学生が会社を読む場所として分担します。送る社員のストーリー、文面と記事の言葉、時期と台帳を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

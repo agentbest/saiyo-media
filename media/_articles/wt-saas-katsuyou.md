@@ -1,6 +1,6 @@
 ---
-title: "SaaS業界の会社がWantedlyで採用するときの設計"
-description: "SaaS業界（業務ソフトを月額で提供する会社、業種特化のSaaS、水平型のSaaS、大手のSaaS事業部、SaaSのスタートアップ）の会社がWantedlyで採用するときの設計。業界の採用構造とWantedlyとの相性（並ぶSaaSの同じ言葉。"
+title: "SaaS業界の会社がWantedlyで採用するときの設計｜同じ言葉を使わない"
+description: "SaaS業界の会社がWantedlyで採用するなら、並ぶSaaSと同じ言葉を使わず、顧客の業種と課題、役割で決められることで書きます。IS・CS・FSの実態の見せ方、数の読み方、ストーリーとスカウトの設計を解説します。"
 pillar: "wantedly"
 series: "業界別"
 target: "SaaS"

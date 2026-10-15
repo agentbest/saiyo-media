@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとFindyの使い分け｜エンジニア採用で、Findyは「技術の情報で絞って送る場」、Wantedlyは「開発の考え方を読んでもらう場」"
-description: "WantedlyとFindyをエンジニア採用で使い分けるときの運用の考え方。それぞれの役割（Findyは技術の情報を根拠に絞って送る場、Wantedlyは開発の考え方・技術選定の理由・失敗と改善を読んでもらう場）、送る前に「作り方」のストーリーを一本出す。"
+title: "WantedlyとFindyの使い分け｜エンジニア採用の分担"
+description: "WantedlyとFindyはエンジニア採用で、Findyを技術の情報で絞って送る場、Wantedlyを開発の考え方を読んでもらう場として使い分けます。先に「作り方」のストーリーを出す理由、文面と記事の線を解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"

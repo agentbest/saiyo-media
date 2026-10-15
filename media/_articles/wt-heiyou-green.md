@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとGreenの使い分け｜Greenは「求人票で応募を集める場」、Wantedlyは「応募した人が会社を読む場」"
-description: "WantedlyとGreen（求人掲載型の転職サービス）を使い分けるときの運用の考え方。それぞれの役割（Greenは求人票の仕事の中身と条件で応募を集める場、Wantedlyは応募した人が会社の中身を読む場）、応募のあとに記事を読んでもらう導線。"
+title: "WantedlyとGreenの使い分け｜応募の場と読ませる場の分担"
+description: "WantedlyとGreenは、Greenを求人票で応募を集める場、Wantedlyを応募した人が会社を読む場として使い分けます。応募後に記事を読んでもらう導線、求人票と記事に書くことの線、更新のリズムを解説します。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
