@@ -300,6 +300,27 @@ function crumbs(items) {
     + `</div></nav>`;
 }
 
+/* 記事の内容に合う当社サービス（記事末の相談ブロックに1行で出す）。
+ * 相談フォームはこのページで送れるが、サービスの中身を見たい人をそのLPへ送る（2026-10-15）。
+ * 判定は 記事の中身（slug・タグ）→ 柱 の順。インターン→Infra、エンジニア/Green→Green運用代行、OfferBox→OfferBox運用代行、
+ * スカウト系→スカウト代行、媒体比較・採用ノウハウ→コーポレートの採用ご担当者さまページ（人材紹介も含む一覧）。 */
+const SERVICES = {
+  infra:    { name: '長期インターン採用（Infra）', note: '月額5万円〜／成果報酬9万円〜', href: 'https://infra.agent-best.net/' },
+  green:    { name: 'Green運用代行', note: '1面談2万円の面談課金', href: 'https://green.agent-best.net/' },
+  offerbox: { name: 'OfferBox運用代行', note: '入社承諾時のみ20万円の完全成果報酬', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
+  scout:    { name: 'スカウト代行', note: '月額0円のプランから', href: 'https://scout.agent-best.net/' },
+  business: { name: '採用ご担当者さま向けサービス一覧', note: '人材紹介・採用代行・求人広告代理店', href: 'https://www.agent-best.net/business/' },
+};
+function serviceFor(a) {
+  const tags = Array.isArray(a.tags) ? a.tags : [];
+  const has = t => tags.includes(t);
+  if (/intern/.test(a.slug) || has('インターン')) return SERVICES.infra;
+  if (/green/.test(a.slug) || has('エンジニア採用')) return SERVICES.green;
+  if (a.pillar === 'offerbox' || /(^|-)ob-|offerbox/.test(a.slug)) return SERVICES.offerbox;
+  if (a.pillar === 'wantedly' || a.pillar === 'onecareer' || has('ダイレクトスカウト') || has('運用代行') || /scout|daikou/.test(a.slug)) return SERVICES.scout;
+  return SERVICES.business;
+}
+
 /* 記事末の相談ブロック。LPへ飛ばさず、その場で送れる短いフォームにする（項目は3つ＋任意の相談内容）。
  * 送信先はLPと同じGoogleフォーム（media.js）。送信後はLPと同じくTimerexの日程予約を案内する。 */
 function ctaBlock(a) {
@@ -309,6 +330,7 @@ function ctaBlock(a) {
     <p class="consult__kick">相談無料 ／ 求人広告代理店エージェントベスト</p>
     <h2 class="consult__lead" id="consult-t">${esc(c.lead)}</h2>
     <ul class="consult__points">${c.points.map(x => `<li>${esc(x)}</li>`).join('')}</ul>
+    ${(() => { const sv = serviceFor(a); return `<p class="consult__svc">この記事の内容に合うサービス：<a href="${escAttr(sv.href)}" target="_blank" rel="noopener" data-cta="service">${esc(sv.name)} ↗</a><span>${esc(sv.note)}</span></p>`; })()}
   </div>
   <form class="consult__form" data-consult novalidate data-media="${escAttr(c.media)}" data-from="${escAttr(a.slug)}" data-title="${escAttr(a.title)}">
     <div class="cf-row">
