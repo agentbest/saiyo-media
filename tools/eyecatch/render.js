@@ -3,6 +3,8 @@
  *   node tools/eyecatch/render.js            … まだ画像が無い記事だけ作る
  *   node tools/eyecatch/render.js --force    … 全記事作り直す
  *   node tools/eyecatch/render.js <slug>...  … 指定した記事だけ作り直す
+ *   node tools/eyecatch/render.js --og       … 一覧・トップ・タグ・LPのOGP画像（images/og/<name>.jpg）のうち無いものを作る
+ *                                               （--og --force で全部。描く内容は build-media.js が書く og-specs.json）
  *
  * Chrome をヘッドレスで1つだけ立ち上げ、DevTools Protocol で template.html を順に撮る。
  * 依存パッケージなし（Node 22 以降の組み込み WebSocket を使う）。
@@ -55,13 +57,21 @@ async function main() {
   const force = args.includes('--force');
   const only = args.filter(x => !x.startsWith('--'));
   fs.mkdirSync(OUT, { recursive: true });
-  let list = fs.readdirSync(SRC).filter(f => f.endsWith('.md')).map(f => {
-    const a = fm(fs.readFileSync(path.join(SRC, f), 'utf8'));
-    a.slug = a.slug || f.replace(/\.md$/, '');
-    return a;
-  });
-  if (only.length) list = list.filter(a => only.includes(a.slug));
-  else if (!force) list = list.filter(a => !fs.existsSync(path.join(OUT, a.slug + '.jpg')));
+  let list;
+  if (args.includes('--og')) {
+    const OG = path.join(ROOT, 'images', 'og');
+    fs.mkdirSync(OG, { recursive: true });
+    const specs = JSON.parse(fs.readFileSync(path.join(__dirname, 'og-specs.json'), 'utf8'));
+    list = specs.map(x => ({ key: x.name, out: path.join(OG, x.name + '.jpg'), data: { pillar: x.pillar, pill: x.pill, title: x.title, chips: x.chips || [] } }));
+  } else {
+    list = fs.readdirSync(SRC).filter(f => f.endsWith('.md')).map(f => {
+      const a = fm(fs.readFileSync(path.join(SRC, f), 'utf8'));
+      a.slug = a.slug || f.replace(/\.md$/, '');
+      return { key: a.slug, out: path.join(OUT, a.slug + '.jpg'), data: data(a) };
+    });
+  }
+  if (only.length) list = list.filter(a => only.includes(a.key));
+  else if (!force) list = list.filter(a => !fs.existsSync(a.out));
   console.log(`作る画像: ${list.length}枚`);
   if (!list.length) return;
 
@@ -89,20 +99,20 @@ async function main() {
   let done = 0;
   try {
     for (const a of list) {
-      await send('Page.navigate', { url: TEMPLATE + '?' + a.slug + '#' + encodeURIComponent(JSON.stringify(data(a))) });
+      await send('Page.navigate', { url: TEMPLATE + '?' + encodeURIComponent(a.key) + '#' + encodeURIComponent(JSON.stringify(a.data)) });
       for (let i = 0; i < 100; i++) {
         const r = await send('Runtime.evaluate', { expression: 'document.title' });
         if (r.result.value === 'ready') break;
         await sleep(30);
       }
       const shot = await send('Page.captureScreenshot', { format: 'jpeg', quality: 86, clip: { x: 0, y: 0, width: 1200, height: 630, scale: 1 } });
-      fs.writeFileSync(path.join(OUT, a.slug + '.jpg'), Buffer.from(shot.data, 'base64'));
+      fs.writeFileSync(a.out, Buffer.from(shot.data, 'base64'));
       if (++done % 100 === 0) console.log(`  ${done}/${list.length}`);
     }
   } finally {
     ws.close(); chrome.kill();
   }
-  console.log(`images/media/ に ${done}枚を書き出しました`);
+  console.log(`${done}枚を書き出しました`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

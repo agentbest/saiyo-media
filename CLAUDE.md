@@ -42,3 +42,6 @@
 - 記事末フォーム・下部バー・GA4イベントの仕組みは変えていない（色だけコーポレートのCTAに合わせた）。
 - アイキャッチ（1200×630 JPEG）は `images/media/<slug>.jpg`。`node tools/eyecatch/render.js` で無い記事だけ作る（`--force` で全作り直し、slug指定で個別）。ヘッドレスChromeを1つ立ててDevTools Protocolで撮る（依存なし、1,000枚で約2分）。見た目は `tools/eyecatch/template.html`、色は柱ごと。
 - **記事を足したら render.js → build-media.js の順に流す。** 画像がある記事だけ、記事上部・一覧のサムネ・og:image（summary_large_image）・JSON-LDに使う。PNGだと1枚300KBになるのでJPEGにしている。
+- **OGP画像（2026-10-16〜）**: LP・メディアトップ・柱一覧・タグ一覧・各タグは `images/og/<name>.jpg`（タグはタグ名のsha1先頭10桁）。記事のアイキャッチと同じ template.html（LP・トップは `site` 配色）。
+  `build-media.js` が描く内容を `tools/eyecatch/og-specs.json` に書き、`node tools/eyecatch/render.js --og` が無いものだけ作る（`--og --force` で全部）。**画像がある時だけ og:image を出すので、タグが増えたら build → render --og → build の順。** LP（index.html）は `/images/og/lp.jpg` を直書き。
+- template.html のタイトルは `word-break:auto-phrase`（文節で改行）。2026-10-16 に入れたので、それ以前に作った記事のアイキャッチは文節改行なし（作り直すなら `render.js --force`）。

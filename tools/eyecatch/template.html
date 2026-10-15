@@ -18,7 +18,7 @@
   .left{position:absolute;left:80px;top:90px;width:700px;height:470px;display:flex;flex-direction:column}
   .pill{align-self:flex-start;border:1.5px solid var(--ac);color:var(--ac2);border-radius:999px;padding:6px 22px;font-size:27px;font-weight:400;letter-spacing:.04em;max-width:700px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .tbox{flex:1;display:flex;align-items:center}
-  h1{font-weight:800;line-height:1.38;letter-spacing:.02em;text-shadow:3px 3px 0 rgba(0,0,0,.85)}
+  h1{word-break:auto-phrase;font-weight:800;line-height:1.38;letter-spacing:.02em;text-shadow:3px 3px 0 rgba(0,0,0,.85)}
   .chips{display:flex;gap:12px;margin-bottom:28px}
   .chips span{border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.08);border-radius:999px;padding:5px 18px;font-size:21px;color:rgba(255,255,255,.88)}
   .bar{width:240px;height:5px;border-radius:3px;background:var(--ac)}
@@ -52,7 +52,9 @@
     wantedly:['#0e1e38','#1f3a66','#5b9bf5','#a9cbff'],
     onecareer:['#2e2110','#5a4120','#d9a24a','#efc985'],
     hikaku:['#17172a','#33334f','#a3a3e0','#d0d0f5'],
-    knowhow:['#1f1f1f','#454545','#bdbdbd','#e2e2e2']
+    knowhow:['#1f1f1f','#454545','#bdbdbd','#e2e2e2'],
+    /* LP・メディアトップ（OGP用）。コーポレートの記事と同じ #1C1C2E 系 */
+    site:['#1C1C2E','#33334f','#8f8fe0','#c9c9f5']
   };
   var d=JSON.parse(decodeURIComponent(location.hash.slice(1)));
   var th=THEME[d.pillar]||THEME.hikaku, r=document.documentElement.style;

@@ -93,6 +93,17 @@ const entryHref = (from, media) =>
 const IMG_DIR = path.join(DIR, 'images', 'media');
 const imgOf = slug => fs.existsSync(path.join(IMG_DIR, slug + '.jpg')) ? `/images/media/${slug}.jpg` : '';
 
+/* 一覧・トップ・タグ・LPのOGP画像（images/og/<name>.jpg）。描く内容を og-specs.json に積み、
+ * `node tools/eyecatch/render.js --og` が記事のアイキャッチと同じテンプレートで撮る。無いページは画像なしで出す */
+const OG_DIR = path.join(DIR, 'images', 'og');
+const OG_SPECS = [];
+const og = (name, spec) => {
+  OG_SPECS.push({ name, ...spec });
+  return fs.existsSync(path.join(OG_DIR, name + '.jpg')) ? `/images/og/${name}.jpg` : '';
+};
+/* タグ名は日本語・記号を含むので、ファイル名は短いハッシュにする */
+const tagKey = t => require('crypto').createHash('sha1').update(t).digest('hex').slice(0, 10);
+
 const esc = s => String(s == null ? '' : s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
@@ -557,7 +568,8 @@ function tagCloud(tags, withCount) {
 }
 function tagIndexHtml() {
   const tags = [...LIVE_TAGS.keys()];
-  return head({ title: 'タグ一覧｜求人広告代理店エージェントベスト', desc: `採用媒体の記事を、スカウト文面・内定辞退・採用KPIなどのテーマから探せます（${tags.length}タグ）。`, url: '/media/tag/', navCta: entryHref('media-tags') })
+  return head({ title: 'タグ一覧｜求人広告代理店エージェントベスト', desc: `採用媒体の記事を、スカウト文面・内定辞退・採用KPIなどのテーマから探せます（${tags.length}タグ）。`, url: '/media/tag/', navCta: entryHref('media-tags'),
+    image: og('tags', { pillar: 'knowhow', pill: 'タグから探す', title: 'テーマから、採用媒体の記事を探す', chips: tags.slice(0, 3) }) })
     + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: 'タグ' }])
     + `<main class="wrap listing">
   <h1>タグから探す</h1>
@@ -568,7 +580,7 @@ function tagIndexHtml() {
 }
 
 function listPage(o) {
-  return head({ title: o.title, desc: o.desc, url: o.url, navCta: entryHref(o.from) })
+  return head({ title: o.title, desc: o.desc, url: o.url, navCta: entryHref(o.from), image: o.image })
     + crumbs(o.crumbs)
     + `<main class="wrap listing">
   <h1>${esc(o.h1)}</h1>
@@ -592,6 +604,8 @@ const WORRIES = [
   'oc-scout-judaku-hikui', 'ob-yosan-sukunai', 'ob-hajimete', 'ob-daikou-fuman',
 ];
 const shortTitle = t => String(t).split('｜')[0];
+
+const topImg = () => og('media-top', { pillar: 'site', pill: '採用メディア', title: '求人媒体の使いこなしと、選び方', chips: ['OfferBox', 'Wantedly', 'ワンキャリア'] });
 
 function topHtml(all, byPillar, page1, pages) {
   const bySlug = Object.fromEntries(all.map(a => [a.slug, a]));
@@ -617,7 +631,7 @@ function topHtml(all, byPillar, page1, pages) {
   return head({
     title: '求人媒体の使いこなしと選び方の記事｜求人広告代理店エージェントベスト',
     desc: 'OfferBox・Wantedly・ワンキャリアの運用ノウハウと、業界・職種・規模ごとの求人媒体の選び方。求人広告代理店が、採用担当者の実務の判断に使える形で1,000本の記事にまとめています。',
-    url: '/media/', navCta: entryHref('media-top'),
+    url: '/media/', navCta: entryHref('media-top'), image: topImg(),
   })
     + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事' }])
     + `<main class="mtop">
@@ -1047,6 +1061,7 @@ function main() {
         crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: p.name }],
         items, total: list.length, page: n, pages, base: `/media/${p.key}/`,
         ctaKey: p.key, from: `media-hub-${p.key}`,
+        image: og(`pillar-${p.key}`, { pillar: p.key, pill: '記事一覧', title: `${p.name}の記事`, chips: [`${list.length}本`] }),
       }));
     }
   });
@@ -1064,7 +1079,7 @@ function main() {
       crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事' }],
       items: all.slice((n - 1) * PER_PAGE, n * PER_PAGE), total: all.length,
       page: n, pages: topPages, base: '/media/',
-      ctaKey: 'hikaku', from: 'media-list',
+      ctaKey: 'hikaku', from: 'media-list', image: topImg(),
     }));
   }
 
@@ -1082,9 +1097,17 @@ function main() {
         crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: 'タグ', url: '/media/tag/' }, { name: t }],
         items: list.slice((n - 1) * PER_PAGE, n * PER_PAGE), total: list.length, page: n, pages, base: tagUrl(t),
         ctaKey: 'knowhow', from: 'media-tag',
+        image: og(`tag-${tagKey(t)}`, { pillar: 'hikaku', pill: 'タグ', title: `「${t}」の記事`, chips: [`${list.length}本`] }),
       }));
     }
   }
+
+  /* LP（index.html は手書き。og:image は /images/og/lp.jpg を直書きしている） */
+  og('lp', { pillar: 'site', pill: '求人広告代理店', title: '求人媒体選びを、ひとつの窓口で', chips: ['新卒', '中途', 'インターン'] });
+  /* 同じ名前は1回だけ（ページ送りで何度も積まれるため） */
+  const seenOg = new Set();
+  fs.writeFileSync(path.join(DIR, 'tools', 'eyecatch', 'og-specs.json'),
+    JSON.stringify(OG_SPECS.filter(x => !seenOg.has(x.name) && seenOg.add(x.name)), null, 1), 'utf8');
 
   const urls = ['/', '/media/', '/media/tag/'].concat([...LIVE_TAGS.keys()].map(tagUrl)).concat(PILLARS.map(p => `/media/${p.key}/`)).concat(all.map(a => `/media/${a.slug}/`));
   fs.writeFileSync(path.join(DIR, 'sitemap.xml'),
