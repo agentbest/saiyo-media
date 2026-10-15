@@ -9,6 +9,18 @@
     if(a)ev('cta_click',{cta_location:a.getAttribute('data-cta'),page_path:location.pathname});
   });
 
+  /* シェア: リンクのコピーだけJSが要る（SNSはただのリンク） */
+  document.addEventListener('click',function(e){
+    var el=e.target.closest&&e.target.closest('[data-share]');if(!el)return;
+    var kind=el.getAttribute('data-share');ev('share',{method:kind,content_type:'article'});
+    if(kind!=='copy')return;
+    e.preventDefault();
+    var url=el.getAttribute('data-share-url')||location.href, box=el.closest('.share').querySelector('.share-done');
+    var done=function(t){if(box){box.textContent=t;setTimeout(function(){box.textContent='';},2200);}};
+    if(navigator.clipboard)navigator.clipboard.writeText(url).then(function(){done('コピーしました');},function(){done('コピーできませんでした');});
+    else done('コピーできませんでした');
+  });
+
   var forms=document.querySelectorAll('form[data-consult]');
   Array.prototype.forEach.call(forms,function(form){
     var box=form.parentNode, thanks=box.querySelector('.consult__thanks');

@@ -36,3 +36,8 @@
 - 一覧・トップからLPへは `/?from=<ページ>&media=<媒体>#entry`。LPは media を事前チェックし、from を文面末尾に「（導線：…）」で付ける。
 - GA4（G-1XXMP8Y1B4）: `cta_click`（cta_location）／`form_start`／**`generate_lead`（送信成功。form_location=article|lp）**。LPにもGAタグを入れた（それまでLPは計測なし）。
 - メディアトップ（/media/）は悩み→業界→職種→規模→媒体→新着の入口構成。業界・職種・規模のチップは hikaku の series/target から自動。悩みの12本は `WORRIES`。
+
+## 記事の見た目（2026-10-15）
+- メディア（/media/ 以下）の見た目はコーポレートの記事（www.agent-best.net/media/、agentbest-lp の `src/pages/media/[slug].astro`）に揃えた。白地×#1C1C2E、見出しはグレー帯＋左線、メタはチップ、目次・出典ボックス・シェア・関連記事・同じ柱の他の記事（巡回6件）・監修者（SNSリンク付き）の順。LPのパープルはメディアでは使わない。
+- 記事末フォーム・下部バー・GA4イベントの仕組みは変えていない（色だけコーポレートのCTAに合わせた）。
+- アイキャッチ画像は未対応（コーポレートは全記事に1200×630のPNGがある）。
