@@ -113,6 +113,15 @@ header.nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);bac
 .art-list.compact a{display:flex;justify-content:space-between;align-items:baseline;gap:.8em}
 .art-theme{flex-shrink:0;font-size:.74rem;color:var(--ink-faint);background:var(--surface-3);border-radius:4px;padding:2px 8px}
 .more{margin:1em 0 0;font-size:.9rem}
+/* タグ（コーポレートと同じ丸いチップ） */
+.tags{margin-top:2.8rem}
+.tags .block-title{margin-bottom:.9em}
+.tag-cloud{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:7px}
+.tag-cloud li{margin:0}
+.tag-cloud a{display:inline-flex;align-items:baseline;gap:.45em;padding:.34em .95em;border:1px solid var(--line-strong);border-radius:999px;background:#fff;color:var(--ink);font-size:.85rem;font-weight:600}
+.tag-cloud a:hover{border-color:var(--head);background:var(--head);color:#fff}
+.tag-cloud .count{font-size:.76rem;color:var(--ink-faint);font-weight:400}
+.tag-cloud a:hover .count{color:#b9bfc9}
 .more a{font-weight:700;color:var(--head)}
 .more a:hover{text-decoration:underline}
 /* 監修者 */

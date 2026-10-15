@@ -472,6 +472,7 @@ ${html}
   ${srcHtml}
   ${ctaBlock(a)}
   ${shareHtml(SITE + url, a.title)}
+  ${(() => { const tg = (Array.isArray(a.tags) ? a.tags : []).filter(t => LIVE_TAGS.has(t)); return tg.length ? `<section class="tags"><h2 class="block-title">この記事のタグ</h2>${tagCloud(tg)}</section>` : ''; })()}
   ${relHtml}
   ${sameHtml}
   ${AUTHOR}
@@ -512,6 +513,38 @@ function pagerHtml(page, pages, base) {
   if (page < pages) out.push(`<a href="${href(page + 1)}" rel="next">次へ →</a>`);
   return `<nav class="pager" aria-label="ページ送り">${out.join('')}</nav>`;
 }
+/* ---------- タグ ----------
+ * コーポレートの /media/tag/ と同じく、柱をまたいでテーマで探す導線。
+ * 5本以上の記事に付いているタグだけページを作る（それ未満は薄いページになるので出さない）。
+ * 柱名・シリーズ名と同じタグは、柱の一覧・シリーズ表示と重なるので作らない。 */
+const TAG_MIN = 5;
+let LIVE_TAGS = new Map();   /* タグ → 記事の配列。main() で作る */
+const tagUrl = t => `/media/tag/${encodeURIComponent(t)}/`;
+function collectTags(all) {
+  const skip = new Set([...PILLARS.map(p => p.name), 'OfferBox', 'Wantedly', 'ワンキャリア', '媒体比較', ...all.map(a => a.series).filter(Boolean)]);
+  const m = new Map();
+  all.forEach(a => (Array.isArray(a.tags) ? a.tags : []).forEach(t => {
+    if (skip.has(t)) return;
+    if (!m.has(t)) m.set(t, []);
+    m.get(t).push(a);
+  }));
+  return new Map([...m].filter(([, v]) => v.length >= TAG_MIN).sort((x, y) => y[1].length - x[1].length || x[0].localeCompare(y[0], 'ja')));
+}
+function tagCloud(tags, withCount) {
+  return `<ul class="tag-cloud">${tags.map(t => `<li><a href="${escAttr(tagUrl(t))}">${esc(t)}${withCount ? `<span class="count">${LIVE_TAGS.get(t).length}</span>` : ''}</a></li>`).join('')}</ul>`;
+}
+function tagIndexHtml() {
+  const tags = [...LIVE_TAGS.keys()];
+  return head({ title: 'タグ一覧｜求人広告代理店エージェントベスト', desc: `採用媒体の記事を、スカウト文面・内定辞退・採用KPIなどのテーマから探せます（${tags.length}タグ）。`, url: '/media/tag/', navCta: entryHref('media-tags') })
+    + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: 'タグ' }])
+    + `<main class="wrap listing">
+  <h1>タグから探す</h1>
+  <p class="lead">媒体をまたいで、テーマから記事を探せます。「スカウト文面」「内定辞退」「採用KPI」のように、知りたいことがはっきりしている場合はこちらが早いです（${tags.length}タグ）。</p>
+  ${tagCloud(tags, true)}
+  ${ctaBand('knowhow', 'media-tags')}
+</main>` + foot();
+}
+
 function listPage(o) {
   return head({ title: o.title, desc: o.desc, url: o.url, navCta: entryHref(o.from) })
     + crumbs(o.crumbs)
@@ -571,7 +604,7 @@ function topHtml(all, byPillar, page1, pages) {
       <h1>採用メディア</h1>
       <p class="mhero__lead">求人媒体の選び方と、申し込んだあとの運用を<strong>${all.length.toLocaleString()}本</strong>の記事で解説しています。OfferBox・Wantedly・ワンキャリアの使いこなしから、業界・職種・規模ごとの媒体の選び方（媒体比較${byPillar.hikaku.length}本）まで。新卒・中途・インターンの求人媒体を扱う求人広告代理店の立場で、採用担当者が実務で判断に使える形にまとめています。</p>
       <nav class="jump" aria-label="記事の探し方">
-        <a href="#worry">悩みから探す</a><a href="#industry">業界から探す</a><a href="#job">職種から探す</a><a href="#size">規模から探す</a><a href="#pillar">媒体から探す</a><a href="#latest">新着記事</a>
+        <a href="#worry">悩みから探す</a><a href="#industry">業界から探す</a><a href="#job">職種から探す</a><a href="#size">規模から探す</a><a href="#pillar">媒体から探す</a><a href="#tag">タグから探す</a><a href="#latest">新着記事</a>
       </nav>
       <aside class="cta-inline">
         <p>読んでも決めきれないときは、採りたい職種・人数・時期から取り扱い媒体を横並びで比較します（${TRUST.slice(0, 3).map(esc).join('・')}）。</p>
@@ -593,6 +626,13 @@ function topHtml(all, byPillar, page1, pages) {
       <p class="msec__note">${e.note}</p>
       <ul class="chips">${chips(e.s)}</ul>
     </section>`).join('\n    ')}
+
+    <section class="msec" id="tag">
+      <h2>タグから探す</h2>
+      <p class="msec__note">媒体をまたいで、テーマから探せます。</p>
+      ${tagCloud([...LIVE_TAGS.keys()].slice(0, 40), true)}
+      <p class="more"><a href="/media/tag/">すべてのタグを見る（${LIVE_TAGS.size}タグ）→</a></p>
+    </section>
 
     ${ctaBand('hikaku', 'media-top-mid')}
 
@@ -733,6 +773,15 @@ header.nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.94);bac
 .art-list.compact a{display:flex;justify-content:space-between;align-items:baseline;gap:.8em}
 .art-theme{flex-shrink:0;font-size:.74rem;color:var(--ink-faint);background:var(--surface-3);border-radius:4px;padding:2px 8px}
 .more{margin:1em 0 0;font-size:.9rem}
+/* タグ（コーポレートと同じ丸いチップ） */
+.tags{margin-top:2.8rem}
+.tags .block-title{margin-bottom:.9em}
+.tag-cloud{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:7px}
+.tag-cloud li{margin:0}
+.tag-cloud a{display:inline-flex;align-items:baseline;gap:.45em;padding:.34em .95em;border:1px solid var(--line-strong);border-radius:999px;background:#fff;color:var(--ink);font-size:.85rem;font-weight:600}
+.tag-cloud a:hover{border-color:var(--head);background:var(--head);color:#fff}
+.tag-cloud .count{font-size:.76rem;color:var(--ink-faint);font-weight:400}
+.tag-cloud a:hover .count{color:#b9bfc9}
 .more a{font-weight:700;color:var(--head)}
 .more a:hover{text-decoration:underline}
 /* 監修者 */
@@ -944,6 +993,7 @@ function main() {
     if (a.pillar && !PILLAR[a.pillar]) bad.push(`${a.slug}: 知らない pillar「${a.pillar}」`);
     (a.related || []).forEach(s => { if (!all.some(x => x.slug === s)) bad.push(`${a.slug}: related のリンク先が無い（${s}）`); });
   });
+  LIVE_TAGS = collectTags(all);
   const byPillar = {};
   PILLARS.forEach(p => byPillar[p.key] = all.filter(a => a.pillar === p.key));
   console.log(`記事 ${all.length}件`);
@@ -996,7 +1046,25 @@ function main() {
     }));
   }
 
-  const urls = ['/', '/media/'].concat(PILLARS.map(p => `/media/${p.key}/`)).concat(all.map(a => `/media/${a.slug}/`));
+  w('tag/index.html', tagIndexHtml());
+  for (const [t, list] of LIVE_TAGS) {
+    const pages = Math.max(1, Math.ceil(list.length / PER_PAGE));
+    for (let n = 1; n <= pages; n++) {
+      const dir = `tag/${t}/`;
+      w(n === 1 ? dir + 'index.html' : `${dir}page-${n}.html`, listPage({
+        title: `「${t}」の記事一覧${n > 1 ? `（${n}ページ目）` : ''}｜求人広告代理店エージェントベスト`,
+        desc: `「${t}」に関する採用媒体の記事${list.length}本。${list.slice(0, 2).map(a => shortTitle(a.title)).join('、')}など。`,
+        url: tagUrl(t) + (n > 1 ? `page-${n}.html` : ''),
+        h1: `「${t}」の記事`, lead: `「${t}」のタグが付いた記事です。OfferBox・Wantedly・ワンキャリア・媒体比較・採用ノウハウをまたいで並べています。`,
+        nav: `<p class="more" style="margin:0 0 1em"><a href="/media/tag/">← タグ一覧へ</a></p>`,
+        crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: 'タグ', url: '/media/tag/' }, { name: t }],
+        items: list.slice((n - 1) * PER_PAGE, n * PER_PAGE), total: list.length, page: n, pages, base: tagUrl(t),
+        ctaKey: 'knowhow', from: 'media-tag',
+      }));
+    }
+  }
+
+  const urls = ['/', '/media/', '/media/tag/'].concat([...LIVE_TAGS.keys()].map(tagUrl)).concat(PILLARS.map(p => `/media/${p.key}/`)).concat(all.map(a => `/media/${a.slug}/`));
   fs.writeFileSync(path.join(DIR, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`
     + urls.map(u => `  <url><loc>${SITE}${u}</loc></url>`).join('\n') + `\n</urlset>\n`, 'utf8');
