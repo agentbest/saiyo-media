@@ -1,6 +1,6 @@
 ---
-title: "IT・Web業界の新卒採用でOfferBoxを使うときの設計｜三つの位置を分ける"
-description: "IT・Web業界の新卒採用でOfferBoxを使うときは、「IT」「Web系」の一語で送らず、三つの位置を切り分けます。業界の採用構造との相性、作って動かした行動で探す検索、開発環境を正直に書く文面、エンジニアが出る面談を解説します。"
+title: "IT・Web業界の新卒採用でOfferBoxを使うときの設計"
+description: "IT・Web業界（Web系の自社開発、受託のWeb制作・開発、メガベンチャー、ネット広告・メディア、事業会社のIT部門、SIer・SES・SaaS・ゲーム）の新卒採用でOfferBoxを使うときの設計の総論。"
 pillar: "offerbox"
 series: "業界別"
 target: "IT・Web"

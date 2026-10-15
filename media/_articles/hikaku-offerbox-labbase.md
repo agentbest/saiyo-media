@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとLabBaseの違い｜幅広く送るか理系で絞るか"
-description: "OfferBoxとLabBaseはどちらもスカウト型ですが、対象とする学生の幅が違います。採用する職種が研究・技術系に限られるか、文系総合職も同時に採るかで判断が分かれます。文面を書く人と併用の分担も整理します。"
+title: "OfferBoxとLabBaseの違い｜幅広い学生に送るか、理系の専門性で絞るか"
+description: "新卒採用でOfferBoxとLabBaseをどう見るか。どちらも企業から学生へ送るスカウト型ですが、対象とする学生の幅が違います。採用する職種が研究・技術系に限られるか、文系総合職も同時に採るかで判断が分かれます。文面を書く人の分担と、併用するときの役割も整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,11 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-labbase"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka"]
-sources:
-  - name: "OfferBoxのデータ（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/data/"
-  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/about/function"
 ---
 
 「理系の学生を採りたい。OfferBoxとLabBaseのどちらがいいか」という相談を、製造業や研究開発職を持つ会社から受けます。**結論から言うと、どちらもスカウト型ですが、対象とする学生の幅が違います。採用する職種が研究・技術系に限られるなら専門特化の媒体を先に確認し、文系総合職も同時に採るならOfferBoxで一本化する形が素直です。** OfferBoxは株式会社i-plugが運営する、就職活動中の学生を幅広く対象とするスカウト型サービス。LabBaseは株式会社LabBaseが運営する、理系学生を対象としたスカウト型サービスです。この記事ではLabBaseの仕様や料金には触れず、対象の幅の違いが採用の設計にどう効くかと、文面を書く人の分担、併用するときの役割を整理します。

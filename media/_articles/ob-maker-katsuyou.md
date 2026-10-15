@@ -1,6 +1,6 @@
 ---
-title: "メーカー業界の新卒採用でOfferBoxを使うときの設計｜区分ごとの使い分け"
-description: "メーカー業界の新卒採用でOfferBoxを使うなら、「メーカー」で一括りにせず、BtoCとBtoB、大手と中小の区分を先に決めます。テーマや行動で探す検索、配属と工場を事実で書く文面、工場を見せる面談を整理します。"
+title: "メーカー業界の新卒採用でOfferBoxを使うときの設計"
+description: "メーカー業界（BtoCの大手、BtoBの大手、BtoCの中堅・中小、BtoBの中堅・中小、地方のメーカー）の新卒採用でOfferBoxを使うときの設計の総論。業界の採用構造とOfferBoxとの相性（「メーカー志望」の中身、BtoCとBtoBと大手と中小の四つ。"
 pillar: "offerbox"
 series: "業界別"
 target: "メーカー"

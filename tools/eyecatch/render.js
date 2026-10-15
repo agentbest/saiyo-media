@@ -21,7 +21,7 @@ const OUT = path.join(ROOT, 'images', 'media');
 const TEMPLATE = 'file:///' + path.join(__dirname, 'template.html').replace(/\\/g, '/');
 const CHROME = process.env.CHROME || 'C:/Program Files/Google/Chrome/Application/chrome.exe';
 const PORT = 9333;
-const PILLAR_NAME = { offerbox: 'OfferBox', wantedly: 'Wantedly', onecareer: 'ワンキャリア', hikaku: '媒体比較・選び方', knowhow: '採用ノウハウ' };
+const PILLAR_NAME = { offerbox: 'OfferBox', wantedly: 'Wantedly', onecareer: 'ワンキャリア', hikaku: '媒体比較・選び方', knowhow: '採用ノウハウ', green: 'Green・IT中途採用', infra: 'Infra・長期インターン' };
 
 function fm(raw) {
   const m = /^---\r?\n([\s\S]*?)\r?\n---/.exec(raw);

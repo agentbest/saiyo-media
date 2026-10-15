@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとOfferBoxの併用｜新卒採用での役割分担"
-description: "WantedlyとOfferBoxを新卒採用で併用するときは、OfferBoxを企業が学生を選んで送る入口、Wantedlyを送られた学生が会社を読む場所として分担します。送る社員のストーリー、文面と記事の言葉、時期と台帳を解説します。"
+title: "WantedlyとOfferBoxの併用｜新卒採用の場合｜OfferBoxは「企業から学生に送る入口」、Wantedlyは「送られた学生が会社を読む場所」"
+description: "WantedlyとOfferBoxを新卒採用で併用するときの運用の分担。それぞれの役割（OfferBoxは企業が学生を選んで送る、Wantedlyは学生が会社を読んで来る）、オファーを送る社員のストーリーを先に出す、文面と記事の言葉を揃える、送る時期と通年の分担。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,11 +10,6 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-offerbox"
 related: ["wt-heiyou-intern-baitai", "wt-heiyou-onecareer", "wt-heiyou-shinsotsu-baitai", "wt-heiyou-heiyou-yosan"]
-sources:
-  - name: "Wantedly ヘルプ｜カジュアル面談とは"
-    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
-  - name: "Wantedly ヘルプ｜「ストーリー」とは"
-    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
 ---
 
 新卒採用で、OfferBoxとWantedlyの両方を使っている、または使おうとしている。二つの違いは分かっていても、「オファーを送る学生に、Wantedlyの記事をどう読ませるか」「送る時期と、記事の時期をどう分けるか」「台帳を分けるか」「時間をどう配分するか」が決まっていないと、送った学生が読む場所がなく、記事を書く時間が送る時間に吸われます。**結論から言うと、OfferBoxは「企業が学生を選んで送る入口」、Wantedlyは「送られた学生が会社を読む場所」です。併用するなら、オファーを送る社員のストーリーを先に出し、文面と記事の言葉を揃え、台帳を一つにして段を揃え、時間は「外に出せる時間」と「出せない時間」で配分します。** この記事では、それぞれの役割、送る社員のストーリー、文面と記事の揃え方、時期の分担、台帳、工数の配分、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[OfferBoxとWantedlyの違い](/media/hikaku-offerbox-wantedly/)で書きました。この記事は、両方を契約したあとの運用の分担を扱います。両媒体の仕様と数値は書きません。

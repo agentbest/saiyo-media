@@ -1,6 +1,6 @@
 ---
 title: "OfferBoxのオファー文面の基本｜開いてもらえる書き出し"
-description: "OfferBoxのオファー文面は、書き出しに「なぜあなたに」を置き、会社紹介を後ろに回して短く書くのが基本です。名義を現場の社員にする理由、次の行動を1つだけ示す締め方、やりがちな失敗を解説します。"
+description: "OfferBoxのオファー文面を、学生に開いて読んでもらうための基本。学生は複数のオファーを受け取っている前提で、書き出しに「なぜあなたに」を置く、会社紹介は後ろに回す、短く書く、名義は現場の社員にする、次の行動を1つだけ示す、の考え方と手順、やりがちな失敗。"
 pillar: "offerbox"
 series: "運用ノウハウ"
 target: "運用"
@@ -10,11 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-offer-bunmen-kihon"
 related: ["ob-offer-bunmen-ng", "ob-offer-template", "ob-boshu-youkou", "ob-bunkei-gakusei"]
-sources:
-  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/flow"
-  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/faq"
 ---
 
 OfferBoxのオファー文面は、学生に届いて、開かれて、読まれて、承認されて、初めて意味を持ちます。**結論から言うと、開いてもらえるかは書き出しで決まり、書き出しに置くのは会社の紹介ではなく「なぜあなたに送ったか」です。** 学生は複数の企業からオファーを受け取っています。会社紹介から始まる文面は、他の企業の文面と見分けがつかず、開かれても読まれません。この記事では、文面の基本を、書き出し、会社紹介の位置、長さ、名義、締め、の順で整理します。文面の材料になる「触れる一文」の拾い方は[OfferBoxの学生プロフィールの読み方](/media/ob-profile-yomikata/)で書きました。文面の細かい構成や、テンプレートの作り方は、この後の記事で書きます。

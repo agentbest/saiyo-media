@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxとirootsの違い｜読める情報と文面の書き方で選ぶ"
-description: "OfferBoxとirootsはどちらもスカウト型で、オファーの質は送る前に学生の何を読めるかで決まります。申込前に確認する項目、読める情報で変わる文面の書き方、深く採るか幅広く会うかの判断、併用の分担を整理します。"
+title: "OfferBoxとirootsの違い｜プロフィールの読み方と、文面に必要な情報から選ぶ"
+description: "新卒採用でOfferBoxとirootsをどう見るか。どちらも企業から学生へ送るスカウト型ですが、オファーの質は「送る前に学生の何を読めるか」で決まります。申込前に確認する項目、読める情報で変わる文面の書き方、少人数を深く採るか幅広く会うかの判断、併用の分担を整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,9 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-iroots"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-kimisuka", "hikaku-offerbox-labbase"]
-sources:
-  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/faq"
 ---
 
 「OfferBoxとirootsは、どちらもスカウト型で何が違うのか」という相談を受けます。**結論から言うと、型は同じで、違いは「送る前に学生の何を読めるか」と「そこからどんな文面が書けるか」に出ます。** OfferBoxは株式会社i-plug、irootsはエン・ジャパン株式会社が運営する、どちらも新卒向けのスカウト型サービスです。この記事ではirootsの仕様や料金には触れません。スカウト型の媒体を選ぶときに、申込前に確認する項目と、読める情報によって文面の書き方がどう変わるか、そして少人数を深く採る会社と幅広く会いたい会社でどう判断が分かれるかを整理します。

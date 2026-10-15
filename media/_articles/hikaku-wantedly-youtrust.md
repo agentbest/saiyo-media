@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとYOUTRUSTの違い｜会社の言葉か、社員のつながりか"
-description: "WantedlyとYOUTRUSTの違いは、候補者が自社を知る経路です。会社が書いた記事に人が来る型と、社員のつながりを通じて広がる型を、企業の資産・社員の関わり方・時間の使い方・併用の分担の順で整理します。"
+title: "WantedlyとYOUTRUSTの違い｜会社の言葉で集めるか、社員のつながりで広げるか"
+description: "中途採用でWantedlyとYOUTRUSTをどう使い分けるか。どちらもSNS型ですが、候補者が自社を知る経路が違います。会社が書いた記事に人が来る型と、社員のつながりを通じて広がる型の違いを、企業の資産・社員の関わり方・時間の使い方・併用の分担の順で整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,13 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-wantedly-youtrust"
 related: ["hikaku-wantedly-bizreach", "hikaku-wantedly-doda", "hikaku-wantedly-findy", "hikaku-wantedly-green"]
-sources:
-  - name: "Wantedly 採用担当者向けページ"
-    url: "https://www.wantedly.com/about/list"
-  - name: "Wantedly ヘルプ｜「ストーリー」とは"
-    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
-  - name: "Wantedly ヘルプ｜ストーリーをシェアしたい"
-    url: "https://help.wantedly.com/hc/ja/articles/9410001965977"
 ---
 
 「WantedlyとYOUTRUSTは、どちらもSNSと聞くが、何が違うのか」「社員のつながりで採用したいが、どちらを使えばいいか」という相談を、スタートアップや成長期の会社から受けます。**結論から言うと、候補者が自社を知る経路が違います。Wantedlyは会社が書いた記事に人が来る型、YOUTRUSTは社員のつながりを通じて広がる型です。** 使う資産が「会社の言葉」か「社員のつながり」かで、先に検討する媒体が決まります。Wantedlyはウォンテッドリー株式会社が運営する、会社と人がつながるビジネスSNSで、募集情報を掲載する場です。YOUTRUSTは株式会社YOUTRUSTが運営する、友人や同僚のつながりを軸にしたキャリアSNSです。この記事ではYOUTRUSTの仕様や料金には触れず、経路の違いが採用の設計にどう効くかを整理します。

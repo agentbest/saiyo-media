@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyと他ツールの連携｜ATS・Slack・カレンダーの対応一覧"
-description: "Wantedlyの公式なATS連携はWantedly Hireのみで、SlackとGoogleカレンダーは通知と日程に使います。SAML・SCIMや募集の埋め込みまで、連携前に確かめることを公式ヘルプから整理します。"
+title: "Wantedlyと他ツールの連携｜ATSはWantedly Hireのみ公式対応、Slack・Googleカレンダーは通知と日程に使う"
+description: "Wantedlyと外部ツールの連携を公式ヘルプから整理します。ATS連携の公式サポートはWantedly Hireのみ（APIキーで候補者情報を取り込む）、Slack通知の対象と制約、Google Workspace・Googleカレンダー、SAML・SCIM（β版）、募集の埋め込みまでを一覧にします。"
 pillar: "wantedly"
 series: "機能・仕様"
 target: "機能"

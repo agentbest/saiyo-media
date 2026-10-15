@@ -1,6 +1,6 @@
 ---
-title: "OfferBox・Wantedly・ワンキャリアの違いと選び方｜4つの軸で比較"
-description: "OfferBox・Wantedly・ワンキャリアは、届く相手・企業が動く型・料金の型・運用時間の4軸で並べると選びやすくなります。3媒体の比較表、自社の条件で先に検討する媒体、組み合わせるときの分担を整理します。"
+title: "OfferBox・Wantedly・ワンキャリアの違いと選び方｜3媒体を同じ軸で並べる"
+description: "新卒採用でOfferBox・Wantedly・ワンキャリアのどれを選ぶか。届く相手・企業が動く型・料金の型・運用にかかる時間の4つの軸で3媒体を同じ表に並べ、自社の条件ならどれを先に検討するか、組み合わせるならどう分担するかを整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,13 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-3baitai"
 related: ["hikaku-offerbox-onecareer", "hikaku-offerbox-wantedly", "hikaku-onecareer-wantedly", "hikaku-offerbox-doda-campus"]
-sources:
-  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/fee"
-  - name: "Wantedly 採用担当者向けページ"
-    url: "https://www.wantedly.com/about/list"
-  - name: "ワンキャリア 料金・よくある質問（企業向けサービスサイト）"
-    url: "https://service.onecareer.jp/service/price/"
 ---
 
 「OfferBox、Wantedly、ワンキャリア。うちはどれを使えばいいですか」という相談は、3媒体すべての販売パートナーである当社に最も多く寄せられる質問です。**結論から言うと、3つに優劣はなく、自社が「誰に届けたいか」と「社内の誰がどう動けるか」で、先に検討する媒体が決まります。** この記事では、3媒体を同じ4つの軸で1つの表に並べ、条件ごとにどれを先に検討するか、組み合わせるならどう分担するかを整理します。2媒体ずつの細かい比較は別の記事に譲り、ここでは全体の見取り図を示します。

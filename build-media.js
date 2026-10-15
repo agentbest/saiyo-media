@@ -28,6 +28,8 @@ const PILLARS = [
   { key: 'wantedly',  name: 'Wantedly',        lead: '共感でつながるWantedlyの会社ページ・ストーリー・募集・スカウトの作り方と運用。新卒も中途も。' },
   { key: 'onecareer', name: 'ワンキャリア',     lead: 'クチコミと就活データを軸にしたワンキャリアの掲載・スカウト・イベントの使い方。' },
   { key: 'hikaku',    name: '媒体比較・選び方', lead: 'OfferBox・Wantedly・ワンキャリア、そして他媒体。規模・業界・職種・予算ごとに、どれを先に検討するか。' },
+  { key: 'green',     name: 'Green・IT中途採用', lead: 'IT/Web業界の求人媒体Greenで、エンジニア・PdM・デザイナー・ビジネス職を採る。求人票、「気になる」、スカウト、選考まで。' },
+  { key: 'infra',     name: 'Infra・長期インターン', lead: '長期インターン求人サイトInfraで、学生インターンを採って育てる。求人原稿、選考、受け入れ、新卒採用への接続まで。' },
   { key: 'knowhow',   name: '採用ノウハウ',     lead: 'スカウト文面、母集団形成、内定辞退、採用KPI、新卒スケジュール。媒体をまたいで使える採用の実務。' },
 ];
 const PILLAR = Object.fromEntries(PILLARS.map(p => [p.key, p]));
@@ -74,6 +76,22 @@ const PILLAR_CTA = {
     label: '媒体選びを相談する', short: '媒体選びを無料で相談',
     media: '未定・相談したい',
     placeholder: '例：28卒で営業職を5名、中途でエンジニアを2名採用予定。どの媒体を組み合わせるか相談したい。' },
+  green: {
+    lead: 'GreenでのIT・Web職の採用、手が回っていますか',
+    points: ['求人票・「気になる」・スカウト・面接調整まで、いまの運用を一緒に点検します',
+             'Green運用代行は入社時のみ課金の成功報酬（1名50万円・税別）。初期費用・月額固定費はかかりません',
+             'エンジニア・PdM・デザイナー・ビジネス職の採用設計から相談できます'],
+    label: 'Greenでの採用を相談する', short: 'Greenでの採用を無料で相談',
+    media: 'Green',
+    placeholder: '例：バックエンドエンジニアを2名採用したい。Greenで応募が集まらないので、求人票とスカウトを見直したい。' },
+  infra: {
+    lead: '長期インターンの採用と受け入れ、まとめて相談できます',
+    points: ['求人原稿の作成から応募対応・面接設定まで、Infraの運用を代理店として支援します',
+             '継続して採るならサブスクリプション、まず1名ならデポジット（成果報酬）。採用計画から選べます',
+             '受け入れ体制や、新卒採用へのつなぎ方も一緒に考えます'],
+    label: '長期インターンの採用を相談する', short: '長期インターンの採用を無料で相談',
+    media: 'Infra',
+    placeholder: '例：営業アシスタントの長期インターンを2名採りたい。初めての受け入れなので、原稿と体制から相談したい。' },
   knowhow: {
     lead: '採用の進め方を、媒体選びから一緒に整理しませんか',
     points: ['採用人数・時期・体制から、どの媒体で何をするかを一緒に整理します',
@@ -325,8 +343,14 @@ const SERVICES = {
 function serviceFor(a) {
   const tags = Array.isArray(a.tags) ? a.tags : [];
   const has = t => tags.includes(t);
+  if (a.pillar === 'infra') return SERVICES.infra;
+  if (a.pillar === 'green') return SERVICES.green;
   if (/intern/.test(a.slug) || has('インターン')) return SERVICES.infra;
   if (/green/.test(a.slug) || has('エンジニア採用')) return SERVICES.green;
+  /* IT・Web職の中途採用の記事も Green へ（2026-10-16 力を入れる領域）。新卒媒体の柱は除く */
+  if (['wantedly', 'hikaku', 'knowhow'].includes(a.pillar) && !has('新卒採用') &&
+      (/(^|-)(engineer|backend|frontend|infra|sre|mobile|data|pdm|pm|designer|it|saas|web|tech|findy|bizreach|youtrust|doda|linkedin)(-|$)/.test(a.slug) || has('IT業界') || has('エンジニア')))
+    return SERVICES.green;
   if (a.pillar === 'offerbox' || /(^|-)ob-|offerbox/.test(a.slug)) return SERVICES.offerbox;
   if (a.pillar === 'wantedly' || a.pillar === 'onecareer' || has('ダイレクトスカウト') || has('運用代行') || /scout|daikou/.test(a.slug)) return SERVICES.scout;
   return SERVICES.business;
@@ -1021,7 +1045,15 @@ function w(rel, html) {
 
 function main() {
   const check = process.argv.includes('--check');
-  const all = load();
+  /* 統合（2026-10-16）。media-redirects.json の記事は書き出さず、転送ページだけ置く（一覧・タグ・sitemap・関連記事から外す）。
+   * 転送先の多くは OfferBox運用代行LPのメディア（地方採用ラボ）で、本文はそちらへ移してある。
+   * 対応表は scoutdaikou_offerbox の tools/media/retired.json・imported/ と対。片方だけ直さない。 */
+  const REDIRECTS = fs.existsSync(path.join(DIR, 'media-redirects.json'))
+    ? JSON.parse(fs.readFileSync(path.join(DIR, 'media-redirects.json'), 'utf8')) : {};
+  const loaded = load();
+  const retired = loaded.filter(a => REDIRECTS[a.slug]);
+  const all = loaded.filter(a => !REDIRECTS[a.slug]);
+  all.forEach(a => { if (a.related) a.related = a.related.filter(s => !REDIRECTS[s]); });
   all.sort((a, b) => String(b.pubDate || '').localeCompare(String(a.pubDate || '')) || a.slug.localeCompare(b.slug));
   const bad = [];
   all.forEach(a => {
@@ -1048,6 +1080,19 @@ function main() {
   w('assets/media.js', JS);
   fs.writeFileSync(path.join(DIR, '.nojekyll'), '', 'utf8');
   all.forEach(a => w(`${a.slug}/index.html`, articleHtml(a, all)));
+  /* GitHub Pages では301が使えないので canonical＋meta refresh＋location.replace。noindex は付けない */
+  retired.forEach(a => {
+    const to = REDIRECTS[a.slug];
+    w(`${a.slug}/index.html`, `<!DOCTYPE html>
+<html lang="ja"><head><meta charset="utf-8">
+<title>移転しました｜採用メディア</title>
+<link rel="canonical" href="${escAttr(to)}">
+<meta http-equiv="refresh" content="0; url=${escAttr(to)}">
+<script>location.replace(${JSON.stringify(to)});</script>
+</head><body><p>この記事は内容の近い記事にまとめました。<a href="${escAttr(to)}">${esc(to)}</a> へ移動します。</p></body></html>
+`);
+  });
+  console.log(`転送ページ: ${retired.length}件`);
 
   PILLARS.forEach(p => {
     const list = byPillar[p.key];

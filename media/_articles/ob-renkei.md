@@ -1,6 +1,6 @@
 ---
-title: "OfferBoxと採用管理システムの連携｜公式発表で確認できる4つ"
-description: "OfferBoxとATSの連携は、i-plugの発表でi-web・SONAR（現sonar ATS）・Talentio・採用一括かんりくんの4つが確認できます。公式の一覧は無いため、申込前の確認項目と個人情報の扱いの注意点を整理します。"
+title: "OfferBoxと採用管理システムの連携｜公式発表で確認できる4つのATSと、申込前に確かめること"
+description: "OfferBoxとATS（採用管理システム）の連携は、i-plugのプレスリリースで i-web・SONAR（現 sonar ATS）・Talentio・採用一括かんりくんの4つが確認できます。連携先の一覧を示した公式ページは無いため、発表時点の事実と、申込前に確認する項目、個人情報の扱いで押さえることを整理します。"
 pillar: "offerbox"
 series: "機能・仕様"
 target: "機能"

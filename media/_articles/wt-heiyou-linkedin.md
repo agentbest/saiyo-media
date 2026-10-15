@@ -1,6 +1,6 @@
 ---
-title: "WantedlyとLinkedInの使い分け｜経歴でつながる場との分担"
-description: "WantedlyとLinkedInは、LinkedInを職務経歴でつながり本人の名義で発信する場、Wantedlyを会社の中身を読んで来る場として使い分けます。社員のプロフィールの活かし方、英語記事の作り方を解説します。"
+title: "WantedlyとLinkedInの使い分け｜LinkedInは「職務経歴でつながる場」、Wantedlyは「会社の中身を読んで来る場」"
+description: "WantedlyとLinkedInを使い分けるときの運用の考え方。それぞれの役割（LinkedInは職務経歴でつながり本人の名義で発信する場、Wantedlyは会社の中身を読んで来る場）、社員のプロフィールを会社の入口にする、日本語の記事を先に書いて英語に直す。"
 pillar: "wantedly"
 series: "併用・比較"
 target: "併用"
@@ -10,9 +10,6 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-linkedin"
 related: ["wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-green", "wt-heiyou-findy"]
-sources:
-  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
-    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 社員がLinkedInにプロフィールを置いている。海外在住や外国籍の候補者にも会いたい。Wantedlyも使っている。二つの違いは分かっていても、「社員のLinkedInを採用にどう使うか」「何をLinkedInに書き、何をWantedlyに書くか」「英語の記事はどちらに置くか」が決まっていないと、どちらも中途半端に回ります。**結論から言うと、LinkedInは「職務経歴でつながり、本人の名義で発信する場」、Wantedlyは「会社の中身を読んで来る場」です。使い分けるなら、社員のプロフィールを会社の入口にし、日本語の記事をWantedlyで先に書いてから英語に直し、LinkedInに書くこととWantedlyに書くことの線を引き、面談の入口を一つにします。** この記事では、それぞれの役割、社員のプロフィールの使い方、日本語と英語の順番、書くことの線、面談の入口、工数と名義、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[WantedlyとLinkedInの違い](/media/hikaku-wantedly-linkedin/)で書きました。この記事は、両方を持ったあとの運用の使い分けを扱います。両サービスの仕様と数値は書きません。

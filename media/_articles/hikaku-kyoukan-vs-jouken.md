@@ -1,6 +1,6 @@
 ---
-title: "共感型と条件型の媒体の違い｜候補者が何を読んで選ぶかで分ける"
-description: "共感型と条件型の採用媒体の違いは、候補者が会社の想いを読んで選ぶか、条件や経験の一致で選ぶかです。企業が書くものと書ける人、応募後のずれ方、先に検討する型、併用するときの分担を整理します。"
+title: "共感型と条件型の媒体の違い｜候補者が何を読んで会社を選ぶかで分ける"
+description: "採用媒体の共感型と条件型をどう使い分けるか。会社の想いを読んで共感した人が集まる型と、条件や経験の一致で応募や承認が集まる型の違いを、候補者が読むもの・企業が書くもの・書ける人・向く会社・順番・併用の分担の順で整理します。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,11 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-kyoukan-vs-jouken"
 related: ["hikaku-3baitai", "hikaku-keisai-vs-scout", "hikaku-offerbox-wantedly", "hikaku-onecareer-wantedly"]
-sources:
-  - name: "Wantedly 採用担当者向けページ"
-    url: "https://www.wantedly.com/about/list"
-  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/about/function"
 ---
 
 採用媒体を「スカウト型かナビ型か」で分ける見方とは別に、「共感型か条件型か」で分ける見方があります。**共感型は会社の想いを読んで共感した人が集まる媒体、条件型は職種・勤務地・経験・適性といった条件の一致で応募や承認が集まる媒体です。** 当社が販売パートナーとして扱う3媒体で言えば、Wantedlyが共感型、OfferBoxが条件型に近く、ワンキャリアは掲載と選考体験談を軸にした型です。この記事では、候補者が何を読んで会社を選ぶかという違いが、企業の書くもの、書ける人、向く会社にどう効くかを整理します。個別の媒体の仕様や数値には触れません。

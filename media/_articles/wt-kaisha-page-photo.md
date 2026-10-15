@@ -1,6 +1,6 @@
 ---
-title: "Wantedlyの会社ページの写真の選び方｜仕事中の場面を作り込まずに"
-description: "Wantedlyの会社ページの写真は、仕事中の場面を本人の同意で作り込まずに選びます。選ぶ軸、載せる場所ごとの写真、自然光で加工しない撮り方、載せない写真、写真が無いときの判断を解説します。"
+title: "Wantedlyの会社ページの写真の選び方｜仕事中の場面を、本人の同意で、作り込まずに"
+description: "Wantedlyの会社ページに載せる写真を、どう選ぶか。写真の役割は文字で伝わらない「人と場」を見せること。選ぶ軸（仕事中の場面・顔が見える・候補者が自分を重ねられる・実態と合う）、載せる場所ごとの写真、撮り方（自然光・加工しない・集合写真は最後）。"
 pillar: "wantedly"
 series: "コンテンツ制作"
 target: "会社ページ・募集・ストーリー"
@@ -10,13 +10,6 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-kaisha-page-photo"
 related: ["wt-kaisha-page-member", "wt-boshu-shashin", "wt-kaisha-page-kihon", "wt-kaisha-page-koushin"]
-sources:
-  - name: "Wantedly ヘルプ｜会社ページの画像の推奨サイズは？"
-    url: "https://help.wantedly.com/hc/ja/articles/8984894507161"
-  - name: "Wantedly ヘルプ｜会社ページのホームのカバー画像を変更したい"
-    url: "https://help.wantedly.com/hc/ja/articles/9261877710105"
-  - name: "Wantedly ヘルプ｜写真撮影オプションについて"
-    url: "https://help.wantedly.com/hc/ja/articles/9492394756761"
 ---
 
 会社ページの写真は、文字より先に目に入ります。候補者は、文章を読む前に写真で「どんな会社か」を感じ取り、その印象で文章を読むかどうかを決めます。**結論から言うと、載せる写真は「仕事中の場面で、顔が見えて、候補者が自分を重ねられて、実態と合っている」ものです。プロが撮った作り込んだ写真より、自然光で撮った仕事中の1枚のほうが、Wantedlyの候補者には届きます。** 写真が無いことで公開を遅らせる必要はなく、無いなら無いまま公開して、翌週から足します。この記事では、写真の役割、選ぶ軸、載せる場所ごとの写真、撮り方、載せない写真、同意、更新、写真が無いときの判断、やりがちな失敗、分担を整理します。会社ページ全体は[会社ページで最初に書くこと](/media/wt-kaisha-page-kihon/)で書きました。

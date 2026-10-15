@@ -1,6 +1,6 @@
 ---
-title: "掲載型とスカウト型の違い｜置いて待つか、選んで送るかの使い分け"
-description: "掲載型とスカウト型の違いは、募集情報を置いて待つか、企業が候補者を選んで送るかです。新卒と中途の両方を視野に、効く条件・時間の性質・数字の読み方・併用の分担の順で整理します。数値での比較はしません。"
+title: "掲載型とスカウト型の違い｜置いて待つか、選んで送るか"
+description: "採用媒体の掲載型とスカウト型をどう使い分けるか。募集情報を置いて候補者が見に来る型と、企業が候補者を選んで送る型の違いを、新卒と中途の両方を視野に、効く条件・時間の性質・順番・数字の読み方・併用の分担の順で整理します。個別の媒体の数値では比べません。"
 pillar: "hikaku"
 series: "媒体比較"
 target: "比較"
@@ -10,13 +10,6 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-keisai-vs-scout"
 related: ["hikaku-event-vs-keisai", "hikaku-kyoukan-vs-jouken", "hikaku-offerbox-kimisuka", "hikaku-offerbox-onecareer"]
-sources:
-  - name: "ワンキャリア 求人掲載（企業向けサービスサイト）"
-    url: "https://service.onecareer.jp/service/job/"
-  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
-    url: "https://offerbox.jp/company/flow"
-  - name: "Wantedly 採用担当者向けページ"
-    url: "https://www.wantedly.com/about/list"
 ---
 
 採用媒体は、企業の動き方で「掲載型」と「スカウト型」に分かれます。**掲載型は募集情報を置いて候補者が見に来るのを待つ型、スカウト型は企業が候補者を選んで文面を送る型です。** 新卒でも中途でも、この2つの型は存在し、多くの媒体はどちらかを軸にしています。当社が販売パートナーとして扱う3媒体で言えば、ワンキャリアは掲載を軸にした型、OfferBoxはスカウト型、Wantedlyは掲載（会社ページと募集記事）とスカウトの両方を持つ型です。この記事では、新卒と中途の両方を視野に、置いて待つか、選んで送るかの違いが、効く条件、時間の性質、順番にどう効くかを整理します。個別の媒体の仕様や数値には触れません。
