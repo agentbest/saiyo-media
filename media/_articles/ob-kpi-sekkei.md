@@ -10,6 +10,9 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "ob-kpi-sekkei"
 related: ["ob-shuukan-review", "ob-tantousha-hikitsugi", "ob-boshu-youkou", "ob-bunkei-gakusei"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
 ---
 
 「OfferBoxの運用で、何を見ればいいのか」という質問を受けます。管理画面には数字が並び、どれを追えばよいか分からない、という状態です。**結論から言うと、毎週見るのは「率」ではなく「段階ごとの数と日数」で、目的は成果を測ることではなく「どの段階で止まっているか」を見つけることです。率は分母で変わるので、週次では読めません。率を置き直すのは月に一度で足ります。** この記事では、KPIの目的、段階ごとに何を見るか、率と数の使い分け、目標値の引き方、見ない数字、やりがちな失敗、人事と現場の分担を整理します。数値は書きません。自社の計画から引く数だからです。計画の作り方は[採用人数から逆算する送信計画](/media/ob-ninzu-keikaku/)で書きました。

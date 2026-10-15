@@ -10,6 +10,9 @@ pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "wt-it-katsuyou"
 related: ["wt-agri-katsuyou", "wt-butsuryu-katsuyou", "wt-consul-katsuyou", "wt-dantai-katsuyou"]
+sources:
+  - name: "Wantedly ヘルプ｜募集作成のポイントを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16228729226521"
 ---
 
 SIer、SES、Web系自社開発、SaaS、ゲーム、ネット広告、メガベンチャー、受託開発、ITコンサル、大手の子会社・DX部門が、Wantedlyで採用する。候補者の「IT業界志望」は、この全部を一語で指していて、Wantedlyにはその全部が並んでいる。並ぶ中で、候補者が持っている像は一つ——Web系自社開発の、自分でコードを書き、製品を作り、裁量がある会社——で、自社がどの区分かを会社ページの最初に書かないと、その像で「話を聞きに行きたい」が押され、面談でSIerの「作らせて管理する」、SESの常駐、SaaSの分業、受託の納期とクライアントの仕様、ネット広告の数字を聞いて離れる。**結論から言うと、IT・Webの会社のWantedlyは、自社がどの区分かを会社ページの最初に書きます。「IT企業です」「エンジニアが活躍」で書かず、「〇〇業界の顧客に△△を提供している自社開発の会社」「□□の工程を受託で担っている会社」「常駐が〇〇の割合のSES」と、区分と顧客と作る割合で書きます。区分ごとにWantedlyとの相性が違い、Web系自社開発・SaaS・スタートアップは向いていて、並ぶ中で「何を決められるか」と技術スタックとリモートの実態で区別され、SIer・SESは書き方を変えて、作る割合と常駐の割合を先に書きます。エンジニアと非エンジニアの入口を分け、副業・業務委託の入口を正社員と分けます。** この記事はIT・Webの総論で、区分ごとの各論は[SIer](/media/wt-sier-katsuyou/)、[SES](/media/wt-ses-katsuyou/)、[SaaS](/media/wt-saas-katsuyou/)、[ゲーム](/media/wt-game-katsuyou/)、[スタートアップ](/media/wt-startup-katsuyou/)、[広告](/media/wt-kokoku-katsuyou/)で書きました。媒体の選び方は[IT・Web業界の採用媒体の選び方](/media/hikaku-it-erabikata/)で書きました。数値と料金は書きません。

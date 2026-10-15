@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-scout-vs-shoukai"
 related: ["hikaku-3baitai", "hikaku-event-vs-keisai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "ワンキャリア 新卒紹介（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/recruitment/"
 ---
 
 「新卒を採るのに、スカウト媒体と新卒紹介のどちらがいいか」「紹介は楽だと聞くが、媒体で自社でやるのと何が違うのか」という相談を受けます。**結論から言うと、違いは「誰が候補者を選ぶか」にあります。スカウト媒体は企業が学生を選んで送り、新卒紹介は紹介会社が学生を選んで連れてきます。** この違いが、費用の型、採用担当の時間の使い先、学生との接点の残り方を変えます。当社はOfferBoxをはじめとする媒体の販売パートナーであると同時に、紹介で採る支援も行っているので、両側から見た違いを書きます。この記事では個別の紹介会社や媒体の数値には触れず、手法の違いだけを整理します。

@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-onecareer"
 related: ["wt-heiyou-intern-baitai", "wt-heiyou-offerbox", "wt-heiyou-shinsotsu-baitai", "wt-heiyou-heiyou-yosan"]
+sources:
+  - name: "ワンキャリア 企業向けサイト トップページ"
+    url: "https://service.onecareer.jp/"
+  - name: "Wantedly ヘルプ｜「会社ページ」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/8950114847001"
 ---
 
 新卒採用で、ワンキャリアとWantedlyの両方を使っている、または使おうとしている。二つの違いは分かっていても、「時期をどう分けるか」「担当を分けるか」「同じ学生が両方を見ていたらどうするか」「予算と時間をどう配分するか」が決まっていないと、どちらも中途半端に回ります。**結論から言うと、ワンキャリアは「学生が選考情報とクチコミとイベントで来る場」、Wantedlyは「会社の中身を読む場」です。同じ学生が両方を見ている前提で、クチコミに書かれる実態と記事をずらさず、時期はイベントと選考の時期をワンキャリア、通年をWantedlyと分け、担当と台帳を一つにします。** この記事では、それぞれの役割、同じ学生が見ている前提での揃え方、時期の分担、担当と台帳、予算と工数の配分、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[ワンキャリアとWantedlyの違い](/media/hikaku-onecareer-wantedly/)で書きました。この記事は、両方を契約したあとの運用の分担を扱います。両媒体の仕様と数値は書きません。

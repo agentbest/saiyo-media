@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-wantedly-findy"
 related: ["hikaku-wantedly-bizreach", "hikaku-wantedly-doda", "hikaku-wantedly-green", "hikaku-wantedly-indeed"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "Wantedly ヘルプ｜「ストーリー」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
 ---
 
 「エンジニアを中途で採りたい。WantedlyとFindyのどちらがいいか」という相談を、開発組織を持つ会社から受けます。**結論から言うと、どちらも企業から候補者へ送れますが、送る根拠が違います。Findyはエンジニアに特化し、技術の情報を読んで送る型。Wantedlyは職種を問わず、会社の考えへの共感を起点に、まず会って話す型です。** 自社が「技術で口説くか、考え方で口説くか」で、先に検討する媒体が決まります。Wantedlyはウォンテッドリー株式会社が運営する、会社と人がつながるビジネスSNSで、募集情報を掲載する場です。Findyはファインディ株式会社が運営する、エンジニアに向けた転職・スカウトのサービスです。この記事ではFindyの仕様や料金には触れず、送る根拠の違いが文面と社内の分担にどう効くかを整理します。

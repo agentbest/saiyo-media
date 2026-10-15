@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-scout-vs-navi"
 related: ["hikaku-offerbox-kimisuka", "hikaku-offerbox-mynavi", "hikaku-offerbox-onecareer", "hikaku-3baitai"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
+  - name: "ワンキャリア 求人掲載（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/job/"
 ---
 
 新卒採用の媒体は、大きく「スカウト型」と「ナビ型」に分かれます。**スカウト型は企業が学生を探してオファーを送る型、ナビ型は学生が企業を探して応募する型です。** どちらが優れているかではなく、自社が「探しに行く側」になるか「見つけてもらう側」になるかで、先に検討する型が決まります。当社が販売パートナーとして扱うOfferBoxはスカウト型で、ワンキャリアは掲載型に近い型です。この記事では個別の媒体の仕様や数値には触れず、2つの型の違いを、動く主体、母集団のでき方、時期、採用担当の時間、向く会社、併用の分担の順で整理します。

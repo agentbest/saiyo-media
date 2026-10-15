@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-techoffer"
 related: ["ob-heiyou-iroots", "ob-heiyou-kimisuka", "ob-heiyou-labbase", "ob-heiyou-careerticket"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 技術系・理系の学生を採るために、技術と研究の情報を根拠に送るスカウト型（TECH OFFER）を使っている、または使おうとしている。OfferBoxも使っている。同じ「企業から送る」型なので、「理系はこちら、それ以外はOfferBox」と分けたつもりでも、文面を書く現場の時間が両方に取られ、技術の文面が薄くなる、という形で崩れます。**結論から言うと、TECH OFFERは「技術系の学生に、技術と研究の情報を根拠に送る場」、OfferBoxは「幅広い学生に、志向と経験で送る場」です。使い分けるなら、職種で分け、送る前に現場が「研究とうちの仕事のつながり」を一行で書き、文面の型と書く人を分け、現場の時間を技術の文面だけに使い、同じ学生に両方から送らない台帳を持ちます。** この記事では、それぞれの役割、職種の分け方、送る前に書く一行、文面の型と書く人、現場の時間、台帳、承認率の読み方、やりがちな失敗、社内の分担を整理します。理系の学生への文面は[OfferBoxで理系学生にオファーを送るときの文面](/media/ob-rikei-gakusei/)、理系の母集団形成は[理系の母集団形成](/media/kh-boshudan-rikei/)で書きました。両サービスの仕様と数値は書きません。

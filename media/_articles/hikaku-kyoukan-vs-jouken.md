@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-kyoukan-vs-jouken"
 related: ["hikaku-3baitai", "hikaku-keisai-vs-scout", "hikaku-offerbox-wantedly", "hikaku-onecareer-wantedly"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
 ---
 
 採用媒体を「スカウト型かナビ型か」で分ける見方とは別に、「共感型か条件型か」で分ける見方があります。**共感型は会社の想いを読んで共感した人が集まる媒体、条件型は職種・勤務地・経験・適性といった条件の一致で応募や承認が集まる媒体です。** 当社が販売パートナーとして扱う3媒体で言えば、Wantedlyが共感型、OfferBoxが条件型に近く、ワンキャリアは掲載と選考体験談を軸にした型です。この記事では、候補者が何を読んで会社を選ぶかという違いが、企業の書くもの、書ける人、向く会社にどう効くかを整理します。個別の媒体の仕様や数値には触れません。

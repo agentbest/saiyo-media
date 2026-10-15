@@ -10,6 +10,11 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-chimeido-nai"
 related: ["ob-bunmen-kakenai", "ob-bunmen-mannerika", "ob-gyokai-image", "ob-kaifu-sarenai"]
+sources:
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
+  - name: "OfferBox 導入事例（中小企業）"
+    url: "https://offerbox.jp/company/usecase/small"
 ---
 
 知名度がない会社がOfferBoxを使うと、「学生は聞いたことのない会社のオファーを開かない」と考えがちです。ところが、OfferBoxのオファーは、会社名の一覧から学生が選ぶものではなく、学生に届いた一通を学生が開くものです。**結論から言うと、オファーは「会社名で開く」のではなく「自分宛の一文で開く」ので、知名度の差は開封の段階では出にくく、差が出るのは「開いたあとに、会社が分からない」段階です。知名度のなさは、読んで書くこと、最初の1年の場面、一緒に働く人、企業ページで「知らない会社」の不安を先に解くこと、面談で仕事を見せること、で埋めます。会社説明・受賞・規模・大手風の言葉で埋めようとすると、かえって届きません。知名度のなさは隠さず、「初めて聞く会社だと思います」から始めてよいです。** この記事では、知名度の差が出る段階と出ない段階、起きやすい失敗、埋めるもの、企業ページ、面談、隠さない書き方、反応の活かし方、分担を整理します。文面の基本は[OfferBoxのオファー文面の基本](/media/ob-offer-bunmen-kihon/)、企業ページは[OfferBoxの企業ページで伝えること・伝えないこと](/media/ob-kigyo-page/)で書きました。

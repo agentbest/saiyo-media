@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-iroots"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-kimisuka", "hikaku-offerbox-labbase"]
+sources:
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 「OfferBoxとirootsは、どちらもスカウト型で何が違うのか」という相談を受けます。**結論から言うと、型は同じで、違いは「送る前に学生の何を読めるか」と「そこからどんな文面が書けるか」に出ます。** OfferBoxは株式会社i-plug、irootsはエン・ジャパン株式会社が運営する、どちらも新卒向けのスカウト型サービスです。この記事ではirootsの仕様や料金には触れません。スカウト型の媒体を選ぶときに、申込前に確認する項目と、読める情報によって文面の書き方がどう変わるか、そして少人数を深く採る会社と幅広く会いたい会社でどう判断が分かれるかを整理します。

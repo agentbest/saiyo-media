@@ -10,6 +10,13 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "ob-mendan-kiroku"
 related: ["ob-gakusei-hyouka-kijun", "ob-genba-mensetsukan", "ob-kotowari-renraku", "ob-tekisei-katsuyou"]
+sources:
+  - name: "厚生労働省「公正な採用選考の基本」"
+    url: "https://www.mhlw.go.jp/www2/topics/topics/saiyo/saiyo1.htm"
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "個人情報保護委員会「法令・ガイドライン等」"
+    url: "https://www.ppc.go.jp/personalinfo/legal/"
 ---
 
 OfferBoxで承認された学生と面談をしたあと、記録が人によってばらばらだったり、そもそも残っていなかったりすることがあります。すると次の面接で、学生は同じ質問に二度答えることになります。**結論から言うと、面談記録は「次に会う人が同じことを聞かずに済む」ことを目的に、項目を決めて、面談した人が当日中に書き、次に会う人へ渡す形にします。評価の印象や、選考に関係のない個人的な事情は書きません。** この記事では、記録の目的、残す項目と書かない事項、書く時期と置き場所、共有の仕方、記録を運用に戻す方法、保存と削除の決め方を整理します。面談そのものの組み立ては[初回面談の設計](/media/ob-mendan-sekkei/)で書きました。

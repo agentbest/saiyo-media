@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-target-sekkei"
 related: ["ob-daigakugun", "ob-kensaku-jyoken", "ob-boshu-youkou", "ob-intern-setsuzoku"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
 ---
 
 OfferBoxを契約して、管理画面を開いて、最初にやることは検索条件の設定だと思われがちです。**実際には、検索条件の前に社内で整理しておくことが3つあります。何人を採るのか、どの職種で採るのか、何が譲れないのか。この3つが決まっていないと、検索条件は組めず、文面も書けず、送り始めても承認された学生が社内の期待とずれます。** この記事では、ターゲット設計をこの3つの整理として捉え、手順、やりがちな失敗、人事と現場の分担を整理します。OfferBoxの検索項目の仕様や数値には触れず、運用の考え方だけを書きます。

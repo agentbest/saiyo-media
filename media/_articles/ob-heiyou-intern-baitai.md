@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-intern-baitai"
 related: ["ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu", "ob-heiyou-heiyou-yosan"]
+sources:
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 インターンの募集をインターン媒体で出していて、OfferBoxも使っている。あるいは、OfferBoxでオファーの締めにインターンの案内を入れていて、インターン媒体を足すか迷っている。この二つは、同じ「インターンに学生を呼ぶ」でも、学生が来る経路と状態が違います。**結論から言うと、インターン媒体は「学生がインターンに行くと決めてから開く、決まった時期に枠を埋める入口」、OfferBoxは「企業が学生を選んで送り、締切と関係なく会う入口」です。併用するなら、枠を埋めるのはインターン媒体、枠の外で会いたい学生に送るのはOfferBoxと分け、同じ学生に二重に連絡しない台帳を持ち、インターン媒体の締切でオファーを止めず、受け入れる側の時間を先に取ることです。** この記事では、それぞれの役割、来る学生の状態、併用するときの分担、台帳、文面とインターン媒体の揃え方、時期と受け入れの時間、やりがちな失敗、社内の分担を整理します。OfferBoxとインターンをつなげる設計そのものは[OfferBoxとインターンシップをつなげる設計](/media/ob-intern-setsuzoku/)、インターンからの母集団形成は[インターンからの母集団形成](/media/kh-boshudan-intern/)で書きました。数値は書きません。

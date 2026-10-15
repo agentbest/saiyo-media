@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-navi-kara-ikou"
 related: ["ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai", "ob-bunmen-mannerika", "ob-chihou-honsha"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
 ---
 
 ナビサイト中心で新卒を採ってきた。企業ページを出し、説明会を開き、エントリーを待ち、応募者を選考する。この形からOfferBoxへ移ると、運用の形が変わります。ナビの運用をそのまま持ち込むと、OfferBoxで結果が出ず、「OfferBoxは合わなかった」となりがちです。**結論から言うと、ナビからOfferBoxへ移るとは、「待つ運用」から「送る運用」へ、担当の時間の使い先と、企業ページの書き方と、選考の入口を組み替えることです。ナビは止めずに役割を分け、企業ページを書き直し、現場の一文を取り、数通で回してから、ナビとの配分を見直します。ナビを止めるかは、記録を見てから決めます。** この記事では、変わるもの、そのまま持ち込むと起きること、移る順番、配分の見直し、分担を整理します。スカウト型とナビ型の違いは[スカウト型とナビ型の違い](/media/hikaku-scout-vs-navi/)、個別の比較は[OfferBoxとマイナビの違い](/media/hikaku-offerbox-mynavi/)と[OfferBoxとリクナビの違い](/media/hikaku-offerbox-rikunabi/)で書きました。この記事は、比較ではなく、移るときの設計です。

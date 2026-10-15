@@ -10,6 +10,13 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "hikaku-baitai-keiyaku"
 related: ["hikaku-baitai-kirikae", "hikaku-baitai-kouka-hikaku", "hikaku-baitai-tanka", "hikaku-baitai-tettai"]
+sources:
+  - name: "Wantedly ヘルプ｜有料プラン自動更新の停止手続きについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9472193717401"
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 採用媒体を契約する。見積もりを受け取り、金額を見て、稟議に上げる。ところが、契約の型と期間を見ずに金額だけで決め、自動更新の解約の期限を過ぎて次の期間の請求が来て、「途中でやめられる」と思い込み、含まれていないものを後から知り、送れる数の枠を確認せず、切り替えのときにデータを持ち出せず、担当が変わって契約の中身が誰にも分からない。**結論から言うと、金額の前に「契約の型・期間と更新・やめ方・含まれるもの・前提条件・契約の相手と請求・データの扱い・担当交代」の八つを、契約書と見積もりと管理画面のヘルプで確認します。自動更新の解約の期限は、契約時にカレンダーに入れます。代理店経由でも料金は変わらず、確認する項目も同じです。分からない項目は、「確認した日と相手」を残します。** この記事では、契約で起きる失敗、八つの項目、契約の型ごとの注意、更新とやめ方、代理店経由の確認、ヘルプで確認すること、稟議、契約後の記録、分担を整理します。金額や料金はこの記事では扱いません。代理店との契約は[代理店との契約の流れ](/media/kh-dairiten-keiyaku/)、見積もりの見方は[代理店の見積もりの見方](/media/kh-dairiten-mitsumori/)、料金の仕組みは[代理店経由でも料金が変わらない理由](/media/kh-dairiten-ryoukin/)で書きました。

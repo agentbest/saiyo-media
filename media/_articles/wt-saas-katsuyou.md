@@ -10,6 +10,11 @@ pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "wt-saas-katsuyou"
 related: ["wt-agri-katsuyou", "wt-butsuryu-katsuyou", "wt-consul-katsuyou", "wt-dantai-katsuyou"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜募集作成のポイントを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16228729226521"
 ---
 
 業務ソフトを月額で提供する会社、業種特化のSaaS、水平型のSaaS、大手のSaaS事業部、SaaSのスタートアップが、Wantedlyで採用する。SaaSは、Wantedlyに最も多く並ぶ区分の一つで、候補者はSaaSの会社ページを何社も並べて読んでいる。並ぶ中で、多くの会社ページが「急成長」「シリーズ〇〇の資金調達」「事業を作る」「顧客の課題を解決」で書かれ、どのSaaSも同じ言葉で、区別されない。加えて、SaaSの採用は、最初の役割がインサイドセールス（IS）・フィールドセールス（FS）・カスタマーサクセス（CS）に分業されていて、「事業を作る」で押した候補者は、面談でISの架電の一日、CSの契約更新と解約の対応、FSの数字を聞いて離れる。**結論から言うと、SaaSのWantedlyは、並ぶSaaSと同じ言葉を使わず、「なにを」を顧客の業種と課題で書き、分業の中で「この役割で何を決められて、何は決められないか」を役割ごとに書きます。「事業を作る」ではなく、ISの一日（架電、商談の設定、数字）、CSの一日（オンボーディング、更新、解約の対応）、FSの一日（商談、数字）を隠さず、役割の間の移り方を実例で書きます。「話を聞きに行きたい」の数は、並ぶSaaSの中で多くて当たり前で、成果と見ず、面談で役割の実態を伝えた後に残った数で運用を見ます。** この記事では、SaaSの採用構造とWantedlyとの相性、同じ言葉を使わない見せ方、分業と役割の書き方、数の読み方、ストーリーとカジュアル面談とスカウトの運用設計、社内の分担を整理します。IT・Web全体の設計は[IT・Web業界の会社がWantedlyで採用するときの設計](/media/wt-it-katsuyou/)、スタートアップの設計は[スタートアップの会社がWantedlyで採用するときの設計](/media/wt-startup-katsuyou/)、媒体の選び方は[SaaS業界の採用媒体の選び方](/media/hikaku-saas-erabikata/)で書きました。数値と料金は書きません。

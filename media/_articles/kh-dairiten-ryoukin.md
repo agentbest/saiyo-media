@@ -10,6 +10,13 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-ryoukin"
 related: ["kh-dairiten-mitsumori", "kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-fukusuu-baitai"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
 ---
 
 「代理店を挟むと、その分だけ料金が上がるのではないか」という質問を、採用担当者からよく受けます。**結論から言うと、上がりません。代理店の手数料は媒体側から支払われる仕組みで、企業が払うのは媒体の正規料金のままです。** 当社もOfferBox・Wantedly・ワンキャリアの販売パートナーとして、この仕組みで動いています。この記事では、なぜ変わらないのかの仕組み、見積もりで確認する項目、「料金が変わった」ように見える場面とその読み方を整理します。金額そのものは、各媒体の料金表で確認してください。この記事には書きません。

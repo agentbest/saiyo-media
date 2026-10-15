@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-marketer-boshu"
 related: ["wt-marketer-scout", "wt-backend-boshu", "wt-bizdev-boshu", "wt-consultant-boshu"]
+sources:
+  - name: "Wantedly ヘルプ｜募集作成のポイントを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16228729226521"
+  - name: "Wantedly ヘルプ｜募集の本文「なにをやっているか」「なぜやっているか」「どうやっているか」を編集したい"
+    url: "https://help.wantedly.com/hc/ja/articles/8912238446617"
+  - name: "Wantedly ヘルプ｜募集の本文「こんなことやります」を編集したい"
+    url: "https://help.wantedly.com/hc/ja/articles/8912773163801"
 ---
 
 Wantedlyでマーケターの募集記事を出したとき、最初にぶつかるのは「『マーケティング全般をお任せ』『集客を強化』と書いたのに、話を聞きに来る人が少ない。来ても、面談で『どの数字に責任を持つのですか』『予算は誰が決めるのですか』『営業とはどうつながるのですか』を聞かれて答えられない」という問題です。**結論から言うと、マーケターの募集記事は、「マーケティング全般」ではなく「マーケティングのどの種類を、誰に何を届けるために、何の数字に責任を持って、予算を誰がどう決め、営業や製品側とどうつながるか」を書き、募集記事を書く前に社内で種類を一つに絞り、見る数字と予算の決め方を決めておきます。** この記事では、マーケターが募集記事で見ているもの、書く前に決めること、「なにを・なぜ・どうやって」の書き方、「こんな人」の書き方、スカウトと面談への接続、社内の分担、やりがちな失敗を整理します。募集記事の基本構成は[Wantedlyの募集記事の基本構成](/media/wt-boshu-kihon/)、スカウト文面の型は[ビジネス職向けスカウト文面の型](/media/wt-scout-bunmen-rei-biz/)で書きました。

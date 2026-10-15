@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-intern-baitai"
 related: ["wt-heiyou-offerbox", "wt-heiyou-onecareer", "wt-heiyou-shinsotsu-baitai", "wt-heiyou-heiyou-yosan"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 インターンの募集をインターン媒体で出していて、Wantedlyも使っている。あるいは、Wantedlyでインターンを募集していて、インターン媒体を足すか迷っている。この二つは、同じ「インターンを集める」でも、来る学生の状態が違います。**結論から言うと、インターン媒体は「決まった時期に、決まった枠を埋める入口」、Wantedlyは「会社の中身を読んだ学生が、時期を問わず来る入口」です。併用するなら、入口ごとに来た学生に見せるものを揃え、受け入れる側の時間を先に取り、片方の締切に合わせてもう片方を止めないことです。** この記事では、それぞれの役割、併用するときの分担、募集記事と会社ページの見直し、予算と工数の配分、やりがちな失敗、社内の分担を整理します。Wantedlyのインターン募集記事そのものは[Wantedlyのインターン募集記事の書き方](/media/wt-boshu-intern/)、インターンからの母集団形成の全体は[インターンからの母集団形成](/media/kh-boshudan-intern/)で書きました。

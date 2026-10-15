@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-target"
 related: ["wt-scout-boshu-renkei", "wt-scout-bunmen", "wt-scout-bunmen-rei-biz", "wt-scout-bunmen-rei-design"]
+sources:
+  - name: "Wantedly ヘルプ｜スカウト対象ユーザーの絞り込みについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9468713480345"
+  - name: "Wantedly ヘルプ｜スカウトで効率的に候補者を探すために、フィルター条件を活用したい"
+    url: "https://help.wantedly.com/hc/ja/articles/16221448995225"
 ---
 
 Wantedlyでスカウトを送るとき、「なるべく多くの人に届けたい」と対象を広く取ると、プロフィールを読む時間が足りず、テンプレの一斉送信になります。**結論から言うと、スカウトの対象は「この人に、この募集の話をしたい」と言える人まで絞り、1人ずつプロフィールを読める数にします。絞る条件は募集記事の「こんな人」から作り、条件で絞ったあとに、1人ずつプロフィールを読んで、送るか送らないかを決めます。広すぎると読めず、狭すぎると送る相手がいなくなります。返信の内容を見て、条件を直します。** この記事では、絞る目的、条件の作り方、プロフィールを読む観点、やりがちな失敗、送らない判断、条件の直し方、分担を整理します。スカウトの基本は[ダイレクトスカウトの基本](/media/wt-scout-kihon/)で書きました。Wantedlyの検索の条件の項目は変わることがあるので、現在の仕様は管理画面で確認してください。

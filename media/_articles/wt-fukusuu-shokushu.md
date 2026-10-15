@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-fukusuu-shokushu"
 related: ["wt-kousuu", "wt-chimeido", "wt-daikou-fuman", "wt-gyokai-image"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 募集職種が多い。営業、技術、デザイン、管理と、いくつもの職種で同時に採る。Wantedlyで全職種の募集記事を一度に出し、スカウトを一つの型で全職種に送り、ストーリーは書きやすい職種ばかりになる。**結論から言うと、全職種を同時に回しません。「現場の一文が取れる」「面談に出る人がいる」「急ぎ」の順で職種に順位を付け、一つから回します。会社ページは共通、募集記事とスカウトの型と面談に出る人は職種ごとに持ち、ストーリーは職種を回して出します。一人の候補者に複数の職種で送らず、台帳は職種ごとに分けます。人事一人で回せる職種の数には限りがあり、順に増やします。** この記事では、同時に回すと起きること、順位の付け方、共通と職種ごと、ストーリーの回し方、一人に複数で送らないこと、台帳、回せる数、分担を整理します。募集記事を分ける考え方は[Wantedlyで募集記事を複数パターン作る理由](/media/wt-boshu-fukusu/)、通数の配分は[Wantedlyのスカウト通数の配分の考え方](/media/wt-scout-tsuusuu-haibun/)、OfferBoxの場合は[募集職種が多い会社のOfferBox運用](/media/ob-bosyu-shokushu-ooi/)で書きました。

@@ -10,6 +10,11 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "ob-ninzu-henkou"
 related: ["ob-ninzu-ooi", "ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
 ---
 
 OfferBoxの運用を始めたあとで、採用人数が変わることがあります。事業の計画が変わって増える、予算や配属先の事情で減る。どちらの場合も、慌てて送る数だけを変えると、選考中の学生への対応が後回しになります。**結論から言うと、人数が変わったら、まず変更がどこまで確定しているかを確かめ、次に選考中の学生への約束を守り、そのうえで計画を引き直します。契約やプランに関わる扱いは、自己判断せず、媒体と代理店に確認します。** この記事では、症状の確認、変更の切り分け、増える場合と減る場合の打ち手、外に出す範囲を整理します。最初の計画の立て方は[採用人数から逆算する送信計画](/media/ob-ninzu-keikaku/)で書きました。

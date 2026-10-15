@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-hikaku"
 related: ["kh-dairiten-chuuritsu", "kh-dairiten-merit", "kh-dairiten-mitsumori", "kh-dairiten-shitsumon"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
 ---
 
 「複数の代理店から提案を受けたが、何で比べればいいか分からない」という相談を受けます。**結論から言うと、代理店を比べる軸は9つあり、自社がいまどの段階にいるかで、重みが変わります。媒体を決める前なら「扱う媒体」と「中立性」、運用中なら「申込後の範囲」と「担当の体制」が重くなります。** 料金は媒体が決めるので、代理店の比較の軸にはなりません。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーとして比べられる側ですが、この記事は当社を含めた代理店一般を比べるときの軸を、そのまま使える形で整理します。代理店の仕組みは[採用媒体の代理店とは](/media/kh-dairiten-toha/)で書きました。自社の体制からどの軸を重く見るかは[採用媒体の代理店の選び方](/media/hikaku-dairiten-erabikata/)で書きました。

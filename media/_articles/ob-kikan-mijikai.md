@@ -10,6 +10,11 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-kikan-mijikai"
 related: ["ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai", "ob-bunmen-mannerika"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 OfferBoxを使える期間が、短い。契約の期間が短い、社内の都合で使える時期が限られる、始める時期が遅く、残りの期間が少ない。短い期間で結果を出そうとして、期間中に準備を始め、全職種を回し、選考が長引いて、期間内に面談まで進まない。**結論から言うと、短い期間の運用は、準備を期間の外で済ませ、期間中は「送る・返す・面談」だけに絞ります。職種を一つに、選考を短くし、期間の終わりから逆算して送る時期を決め、期間の終わりまでに面談まで進めます。期間後の学生への対応を先に決め、短い期間でも型と台帳を残します。** この記事では、短い期間で起きる失敗、期間の外で済ませる準備、期間中にやること、職種、選考、逆算、期間後の対応、残すもの、分担を整理します。契約の期間や形は、媒体の現在の仕様と見積もりで確認してください。後期の運用は[OfferBoxを後期に使うときの進め方](/media/ob-kouki/)、初めての運用は[初めての新卒採用でOfferBoxから始めるときの順番](/media/ob-hajimete/)で書きました。

@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-shinsotsu-vs-chuuto-baitai"
 related: ["hikaku-3baitai", "hikaku-event-vs-keisai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "ワンキャリア 企業向けサイト トップページ"
+    url: "https://service.onecareer.jp/"
 ---
 
 「新卒と中途を両方採る。媒体は分けるべきか、1つにまとめられるか」という相談を、採用を本格化させる会社から受けます。**結論から言うと、学生と転職を考える人は動き方が違うので、新卒専用の媒体と中途向けの媒体は役割が違います。ただし、会社の見せ方は1つの会社ページで共通にできます。** 分けるものと共通にするものを決めるのが、この問いの答えです。当社が販売パートナーとして扱う3媒体で言えば、OfferBoxとワンキャリアは新卒向け、Wantedlyは新卒も中途も同じ会社ページで扱えます。この記事では、候補者の動き方の違いを整理したうえで、媒体を分けるか1つにするかの判断と、社内の時間の組み方を書きます。

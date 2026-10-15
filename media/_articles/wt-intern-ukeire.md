@@ -10,6 +10,11 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "wt-intern-ukeire"
 related: ["wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu", "wt-gyokai-image"]
+sources:
+  - name: "Wantedly ヘルプ｜募集の公開ステータスについて"
+    url: "https://help.wantedly.com/hc/ja/articles/8849812891161"
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 Wantedlyでインターンの募集を出すと、学生から「話を聞きに行きたい」が届き、面談をして、「来てほしい」と決まります。ところが、その先で「何を任せるかが決まっていない」「見る社員の手が空いていない」「アカウントや席の準備が間に合わない」と、受け入れ側が追いつかないことがあります。**結論から言うと、受け入れが追いつかないのは、募集を出す前に受け入れの上限が決まっていないことが多いです。上限を先に決め、任せる仕事・見る人・手続きの順に整え、開始日をまとめます。上限に達したら、募集を一時止めることもためらわずに考えます。** 募集記事の書き方は[Wantedlyで長期インターンの学生を採る募集記事](/media/wt-intern-boshu/)、体験と労働の線引きは[インターン募集記事で体験と労働の線を引く](/media/wt-boshu-intern/)で書きました。

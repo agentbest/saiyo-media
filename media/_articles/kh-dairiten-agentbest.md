@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-agentbest"
 related: ["kh-dairiten-chuuritsu", "kh-dairiten-hikaku", "kh-dairiten-merit", "kh-dairiten-shitsumon"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
 ---
 
 このメディアの記事は、採用媒体の代理店の選び方や使い方を、当社を含めた代理店一般について書いてきました。この記事では、当社エージェントベストが販売パートナーとして何ができ、何ができないかを、同じ基準で整理します。**結論から言うと、当社ができるのは、OfferBox・Wantedly・ワンキャリアの3媒体を並べた比較、正規料金のままの申込、申込後の運用の相談、OfferBoxを中心とした運用代行、そして紹介で採る場合との使い分けの提案です。** できないのは、料金を下げること、3媒体以外の媒体の窓口になること、採りたい人物像を代わりに決めること、採用を保証することです。代理店の比較の軸は[代理店を比較するときの軸](/media/kh-dairiten-hikaku/)で書きましたが、この記事は当社をその軸に当てはめたものです。

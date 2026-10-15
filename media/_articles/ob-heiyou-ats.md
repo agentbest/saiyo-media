@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-ats"
 related: ["ob-heiyou-careerticket", "ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu"]
+sources:
+  - name: "i-plug プレスリリース：採用一括かんりくんとの連携（2025年）"
+    url: "https://i-plug.co.jp/news/9091/"
+  - name: "OfferBox sonar ATS「Best Recruit Matching Award 2022」受賞のお知らせ"
+    url: "https://offerbox.jp/company/info/26300.html"
 ---
 
 採用管理システム（ATS）をすでに使っていて、OfferBoxで承認した学生もそこで管理したい。あるいは、複数の媒体を使い始めて、OfferBoxの承認を他の入口と同じ場で持ちたい。ところが、連携したあとに「送った学生が全部ATSに入って、台帳が送信の記録になった」「承認への返信が、ATSを見てからになって翌日にずれた」「OfferBoxの学生だけ段がずれる」という形で崩れることがあります。**結論から言うと、OfferBoxは「企業が選んで送り、承認をもらう場」、ATSは「承認した学生の段と担当と次の連絡日を持つ場」です。ATSに入れるのは承認した学生だけで、送った学生の全部は入れません。連携の前に段の定義と承認が入る段を決め、正をどちらに置くかを決め、承認への当日返信を連携で遅らせず、送る側の台帳とATSの受け渡しの型を決めます。** この記事では、それぞれの役割、連携の形、入れる範囲、段の定義、正の置き方、当日返信、送る側の台帳との受け渡し、卒年と個人情報、確認する項目、やりがちな失敗、社内の分担を整理します。連携の可否や取り込みの方法は、システムごとに違い、変わることもあるので、各システムとOfferBoxの公式ページで現在の内容を確認してください。この記事では仕様と数値を書きません。Wantedly側の連携は[Wantedlyと採用管理システムの連携の考え方](/media/wt-heiyou-ats/)で書きました。

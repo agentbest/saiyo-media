@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-referral"
 related: ["wt-heiyou-note", "wt-heiyou-youtube", "wt-heiyou-bizreach", "wt-heiyou-doda"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 社員の紹介（リファラル）で採用したい。Wantedlyも使っている。ところが、「社員に紹介をお願いしても動かない」「紹介された人が、会社のことをよく知らないまま面談に来る」「Wantedlyとリファラルを、どう組み合わせればいいか分からない」という状態になりがちです。**結論から言うと、リファラルは「社員が『こんな人』を知って声をかける入口」、Wantedlyは「声をかけられた人が、会社を読む場所」です。併用するなら、社員が声をかけるときに渡せる記事をWantedlyに用意し、声をかけたあとの流れを一本にし、紹介した社員に結果を返すことです。** この記事では、それぞれの役割、併用するときの分担、社員が声をかけやすくなる材料、報奨と時間の置き方、やりがちな失敗、社内の分担を整理します。リファラルからの母集団形成の全体は[リファラルからの母集団形成](/media/kh-boshudan-referral/)で書きました。数値は書きません。

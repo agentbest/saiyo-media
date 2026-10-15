@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-kensaku-jyoken"
 related: ["ob-daigakugun", "ob-target-sekkei", "ob-boshu-youkou", "ob-intern-setsuzoku"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxの検索条件は、細かく設定できる分、「絞りすぎて対象が残らない」か「広げすぎて誰に送ればいいか分からない」のどちらかになりがちです。**結論から言うと、検索で絞るのは「譲れない条件」だけで、それ以外はプロフィールを読んで判断します。絞りすぎか広げすぎかは、検索結果の件数そのものではなく、「送る数」と「読む時間」に対して多いか少ないかで見ます。** この記事では、検索条件の組み方を、譲れない条件で絞る、件数を送る数と読む時間で見る、条件を1つずつ動かす、送った結果で直す、の手順で整理します。OfferBoxの検索項目の仕様や数値には触れず、考え方だけを書きます。前提となるターゲット設計は[OfferBoxのターゲット設計](/media/ob-target-sekkei/)、学生像の作り方は[採りたい学生像を言葉にする](/media/ob-persona/)で書きました。

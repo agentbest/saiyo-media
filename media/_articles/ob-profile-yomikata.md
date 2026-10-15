@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-profile-yomikata"
 related: ["ob-boshu-youkou", "ob-daigakugun", "ob-intern-setsuzoku", "ob-jitai-boushi"]
+sources:
+  - name: "OfferBox ヘルプ｜企業にはプロフィールの何が見えるのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216040528"
 ---
 
 検索条件を組んで、学生の一覧が出てきた。ここから「誰に送るか」を決めるのが、プロフィールを読む作業です。**結論から言うと、プロフィールは全部を均等に読むものではなく、「文面で触れられる一文」を探して読むものです。順番は、譲れない条件の確認、自由記述、志向、適性検査の順で、最後に触れる一文を1つ拾って印をつけます。** この順番だと、読む時間が短くなり、文面の質が上がります。この記事では、読む順番、読む時間の配分、やりがちな失敗、人事と現場の分担を整理します。OfferBoxのプロフィール項目の仕様や数値には触れず、読み方の考え方だけを書きます。検索条件の組み方は[OfferBoxの検索条件の組み方](/media/ob-kensaku-jyoken/)で書きました。

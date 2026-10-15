@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-heiyou-yosan"
 related: ["wt-heiyou-intern-baitai", "wt-heiyou-offerbox", "wt-heiyou-onecareer", "wt-heiyou-saiyo-hp"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 Wantedlyと、OfferBoxやワンキャリアやナビサイトを併用している。来年の採用予算をどう配分するか、上司に説明を求められる。ところが、媒体ごとの費用を並べて割り振っても、翌年に「Wantedlyの記事を書く時間がなくて止まった」という形で崩れることが多くあります。**結論から言うと、予算は「費用」と「担当の時間」の二つで置きます。Wantedlyは、費用よりも担当の時間の側が大きい媒体なので、費用だけで配分すると回りません。配分は、採る人数と「こんな人」を決め、担当の時間を先に出し、回っている入口に寄せ、費用は各媒体の現在の条件を確認して置き、見直しは契約の切れ目で行います。** この記事では、予算の二つの側、媒体ごとの費用と時間の性格、配分の手順、Wantedlyの予算の置き方、やりがちな失敗、社内の分担を整理します。母集団形成全体の予算は[母集団形成の予算配分](/media/kh-boshudan-yosan/)、効果の並べ方は[Wantedlyを含む複数媒体の効果を並べて見る方法](/media/wt-heiyou-heiyou-kpi/)で書きました。費用の数値は、この記事では書きません。

@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-senkou-ikou"
 related: ["wt-mendan-tantou-ikusei", "wt-scout-casual-mendan", "wt-scout-mendan-shitsumon", "wt-scout-boshu-renkei"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜候補者に本選考を案内したい"
+    url: "https://help.wantedly.com/hc/ja/articles/48455382743833"
 ---
 
 カジュアル面談がうまくいっても、その先の選考に進まない、進んでも最初の面接で辞退される、ということが起きます。多くの場合、原因はカジュアル面談と選考の「つなぎ目」にあります。**結論から言うと、カジュアル面談から選考へは、「面談の続き」として案内します。面談の最後に3つの選択肢を伝え、翌日の連絡で選考の流れを具体的に書き、選考に入ると何が変わるか（評価があること、書類が要ること、回数と期間）を先に伝え、最初の選考には面談で話した人が出て、書類は最小限にし、間を空けません。カジュアル面談で「読んだとおりの会社」と感じた人が、選考に入った途端に別の会社に会う、という断絶を無くします。** この記事では、つなぎ目の失敗、移す手順、迷っている人への対応、面談で聞いたことの引き継ぎ、辞退の受け止め方、分担を整理します。カジュアル面談の設計は[カジュアル面談の設計](/media/wt-scout-casual-mendan/)で書きました。

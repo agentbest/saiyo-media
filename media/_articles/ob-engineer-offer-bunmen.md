@@ -10,6 +10,9 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-engineer-offer-bunmen"
 related: ["ob-engineer-target", "ob-consultant-offer-bunmen", "ob-denki-sekkei-offer-bunmen", "ob-designer-offer-bunmen"]
+sources:
+  - name: "OfferBox ヘルプ｜研究内容や制作物をプロフィールに登録したい"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/360016817294"
 ---
 
 OfferBoxでエンジニアを採るとき、文面で最も多い失敗は「技術の言葉を並べれば届く」と考えることです。**結論から言うと、エンジニア志望の学生に届く文面は、技術の言葉が多い文面ではなく、学生が作ったものや研究に触れ、自社が「何を、どう作っているか」を一つだけ正直に書き、名義がエンジニアになっている文面です。** 学生は、文面の技術用語より、「この会社は自分の作ったものを見たか」「入ったら誰と何を作るのか」を見ています。この記事では、エンジニア志望の学生がOfferBoxで何を見ているか、文面に書くこと、情報系以外の学生への送り方、面談への接続を整理します。文面全体の基本は[OfferBoxのオファー文面の基本](/media/ob-offer-bunmen-kihon/)で書いたので、ここではエンジニアに固有の部分だけを扱います。OfferBoxの仕様や数値には触れず、運用の考え方だけを書きます。

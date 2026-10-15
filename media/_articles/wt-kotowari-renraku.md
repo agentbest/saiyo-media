@@ -10,6 +10,9 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "wt-kotowari-renraku"
 related: ["wt-mendan-kiroku", "wt-mendan-tsunagaranai", "wt-senkou-ridatsu", "wt-chimeido"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 Wantedlyでは、カジュアル面談で会って話したうえで、「今回は先に進まない」と決める場面があります。ところが、その連絡が書けずに数日、数週間と止まり、相手は返事を待ったまま、という状態がよく起きます。**結論から言うと、見送り連絡が書けないのは文章の問題より、その手前の「判断」「理由」「送る人」が決まっていないことが多いです。この順に切り分け、理由は一つに絞って面談で聞いた本人の話に結びつけ、間を空けずに、面談に出た人の名前で送ります。** 面談をしていない応募への対応は、ヘルプの考え方が別にあります。[Wantedlyの応募管理の仕様](/media/wt-oubo-kanri/)で触れたので、この記事は「会った人」に絞ります。

@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-jinji-target"
 related: ["ob-jinji-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで人事を採るとき、検索条件で最初にぶつかるのは、他の職種と逆の問題です。志望職種で人事を選んでいる学生は多く、検索結果は出ます。問題は、その多くが「人が好き」「人に関わりたい」の印象で人事を選んでいて、実務を知った面談で離れることです。**結論から言うと、人事の検索は志望職種や「人が好き」の言葉で探すのではなく、志望職種をあればよい条件に置き、自由記述を「人を集めた・人を育てた・仕組みを作った・数字で人の動きを見た」の行動で読み、二次の判断を人事以外が付けます。** 人事が人事を採るときは、読む側も人事なので、自分に似た学生を選びやすくなります。それを避ける分担も、この記事で整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで人事を採るオファー文面の書き方](/media/ob-jinji-offer-bunmen/)で書きました。

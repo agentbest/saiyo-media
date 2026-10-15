@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "hikaku-yosan-50"
 related: ["hikaku-jisha-unyou", "hikaku-yosan-100", "hikaku-yosan-300", "hikaku-yosan-500"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 年間の採用予算が、五十万円台。この予算で、どの媒体を使えばよいか。ところが、「この予算で使える安い媒体」を探して回り、見つかった媒体に薄く分け、質を削って数を追い、一年で結果が出ずに全部やめる。**結論から言うと、この予算帯は「媒体を選ぶ」より「一つに絞って、時間で補う」年です。媒体は一つ、職種は一つ、時期は集中、運用は自社で、削るのは幅で質は削りません。何が契約できるかは見積もりと契約で確認し、翌年の元を作る年にします。** この記事では、この予算帯で起きる失敗、予算帯が変わっても変わらないもの、先に決めること、3媒体の検討順、削るものと残すもの、見積もりで確認すること、上司への説明、分担を整理します。金額や料金はこの記事では扱いません。3媒体の違いは[3媒体の違いと選び方](/media/hikaku-3baitai/)、予算の配分の考え方は[母集団形成の予算配分](/media/kh-boshudan-yosan/)、媒体ごとの少ない予算の運用は[予算が少ない会社のOfferBox運用](/media/ob-yosan-sukunai/)、[予算が少ない会社のWantedly運用](/media/wt-yosan/)、[予算が少ない会社のワンキャリア運用](/media/oc-yosan/)で書きました。

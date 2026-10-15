@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-wantedly-bizreach"
 related: ["hikaku-wantedly-doda", "hikaku-wantedly-findy", "hikaku-wantedly-green", "hikaku-wantedly-indeed"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "Wantedly ヘルプ｜「ストーリー」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
 ---
 
 「経験のある人を中途で採りたい。Wantedlyとビズリーチのどちらがいいか」という相談を、事業の拡大期にある会社から受けます。**結論から言うと、どちらも企業から候補者へスカウトを送れますが、候補者の何を読んで送るかが違います。ビズリーチは職務経歴を読んで経験で絞って送る型、Wantedlyは会社の想いへの共感を起点に、会って話すことから始める型です。** Wantedlyはウォンテッドリー株式会社が運営する、会社と人がつながるビジネスSNSで、募集情報を掲載する場です。ビズリーチは株式会社ビズリーチが運営する、経験を積んだ候補者に向けたスカウト型の転職サービスです。この記事ではビズリーチの仕様や料金には触れず、送る起点の違いが文面と社内の分担にどう効くかを整理します。

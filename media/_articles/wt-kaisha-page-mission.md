@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-kaisha-page-mission"
 related: ["wt-kaisha-page-kihon", "wt-boshu-kihon", "wt-kaisha-page-koushin", "wt-kaisha-page-member"]
+sources:
+  - name: "Wantedly ヘルプ｜会社ページのホームの「ミッション」について"
+    url: "https://help.wantedly.com/hc/ja/articles/8984752812953"
+  - name: "Wantedly ヘルプ｜会社ページの「私たちについて」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/8950640244761"
 ---
 
 会社ページの「なぜやるのか」の中心に、ミッションを置く会社は多くあります。ところが、ミッションの一文だけを載せても、候補者には伝わりません。**結論から言うと、ミッションを伝えるとは、一文を載せることではなく、その言葉が生まれた場面と、日々の判断でどう使われているかと、まだできていないことを書くことです。この3つがあって、一文は候補者の中で意味を持ちます。** ミッションが無い会社は、代表の「なぜやるのか」の場面から言葉を抽出しますが、無理に作りません。作ったミッションは、読めば分かります。この記事では、ミッションの位置づけ、ある場合と無い場合の手順、書き方の型、やりがちな失敗、代表と人事の分担を整理します。会社ページ全体の書き方は[会社ページで最初に書くこと](/media/wt-kaisha-page-kihon/)で書きました。

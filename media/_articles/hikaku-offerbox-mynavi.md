@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-mynavi"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
 ---
 
 「マイナビには載せている。OfferBoxも足したほうがいいのか」「マイナビをやめてOfferBoxに移すべきか」という相談を、新卒採用をしている会社からよく受けます。**結論から言うと、この2つは型が違うので、置き換えではなく役割の分担で考えます。** マイナビは学生が企業を探して応募する型、OfferBoxは企業が学生を探してオファーを送る型です。この記事ではマイナビの仕様や料金には触れず、型の違いと、自社の動き方によってどう使い分けるかだけを整理します。

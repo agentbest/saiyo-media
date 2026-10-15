@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-onecareer"
 related: ["ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu", "ob-heiyou-heiyou-yosan"]
+sources:
+  - name: "ワンキャリア 企業向けサイト トップページ"
+    url: "https://service.onecareer.jp/"
+  - name: "ワンキャリア 求人掲載（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/job/"
 ---
 
 OfferBoxで新卒を採っていて、ワンキャリアにも掲載している。ところが、二つは別の担当が別の目的で回していて、オファーを受け取った学生がワンキャリアで自社のクチコミを読んでから承認するかを決めている、という流れが見えていない。承認率が下がったときに文面を直しても変わらず、原因がクチコミの側にある、ということも起きます。**結論から言うと、OfferBoxは「企業が選んで送り、承認をもらう入口」、ワンキャリアは「学生が選考情報とクチコミとイベントで、会社を確かめる場」です。オファーを受け取った学生は、承認の前にクチコミと選考体験を見ます。OfferBoxの側から見た組み合わせは、送る前に自社のクチコミを読み、書かれている選考の実態を文面で認め、承認率が下がったときにクチコミを疑い、イベントで会った学生に送らない台帳を持ち、企業ページと文面の会社紹介を揃えることです。** この記事では、それぞれの役割、学生が確かめること、送る前にクチコミを読む、文面で実態を認める、承認率とクチコミ、台帳、企業ページと文面、時期、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[OfferBoxとワンキャリアの違い](/media/hikaku-offerbox-onecareer/)、Wantedlyの側から見たワンキャリアとの併用は[Wantedlyとワンキャリアの併用](/media/wt-heiyou-onecareer/)で書きました。数値は書きません。

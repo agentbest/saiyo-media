@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-tanka"
 related: ["wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu", "wt-gyokai-image"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 Wantedlyの費用を、承諾の数で割ってみる。高く感じる。「記事を書く時間も使っているのに」と、なおさら高く感じる。**結論から言うと、「費用÷承諾数」だけでは、記事が残る媒体の単価は測れません。Wantedlyの単価は、四つの見方で見ます。段ごとの止まりを先に見る、初年度と二年目以降を分けて記事の資産を繰り越す、人事と社員の時間を入れる、他の経路とは「近い人が面談まで来た数」と「時間」で同じ数え方にする。単価を下げるのは、費用を削ることでも記事を減らすことでもなく、止まっている段を直すことです。費用そのものは、見積もりと契約で確認します。** この記事では、承諾数だけで見ると起きること、四つの見方、分母を増やす方法、分担を整理します。KPIの置き方は[Wantedlyの効果が測れないときのKPIの置き直し](/media/wt-kouka-sokutei/)、記事の資産は[Wantedlyのコンテンツを資産として貯める考え方](/media/wt-naiyou-shisan/)、OfferBoxの場合は[OfferBoxの採用単価が高く感じるときの見方](/media/ob-tanka-takai/)で書きました。

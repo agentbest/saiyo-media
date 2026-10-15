@@ -10,6 +10,11 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-yosan"
 related: ["wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu", "wt-gyokai-image"]
+sources:
+  - name: "Wantedly ヘルプ｜有料プランが終了するとどうなる？"
+    url: "https://help.wantedly.com/hc/ja/articles/204876295"
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 採用の予算が、少ない。Wantedlyを使いたいが、費用を抑えたい。費用を抑えるために期間を短くし、記事は外注せずに自分で書くつもりが、時間がなくて書けず、スカウトは数で送って返信が来ず、「予算がないから無理だった」となる。**結論から言うと、予算が少ないときに削るのは、費用ではなく「幅」です。募集を一つ、記事は短く途切れず、スカウトは読める数、台帳は最小限にします。削らないのは、読んで書くこと、翌日までに返すこと、面談に出ること、社員に「話して」と頼むことです。自社で運用して社員の時間を使い、外に出すなら整えることと集計だけにします。Wantedlyの記事は契約が終わっても残るので、少ない予算の年に最も向く媒体の一つです。残すのは、記事と社員の協力という翌年の元です。** この記事では、起きやすい失敗、削るものと削らないもの、自社運用、外に出すもの、代理店の仕組み、Wantedlyが少ない予算に向く理由、残すもの、分担を整理します。費用の金額そのものは、見積もりと契約で確認してください。OfferBoxの場合は[予算が少ない会社のOfferBoxの使い方](/media/ob-yosan-sukunai/)、記事の資産は[Wantedlyのコンテンツを資産として貯める考え方](/media/wt-naiyou-shisan/)で書きました。

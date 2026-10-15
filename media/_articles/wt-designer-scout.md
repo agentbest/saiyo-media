@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-designer-scout"
 related: ["wt-designer-boshu", "wt-backend-scout", "wt-bizdev-scout", "wt-consultant-scout"]
+sources:
+  - name: "Wantedly ヘルプ｜スカウト対象ユーザーの絞り込みについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9468713480345"
+  - name: "Wantedly ヘルプ｜スカウトメッセージを魅力的にしたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16221157555737"
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 Wantedlyでデザイナーにスカウトを送るとき、最初にぶつかるのは「作品を見て『素敵なデザインですね』と送っているのに、返信が来ない。来ても、面談で『どのデザインを任されるのですか』『誰が決めるのですか』と聞かれて止まる」という問題です。**結論から言うと、デザイナーへのスカウトは、作品の見た目や道具の一致で相手を選ぶのではなく、先に自社が任せるデザインの種類を一つに絞り、決める人の線引きと最初に直したいものを決め、「同じ種類のデザインを、同じような使う人のために、近い決め方で作ってきた人」を選び、その人の作品の「どう決めたか」を読んだ一文から、いま直したいものの場面で誘います。** この記事では、デザイナーがスカウトで見ているもの、送る前に決めること、誰に送るか、文面に書くこと、返信後の面談、社内の分担、やりがちな失敗を整理します。文面の3段の型と作品の読み方は[デザイナー向けスカウト文面の型](/media/wt-scout-bunmen-rei-design/)で書いたので、この記事では「誰に、何を前提に送るか」を中心に書きます。募集記事は[デザイナーを採る募集記事の書き方](/media/wt-designer-boshu/)で書きました。

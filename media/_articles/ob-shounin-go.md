@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-shounin-go"
 related: ["ob-offer-gakusei-shitsumon", "ob-shiken-kikan", "ob-sokujitsu-taiou", "ob-boshu-youkou"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
 ---
 
 オファーが承認された。ここからが、OfferBoxの運用で最も差が出る部分です。**結論から言うと、承認への返信は当日に返し、返信には「お礼・面談の提案・日程の候補・次に何が起きるか・名義」の5つを書きます。承認から面談までの間に、学生を待たせないことが、この段階の唯一の目的です。** 承認した学生は、他社のオファーも受け取っていて、返信が速い企業から順に面談が決まります。この記事では、承認後の返信、日程調整、返事が来ないときの追いかけ、辞退への対応、記録の残し方を手順にします。承認を受ける前提の送るペースは[オファー送信ペースの決め方](/media/ob-soushin-pace/)で書きました。

@@ -10,6 +10,13 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-kaisha-page-photo"
 related: ["wt-kaisha-page-member", "wt-boshu-shashin", "wt-kaisha-page-kihon", "wt-kaisha-page-koushin"]
+sources:
+  - name: "Wantedly ヘルプ｜会社ページの画像の推奨サイズは？"
+    url: "https://help.wantedly.com/hc/ja/articles/8984894507161"
+  - name: "Wantedly ヘルプ｜会社ページのホームのカバー画像を変更したい"
+    url: "https://help.wantedly.com/hc/ja/articles/9261877710105"
+  - name: "Wantedly ヘルプ｜写真撮影オプションについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9492394756761"
 ---
 
 会社ページの写真は、文字より先に目に入ります。候補者は、文章を読む前に写真で「どんな会社か」を感じ取り、その印象で文章を読むかどうかを決めます。**結論から言うと、載せる写真は「仕事中の場面で、顔が見えて、候補者が自分を重ねられて、実態と合っている」ものです。プロが撮った作り込んだ写真より、自然光で撮った仕事中の1枚のほうが、Wantedlyの候補者には届きます。** 写真が無いことで公開を遅らせる必要はなく、無いなら無いまま公開して、翌週から足します。この記事では、写真の役割、選ぶ軸、載せる場所ごとの写真、撮り方、載せない写真、同意、更新、写真が無いときの判断、やりがちな失敗、分担を整理します。会社ページ全体は[会社ページで最初に書くこと](/media/wt-kaisha-page-kihon/)で書きました。

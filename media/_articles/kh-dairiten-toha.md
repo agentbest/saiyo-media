@@ -10,6 +10,13 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-toha"
 related: ["kh-dairiten-merit", "kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-hikaku"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
 ---
 
 「採用媒体の代理店から連絡が来たが、代理店とは何をしてくれる会社なのか」「媒体に直接申し込むのと何が違うのか」という質問を、採用担当者から受けます。**結論から言うと、採用媒体の代理店とは、媒体の申込の窓口になり、申込前の比較と申込後の運用の相談相手になる会社です。企業が支払う料金は、代理店を挟んでも変わりません。** 当社も、OfferBox・Wantedly・ワンキャリアの販売パートナー（代理店）です。この記事では、代理店の仕組み、してくれること、しないこと、代理店の型、直接申込との違いを、採用担当者が最初に知っておく範囲で整理します。

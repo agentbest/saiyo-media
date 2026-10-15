@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-engineer-target"
 related: ["ob-engineer-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
+  - name: "OfferBox ヘルプ｜研究内容や制作物をプロフィールに登録したい"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/360016817294"
 ---
 
 OfferBoxでエンジニアを採るとき、検索条件で最初にぶつかるのは「情報系の専攻と技術名で絞ると足りない、広げると人事では読めない」という問題です。**結論から言うと、エンジニアの検索は技術名で探すのではなく「自分で何かを作ったことがあるか」で探し、検索結果を人事とエンジニアの二段で読む前提で組みます。** 技術名が一致する学生を探すのは、自社の技術をすでに使ったことがある学生だけを探すことになり、新卒採用では相手が足りません。この記事では、エンジニア志望の学生がプロフィールに何を書いているか、検索条件の組み方、制作物や研究の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxでエンジニアを採るオファー文面の書き方](/media/ob-engineer-offer-bunmen/)で書きました。

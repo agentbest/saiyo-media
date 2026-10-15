@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-seisan-gijutsu-target"
 related: ["ob-seisan-gijutsu-offer-bunmen", "ob-hinshitsu-target", "ob-denki-sekkei-target", "ob-kenkyu-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで生産技術を採るとき、検索条件で最初にぶつかるのは「志望職種で生産技術を選んでいる学生が、ほとんどいない」という問題です。**結論から言うと、生産技術の検索は志望職種で探すのではなく、志望職種を見ない条件に置き、設計志望や研究志望の学生の中から「作って動かした・手順を変えて減らした・現場で人と動かした」行動で探し、工場の勤務地を譲れない条件にして組みます。** 学生が生産技術を選んでいないのは、生産技術に向いていないからではなく、生産技術という職種を知らないからです。行動で読むと、設計志望の中に生産技術に合う学生が見つかります。この記事では、生産技術に合う学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで生産技術を採るオファー文面の書き方](/media/ob-seisan-gijutsu-offer-bunmen/)で書きました。

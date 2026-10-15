@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-baitai-vs-daikou"
 related: ["hikaku-3baitai", "hikaku-event-vs-keisai", "hikaku-keisai-vs-scout", "hikaku-kyoukan-vs-jouken"]
+sources:
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
 ---
 
 「媒体は契約したが、運用する時間がない。代行に出すべきか」「代行に出すと、自社に何も残らないのではないか」という相談を受けます。**結論から言うと、自社運用と運用代行の違いは「どの作業を誰がやるか」であって、「全部やるか、全部任せるか」ではありません。** 自社で持つべき作業と、外に出せる作業を分けると、答えが見えます。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーであると同時に、OfferBoxを中心にスカウトの運用代行を行っています。この記事では、当社の運用代行の仕組みにも触れますが、料金や数値は書きません。自社で運用するか代行に出すかの判断を、時間の性質、接点の残り方、作業の切り分けの順で整理します。

@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-engineer-scout"
 related: ["wt-engineer-boshu", "wt-backend-scout", "wt-frontend-scout", "wt-infra-scout"]
+sources:
+  - name: "Wantedly ヘルプ｜スカウト対象ユーザーの絞り込みについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9468713480345"
+  - name: "Wantedly ヘルプ｜スカウトメッセージを魅力的にしたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16221157555737"
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 Wantedlyでエンジニアにスカウトを送るとき、最初にぶつかるのは「使っている技術で検索して、その技術名を文面に入れて送っているのに、返信が来ない。来ても、面談で『うちの開発とは違う』となる」という問題です。**結論から言うと、エンジニアへのスカウトは、技術名の一致で相手を選ぶのではなく、先に自社の開発の種類（自社のプロダクトか、受託か、社内システムか）と任せる範囲を決め、その開発と「作っているもの・進め方」が重なる人を選び、その人の作っているものを読んだ一文から、自社の開発の場面で誘います。** この記事では、エンジニアがスカウトで見ているもの、送る前に決めること、誰に送るか、文面に書くこと、返信後の面談、社内の分担、やりがちな失敗を整理します。文面の3段の型そのものは[エンジニア向けスカウト文面の型](/media/wt-scout-bunmen-rei-eng/)で書いたので、この記事では「誰に、何を前提に送るか」を中心に書きます。募集記事は[エンジニアを採る募集記事の書き方](/media/wt-engineer-boshu/)で書きました。

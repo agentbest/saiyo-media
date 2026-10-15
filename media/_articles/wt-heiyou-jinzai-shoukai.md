@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-jinzai-shoukai"
 related: ["wt-heiyou-bizreach", "wt-heiyou-doda", "wt-heiyou-findy", "wt-heiyou-green"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 紹介会社（エージェント）を使って採用している。Wantedlyも始めた、または始めたい。ところが、「紹介で採れているならWantedlyは要らないのではないか」「紹介経由の候補者と、Wantedlyから来た候補者を、どう扱い分けるか」「費用をどう比べるか」が整理されていない会社が多くあります。**結論から言うと、紹介は「紹介会社が候補者を選んで連れてくる入口」で、急ぎの枠や特殊な条件に向き、接点は紹介会社に残ります。Wantedlyは「会社を読んだ人が来る入口」で、通年で動き、接点と記事が自社に残ります。併用するなら、求める人の条件を一つの言葉で揃え、紹介経由の候補者にもWantedlyの記事を読んでもらい、選考の流れを一本にすることです。** この記事では、それぞれの役割、併用するときの分担、条件の揃え方、記事を読んでもらう形、費用と時間の見方、やりがちな失敗、社内の分担を整理します。スカウト媒体と紹介の違いは[スカウト媒体と新卒紹介の違い](/media/hikaku-scout-vs-shoukai/)で書きました。数値は書きません。

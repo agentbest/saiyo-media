@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-kouka-sokutei"
 related: ["ob-keiei-rikai", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai", "ob-bunmen-mannerika"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
 ---
 
 OfferBoxを回しているが、効果が測れない。「効いているのか分からない」「何を見ればよいか分からない」「開封率は出るが、それで良いのか悪いのか分からない」。この症状は、「OfferBoxは効果が見えにくい」で片づけられがちです。ところが、測れない原因のほとんどは、測る側の準備にあります。**結論から言うと、「測れない」の正体は四つです。台帳がない、段が分かれていない、「こんな人」が決まっていない、比べる相手が他社や他媒体の率になっている。この四つを順に直します。率ではなく、段ごとの数と日数で見て、「こんな人」に近い学生の数を段ごとに持ちます。最初の年に置くKPIと置かないKPIを分け、月に一度置き直し、効果が「出ていない」のか「測れていない」のかを分けます。** この記事では、四つの正体、順に直す手順、段ごとの数と日数、近い学生の数、置くKPIと置かないKPI、月の置き直し、「出ていない」と「測れていない」の区別、分担を整理します。KPIの基本は[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)、経営への報告は[経営層にOfferBoxの成果を説明する方法](/media/ob-keiei-rikai/)で書きました。この記事は、KPIが機能していないときの置き直しです。

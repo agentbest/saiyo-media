@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "hikaku-daikou-zentei"
 related: ["hikaku-baitai-keiyaku", "hikaku-baitai-kirikae", "hikaku-baitai-kouka-hikaku", "hikaku-baitai-tanka"]
+sources:
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "ワンキャリア 料金・よくある質問（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/price/"
 ---
 
 採用媒体の運用を、代行に出す前提で選びたい。社内に時間がなく、送る作業は外に出す。ところが、「代行に出せば回る」と思って人物像を決めずに出し、面談の枠を用意せず、一次返信の後の返信が遅れ、結果を戻さず、全部を出して自社に何も残らない。**結論から言うと、代行に出せるのは「送る作業」で、「決める作業」と「会う作業」は社内に残ります。だから媒体は「代行に出せる作業の比率が高く、社内に残る作業が面談に集中する」ものが先で、代行に出しても止まらない体制（人物像・面談の枠・返信の続き・結果を戻す）を先に作ります。全部を出すと、代行の質を判断できず、翌年に残りません。** この記事では、代行前提で起きる失敗、出せる作業と残る作業、3媒体での比率の違い、止まらない体制、段階的に出す順番、報告と承認の型、代行の質を判断する材料、翌年に残す形、分担を整理します。自社運用と代行の違いは[自社運用と運用代行の違い](/media/hikaku-baitai-vs-daikou/)、代理店の型は[代理店に運用まで頼めるか](/media/kh-dairiten-unyou/)、代行の範囲は[OfferBoxの運用代行に出す範囲](/media/ob-unyou-daikou-hanni/)で書きました。

@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-tekisei-katsuyou"
 related: ["ob-gakusei-hyouka-kijun", "ob-genba-mensetsukan", "ob-kotowari-renraku", "ob-mendan-kiroku"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業にはプロフィールの何が見えるのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216040528"
 ---
 
 OfferBoxの学生プロフィールには、適性検査の結果が表示されます。「これを使えば、面接の前に合う学生を見分けられるのではないか」という期待を、採用担当者からよく聞きます。**結論から言うと、適性検査の結果は、合否の基準や検索の絞り込みに使うものではなく、自由記述と照らして「面接で確かめる仮説」を持つためのものです。** 基準にすると、対象が急に減り、自由記述を読まなくなり、面接官が結果に引きずられます。この記事では、適性検査の結果の位置づけと、選考の各段階での使い方、やりがちな失敗、人事と面接官の分担を整理します。検査の仕様、項目、数値には触れず、使い方の考え方だけを書きます。プロフィールの読む順番は[OfferBoxの学生プロフィールの読み方](/media/ob-profile-yomikata/)で書きました。

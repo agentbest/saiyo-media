@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-rikunabi"
 related: ["ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu", "ob-heiyou-heiyou-yosan"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 新卒採用をナビサイト（リクナビ）で回していて、OfferBoxを足した、または足そうとしている。ナビを残したままOfferBoxを足す会社が多いので、その形で書きます。「ナビで母集団は足りているので、OfferBoxは補充」と考えて始めると、解禁後にナビの応募対応に追われてオファーが止まり、エントリーした学生にオファーが届いて「応募しているのに」と言われ、承認した学生を説明会の流れに入れて温度が下がる、という形で崩れます。**結論から言うと、ナビは「解禁後に一斉に動く学生の受け皿」、OfferBoxは「ナビの応募では会えない学生に、企業から個別に届ける入口」です。OfferBoxの運用から見た組み合わせは、掲載原稿と文面の「最初の年」を揃え、エントリーした学生にOfferBoxで送らない台帳を持ち、承認した学生を説明会の流れに入れず、ナビの時期にも承認への当日返信を守る週の型を作ることです。** この記事では、それぞれの役割、掲載原稿と文面の揃え方、台帳、承認した学生の流れ、ナビの時期の週の型、説明会で話す社員、数字の読み方、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[OfferBoxとリクナビの違い](/media/hikaku-offerbox-rikunabi/)、スカウト型とナビ型の違いは[スカウト型とナビ型の違い](/media/hikaku-scout-vs-navi/)で書きました。ナビの仕様と数値は書きません。

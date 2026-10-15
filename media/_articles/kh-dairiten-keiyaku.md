@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-keiyaku"
 related: ["kh-dairiten-shanai", "kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-fukusuu-baitai"]
+sources:
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
 ---
 
 「代理店経由で申し込むと、契約の相手は誰になるのか」「請求はどこから来るのか」「更新や解約はどうなるのか」という質問を、稟議を通す立場の採用担当者から受けます。**結論から言うと、契約の相手と請求元は契約の形で変わり、金額はどちらでも媒体の正規料金のままです。** 変わるのは、誰と契約し、誰から請求が来て、更新と解約を誰に伝えるかです。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーですが、この記事は当社に限らず、代理店経由の契約と請求の一般的な流れと、申込前に確認する項目を整理します。金額は書きません。料金が変わらない仕組みは[代理店経由でも料金が変わらない理由](/media/kh-dairiten-ryoukin/)で書きました。

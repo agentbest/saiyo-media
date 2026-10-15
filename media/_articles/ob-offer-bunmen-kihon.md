@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-offer-bunmen-kihon"
 related: ["ob-offer-bunmen-ng", "ob-offer-template", "ob-boshu-youkou", "ob-bunkei-gakusei"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 OfferBoxのオファー文面は、学生に届いて、開かれて、読まれて、承認されて、初めて意味を持ちます。**結論から言うと、開いてもらえるかは書き出しで決まり、書き出しに置くのは会社の紹介ではなく「なぜあなたに送ったか」です。** 学生は複数の企業からオファーを受け取っています。会社紹介から始まる文面は、他の企業の文面と見分けがつかず、開かれても読まれません。この記事では、文面の基本を、書き出し、会社紹介の位置、長さ、名義、締め、の順で整理します。文面の材料になる「触れる一文」の拾い方は[OfferBoxの学生プロフィールの読み方](/media/ob-profile-yomikata/)で書きました。文面の細かい構成や、テンプレートの作り方は、この後の記事で書きます。

@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-youtube"
 related: ["wt-heiyou-note", "wt-heiyou-referral", "wt-heiyou-bizreach", "wt-heiyou-doda"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜ストーリーのガイドラインについて（Wantedly有料プランをご契約中の企業様向け）"
+    url: "https://help.wantedly.com/hc/ja/articles/60028110654745"
 ---
 
 Wantedlyで会社ページとストーリーを出している。上司や現場から「動画も作ったほうがいいのではないか」と言われる。あるいは、すでに採用動画をYouTubeに置いていて、Wantedlyとどう組み合わせるかが決まっていない。**結論から言うと、動画は「声と動きで場面を見せるもの」、Wantedlyは「読んで、話を聞きに行きたいと来る場所」で、役割が違います。動画は候補者の温度を上げ、応募の判断はWantedlyの記事の側で決まります。使い分けるなら、動画を作る前にストーリーの場面を決め、動画の中身を記事と揃え、動画から会社ページに戻す導線を置き、古くならない中身で短く撮ることです。** この記事では、それぞれの役割、使い分けの分担、中身の揃え方、工数の置き方、やりがちな失敗、社内の分担を整理します。SNS全般の考え方は[SNSからの母集団形成](/media/kh-boshudan-sns/)、Wantedlyの記事を広げる方法は[Wantedlyの記事をSNSで広げる方法](/media/wt-sns-kakusan/)で書きました。YouTubeの仕様や数値は書きません。

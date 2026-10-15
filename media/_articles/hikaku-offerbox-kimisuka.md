@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-kimisuka"
 related: ["hikaku-offerbox-onecareer", "hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 「OfferBoxとキミスカ、どちらもスカウト型と聞くが、何が違うのか」「両方使ったほうがいいのか」という相談を受けます。**結論から言うと、この2つは型が同じなので、比べるべきは媒体の性能ではなく、自社の「送る人の時間」がもう1つの媒体に足りるかどうかです。** OfferBoxは株式会社i-plug、キミスカは株式会社グローアップが運営する、どちらも新卒向けのスカウト型（逆求人型）サービスです。この記事ではキミスカの仕様や料金には触れず、同じ型の媒体を2つ検討するときの判断軸と、併用するときの分担だけを整理します。

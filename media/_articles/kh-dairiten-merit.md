@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-merit"
 related: ["kh-dairiten-toha", "kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-hikaku"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 「料金が同じなら、代理店経由で申し込む意味はどこにあるのか」という質問を受けます。**結論から言うと、メリットは3つです。複数の媒体を並べて比較できること、申込後に運用の相談先があること、複数媒体の窓口が1つにまとまることです。** 料金は媒体の正規料金のままなので、これらは追加の費用なしで得られます。ただし、代理店によって申込後の相談の厚さは違い、メリットが出やすい会社と出にくい会社があります。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーですが、この記事では当社の宣伝ではなく、代理店経由の一般的なメリットと、それが出る条件を整理します。代理店の仕組みそのものは[採用媒体の代理店とは](/media/kh-dairiten-toha/)で書きました。

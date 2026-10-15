@@ -10,6 +10,13 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-keisai-vs-scout"
 related: ["hikaku-event-vs-keisai", "hikaku-kyoukan-vs-jouken", "hikaku-offerbox-kimisuka", "hikaku-offerbox-onecareer"]
+sources:
+  - name: "ワンキャリア 求人掲載（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/job/"
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
 ---
 
 採用媒体は、企業の動き方で「掲載型」と「スカウト型」に分かれます。**掲載型は募集情報を置いて候補者が見に来るのを待つ型、スカウト型は企業が候補者を選んで文面を送る型です。** 新卒でも中途でも、この2つの型は存在し、多くの媒体はどちらかを軸にしています。当社が販売パートナーとして扱う3媒体で言えば、ワンキャリアは掲載を軸にした型、OfferBoxはスカウト型、Wantedlyは掲載（会社ページと募集記事）とスカウトの両方を持つ型です。この記事では、新卒と中途の両方を視野に、置いて待つか、選んで送るかの違いが、効く条件、時間の性質、順番にどう効くかを整理します。個別の媒体の仕様や数値には触れません。

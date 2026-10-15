@@ -10,6 +10,9 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "ob-sokujitsu-taiou"
 related: ["ob-shounin-go", "ob-boshu-youkou", "ob-bunkei-gakusei", "ob-chihou-gakusei"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
 ---
 
 承認への返信は当日に。これはOfferBoxの運用で最も差が出る点で、[承認されたあとの連絡手順](/media/ob-shounin-go/)で書きました。ところが、「当日に返す」と決めても、体制が無いと続きません。**結論から言うと、当日返信を続けるには、誰が、いつ管理画面を見て、何を使って返すかを決め、不在のときの代理を置き、承認から返信までの日数を毎週見る、という体制が要ります。気持ちや心がけでは続きません。** この記事では、承認からの連絡を早くする体制を、担当と時間帯、返信の道具、面談枠の集め方、通知、代理、複数人での担当、日数の計測、承認の山への備え、当日が難しい場合の線引き、代行の判断の順で整理します。

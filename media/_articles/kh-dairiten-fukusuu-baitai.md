@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-fukusuu-baitai"
 related: ["kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-hikaku", "kh-dairiten-keiyaku"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 「新卒と中途で媒体が分かれ、契約も請求も担当者もバラバラになっている」「複数の媒体を1つの窓口でまとめられないか」という相談を受けます。**結論から言うと、複数の媒体を扱う代理店なら、その代理店が扱う範囲で、窓口・請求・更新時期・配分の相談をまとめられます。ただし、まとめる前に、媒体ごとの役割分担を社内で決めておかないと、窓口が1つになっても運用は整理されません。** 当社はOfferBox・Wantedly・ワンキャリアの3媒体を扱う販売パートナーですが、この記事は当社に限らず、複数媒体を代理店でまとめる一般的な手順と、まとめられる範囲の限界を整理します。

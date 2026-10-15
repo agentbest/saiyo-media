@@ -10,6 +10,13 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-henshin-go"
 related: ["wt-scout-jitai", "wt-scout-boshu-renkei", "wt-scout-bunmen", "wt-scout-bunmen-rei-biz"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
+  - name: "Wantedly ヘルプ｜制限対象：カジュアル面談前に履歴書や職務経歴書の提出を求めている"
+    url: "https://help.wantedly.com/hc/ja/articles/9312290931097"
+  - name: "Wantedly ヘルプ｜日程調整機能について"
+    url: "https://help.wantedly.com/hc/ja/articles/9207985046681"
 ---
 
 スカウトに返信が来ると、送る側は「うまくいった」と感じて、そこで気が緩みます。ところが、返信が来てから面談までの間に、対応が遅れる、募集の説明を長々と送る、日程調整が何往復もする、面談の前に書類を求める、といったことが起きて、返信した人が離れます。**結論から言うと、返信は「話を聞きたい」という意思表示で、応募ではありません。翌日までに返し、日程の候補を出し、誰がどんな形で話すかを伝え、面談までの間に読んでおくものを一つ送り、前日に一言添える。この流れで、返信から面談までの間を空けません。返信に対応する人を一人決め、通知が届く形にしておきます。** この記事では、返信の意味、やりがちな失敗、進め方、返信の内容ごとの対応、対応する人の決め方、台帳、分担を整理します。スカウトの基本は[ダイレクトスカウトの基本](/media/wt-scout-kihon/)で書きました。

@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-chuuritsu"
 related: ["kh-dairiten-hikaku", "kh-dairiten-merit", "kh-dairiten-shitsumon", "kh-dairiten-toha"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
 ---
 
 「代理店は自社に都合のいい媒体を勧めてくるのではないか」という不安を、採用担当者からよく聞きます。**結論から言うと、代理店の提案が中立かどうかは、手数料の出どころと、提案の根拠を見れば分かります。手数料がどの媒体からも同じように出ていて、提案が自社の条件から組み立てられていれば、特定の媒体に寄せる理由がありません。** 当社もOfferBox・Wantedly・ワンキャリアの販売パートナーですが、この記事は当社を含めた代理店一般について、申込前に確認する項目を整理します。代理店の仕組みは[採用媒体の代理店とは](/media/kh-dairiten-toha/)で、料金が変わらない仕組みは[代理店経由でも料金が変わらない理由](/media/kh-dairiten-ryoukin/)で書きました。

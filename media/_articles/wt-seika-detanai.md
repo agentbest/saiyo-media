@@ -10,6 +10,9 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-seika-detanai"
 related: ["wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu", "wt-gyokai-image"]
+sources:
+  - name: "Wantedly ヘルプ｜有料プランが終了するとどうなる？"
+    url: "https://help.wantedly.com/hc/ja/articles/204876295"
 ---
 
 Wantedlyで、成果が出ない。話を聞きに来る人が少ない、来ても合わない、選考に進まない。契約の更新が近づき、続けるか撤退するかを決めなければならない。「効かないなら、やめよう」と急ぎたくなります。**結論から言うと、「成果が出ない」を五つに分けて、この順に見ます。測れていない、止まっている段がある、記事が薄い、社員の協力がない、「こんな人」がWantedlyにいない。最初の四つは直せるもので、五つ目だけが撤退の理由です。選択肢は「続ける・配分を変える・小さくする・撤退」の四つで、撤退の前に「小さくする」があります。撤退の時期は契約の切れ目で、撤退しても記事と会社ページは残り、理由を記録します。** この記事では、急ぐと起きること、見直す順番、四つの選択肢、時期、残るもの、理由の記録、分担を整理します。「測れていない」の直し方は[Wantedlyの効果が測れないときのKPIの置き直し](/media/wt-kouka-sokutei/)、OfferBoxの場合は[OfferBoxで成果が出ないときに撤退を判断する基準](/media/ob-seika-detanai/)で書きました。

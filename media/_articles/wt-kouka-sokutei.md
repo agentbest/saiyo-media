@@ -10,6 +10,11 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-kouka-sokutei"
 related: ["wt-keiei-rikai", "wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu"]
+sources:
+  - name: "Wantedly ヘルプ｜アナリティクスとは"
+    url: "https://help.wantedly.com/hc/ja/articles/218342203"
+  - name: "Wantedly ヘルプ｜募集の応援について"
+    url: "https://help.wantedly.com/hc/ja/articles/8847365590809"
 ---
 
 Wantedlyを回しているが、効果が測れない。「閲覧数は見えるが、それで良いのか悪いのか分からない」「応援が増えたが、何に効いているのか分からない」「記事を書いているが、採用に効いているのか分からない」。この症状は、「Wantedlyは効果が見えにくい媒体」で片づけられがちです。ところが、測れない原因のほとんどは、測る側の準備にあります。**結論から言うと、「測れない」の正体は五つです。台帳がない、段が分かれていない、「こんな人」が決まっていない、面談で「記事のどこを見て来たか」を聞いていない、比べる相手が他社や媒体平均になっている。この五つを順に直します。閲覧数と応援数を中心から外し、段ごとの数と日数で見て、「こんな人」に近い人の数を段ごとに持ち、来た人の言葉を数字と並べます。記事の資産をKPIに入れ、「出ていない」のか「測れていない」のかを分けます。** この記事では、五つの正体、順に直す手順、閲覧数を外す理由、段ごとの数、近い人の数、言葉、置くKPIと置かないKPI、資産、区別、分担を整理します。KPIの基本は[Wantedlyのスカウト運用のKPI設計](/media/wt-scout-kpi/)、経営への報告は[経営層にWantedlyの成果を説明する方法](/media/wt-keiei-rikai/)、OfferBoxの場合は[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)で書きました。

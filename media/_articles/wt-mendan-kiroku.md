@@ -10,6 +10,9 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "wt-mendan-kiroku"
 related: ["wt-kotowari-renraku", "wt-mendan-tsunagaranai", "wt-oubosha-jouhou", "wt-senkou-ridatsu"]
+sources:
+  - name: "厚生労働省「公正な採用選考の基本」"
+    url: "https://www.mhlw.go.jp/www2/topics/topics/saiyo/saiyo1.htm"
 ---
 
 Wantedlyのカジュアル面談は、現場の社員が出ることが多い場です。面談の数が増えると、「何を話したのかが人事に分からない」「選考に進んだ人が、面接で同じ話を二度させられる」「面談で出た質問が記事に戻らない」といったことが起きます。**結論から言うと、共有されない原因は、書く人のやる気より、「何に使うか」「何を残すか」「どこに書くか」が決まっていないことにあります。使い道を先に決め、残す項目を絞り、面談の当日に台帳の同じ行へ短く書く形にします。** 面談の流れそのものは[Wantedlyのカジュアル面談の設計](/media/wt-scout-casual-mendan/)で書きました。この記事は、面談が終わったあとの「残す・渡す」に絞ります。

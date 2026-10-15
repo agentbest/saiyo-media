@@ -10,6 +10,13 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "wt-oubosha-jouhou"
 related: ["wt-mendan-kiroku", "wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu"]
+sources:
+  - name: "Wantedly ヘルプ｜権限について"
+    url: "https://help.wantedly.com/hc/ja/articles/8761119733017"
+  - name: "Wantedly ヘルプ｜候補者チケットの閲覧可能メンバーを追加したい"
+    url: "https://help.wantedly.com/hc/ja/articles/9101731839385"
+  - name: "Wantedly ヘルプ｜会社アカウントを自社の社員以外が運用することについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9472775818521"
 ---
 
 Wantedlyで応募やスカウトの返信が来ると、面談に出る社員や選考の面接官に、相手の情報を見せる必要が出てきます。そのときに、「どこまで見せてよいのか」「チャットにプロフィールの画面を貼ってよいのか」と迷う声をよく聞きます。逆に、慎重になりすぎて、面談に出る人が相手のことを何も知らずに会う、ということも起きます。**結論から言うと、共有の範囲は「何のために見るか」から決めます。目的ごとに見る人と見る項目を決め、置き場を一つにして、転送やスクリーンショットで広げない形にします。残す期間や消し方は、自社の個人情報の取り扱い方針と、Wantedlyの利用規約に沿って決めます。** この記事は一般的な考え方の整理で、法的な判断が要る場面は、社内の管理部門や専門家に確認してください。

@@ -10,6 +10,9 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "oc-saiyo-yoken-kaigi"
 related: ["oc-boshu-course", "oc-bunkei-keisai", "oc-chihou-keisai", "oc-event-page-kihon"]
+sources:
+  - name: "厚生労働省「公正な採用選考の基本」"
+    url: "https://www.mhlw.go.jp/www2/topics/topics/saiyo/saiyo1.htm"
 ---
 
 ワンキャリアの掲載を書き始める前に、現場の責任者と「どんな人を採るか」を話す打ち合わせを持っているでしょうか。この記事は、掲載の準備に入る採用担当者に向けて、その打ち合わせの進め方をまとめたものです。**結論から言うと、打ち合わせでは「どんな人がほしいか」を聞くのではなく、「入社1年目に任せる場面」を聞き、そこから見ることを二つか三つに絞って、掲載と選考の両方で使える言葉にします。** 「明るくて主体的な人」という答えを受け取って終わると、掲載の文面も選考の基準も抽象的なままになります。現場を採用に巻き込む全体の考え方は[採用に現場を巻き込む方法](/media/hikaku-genba-makikomi/)で書きました。この記事は、掲載前の一回の打ち合わせに絞ります。

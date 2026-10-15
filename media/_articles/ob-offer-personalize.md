@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-offer-personalize"
 related: ["ob-offer-template", "ob-bunkei-gakusei", "ob-naiteisha-katsuyou", "ob-offer-bunmen-kihon"]
+sources:
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 「オファーは学生ごとに全部書き分けるべきか、テンプレートでいいのか」という質問を受けます。**結論から言うと、どちらでもありません。文面を「共通部分」「学生像の型ごとに変える部分」「学生ごとに変える部分」の3層に分け、学生ごとに変えるのは冒頭の数行だけにします。どこまで個別化するかは、読む時間と送る数で決まります。** 全部を個別化すると時間が足りず送る数が出ません。全部を共通にすると「自分宛」と思われず承認が落ちます。この記事では、3層の分け方、個別化の範囲を時間と数から決める手順、やりがちな失敗、人事と現場の分担を整理します。文面の構成は[オファー文面の構成](/media/ob-offer-kosei/)で書きました。

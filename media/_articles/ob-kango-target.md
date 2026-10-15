@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-kango-target"
 related: ["ob-kango-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで看護師を採るとき、検索条件で最初にぶつかるのは「看護系で絞ると、思ったより少なく、その少なさが『今年はいない』なのか『時期』なのか分からない」という問題です。**結論から言うと、看護師の検索は、看護系の専攻を譲れない条件にした上で、志望する領域をあればよい条件に置き、自由記述を実習の「状態を見て動いた・気付いて伝えた・うまくいかなかった場面を振り返って直した」の行動で読み、一度で組んで終わりにせず、同じ条件で時期を変えて再検索します。** この記事では、看護学生がプロフィールに何を書いているか、検索条件の組み方、実習の記述の読み方、時期の扱い、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで看護師を採るオファー文面の書き方](/media/ob-kango-offer-bunmen/)で書きました。

@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-labbase"
 related: ["ob-heiyou-techoffer", "ob-heiyou-careerticket", "ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus"]
+sources:
+  - name: "OfferBoxのデータ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/data/"
 ---
 
 研究職・研究開発職を採るために、理系の研究内容を軸にしたスカウト型（LabBase）を使っている、または使おうとしている。OfferBoxも使っている。「研究職はこちら、それ以外はOfferBox」と分けたつもりでも、研究テーマが一致した学生が面談で「うちでは研究を続けられない」と分かって離れる、研究者の時間が文面に取られて本業に響く、という形で崩れます。**結論から言うと、研究テーマで絞る媒体は「研究を続ける学生に、研究者が送る場」、OfferBoxは「理系を含む幅広い学生に、志向と経験で送る場」です。研究テーマの一致と「自社で研究を続けられるか」は別なので、文面と面談で研究環境の実態を伝え、研究者の時間を少数の文面に使い、研究を続けない理系と専攻に直結しない職種はOfferBoxで追い、送る時期を研究の予定に合わせ、同じ学生に両方から送らない台帳を持ちます。** この記事では、それぞれの役割、テーマの一致と環境の違い、研究環境の伝え方、研究者の時間、OfferBoxで追う層、時期、台帳、やりがちな失敗、社内の分担を整理します。二つの違いそのものは[OfferBoxとLabBaseの違い](/media/hikaku-offerbox-labbase/)で書きました。この記事は、両方を持ったあとの運用の使い分けを扱います。両サービスの仕様と数値は書きません。

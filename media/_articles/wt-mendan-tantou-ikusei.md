@@ -10,6 +10,9 @@ pubDate: 2026-10-08
 reviewedAt: 2026-10-08
 slug: "wt-mendan-tantou-ikusei"
 related: ["wt-scout-casual-mendan", "wt-scout-mendan-shitsumon", "wt-scout-senkou-ikou", "wt-scout-boshu-renkei"]
+sources:
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 Wantedlyでは、スカウトの返信も「話を聞きに行きたい」も、まずカジュアル面談につながります。面談の数が増えると、人事だけでは回らなくなり、現場の社員に出てもらう必要が出てきます。ところが、いきなり任せると、会社説明になったり、選考のように評価してしまったりします。**結論から言うと、任せる人は話がうまい人より「聞ける人」を選び、型を渡したうえで、人事の同席から始めて、役割を入れ替え、一人で任せる、の順に段階を踏みます。一人で任せたあとも、面談ごとに短く振り返る時間を残します。** 面談の流れの型は[Wantedlyのカジュアル面談の設計](/media/wt-scout-casual-mendan/)、聞くことと聞かないことは[カジュアル面談で聞くこと・聞かないこと](/media/wt-scout-mendan-shitsumon/)で書きました。この記事は、それを「誰ができるようにするか」の話です。

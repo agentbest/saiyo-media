@@ -10,6 +10,13 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "ob-kensaku-hirosugi"
 related: ["ob-target-mitsukaranai", "ob-bosyu-shokushu-ooi", "ob-bunmen-kakenai", "ob-bunmen-mannerika"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 OfferBoxで検索したら、結果が多すぎて、誰に送ればよいか決められない。全員に送るには読めないし、絞ろうとすると、どの条件で絞ればよいか分からない。**結論から言うと、「多い」そのものは問題ではなく、「読める数まで絞れていない」が問題です。絞る順番は、譲れない条件を先に、次に自由記述の言葉で、次に更新の新しさで、最後に読んで決める、です。大学名で絞りたくなりますが、絞りません。読める数は、送る人の時間から逆算して決め、絞りすぎと広げすぎの間は、出てきた学生の自由記述を数人分読んで見つけます。多いからといって全員に送ると、読まずに送ることになり、開封も承認も来ません。** この記事では、「多い」の捉え方、絞る順番、大学名で絞らない理由、読める数の決め方、間の見つけ方、全員に送らない理由、台帳、分担を整理します。検索条件の基本は[OfferBoxの検索条件の組み方](/media/ob-kensaku-jyoken/)、逆の症状は[OfferBoxで狙った学生が見つからないときの検索の直し方](/media/ob-target-mitsukaranai/)で書きました。

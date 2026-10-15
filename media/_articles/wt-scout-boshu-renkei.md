@@ -10,6 +10,13 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-boshu-renkei"
 related: ["wt-scout-bunmen", "wt-scout-bunmen-rei-biz", "wt-scout-bunmen-rei-design", "wt-scout-bunmen-rei-eng"]
+sources:
+  - name: "Wantedly ヘルプ｜スカウトを送信したい"
+    url: "https://help.wantedly.com/hc/ja/articles/9470607238681"
+  - name: "Wantedly ヘルプ｜スカウトを送信するとどうなる？"
+    url: "https://help.wantedly.com/hc/ja/articles/26988314270745"
+  - name: "Wantedly ヘルプ｜ダイレクトスカウトの返信率を上げたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16210113228697"
 ---
 
 スカウトの文面と募集記事は、別々に作られることが多く、文面で「〇〇の仕事の話をしたい」と書いてあるのに、募集記事を開くと〇〇が出てこない、言葉が違う、条件が食い違う、ということが起きます。**結論から言うと、スカウトと募集記事は、文面で挙げた「重なる点」が、募集記事の「なにを」の中に同じ言葉で書かれている状態にしてつなげます。募集記事を先に整え、文面の重なる点は募集記事から取り、同じ言葉で書き、文面から募集記事へ一文で誘導し、面談で同じことを話す。この順番で、スカウトを受け取った人が文面→募集記事→話を聞きに行く、と途切れずに進みます。** この記事では、相手がたどる順、ずれる失敗、つなげる手順、スカウト用に募集記事を分ける判断、ストーリーへのつなぎ、分担を整理します。文面の書き方は[スカウト文面の書き方](/media/wt-scout-bunmen/)、募集記事の書き方は[募集記事の基本](/media/wt-boshu-kihon/)で書きました。

@@ -10,6 +10,11 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-jugyoin-10-unyou"
 related: ["ob-bunkei-unyou", "ob-daikigyo-unyou", "ob-gaishi-unyou", "ob-hajimete-unyou"]
+sources:
+  - name: "OfferBox 企業向け利用規約（29卒対象プラン用）"
+    url: "https://app.offerbox.jp/company/terms/29grad_20261001"
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
 ---
 
 従業員が十名以下。社長が営業も採用も見ていて、新卒を採ったことがない。「若い人を入れて会社を大きくしたい」と考えてOfferBoxを検討しているが、送っても来ないのではないか、来ても育てられないのではないか、と迷っている。**結論から言うと、この規模では、OfferBoxの運用の前に「新卒を採るべきか」を、社長が育てる時間を出せるかで判断します。採るなら、「最初の新卒」であることを隠さず、社長の名義で数通だけ送り、面談も内定のあとも社長が向き合い、会社が続く理由と条件を社長の言葉で一ページにし、承認への一次返信は外に出します。** この記事では、この規模の会社が新卒を採るべきかの判断、学生が確かめること、最初に決めること、文面の書き方、分担、やりがちな失敗を整理します。三十名規模の考え方は[従業員三十名規模の会社のOfferBox運用](/media/ob-jugyoin-30-unyou/)、予算がほぼ取れない会社の媒体の考え方は[予算がほぼ取れない会社の採用媒体](/media/hikaku-yosan-nai/)で書きました。数値は書きません。

@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "ob-gakusei-hyouka-kijun"
 related: ["ob-tekisei-katsuyou", "ob-genba-mensetsukan", "ob-kotowari-renraku", "ob-mendan-kiroku"]
+sources:
+  - name: "厚生労働省「公正な採用選考の基本」"
+    url: "https://www.mhlw.go.jp/www2/topics/topics/saiyo/saiyo1.htm"
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
 ---
 
 同じ学生を、ある面接官は通し、別の面接官は落とす。評価が割れる原因は、学生ではなく、基準が無いか、あっても印象で判断していることにあります。**結論から言うと、評価基準はペルソナの「行動」と「志向」から引き、段階ごとに見る項目を1つにし、印象ではなく行動の事実で判断する物差しを置きます。大学名、適性検査の結果そのもの、オファー経由かどうかは基準に入れません。** 基準があれば、面接官が変わっても同じ判断ができ、不採用の理由を学生に説明でき、入社後の活躍と照らして基準を直せます。この記事では、基準の作り方、段階ごとの配置、物差しの置き方、ばらつきの抑え方、基準に入れないもの、見直しの方法、やりがちな失敗、分担を整理します。面接官への説明は[現場面接官への説明](/media/ob-genba-mensetsukan/)、ペルソナの作り方は[採りたい学生像を言葉にする](/media/ob-persona/)で書きました。

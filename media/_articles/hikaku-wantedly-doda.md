@@ -10,6 +10,13 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-wantedly-doda"
 related: ["hikaku-wantedly-bizreach", "hikaku-wantedly-findy", "hikaku-wantedly-green", "hikaku-wantedly-indeed"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "Wantedly ヘルプ｜「ストーリー」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
+  - name: "Wantedly ヘルプ｜企業から労働条件等が明示されるタイミングを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/360028277672"
 ---
 
 「中途採用でdodaを使っている。Wantedlyも足すべきか」「Wantedlyだけで中途採用は回るのか」という相談を受けます。**結論から言うと、この2つは採用担当の時間の使い先が違います。dodaは求人掲載・紹介・スカウトなど複数の窓口から候補者が来る総合型で、時間は「来た候補者への対応」に使います。Wantedlyは会社ページとストーリーで共感した人が集まる型で、時間は「書いて見せる」ことに使います。** Wantedlyはウォンテッドリー株式会社が運営する、会社と人がつながるビジネスSNSで、募集情報を掲載する場です。紹介やあっせんを行うものではありません。dodaはパーソルキャリア株式会社が運営する転職サービスで、求人の掲載に加えて紹介やスカウトの窓口を持ちます。この記事ではdodaの仕様や料金、数値には触れず、時間の使い先の違いが採用の設計にどう効くかを整理します。

@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-onecareer-openwork"
 related: ["hikaku-onecareer-mynavi", "hikaku-onecareer-wantedly", "hikaku-3baitai", "hikaku-offerbox-onecareer"]
+sources:
+  - name: "ワンキャリア 企業向けサイト トップページ"
+    url: "https://service.onecareer.jp/"
+  - name: "ワンキャリア 求人掲載（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/job/"
 ---
 
 「内定を出した学生が、OpenWorkを見て辞退した」「ワンキャリアの体験談は整えたのに、承諾されない」という相談を受けます。**結論から言うと、ワンキャリアとOpenWorkは、誰が書いたクチコミを、学生がどの段階で読むかが違います。ワンキャリアの中心は学生が書く選考体験談、OpenWorkの中心は社員や元社員が書く会社の評価です。** 学生は選考中に前者を、内定を受けるかを決める段階で後者を読む傾向があります。ワンキャリアは株式会社ワンキャリアが運営する、クチコミと選考体験談を土台にした新卒向けの媒体。OpenWorkはオープンワーク株式会社が運営する、社員や元社員による会社の評価を中心としたクチコミサイトです。この記事ではOpenWorkの仕様や料金には触れず、クチコミの見られ方の違いから、採用担当が直せる範囲と直せない範囲への向き合い方を整理します。

@@ -10,6 +10,11 @@ pubDate: 2026-09-21
 reviewedAt: 2026-09-21
 slug: "hikaku-startup-a-erabikata"
 related: ["hikaku-startup-b-erabikata", "hikaku-startup-seed-erabikata", "hikaku-bunkei-erabikata", "hikaku-chihou-erabikata"]
+sources:
+  - name: "Wantedly 採用担当者向けページ"
+    url: "https://www.wantedly.com/about/list"
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
 ---
 
 シリーズAのスタートアップが媒体を選ぶとき、最初にぶつかるのは「資金が入って人を増やす段階になり、中途と一緒に『新卒も』と媒体で新卒採用の募集を出したのに、体験談も先輩の新卒もおらず、来た学生に『一年目に何をするのか』『誰が育てるのか』と聞かれて答えられず、内定を出しても辞退される」という問題です。**結論から言うと、シリーズAで新卒を雇用として採るのは珍しく、媒体はインターンの入口です。文面や記事の締めをインターンの案内にし、合った人を新卒に採ります。インターンから新卒にならないときは、理由を「関わりの設計・雇用の条件・育てる人」のどれかに切り分けてから直します。** シード期の考え方は[シード期スタートアップの採用媒体の選び方](/media/hikaku-startup-seed-erabikata/)で書きました。この記事はシリーズAに絞って、インターンを入口にする媒体の使い方を書きます。

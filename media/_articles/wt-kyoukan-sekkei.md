@@ -10,6 +10,9 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-kyoukan-sekkei"
 related: ["wt-kaisha-page-kihon", "wt-kaisha-page-koushin", "wt-kaisha-page-member", "wt-kaisha-page-mission"]
+sources:
+  - name: "Wantedly ヘルプ｜募集作成のポイントを知りたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16228729226521"
 ---
 
 Wantedlyは「共感で人が集まる」と言われます。ところが、「共感を集めよう」として書かれた記事は、想いや情熱の言葉が並び、候補者には届きません。**結論から言うと、Wantedlyでの共感は「感情に訴えて感動させる」ことではなく、「この会社は、なぜこれをやっているのか」を場面で見せて、候補者が「自分もそのなぜに乗れるか」を自分で判断できる状態を作ることです。共感は、会社が起こすものではなく、候補者の側で起きるものです。会社にできるのは、判断の材料を、飾らずに置くことだけです。** この記事では、共感の意味、共感が生まれる3段、会社ページ・募集記事・ストーリーの役割分担、共感を壊すもの、確かめ方、向く会社と向かない会社、分担を整理します。共感型と条件型の媒体の違いは[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。この記事は、Wantedlyの中で共感をどう作るかの話です。

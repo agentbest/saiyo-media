@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-scout-kihon"
 related: ["wt-scout-bunmen", "wt-scout-bunmen-rei-design", "wt-scout-bunmen-rei-eng", "wt-scout-bunmen-rei-shinsotsu"]
+sources:
+  - name: "Wantedly ヘルプ｜「スカウト」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9237683031065"
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 Wantedlyには、募集記事を出して候補者が来るのを待つ使い方と、会社から候補者に直接スカウトを送る使い方があります。スカウトを送れば候補者が来る、と考えて始めると、返信が来ずに止まります。**結論から言うと、Wantedlyのスカウトは「応募してください」の依頼ではなく、「あなたのプロフィールのここを読んで、この募集の話をしたい」という誘いです。送る前に会社ページと募集記事が整っていること、誰に送るかを募集記事の「こんな人」から決めること、何を送るかを「相手のどこを読んだか・なぜこの募集か・話す場」の3つで組むこと、が基本です。** この記事では、Wantedlyのスカウトの位置づけ、送る前に整えるもの、誰に送るか、何を送るか、やりがちな失敗、返信が来たあと、送る人と件数の考え方、分担を整理します。スカウトの送信の仕組みや上限はプランで異なり変わることがあるので、現在の仕様は管理画面とヘルプで確認してください。この記事は、運用の考え方の話です。

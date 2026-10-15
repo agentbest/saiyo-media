@@ -10,6 +10,9 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-designer-offer-bunmen"
 related: ["ob-designer-target", "ob-consultant-offer-bunmen", "ob-denki-sekkei-offer-bunmen", "ob-eigyo-offer-bunmen"]
+sources:
+  - name: "OfferBox ヘルプ｜研究内容や制作物をプロフィールに登録したい"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/360016817294"
 ---
 
 OfferBoxでデザイナーを採るとき、文面で最も多い失敗は「作品を褒めれば届く」と考えることです。**結論から言うと、デザイナー志望の学生に届く文面は、作品を褒める文面ではなく、作品の何を読んだか（誰のために、何の制約で、なぜその形にしたか）に触れ、どのデザインかを一つ、自社で作ったものを一つ、学生が見られる形で書き、名義がデザイナーになっている文面です。** デザイナー志望の学生は、講評や展示で作品を褒められることに慣れています。「素敵な作品ですね」の一文は、学生には「見ていない人が書いた」と読まれます。この記事では、デザイナー志望の学生がOfferBoxで何を見ているか、文面に書くこと、美大・デザイン系以外の学生への送り方、面談への接続を整理します。文面全体の基本は[OfferBoxのオファー文面の基本](/media/ob-offer-bunmen-kihon/)で書いたので、ここではデザイナーに固有の部分だけを扱います。OfferBoxの仕様や数値には触れず、運用の考え方だけを書きます。

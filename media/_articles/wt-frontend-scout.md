@@ -10,6 +10,13 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-frontend-scout"
 related: ["wt-frontend-boshu", "wt-backend-scout", "wt-engineer-scout", "wt-infra-scout"]
+sources:
+  - name: "Wantedly ヘルプ｜スカウト対象ユーザーの絞り込みについて"
+    url: "https://help.wantedly.com/hc/ja/articles/9468713480345"
+  - name: "Wantedly ヘルプ｜スカウトメッセージを魅力的にしたい"
+    url: "https://help.wantedly.com/hc/ja/articles/16221157555737"
+  - name: "Wantedly ヘルプ｜カジュアル面談とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9069718851865"
 ---
 
 Wantedlyでフロントエンドエンジニアにスカウトを送るとき、最初にぶつかるのは「自社と同じフレームワークで検索して送っているのに、返信が来ない。来ても、面談で『デザインは誰が決めるのか』『バックエンドも持つのか』を聞かれて止まる」という問題です。**結論から言うと、フロントエンドエンジニアへのスカウトは、フレームワーク名の一致で相手を選ぶのではなく、先に自社のフロントエンドの担当範囲と最初に任せる画面を決め、「同じ種類の画面を、同じような使う人のために作っている人」を選び、その人が作った画面を読んだ一文から、自社の画面の場面で誘います。** この記事では、フロントエンドエンジニアがスカウトで見ているもの、送る前に決めること、誰に送るか、プロフィールと成果物の読み方、文面に書くこと、返信後の面談、社内の分担、やりがちな失敗を整理します。エンジニア全般のスカウトの考え方は[エンジニアにスカウトを送る文面の考え方](/media/wt-engineer-scout/)、文面の3段の型は[エンジニア向けスカウト文面の型](/media/wt-scout-bunmen-rei-eng/)、募集記事は[フロントエンドエンジニアを採る募集記事の書き方](/media/wt-frontend-boshu/)で書きました。

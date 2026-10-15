@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-kaigo-shoku-target"
 related: ["ob-kaigo-shoku-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで介護職を採るとき、検索条件で最初にぶつかるのは「福祉系で絞ると、相談援助や公務員志望が多くて介護職志望が少なく、『優しい』で探しても本当かどうか分からない」という問題です。**結論から言うと、介護職の検索は専攻や人柄の言葉で探すのではなく、施設の場所と夜勤の可否を譲れない条件にし、福祉系と資格をあればよい条件に置き、自由記述を「相手に合わせて動いた・続けた・気付いて先に動いた・予定どおりにいかない場面で回した」の行動で読みます。** 介護職に合う学生は、福祉系にも、それ以外の専攻にもいて、共通しているのは専攻ではなく行動です。この記事では、介護職に合う学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで介護職を採るオファー文面の書き方](/media/ob-kaigo-shoku-offer-bunmen/)で書きました。

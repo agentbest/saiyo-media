@@ -10,6 +10,11 @@ pubDate: 2026-09-11
 reviewedAt: 2026-09-11
 slug: "wt-kaisha-page-koushin"
 related: ["wt-kaisha-page-kihon", "wt-kaisha-page-member", "wt-kaisha-page-mission", "wt-kaisha-page-photo"]
+sources:
+  - name: "Wantedly ヘルプ｜「ストーリー」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/9237650455065"
+  - name: "Wantedly ヘルプ｜メンバーと会社アカウントの紐付きを解除したい"
+    url: "https://help.wantedly.com/hc/ja/articles/8788920882073"
 ---
 
 会社ページを公開した。ここで運用が終わったと感じる会社は多いのですが、Wantedlyでは、公開した日が始まりです。**結論から言うと、会社ページを更新し続けるには、「書く仕組み」より先に「ネタを集める仕組み」が要ります。週に一度、「今週あったこと」を1つ拾う。これが溜まっていれば、書くことに困りません。溜まっていなければ、書く時間があっても書けません。** そのうえで、何を、どの頻度で、誰が、いつまでに更新するかを決めます。この記事では、更新する項目、頻度の目安、担当と締切、ネタを集める仕組み、更新が止まる原因と対処、記録、反応の見方、やりがちな失敗、分担を整理します。会社ページを最初に公開するまでは[会社ページで最初に書くこと](/media/wt-kaisha-page-kihon/)で書きました。

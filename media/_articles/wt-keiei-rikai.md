@@ -10,6 +10,11 @@ pubDate: 2026-09-12
 reviewedAt: 2026-09-12
 slug: "wt-keiei-rikai"
 related: ["wt-kouka-sokutei", "wt-chimeido", "wt-daikou-fuman", "wt-fukusuu-shokushu"]
+sources:
+  - name: "Wantedly ヘルプ｜アナリティクスとは"
+    url: "https://help.wantedly.com/hc/ja/articles/218342203"
+  - name: "Wantedly ヘルプ｜有料プランが終了するとどうなる？"
+    url: "https://help.wantedly.com/hc/ja/articles/204876295"
 ---
 
 Wantedlyを回している。経営層に成果を説明する場が来る。人事は「閲覧数」「応援数」「スカウトの送信数」を並べ、経営は「で、採れたのか」「社員の時間を使って、見合うのか」と返す。噛み合わないまま、「様子を見る」で終わる。**結論から言うと、経営層への説明は、「閲覧数」ではなく、「来た人が記事のどこに重なったと言ったか」「段ごとの止まりとその直し」「残った記事と会社ページと社員の協力」の三つの軸で行います。途中の月は「四つが回っているか」だけを伝え、数字の目標を先に置きません。悪い数字は隠さず、「止まりの場所と直し」で報告します。一年の報告で、「続ける・配分を変える・小さくする・やめる」を提案し、記事が契約後も残ることを軸に入れます。** この記事では、経営が知りたいことと人事が報告しがちなことのずれ、三つの軸、途中の月、悪い数字、一年の報告、資産の軸、一枚の型、分担を整理します。KPIの置き方は[Wantedlyのスカウト運用のKPI設計](/media/wt-scout-kpi/)、導入時の説明は[Wantedlyの導入を社内に説明するときの整理](/media/wt-shanai-setsumei/)、OfferBoxの場合は[経営層にOfferBoxの成果を説明する方法](/media/ob-keiei-rikai/)で書きました。

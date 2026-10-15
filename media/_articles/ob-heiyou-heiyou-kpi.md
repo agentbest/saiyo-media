@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "ob-heiyou-heiyou-kpi"
 related: ["ob-heiyou-careerticket", "ob-heiyou-daigaku-kyara", "ob-heiyou-doda-campus", "ob-heiyou-gaishishukatsu"]
+sources:
+  - name: "Wantedly ヘルプ｜企業の募集に応募したい"
+    url: "https://help.wantedly.com/hc/ja/articles/9923360468761"
 ---
 
 新卒採用で、OfferBoxと、Wantedlyやワンキャリアやナビサイトを併用している。上司から「どの媒体が効いているのか、並べて見せてほしい」と言われる。ところが、OfferBoxの管理画面に出る送信数・開封数・承認数と、ナビのエントリー数と、Wantedlyの「話を聞きに行きたい」の数を同じ表に置いても、何も判断できません。**結論から言うと、OfferBoxの入口の数は「企業が選んで送った相手の中の数」で、学生の側から来る媒体の数とは前提が違うので、並べません。並べるのは、面談から先の共通の段（面談・選考・内定）と、「こんな人」に近い学生が各段に何人いるか、各段までの日数です。台帳を一つにして媒体を列の一つとして持ち、OfferBoxには「送る側の精度」と「残った検索条件と文面の型」を足して見ます。** この記事では、媒体ごとに数が出る段の違い、共通の段で並べる考え方、台帳の項目、近い学生の数と日数、OfferBoxだけに足す項目、やりがちな失敗、社内の分担を整理します。媒体全般の並べ方は[媒体の効果を並べて比べる方法](/media/hikaku-baitai-kouka-hikaku/)、OfferBox単体のKPIは[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)と[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)で書きました。数値は書きません。

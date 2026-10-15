@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-sekou-kanri-target"
 related: ["ob-sekou-kanri-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで施工管理を採るとき、検索条件で最初にぶつかるのは「建築・土木系で絞ると、設計志望ばかりで施工管理志望が少ない」という問題です。**結論から言うと、施工管理の検索は専攻で探すのではなく、現場の移動の範囲を先に決めて譲れない条件にし、「段取りを組んだ・人を動かした・変更に対応した」行動で探します。** 建築・土木系の学生は、設計や研究を志望する学生が多く、施工管理を志望する学生はその一部です。専攻で絞ると、多くの会社が同じ少数の学生に送ることになります。この記事では、施工管理志望の学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで施工管理を採るオファー文面の書き方](/media/ob-sekou-kanri-offer-bunmen/)で書きました。

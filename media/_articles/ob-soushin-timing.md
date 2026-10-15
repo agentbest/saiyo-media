@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "ob-soushin-timing"
 related: ["ob-boshu-youkou", "ob-daigakugun", "ob-intern-setsuzoku", "ob-jitai-boushi"]
+sources:
+  - name: "28卒向けOfferBoxの提供開始とEXオプションについて（i-plug お知らせ）"
+    url: "https://i-plug.co.jp/news/9237/"
 ---
 
 「オファーはいつ送るのが効くのか」「何時に送ればいいのか」という質問を受けます。**結論から言うと、時期は「学生が動く時期」と「自社が面談できる時期」の重なりで決め、時間帯は「送った直後に返信できる時間」で決めます。「効く時期」が先にあるのではなく、自社の体制が先です。** 学生が動く時期は卒年ごとに変わり、就職活動のスケジュールも見直されるので、この記事では具体的な月日や時刻には触れません。決め方の考え方だけを書きます。送る数の決め方は[オファー送信ペースの決め方](/media/ob-soushin-pace/)で書きます。この記事は「いつ」の話です。

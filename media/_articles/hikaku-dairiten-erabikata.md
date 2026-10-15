@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "hikaku-dairiten-erabikata"
 related: ["hikaku-dairiten-tsukaikata", "hikaku-baitai-keiyaku", "hikaku-baitai-kirikae", "hikaku-baitai-kouka-hikaku"]
+sources:
+  - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/faq"
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
 ---
 
 採用媒体の代理店を、どう選べばよいか。ところが、料金で選び（正規料金で変わらないのに）、扱う媒体が一つの代理店に「比較」を頼み、申込のみの代理店に申込後の相談を期待し、提案の中身を見ずに選び、担当の体制を見ず、やめるときの扱いを聞かない。**結論から言うと、選ぶ軸は料金ではなく、「扱う媒体の範囲・中立性・申込後の相談の範囲・代行の範囲・報告・担当の体制・契約の形・引き継ぎ・稟議の支援」の九つで、重い軸は自社の体制で変わります。一人なら申込後の相談と報告、複数媒体なら扱う範囲と契約の形、代行前提なら代行の範囲と引き継ぎ。「どの媒体を勧めても収入は変わりませんか」を最初に聞きます。** この記事では、選び方で起きる失敗、九つの軸、体制ごとに重い軸、中立性、比べる手順、提案書、選んだ後、分担を整理します。九つの軸の詳しくは[代理店を比較するときの軸](/media/kh-dairiten-hikaku/)、中立性は[代理店の提案が中立かどうかの見分け方](/media/kh-dairiten-chuuritsu/)、使い方は[採用媒体の代理店の使い方](/media/hikaku-dairiten-tsukaikata/)で書きました。

@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "hikaku-offerbox-rikunabi"
 related: ["hikaku-3baitai", "hikaku-offerbox-doda-campus", "hikaku-offerbox-iroots", "hikaku-offerbox-kimisuka"]
+sources:
+  - name: "OfferBox ご利用の流れ（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/flow"
 ---
 
 「リクナビに載せているが、応募は来ても採りたい学生に会えない」「OfferBoxは登録者数がナビより少ないと聞くが、それで足りるのか」という相談を受けます。**結論から言うと、母集団の広さで選ぶか、届ける相手で選ぶかの違いであって、登録者数の大小で決める話ではありません。** リクナビは学生が企業を探して応募するナビ型、OfferBoxは企業が学生を選んでオファーを送るスカウト型です。この記事ではリクナビの仕様や数値には触れず、母集団の性質、採用の時期、採用担当の時間の使い方、併用するときの分担の順で、型の違いを整理します。

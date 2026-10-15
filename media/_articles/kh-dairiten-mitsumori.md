@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-mitsumori"
 related: ["kh-dairiten-hikaku", "kh-dairiten-ryoukin", "kh-dairiten-shanai", "kh-dairiten-campaign"]
+sources:
+  - name: "OfferBoxの料金プラン・費用（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/fee"
+  - name: "Wantedly オプション一覧"
+    url: "https://www.wantedly.com/enterprise_options"
 ---
 
 「代理店から見積もりをもらったが、合計しか見ていない」「2社の見積もりを比べたいが、書き方が違って比べられない」という相談を受けます。**結論から言うと、見積もりは合計ではなく行ごとに分けて読み、前提条件を揃え、書かれていない社内の時間を足してから比べます。** この3つをやらないと、安く見える見積もりが、あとで高くつくことがあります。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーとして見積もりを出す側ですが、この記事は当社の見積もりを含めて、企業が見積もりを読むときの見方を整理します。金額は書きません。料金が変わらない仕組みは[代理店経由でも料金が変わらない理由](/media/kh-dairiten-ryoukin/)で書きました。

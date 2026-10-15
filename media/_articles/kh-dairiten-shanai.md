@@ -10,6 +10,9 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-shanai"
 related: ["kh-dairiten-keiyaku", "kh-dairiten-mitsumori", "kh-dairiten-campaign", "kh-dairiten-chuuritsu"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
 ---
 
 「代理店経由で申し込みたいが、上司に『なぜ直接申し込まないのか』と聞かれそうだ」「稟議で『中抜きではないか』と言われた」という相談を、採用担当者から受けます。**結論から言うと、社内の説明は5つの項目で組み立てます。なぜこの媒体か、なぜ代理店経由か、料金は変わらないこと、誰が運用するか、やめる条件です。** この5つが書けていれば、稟議で聞かれることはほぼ答えられます。当社はOfferBox・Wantedly・ワンキャリアの販売パートナーですが、この記事は当社に限らず、代理店経由の申込を社内で通すための一般的な構成と、想定される質問への答え方を整理します。

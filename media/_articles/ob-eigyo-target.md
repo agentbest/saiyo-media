@@ -10,6 +10,9 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-eigyo-target"
 related: ["ob-eigyo-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで営業職を採るとき、検索条件で最初にぶつかるのは「営業志望に絞ると足りない、広げると読み切れない」という問題です。**結論から言うと、営業職の検索は「営業」という言葉で探すのではなく、自社の営業で求める行動で探し、条件を「譲れない・あればよい・見ない」の三段に分けて組みます。** 学生がプロフィールの志望職種に「営業」と書いているかどうかは、探す手がかりの一つでしかありません。この記事では、営業職志望の学生がプロフィールに何を書いているか、検索条件の組み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。ターゲット設計全体の考え方は[OfferBoxのターゲット設計](/media/ob-target-sekkei/)で書きました。

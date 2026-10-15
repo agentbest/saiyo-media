@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-kenkyu-target"
 related: ["ob-kenkyu-offer-bunmen", "ob-denki-sekkei-target", "ob-hinshitsu-target", "ob-kikai-sekkei-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで研究開発職を採るとき、検索条件で最初にぶつかるのは「自社の分野のキーワードで探すと、ほとんど出てこない」という問題です。**結論から言うと、研究開発職の検索は分野やキーワードで探すのではなく、分野とキーワードを「あればよい条件」に置き、学位の条件は理由を決めてから置き、自由記述を研究の「進め方」で読み、一次を人事、二次を研究員が読む前提で組みます。** 学生は自分の研究を専門用語で書くので、会社が使う言葉と一致しません。キーワードの検索結果が少ないのは、学生がいないからではなく、言葉が違うからです。この記事では、研究開発職志望の学生がプロフィールに何を書いているか、検索条件の組み方、進め方の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで研究開発職を採るオファー文面の書き方](/media/ob-kenkyu-offer-bunmen/)で書きました。

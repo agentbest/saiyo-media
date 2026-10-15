@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-sogo-target"
 related: ["ob-sogo-offer-bunmen", "ob-consultant-target", "ob-denki-sekkei-target", "ob-designer-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで総合職を採るとき、検索条件で最初にぶつかるのは、営業職やエンジニアと逆の問題です。総合職は志望職種で探せないので、条件を組んでも「卒業年と勤務地」しか残らず、送る相手が全学生になり、読み切れません。**結論から言うと、総合職の検索は「総合職」で組むのではなく、「最初の配属で最も多い仕事」ごとに組み、志望職種は見ない条件にして、自由記述を「決まっていない中で動いた行動」で読みます。** 総合職の検索で必要なのは、広げる工夫ではなく、狭める順番です。この記事では、総合職志望の学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで総合職を採るオファー文面の書き方](/media/ob-sogo-offer-bunmen/)で書きました。

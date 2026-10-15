@@ -10,6 +10,9 @@ pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "wt-heiyou-note"
 related: ["wt-heiyou-referral", "wt-heiyou-x", "wt-heiyou-youtube", "wt-heiyou-bizreach"]
+sources:
+  - name: "Wantedly ヘルプ｜Wantedlyの掲載料金・有料プランのご案内"
+    url: "https://help.wantedly.com/hc/ja/articles/115002998463"
 ---
 
 代表や社員がnoteで文章を書いている。会社の公式noteもある。Wantedlyのストーリーも長い文章なので、「noteに書いたものをWantedlyに貼ればいいのではないか」「両方書くのは二度手間ではないか」と聞かれます。**結論から言うと、noteは「考えを、会社の外の読者に向けて書く場」、Wantedlyは「こんな人に向けて、応募の文脈で書く場」で、同じ長文でも読む人と読まれ方が違います。使い分けるなら、同じ文章を両方に貼らず、noteに書いた考えをWantedlyでは仕事の場面に書き直し、名義と本音の範囲を決め、noteのスキや閲覧数で採用を判断しないことです。** この記事では、それぞれの役割、使い分けの分担、書き直しの形、名義と本音の範囲、数字の読み方、工数、やりがちな失敗、社内の分担を整理します。Wantedlyのストーリーの基本は[Wantedlyのストーリーの基本](/media/wt-story-kihon/)、SNS全般は[SNSからの母集団形成](/media/kh-boshudan-sns/)で書きました。noteの仕様や数値は書きません。

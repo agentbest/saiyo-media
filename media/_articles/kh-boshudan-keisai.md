@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "kh-boshudan-keisai"
 related: ["kh-boshudan-chimeido", "kh-boshudan-baitai-kumiawase", "kh-boshudan-bunkei", "kh-boshudan-chihou"]
+sources:
+  - name: "Wantedly ヘルプ｜会社ページの「私たちについて」とは"
+    url: "https://help.wantedly.com/hc/ja/articles/8950640244761"
+  - name: "ワンキャリア 企業向けサイト トップページ"
+    url: "https://service.onecareer.jp/"
 ---
 
 企業ページや募集記事を掲載して、母集団を作りたい。ところが、閲覧数やエントリー数を「母集団」と数え、「誰でも歓迎」で広く書き、他媒体の写しを載せ、更新が止まり、来た人が「こんな人」から遠い。**結論から言うと、掲載の母集団は、「読んで、自分に近いと判断して、来た人」です。閲覧数でもエントリー数でもありません。「こんな人」が自分で選べる材料を事実で書き、他の入口から来た人が読む順番を整え、書いたとおりに運用し、更新を止めません。広く受ける入口だからこそ、絞って書きます。** この記事では、掲載で起きる失敗、母集団のでき方、自分で選べる材料、読む順番、書いたとおりに運用すること、更新、媒体ごとの違い、他の入口との分担、数え方、分担を整理します。母集団の考え方は[母集団形成の基本｜量と質の順番](/media/kh-boshudan-kihon/)、スカウト型との違いは[スカウト型とナビ型の違い](/media/hikaku-scout-vs-navi/)、媒体ごとの基本は[Wantedlyの募集記事の基本](/media/wt-boshu-kihon/)と[ワンキャリアの企業ページの基本](/media/oc-kigyo-page-kihon/)で書きました。

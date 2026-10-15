@@ -10,6 +10,11 @@ pubDate: 2026-09-13
 reviewedAt: 2026-09-13
 slug: "ob-hinshitsu-target"
 related: ["ob-hinshitsu-offer-bunmen", "ob-seisan-gijutsu-target", "ob-denki-sekkei-target", "ob-kenkyu-target"]
+sources:
+  - name: "OfferBoxの機能（i-plug 企業向けサイト）"
+    url: "https://offerbox.jp/company/about/function"
+  - name: "OfferBox ヘルプ｜企業はどのように検索をしているのか"
+    url: "https://offerboxhelp.zendesk.com/hc/ja/articles/216038338"
 ---
 
 OfferBoxで品質管理を採るとき、検索条件で最初にぶつかるのは「志望職種で品質管理を選んでいる学生が少なく、自由記述で『几帳面』を探しても本当かどうか分からない」という問題です。**結論から言うと、品質管理の検索は志望職種や人柄の言葉で探すのではなく、検索の前に「品質管理か品質保証か」を決め、志望職種をあればよい条件に置き、研究志望や化学・材料系の学生の中から「ばらつきの原因を探した・記録を取って傾向を読んだ・手順を決めて守らせた」の行動で探します。** 品質管理に合う学生の多くは、研究でばらつきと戦った経験を持っていて、志望職種には「研究開発」や「技術職」を選んでいます。この記事では、品質管理に合う学生がプロフィールに何を書いているか、検索条件の組み方、自由記述の読み方、文面と面談への接続を整理します。検索項目の名称や仕様には触れず、考え方だけを書きます。現在の項目は管理画面とヘルプで確認してください。文面の書き方は[OfferBoxで品質管理を採るオファー文面の書き方](/media/ob-hinshitsu-offer-bunmen/)で書きました。

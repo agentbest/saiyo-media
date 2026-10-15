@@ -10,6 +10,11 @@ pubDate: 2026-09-10
 reviewedAt: 2026-09-10
 slug: "kh-dairiten-unyou"
 related: ["kh-dairiten-ng", "kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-fukusuu-baitai"]
+sources:
+  - name: "ワンキャリア 販売パートナー募集（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/partner/"
+  - name: "ワンキャリア 料金・よくある質問（企業向けサービスサイト）"
+    url: "https://service.onecareer.jp/service/price/"
 ---
 
 「媒体を契約しても、運用する時間がない。代理店に運用まで頼めるのか」という相談を受けます。**結論から言うと、頼める代理店と頼めない代理店があり、頼める場合でも、頼める作業と頼めない作業があります。** 検索、文面の作成、送信、一次返信は頼めます。採りたい人物像を決めること、面談と面接は頼めません。当社はOfferBoxを中心に運用代行を行っている代理店ですが、この記事は当社に限らず、代理店に運用を頼むときの一般的な範囲と、頼む前に決めておくことを整理します。自社運用と代行の違いそのものは[媒体を自社で運用するか代行に出すかの違い](/media/hikaku-baitai-vs-daikou/)で書きました。
