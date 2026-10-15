@@ -317,7 +317,7 @@ function crumbs(items) {
  * スカウト系→スカウト代行、媒体比較・採用ノウハウ→コーポレートの採用ご担当者さまページ（人材紹介も含む一覧）。 */
 const SERVICES = {
   infra:    { name: '長期インターン採用（Infra）', note: '月額5万円〜／成果報酬9万円〜', href: 'https://infra.agent-best.net/' },
-  green:    { name: 'Green運用代行', note: '1面談2万円の面談課金', href: 'https://green.agent-best.net/' },
+  green:    { name: 'Green運用代行', note: '成功報酬・入社時1名50万円', href: 'https://green.agent-best.net/' },
   offerbox: { name: 'OfferBox運用代行', note: '入社承諾時のみ20万円の完全成果報酬', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
   scout:    { name: 'スカウト代行', note: '月額0円のプランから', href: 'https://scout.agent-best.net/' },
   business: { name: '採用ご担当者さま向けサービス一覧', note: '人材紹介・採用代行・求人広告代理店', href: 'https://www.agent-best.net/business/' },
