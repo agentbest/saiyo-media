@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "カスタマーサクセス", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-cs"
 related: ["gr-data-scientist", "gr-director", "gr-fullstack", "gr-game"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 カスタマーサクセスの求人票を読むと、「顧客の成功を支援する」「LTVの最大化」という言葉が並んでいることがよくあります。間違ってはいませんが、候補者にとっては**具体的に何をする仕事なのかが見えません**。カスタマーサクセスの仕事は、解約を防ぐことと、契約を広げることの二つの方向に分かれ、どちらを中心にするかで、合う経験の人がまったく違ってきます。この記事では、Greenでカスタマーサクセスを採るときに、この二つのどちらを任せるのかを決め、求人票と選考に落とし込む方法を整理します。Greenは株式会社アトラエが運営する中途採用の求人サイトで、扱う求人はIT・Web業界が中心です。

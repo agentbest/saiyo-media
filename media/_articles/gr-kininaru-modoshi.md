@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "気になる", "候補者対応"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-kininaru-modoshi"
 related: ["gr-jitai-boushi", "gr-kininaru", "gr-oubo-taiou", "gr-casual-mendan"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 候補者から届く「気になる」は、企業から送るものと違い、相手が先に関心を示してくれた合図です。応募ほど強い意思ではありませんが、求人や会社を見たうえで押してくれています。**ここで返す速さと文面の具体性が、そのまま面談に進むかどうかを左右します。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）で候補者から「気になる」が来たときに、何を確かめ、どう返すかを手順で整理します。返し方に使える機能の細部は変わることがあるため、管理画面で確認してください。

@@ -1,15 +1,20 @@
 ---
 title: "Greenで組込み・IoTエンジニアを採る｜Web系との違いを踏まえた求人票"
-description: "Greenで組込み・IoTエンジニアを採るとき、Web系のエンジニアと同じ書き方の求人票では伝わりません。扱う機器、ハードウェアとの距離、開発の周期、品質の考え方など、Web系との違いを踏まえた求人票の書き方と、声のかけ方、選考の進め方を整理します。"
+description: "Greenで組込み・IoTエンジニアを採るとき、Web系と同じ書き方の求人票では伝わりません。扱う機器、ハードウェアとの距離、開発の周期、品質の考え方を踏まえた求人票の書き方と、声のかけ方、選考の進め方を整理します。"
 pillar: "green"
 series: "職種別"
 target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "組込みエンジニア", "IoT"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-embedded"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenは、IT・Web業界を中心とした中途採用の求人サイトです。そのため、組込み・IoTエンジニアの求人を出すときは、**Web系のエンジニアの求人と並んで読まれる**ことを意識する必要があります。Web系の求人に慣れた候補者は、使う言語やクラウドの構成、リリースの頻度を見て判断します。一方、組込み・IoTの仕事は、扱う機器、ハードウェアとの距離、開発の周期、品質の考え方が大きく違います。この違いを書かずにWeb系と同じ書き方をすると、組込みの経験者にもWeb系の候補者にも、仕事の中身が伝わりません。この記事では、Greenで組込み・IoTエンジニアを採るときの求人票の書き方を整理します。Greenは株式会社アトラエが運営しています。

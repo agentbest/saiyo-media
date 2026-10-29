@@ -7,12 +7,16 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "人事", "採用担当"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-jinji"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 IT企業が人事・採用担当を採るとき、求人票に「採用業務全般」と書くことがよくあります。けれども、採用の仕事は工程ごとに必要な経験が違い、**候補者は「どこからどこまでを自分が担うのか」で求人を見比べます**。媒体の運用を回す人なのか、採用の計画を立てる人なのか、エンジニアの採用を専門に担う人なのか。この記事では、GreenでIT企業の人事・採用担当を採るときに、採用を任せる範囲をどう決め、どう求人票に書くかを整理します。Greenは株式会社アトラエの運営する求人サイトで、IT・Web業界の中途採用が中心です。
@@ -84,7 +88,7 @@ IT企業の採用担当の求人で、自社で持つべきなのは「計画」
 面接には、採用で一緒に働くことになる現場の責任者が入ると、候補者は現場との関係を想像できます。
 
 <aside class="cta-inline">
-  <p>Greenの運用代行は、採用した方の入社時に1名50万円（税別）の成功報酬型です。採用担当の採用と並行して運用を任せる形もあります。</p>
+  <p>Greenの運用代行は、採用した方の入社時に1名50万円（税別）の成功報酬型です。Greenの利用料金は別にかかります。採用担当の採用と並行して運用を任せる形もあります。</p>
   <a href="/#entry">運用の相談をする</a>
 </aside>
 

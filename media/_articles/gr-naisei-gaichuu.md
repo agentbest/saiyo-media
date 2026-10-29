@@ -7,12 +7,16 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "運用代行", "内製"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-naisei-gaichuu"
 related: ["gr-daikou-donyuu", "gr-daikou-erabikata", "gr-daikou-hanni", "gr-daikou-hikitsugi"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenを使い始めたが、運用に思ったより時間がかかる。このまま自社で続けるか、代行に出すか。中途採用の担当者が1人か2人の会社では、よく出てくる悩みです。**内製か外注かの分かれ目は、費用の大小よりも、「運用に必要な時間を、継続して確保できるか」と「運用のノウハウを社内に残したいか」の2つにあります。** この2つの答えによって、全部を自社でやる、全部を任せる、一部だけを任せる、のどれが合うかが決まります。この記事では、その判断の順番を整理します。Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。

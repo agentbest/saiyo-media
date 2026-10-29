@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "データエンジニア", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-data-engineer"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 データエンジニアの求人票を書こうとすると、「データ基盤の構築・運用」「データパイプラインの開発」といった言葉で終わってしまいがちです。けれど、データエンジニアの候補者が知りたいのは、その言葉の先にある**いまのデータ基盤がどんな状態で、自分は何を作り、何を直すことになるのか**です。基盤がほとんどない会社と、すでに整った基盤を広げる会社では、求められる人がまったく違います。この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）でデータエンジニアを採るときに、データ基盤の現状をどう書くかを整理します。

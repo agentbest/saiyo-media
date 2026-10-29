@@ -7,12 +7,14 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "運用代行", "人材紹介"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-vs-shoukai"
 related: ["gr-daikou-donyuu", "gr-daikou-erabikata", "gr-daikou-hanni", "gr-daikou-hikitsugi"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 エンジニアを採りたい。人材紹介を使うか、Greenに出して運用を代行してもらうか。どちらも採用が決まったときに費用が発生する形なので、一見すると比べやすそうに見えます。**ところが、両者は費用の中身と、企業側に残る作業が違います。紹介の手数料と代行の費用だけを並べるのではなく、代行の費用とは別にかかるGreen自体の利用料金、社内の工数、職種ごとの採りやすさを合わせて比べることで、はじめて判断の材料になります。** この記事では、当社が人材紹介とGreen運用代行の両方を行っている立場から、その比べ方を整理します。

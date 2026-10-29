@@ -7,9 +7,12 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "応募対応", "候補者対応"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-oubo-taiou"
 related: ["gr-jitai-boushi", "gr-kininaru-modoshi", "gr-casual-mendan", "gr-genba-kyouryoku"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
 ---
 
 応募が来たあと、書類を読んで合否を決めてから連絡しよう、と考える会社は多いです。けれど、その判断に数日かかるあいだ、候補者は何の連絡も受け取らずに待つことになります。**応募の当日に返すべきなのは合否ではなく、「受け取りました。次はこうなります」という見通しです。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）で応募が届いたあとの初回連絡を、当日中に返すための型と段取りを整理します。媒体から自動で送られる通知の有無や内容は仕様によるため、管理画面で確認したうえで、会社からの連絡を重ねてください。

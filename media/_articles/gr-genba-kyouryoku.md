@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "現場協力", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-genba-kyouryoku"
 related: ["gr-casual-mendan", "gr-kigyou-page", "gr-kyujin-fukusuu", "gr-kyujin-hyou"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenでエンジニアを採ろうとすると、求人票の技術欄、スカウトの文面、カジュアル面談と、現場のエンジニアの力が要る場面が次々に出てきます。けれど、開発で手一杯の現場に「採用に協力してほしい」と頼んでも、返ってくるのは「時間がない」という答えです。**現場の協力が得られないのは、現場が採用に関心がないからではなく、頼まれている範囲と時間が見えないからです。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）の運用で、現場のエンジニアに協力してもらうための頼み方を整理します。

@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "ゲームエンジニア", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-game"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 ゲームエンジニアの候補者は、求人票を開くと、まず**どのタイトルに関われるのか**を探します。好きなジャンルか、遊んだことのある作品か、これから作る新しい作品か。そして次に、**どんな体制で作っているのか**を見ます。何人のチームで、どんな役割分担で、どのくらいの期間をかけて作るのか。この二つが分からない求人票は、ほかの条件がよくても応募の判断がつきません。この記事では、Greenでゲームエンジニアを採るときに、タイトルと開発体制をどう伝えるかを整理します。Greenは株式会社アトラエが運営する中途採用の求人サイトで、ゲーム会社を含むIT・Web業界の求人が中心です。

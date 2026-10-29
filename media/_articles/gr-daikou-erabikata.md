@@ -7,12 +7,16 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "運用代行", "代行会社選び"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-daikou-erabikata"
 related: ["gr-daikou-donyuu", "gr-daikou-hanni", "gr-daikou-hikitsugi", "gr-daikou-shippai"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenの運用代行を検討して何社かに話を聞くと、どこも「求人票を作り、スカウトを送り、応募に対応します」と説明してくれます。作業の名前が同じなので、違いが分かりにくいと感じる方も多いでしょう。**違いが出るのは、作業の名前ではなく、費用が発生する条件、任せられる範囲の細部、求人票の作り方、報告の形、ほかの経路との併用の扱いです。** この記事では、Green運用代行を選ぶときに確かめておきたい5つのことと、それぞれの聞き方を整理します。当社もGreen運用代行をお受けしていますが、ここでは他社を比べるときにも使える形で書きます。Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。

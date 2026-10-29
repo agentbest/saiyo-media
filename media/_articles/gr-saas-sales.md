@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "SaaS営業", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-saas-sales"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 SaaSの営業を採るとき、「SaaSの営業経験者」「IT業界での法人営業経験」と要件を書く会社は少なくありません。けれども、その条件に当てはまる候補者は多くの会社が同時に探しています。**IT業界の経験は、入社後に身につけられる部分と、前職から持ってきてほしい部分に分けられます。** この線を引くと、人材紹介や不動産、広告、メーカーなど他業界で法人営業をしてきた人まで対象を広げられます。この記事では、GreenでSaaSの営業を採るときの要件の決め方と、IT業界未経験の人に届く書き方を整理します。Greenは、株式会社アトラエが運営する中途採用の求人サイトです。IT・Web業界の求人が中心で、SaaS企業の営業職も掲載できます。

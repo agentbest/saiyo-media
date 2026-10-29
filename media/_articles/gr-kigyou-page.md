@@ -7,9 +7,12 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "企業ページ", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-kigyou-page"
 related: ["gr-casual-mendan", "gr-genba-kyouryoku", "gr-kyujin-fukusuu", "gr-kyujin-hyou"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
 ---
 
 求人票を読んで興味を持った候補者は、次に「この会社はどんなところか」を確かめに来ます。Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）でも、求人とあわせて会社のことを紹介する写真や文章を載せられます。**エンジニアの候補者がそこで確かめたいのは、会社の立派さではなく、自分が毎日働く開発の現場の様子です。** この記事では、会社紹介の写真と文章で開発の現場を伝える作り方を整理します。載せられる項目や写真の枚数、表示の形式は媒体の仕様によるため、作成前に管理画面と媒体の案内で確認してください。

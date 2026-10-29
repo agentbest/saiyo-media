@@ -7,9 +7,12 @@ target: "課題別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "年収", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-nenshu-awanai"
 related: ["gr-kijun-aimai", "gr-mikeiken", "gr-oubo-konai", "gr-umoreru"]
+sources:
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenで良さそうな候補者に会えても、希望年収を聞くと自社の予算を上回っている。IT・Web系の職種を中途で採る会社では、よくある悩みです。**年収が合わないときは、まず「どこでずれているのか」を確かめ、次に「年収以外で埋められるものがあるか」を考え、それでも埋まらないときに予算や求める経験のほうを見直す、という順番で考えると判断がぶれにくくなります。** 最初から提示額を上げることだけを考えると、社内の給与の釣り合いが崩れることもあります。この記事では、Greenでの中途採用を前提に、この順番で整理します。

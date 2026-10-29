@@ -7,12 +7,16 @@ target: "課題別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "選考辞退", "書類選考"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-shorui-go-jitai"
 related: ["gr-cost-takai", "gr-henshin-hikui", "gr-keiken-konai", "gr-kijun-aimai"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenで応募が来て、書類を見て、ぜひ会いたいと思って通過の連絡をした。ところが、面接の日程を決める前に辞退の連絡が来る、あるいは返事がないまま連絡が途絶える。書類通過の後の辞退は、会社にとって手応えを感じた候補者を失うことなので、落胆が大きいものです。**結論を先に言うと、書類通過後の辞退は、候補者の気まぐれではなく、多くは「待ち時間」「通過連絡の中身」「面接の重さ」「応募時の動機」のどこかに原因があります。この順番で確かめると、社内の段取りを変えるだけで減らせる部分が見つかります。** Greenは、IT・Web業界の職種を中心に中途採用の求人を載せている、株式会社アトラエ運営のサイトです。料金や仕様の細部には触れず、書類通過後の辞退の切り分けと打ち手を整理します。

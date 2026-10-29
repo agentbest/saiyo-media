@@ -7,12 +7,16 @@ target: "規模・フェーズ別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "兼任人事", "採用運用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-30nin"
 related: ["gr-100nin", "gr-jinji-hitori", "gr-10nin", "gr-300nin"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 社員が30名前後になると、採用は代表だけの仕事ではなくなり、管理部門の誰かが人事を兼ねるようになります。総務と経理を担いながら採用も見る、という形の会社は珍しくありません。Greenの運用も、その兼任の担当者が回すことになります。**結論を先に言うと、30名規模の会社がGreenを兼任の人事で回すには、「人事が持つ作業」と「現場が持つ判断」を最初に分け、人事の作業を週の決まった枠に収める形にしておくことが、運用を止めないための条件になります。** 株式会社アトラエが運営するGreenは、IT・Web業界を中心とした中途採用の求人サイトです。料金や仕様の細部には触れず、兼任の人事で回す形を整理します。

@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "求人タイトル", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-kyujin-title"
 related: ["gr-casual-mendan", "gr-genba-kyouryoku", "gr-kigyou-page", "gr-kyujin-fukusuu"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 求人票の中身を丁寧に書いても、一覧で開かれなければ読まれません。Greenのような求人サイトでは、候補者は検索結果や一覧に並んだ求人のタイトルを流し読みし、気になったものだけを開きます。**タイトルの役割は、会社を説明することではなく「自分に関係がありそうだ」と思わせて開いてもらうことです。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）で、一覧の中から開かれる一行を作る考え方と手順を整理します。表示される文字数や並び方は媒体の仕様で変わることがあるため、ここでは数字ではなく組み立て方に絞ります。

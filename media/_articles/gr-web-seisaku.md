@@ -7,9 +7,14 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "Web制作", "キャリア"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-web-seisaku"
 related: ["gr-adtech", "gr-ai", "gr-consulting", "gr-dx"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Web制作会社で働きたい候補者は、二つのことを見比べて求人を選びます。一つは、**どんな制作物に関われるか**。コーポレートサイトか、採用サイトか、ECサイトか、サービスの画面か。もう一つは、**この会社でどう成長できるか**です。デザイナーやコーダーとして腕を磨くのか、ディレクターに進むのか、事業会社に移る前の経験を積むのか。この二つを具体的に書けるかどうかで、同じWeb制作会社の中でも応募の集まり方が変わります。この記事では、Web制作会社がGreenを活用するときに、制作の幅とキャリアの道筋をどう伝え、運用をどう設計するかを整理します。Greenは株式会社アトラエが運営する中途採用の求人サイトで、Web制作を含むIT・Web業界の職種が中心です。

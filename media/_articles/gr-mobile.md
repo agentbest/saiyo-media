@@ -1,15 +1,20 @@
 ---
 title: "Greenでモバイルアプリエンジニアを採る｜iOS・Androidの書き分け"
-description: "Greenでモバイルアプリエンジニアを中途採用するとき、iOSとAndroidの求人をどう書き分けるか。分けるか一つにするかの判断、各OSの候補者が見ている点、クロスプラットフォームの扱い、スカウトと検索の考え方、選考へのつなぎ方を整理します。"
+description: "Greenでモバイルアプリエンジニアを中途採用するとき、iOSとAndroidの求人をどう書き分けるか。分けるかの判断、各OSの候補者が見ている点、クロスプラットフォームの扱い、スカウトと選考へのつなぎ方を整理します。"
 pillar: "green"
 series: "職種別"
 target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "モバイルアプリエンジニア", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-mobile"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 モバイルアプリエンジニアの採用では、最初に「iOSとAndroidを分けて募集するか、まとめて募集するか」という判断があります。まとめて「モバイルエンジニア」として出すと、iOSの経験者もAndroidの経験者も「自分のOSの仕事はどのくらいあるのか」が分からず、応募をためらいます。**モバイルの求人では、OSごとの仕事の中身と、チームの中での立ち位置を書き分けることが、候補者に判断材料を渡す近道です。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）でモバイルアプリエンジニアを採るときの、iOS・Androidの書き分けを整理します。

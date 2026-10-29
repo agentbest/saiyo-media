@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "プロジェクトマネージャー", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-pm"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 プロジェクトマネージャーの求人で、「PM経験〇年以上」「チームマネジメント経験」と書いただけでは、候補者は自分に合う求人かどうかを判断できません。**同じプロジェクトマネージャーでも、受託開発と自社開発では、相手にする人も、守るべきものも違う**からです。受託では顧客との約束を守ることが中心になり、自社開発では社内の優先順位を調整することが中心になります。この記事では、Greenでプロジェクトマネージャーを採るときに、この違いを踏まえて要件をどう書き分けるかを整理します。Greenは、株式会社アトラエが手がける中途採用の求人サイトで、IT・Web業界の職種を中心に扱っています。

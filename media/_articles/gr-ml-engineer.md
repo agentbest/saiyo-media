@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "機械学習エンジニア", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-ml-engineer"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 機械学習エンジニアの求人で応募が集まらない、または集まっても面接で話がかみ合わない。その原因の多くは、**求人票が「研究寄り」と「実装寄り」のどちらの仕事なのかを決めていない**ことにあります。新しいモデルを考えて精度を上げる仕事と、モデルを本番環境に載せて安定して動かし続ける仕事は、求められる経験が大きく違います。この記事では、Greenで機械学習エンジニアを採るときに、この線をどう引き、求人票とスカウトにどう書くかを整理します。この記事で扱うGreenは、株式会社アトラエが運営し、IT・Web業界の中途採用を中心に扱う求人サイトです。

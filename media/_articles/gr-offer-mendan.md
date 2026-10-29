@@ -7,9 +7,12 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "オファー面談", "内定"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-offer-mendan"
 related: ["gr-casual-mendan", "gr-genba-kyouryoku", "gr-jitai-boushi", "gr-kigyou-page"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
 ---
 
 最終面接を通過し、内定を出す段階になると、多くの会社は条件をまとめた書面を送り、返事を待ちます。けれど、中途の候補者にとって内定は「選ばれた」というより「選ぶ番が来た」瞬間です。在職中の会社や他社の内定と比べ、どこに行くかを決める段階に入ります。**オファー面談は、条件を伝える場であると同時に、候補者が決めるための材料をそろえる場です。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）経由の内定者とのオファー面談で、条件提示の前後に何を話すかを整理します。

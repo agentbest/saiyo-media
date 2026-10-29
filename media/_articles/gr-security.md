@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "セキュリティエンジニア", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-security"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 セキュリティエンジニアの求人は、「セキュリティ全般をお任せします」と書かれていることが少なくありません。しかし経験のある候補者にとって、この一文は**守る範囲も、決める権限も分からない**ことを意味します。セキュリティの仕事は、何を守るのかによって必要な経験がまったく違い、さらに、対策を決めても実行させる権限がなければ成果が出ません。この記事では、Greenで中途のセキュリティエンジニアを採るときに、守る範囲と権限をどう求人票に書き、スカウトと選考にどうつなげるかを整理します。Greenは株式会社アトラエの運営する中途採用の求人サイトで、IT・Web業界の求人が多く集まります。

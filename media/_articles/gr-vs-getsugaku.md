@@ -7,12 +7,14 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "運用代行", "費用比較"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-vs-getsugaku"
 related: ["gr-daikou-donyuu", "gr-daikou-erabikata", "gr-daikou-hanni", "gr-daikou-hikitsugi"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenの運用代行を探すと、成功報酬で引き受ける会社と、毎月決まった費用で引き受ける会社があります。どちらが得かは、採用したい人数や期間によって変わります。**成功報酬型は「採れた分だけ払う」形で、採用の見込みが立つ前の負担を抑えられます。月額型は「運用の時間を買う」形で、多くの人数を継続して採る場合に費用の見通しを立てやすくなります。** この記事では、両者の違いを、費用の発生のしかた、代行側の動き方、向いている条件の順に整理します。当社は成功報酬型でGreen運用代行をお受けしていますが、月額型が合う場合についても書きます。

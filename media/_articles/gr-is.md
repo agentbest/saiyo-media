@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "インサイドセールス", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-is"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 インサイドセールスの求人には、「見込み客へのアプローチ」「商談の創出」という言葉がよく使われます。ところが、経験者が求人票で本当に知りたいのは、その先です。**どの状態になったら「商談」と数えるのか、そして自分は何の数字で評価されるのか。** この二つが曖昧な会社では、フィールドセールスとの間で「この商談は質が低い」という言い合いが起きやすく、インサイドセールスの担当者が板挟みになります。この記事では、Greenでインサイドセールスを採るときに、商談化の役割と評価をどう伝えるかを整理します。Greenは、株式会社アトラエが運営する、IT・Web業界に強い中途採用の求人サイトです。

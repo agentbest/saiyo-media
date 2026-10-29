@@ -7,9 +7,12 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "選考フロー", "面接"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-senkou-flow"
 related: ["gr-casual-mendan", "gr-genba-kyouryoku", "gr-jitai-boushi", "gr-kigyou-page"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
 ---
 
 選考フローを決めるとき、「念のためもう一回」と面接を足していくと、気づけば4回、5回と増えていきます。一方で、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）で出会う候補者の多くは在職中で、面接のたびに予定を空ける必要があります。**選考フローは、確かめたいことの数から逆算して、回数と期間を決めるものです。** この記事では、Green経由の中途採用で、面接の回数と期間をどう決めるかを整理します。

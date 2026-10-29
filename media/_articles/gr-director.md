@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "Webディレクター", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-director"
 related: ["gr-cs", "gr-data-scientist", "gr-fullstack", "gr-game"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Webディレクターほど、会社によって仕事の中身が違う職種は多くありません。ある会社では、ワイヤーフレームを描き、原稿を書き、簡単なコーディングまでこなす「手を動かす人」です。別の会社では、顧客との窓口となり、デザイナーやエンジニアの予定を組み、品質を確認する「人を動かす人」です。**求人票にこの比重が書かれていないと、候補者は自分の経験が通用するかどうかを判断できません。** この記事では、GreenでWebディレクターを採るときに、制作と進行の比重をどう書き、声のかけ方や選考にどうつなげるかを整理します。掲載先のGreenは、株式会社アトラエが運営する中途採用向けの求人サイトで、IT・Web業界が中心です。

@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "バックエンドエンジニア", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-backend"
 related: ["gr-backoffice", "gr-corporate-it", "gr-cs", "gr-data-engineer"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 バックエンドエンジニアは、IT・Web業界の中途採用で求人が多い職種の一つです。そのぶん、候補者のもとには似た求人やスカウトが並びます。「Go/Ruby/PHPでの開発経験」「API設計の経験」と書いた求人は、どの会社にも書けるため差になりません。**バックエンドの候補者が求人票とスカウトで確かめたいのは、言語名ではなく「どんな負荷と複雑さのシステムに、どこまで責任を持つのか」です。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）でバックエンドエンジニアを採るときの、求人票とスカウトの要点を整理します。

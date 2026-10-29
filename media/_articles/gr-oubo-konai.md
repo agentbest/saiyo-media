@@ -7,12 +7,16 @@ target: "課題別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "応募数", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-oubo-konai"
 related: ["gr-kijun-aimai", "gr-mikeiken", "gr-nenshu-awanai", "gr-umoreru"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenに求人を出して数週間、応募がほとんど来ない。こうなると、求人票の文章を書き直す、給与の幅を上げる、写真を差し替える、スカウトを増やす、と思いつく打ち手を一度に試したくなります。ところが、同時にいくつも変えると、何が効いたのか、何が効かなかったのかが分からなくなり、次に同じ状況になったときに打つ手がありません。**結論から言うと、応募が来ないときは「露出」「求人票」「条件」の三つを、この順番で一つずつ切り分けて見直すのが近道です。原因の場所が分かれば、打ち手は一つか二つに絞れます。** IT・Web業界の中途採用を中心に扱うGreenは、株式会社アトラエが運営する求人サイトです。この記事では媒体の料金や仕様には触れず、見直しの順番と考え方を整理します。

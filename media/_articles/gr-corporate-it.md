@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "社内SE", "情報システム"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-corporate-it"
 related: ["gr-backend", "gr-backoffice", "gr-cs", "gr-data-engineer"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 社内SEや情報システム担当の求人は、SIerやIT企業の開発職とは別の理由で候補者が集まります。**受託の現場から事業会社に移りたい人が、「社内の利用者と近い距離で、仕組みを良くしていきたい」と考えて探している**ことが多いからです。ところが求人票が「PC・アカウント管理、ネットワーク保守、ヘルプデスク対応」と作業の羅列になっていると、その期待に応えられるかどうかが伝わりません。この記事では、Greenで社内SE・情報システム担当を採るときに、事業会社ならではの魅力と実情をどう書くかを整理します。求人を載せる先のGreenは、株式会社アトラエが運営する、IT・Web業界中心の中途採用の求人サイトです。

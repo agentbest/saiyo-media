@@ -7,9 +7,14 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "EC", "D2C"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-ec"
 related: ["gr-adtech", "gr-ai", "gr-consulting", "gr-dx"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 EC・D2C企業がエンジニアを採ろうとすると、IT企業の求人と比べられます。技術の新しさや、エンジニアの人数、開発の文化では、エンジニアを中心に組織を作ってきたIT企業に見劣りすると感じる会社もあるかもしれません。けれども、**事業会社のエンジニアには、IT企業とは違う種類の魅力があります**。自分の作った仕組みが、商品の売れ方やお客様の買い物の体験に直接つながること。商品を作る人、売る人と同じ場所で働けること。この記事では、EC・D2C企業がGreenを活用するときに、事業会社のエンジニアの魅力をどう書き、運用をどう設計するかを整理します。Greenは株式会社アトラエが運営する中途採用の求人サイトで、IT・Web業界の求人が中心です。

@@ -7,12 +7,16 @@ target: "規模・フェーズ別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "シリーズA", "スタートアップ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-series-a"
 related: ["gr-seed", "gr-100nin", "gr-10nin", "gr-300nin"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 資金調達を終え、事業計画に沿って人を増やす時期に入る。シリーズA前後のスタートアップでは、これまで年に数人だった採用が、短い期間に複数のポジションで同時に動き始めます。エンジニア、プロダクトマネージャー、デザイナー、営業、カスタマーサクセス。Greenに求人を出すポジションも一気に増えます。**結論を先に言うと、この時期の採用は「求人を増やす」より先に「優先順位と選考基準を揃える」ことに時間を使ったほうが、結果として早く進みます。** Greenは株式会社アトラエが運営する中途採用の求人サイトで、IT・Web系の職種が中心です。料金や仕様の細部には触れず、人数が増える時期の設計を整理します。

@@ -7,9 +7,12 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "求人更新", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-kyujin-koushin"
 related: ["gr-kyujin-fukusuu", "gr-kyujin-hyou", "gr-nenshu-hyouki", "gr-casual-mendan"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
 ---
 
 「求人はこまめに更新したほうがいい」と聞いて、日付を変えるためだけに文言を少し直している会社があります。更新が一覧の表示や検索にどう影響するかは媒体の仕様によるため、ここでは断定しません。ただ、運用の現場で確かに言えるのは、**更新の価値は表示のされ方より、求人の中身を「今」に合わせることにある**ということです。この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）の求人を、どんなきっかけで、どのくらいの頻度で更新すればよいかを整理します。

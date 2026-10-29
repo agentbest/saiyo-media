@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "テックリード", "CTO"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-techlead"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 テックリードやCTO候補の求人では、使っている技術や開発の環境を詳しく書く会社が多い一方で、**経営との距離**について書いている求人票は多くありません。しかし、この立場の候補者が転職先を選ぶときに重視するのは、技術の判断が経営の判断とどうつながっているかです。技術的な提案が事業の計画に反映されるのか、それとも決まった計画を技術で実現するだけなのか。この記事では、Greenでテックリード・CTO候補を採るときに、経営との距離をどう書き、どう選考で確かめるかを整理します。ここで取り上げるGreenは、株式会社アトラエが運営する、IT・Web業界の中途採用を主に扱う求人サイトです。

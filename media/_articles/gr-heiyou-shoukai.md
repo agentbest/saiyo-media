@@ -7,12 +7,16 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "人材紹介", "併用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-heiyou-shoukai"
 related: ["gr-heiyou-scout", "gr-saiyou-tanka", "gr-vs-shoukai", "gr-daikou-donyuu"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 エンジニアの採用を急ぐため、Greenに求人を出しながら、人材紹介も使っている。それ自体はよくある進め方ですが、併用していると、同じ候補者が両方から現れたり、どちらの経路で採れたのかが分からなくなったりします。**Greenと人材紹介を併用するときは、「どちらで、何を採るか」の役割を先に決め、同じ候補者が重なったときの扱いを事前に決めておくことで、費用の二重払いや候補者の混乱を防げます。** この記事では、当社が人材紹介とGreen運用代行の両方を行っている立場から、併用するときの役割の分け方と、重複を防ぐ決めごとを整理します。Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。

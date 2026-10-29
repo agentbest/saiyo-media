@@ -7,12 +7,16 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "運用代行", "成功報酬"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-seikou-houshu"
 related: ["gr-daikou-donyuu", "gr-daikou-erabikata", "gr-daikou-hanni", "gr-daikou-hikitsugi"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenの運用を外に出したいが、毎月の固定費がかかる代行は、採れなかったときのことを考えると踏み切れない。そう考える会社は少なくありません。**エージェントベストのGreen運用代行は、採用した方が入社したときにだけ費用が発生する成功報酬の形です。当社への費用は入社時に1名50万円（税別）で、当社への初期費用と月額の固定費はかかりません。なお、Green自体の利用料金はこの費用に含まれず、Greenとのご契約にもとづいて別にかかります。** この記事では、この仕組みを、費用が発生するタイミング、代行に含まれる作業、Green自体の費用との関係、契約前に確かめておきたい点の順に説明します。Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。

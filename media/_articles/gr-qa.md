@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "QAエンジニア", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-qa"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 QAエンジニアの求人票を開いた候補者が最初に確かめるのは、**その会社で品質保証がどんな役割を任されているか**です。リリース直前にテストケースを消化する係なのか、開発の早い段階から品質のつくり方を決める立場なのか。ここが読み取れない求人票は、経験のある候補者から見送られやすくなります。この記事では、Greenで中途のQAエンジニアを採るときに、品質の役割をどう言葉にし、スカウトと選考にどうつなげるかを整理します。Greenは、IT・Web業界の中途採用を中心とする求人サイトで、株式会社アトラエが運営しています。

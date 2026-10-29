@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "インフラエンジニア", "SRE", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-sre"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 インフラエンジニアやSREの求人票には、「クラウドでの構築経験」「Kubernetesの運用経験」「信頼性の向上」といった言葉が並びます。けれど、候補者がもっとも知りたいことは、たいてい書かれていません。それは、**入社したら、日々の運用のどこまでを担い、どのくらいの負担がかかるのか**です。この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）でインフラエンジニアやSREを採るときに、運用の範囲を正直に書くことの意味と、その書き方を整理します。

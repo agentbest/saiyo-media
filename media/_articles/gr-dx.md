@@ -7,12 +7,16 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "DX", "内製化"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-dx"
 related: ["gr-adtech", "gr-ai", "gr-consulting", "gr-ec"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 メーカー、小売、物流、金融、インフラ。IT企業ではない事業会社が、DX部門を立ち上げてエンジニアやプロダクトマネージャーを中途で採る動きが広がっています。こうした会社の求人票には「内製化を推進」「DXで変革」といった言葉が並びますが、候補者がいちばん知りたいのは、いま実際に誰が何を作っているのかです。**結論から言うと、事業会社のDX部門の求人票は、内製化の進み具合を「まだできていないこと」も含めて正直に書くほうが、入社後に力を発揮できる人と出会いやすくなります。** Greenは、IT・Web業界を中心に中途採用の求人を載せる、株式会社アトラエ運営の求人サイトです。媒体の料金や仕様には触れず、事業会社ならではの書き方を整理します。

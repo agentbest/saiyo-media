@@ -7,12 +7,16 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "運用代行", "導入"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-daikou-donyuu"
 related: ["gr-daikou-erabikata", "gr-daikou-hanni", "gr-daikou-hikitsugi", "gr-daikou-shippai"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenの運用代行を入れると決めたあと、実際に運用が回り始めるまでに何が起きるのか。初めて代行を使う会社にとっては、イメージがつきにくいところです。**運用代行の成否は、最初の2週間でほぼ方向が決まります。この期間に、採用の基準と仕事の中身が代行側に正しく伝わり、社内の連絡の決めごとができていれば、その後の運用は滑らかに進みます。** 逆に、ここを急いで飛ばすと、後から何度も手戻りが起きます。この記事では、当社のGreen運用代行での進め方をもとに、最初の2週間でやることを順に整理します。Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。
@@ -98,7 +102,7 @@ Greenの運用代行を入れると決めたあと、実際に運用が回り始
 | 判断に迷ったとき | 誰に聞けばよいか |
 
 <aside class="cta-inline">
-  <p>当社のGreen運用代行は、初期費用・月額固定費0円。費用は採用した方の入社時に1名50万円（税別）です。</p>
+  <p>当社のGreen運用代行は、初期費用・月額固定費0円。費用は採用した方の入社時に1名50万円（税別）です。Greenの利用料金は別にかかります。</p>
   <a href="/#entry">運用の相談をする</a>
 </aside>
 

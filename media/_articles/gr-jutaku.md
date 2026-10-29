@@ -7,9 +7,14 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "受託開発", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-jutaku"
 related: ["gr-edtech", "gr-fintech", "gr-healthtech", "gr-realestate-tech"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 受託開発会社の強みの一つは、さまざまな業界や技術の案件に関われることです。けれども、求人票で「多様な案件に携われます」と書くだけでは、候補者には**入社後に何をするのか分からない**と受け取られることがあります。案件の多様さを、具体的な経験の積み方として見せられるかどうかが、受託開発会社の採用を左右します。この記事では、受託開発会社がGreenを活用するときに、案件の多様さをどう見せ、運用をどう設計するかを整理します。Greenは株式会社アトラエが運営する中途採用の求人サイトで、受託開発を含むIT・Web業界の求人が中心です。

@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "フロントエンドエンジニア", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-frontend"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 フロントエンドエンジニアの求人票を並べると、「React/TypeScriptでの開発経験」という一行がどの会社にも書かれています。技術スタックが似通っている職種なので、技術名だけでは会社ごとの違いが伝わりません。**フロントエンドの候補者が求人で見極めようとしているのは、使う技術より、その技術を使って「どこまで決められる立場か」と「誰とどう作るか」です。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）でフロントエンドエンジニアを採るときに、技術と開発体制をどう見せるかを整理します。

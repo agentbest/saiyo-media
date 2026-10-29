@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "経理", "労務"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-backoffice"
 related: ["gr-backend", "gr-corporate-it", "gr-cs", "gr-data-engineer"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 IT企業、とりわけ成長の途中にある会社の経理・労務の求人は、大手の管理部門の求人とは違う理由で候補者を集めます。**決まった手順を正確に回す仕事より、手順そのものを作る仕事に関われること**が、成長企業の管理部門の大きな魅力です。一方で、仕組みが追いつかず、一人が抱える仕事の幅が広くなりやすいのも事実です。この記事では、GreenでIT企業の経理・労務を採るときに、成長企業の管理部門の魅力と実情をどう伝えるかを整理します。前提として、Greenは株式会社アトラエが運営する中途採用の求人サイトで、IT・Web業界の求人が中心です。

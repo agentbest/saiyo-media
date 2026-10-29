@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "フルスタックエンジニア", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-fullstack"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-game"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 「フロントエンドもバックエンドもインフラも、幅広く担っていただきます」。フルスタックエンジニアの求人票でよく見る一文です。会社としては、少ない人数で開発を回すために、一人に幅広く任せたいという事情があります。けれども、経験のある候補者はこの一文を読むと、**どれも中途半端にしか関われない「何でも屋」の仕事ではないか**と警戒します。この記事では、Greenでフルスタックエンジニアを採るときに、何でも屋に見せない要件の書き方と、声のかけ方、選考の進め方を整理します。Greenは、株式会社アトラエが運営する、エンジニアやWeb系の職種を多く扱う中途採用の求人サイトです。

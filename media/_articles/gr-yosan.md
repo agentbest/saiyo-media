@@ -7,12 +7,14 @@ target: "費用・代行"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "採用予算", "採用計画"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-yosan"
 related: ["gr-daikou-donyuu", "gr-daikou-erabikata", "gr-daikou-hanni", "gr-daikou-hikitsugi"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
 ---
 
 来期にエンジニアを数名採りたい。予算をいくら取ればよいか、どう説明すればよいか。中途採用の予算は、前年の実績に少し足して決めることが多いのですが、採りたい職種や人数が変われば、それでは足りなくなることがあります。**IT職の予算は、採用計画から逆算し、職種ごとに主にする手段を決め、手段ごとの費用を積み上げて組み立てるのが基本です。そのうえで、見込みが外れたときの備えを持っておきます。** この記事では、IT・Web業界を中心とした中途採用の求人サイトであるGreenを軸に、予算の組み立て方を整理します。Greenは株式会社アトラエが運営しています。

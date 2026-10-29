@@ -7,12 +7,16 @@ target: "課題別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "採用コスト", "人材紹介"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-cost-takai"
 related: ["gr-henshin-hikui", "gr-keiken-konai", "gr-kijun-aimai", "gr-kyougou"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 エンジニアやPMなど、IT職の中途採用は費用がかさみやすい領域です。人材紹介を中心に採ってきた会社が、費用の高さに悩んでGreenのような求人サイトを検討する。あるいは、求人サイトに出しているのに採れず、結局紹介も使っていて費用が二重になっている。**採用コストが高いと感じたときは、まず「何に、いくら、どのくらいの時間を使っているか」を職種ごとに分け、次に職種や緊急度に応じて媒体と紹介を使い分ける、という順番で見直すのが現実的です。** この記事では、Greenと人材紹介の両方を前提に、その見直し方を整理します。当社は人材紹介も行いながら、Green運用代行もお受けしている立場から書いています。

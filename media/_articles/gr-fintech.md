@@ -7,12 +7,16 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "フィンテック", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-fintech"
 related: ["gr-edtech", "gr-healthtech", "gr-jutaku", "gr-realestate-tech"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 決済、送金、資産運用、会計、融資。フィンテック企業のエンジニア採用で求人票を書くと、多くの会社が同じところで手が止まります。「規制が厳しい」と正直に書くと開発の遅い会社に見え、「スピード感がある」と書くと金融の仕事として軽く見える、という板挟みです。**結論を先に言うと、規制とスピードは対立させて書くより、「どこは慎重に、どこは速く回しているか」を線引きして書くほうが、条件の合う候補者に届きやすくなります。** Greenは株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトです。この記事ではGreenの料金や細かな仕様には触れず、フィンテック企業ならではの見せ方と運用の組み立てを整理します。

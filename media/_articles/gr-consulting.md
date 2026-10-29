@@ -7,12 +7,16 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "ITコンサル", "SIer"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-consulting"
 related: ["gr-adtech", "gr-ai", "gr-dx", "gr-ec"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 ITコンサルティング会社やSIerがGreenで求人を出すと、同じ検索結果の中に、Web系の自社サービスの会社の求人が並びます。候補者は、自社サービスで手を動かす仕事と、顧客の課題に向き合う受託や支援の仕事を比べながら、どちらに応募するかを考えます。そこで受託の会社が「上流工程に携われます」と書いても、具体的に何をするのかが伝わらなければ、比べる材料になりません。**結論を先に言うと、ITコンサル・SIerの求人票は、「上流工程」という言葉を、顧客と何を決める仕事かという具体に置き換えて書くと、自社サービスの求人と並んでも選ばれる理由が生まれます。** Greenは株式会社アトラエが運営しており、IT・Web系の中途採用を主に扱う求人サイトです。料金や仕様の細部には触れず、見せ方と運用を中心に書きます。
@@ -114,4 +118,4 @@ ITコンサルやSIerの候補者が、Web系の自社サービスの会社と�
 
 ### Greenの運用を外に出す場合、費用はどうなりますか
 
-当社のGreen運用代行は成功報酬制で、採用した方の入社時に1名50万円（税別）です。初期費用と月額固定費はありません。合否の判断は企業側で行っていただきます。媒体の選び方を広く知りたい場合は[ITコンサルタントの採用媒体の選び方](/media/hikaku-it-consul-erabikata/)と[SIer業界の採用媒体の選び方](/media/hikaku-sier-erabikata/)も参考になります。
+当社のGreen運用代行は成功報酬制で、採用した方の入社時に1名50万円（税別）です。Greenの利用料金は、この費用とは別にかかります。初期費用と月額固定費はありません。合否の判断は企業側で行っていただきます。媒体の選び方を広く知りたい場合は[ITコンサルタントの採用媒体の選び方](/media/hikaku-it-consul-erabikata/)と[SIer業界の採用媒体の選び方](/media/hikaku-sier-erabikata/)も参考になります。

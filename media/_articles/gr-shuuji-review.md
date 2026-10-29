@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "週次レビュー", "KPI"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-shuuji-review"
 related: ["gr-kpi", "gr-casual-mendan", "gr-genba-kyouryoku", "gr-jitai-boushi"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenの運用を始めて数週間たつと、「応募が少ない」「スカウトの返信が来ない」といった感想が出てきます。けれど、感想のまま打ち手を考えると、毎週違うところを直すことになり、何が効いたのか分からなくなります。**週次の見直しで大事なのは、毎週同じ数を見ることと、直す順番を決めておくことです。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）の運用を、毎週30分で見直すための数の選び方と手順を整理します。管理画面で確認できる項目は媒体の仕様によるため、ここでは社内で記録する数を中心にまとめます。

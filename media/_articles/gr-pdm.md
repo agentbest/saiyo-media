@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "プロダクトマネージャー", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-pdm"
 related: ["gr-cs", "gr-data-scientist", "gr-director", "gr-fullstack"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 プロダクトマネージャーの求人票には、「裁量の大きい環境」「プロダクトの成長をリードしていただきます」という言葉がよく並びます。けれども、経験のある候補者はこの言葉を額面どおりには受け取りません。**前職で「裁量がある」と言われて入ったのに、実際には経営の決めたことを形にするだけだった**という経験を持つ人が少なくないからです。この記事では、Greenでプロダクトマネージャーを採るときに、裁量の範囲を具体的な言葉で書く方法と、スカウト・選考へのつなげ方を整理します。Greenとは、株式会社アトラエが運営する、IT・Web業界を軸にした中途採用の求人サイトです。

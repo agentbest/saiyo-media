@@ -7,12 +7,16 @@ target: "課題別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "スカウト", "返信率"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-henshin-hikui"
 related: ["gr-keiken-konai", "gr-kyougou", "gr-cost-takai", "gr-kijun-aimai"]
 sources:
   - name: "Green運用代行の料金（株式会社エージェントベスト）"
     url: "https://green.agent-best.net/#price"
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenでスカウトを送り続けているのに、返信がほとんど来ない。そういうとき、多くの会社は送る数を増やして返信の数を確保しようとします。たしかに数を増やせば返信の数も多少は増えますが、送る作業の時間も増え、返信の割合が低いという問題そのものは残ります。**結論から言うと、返信が少ないときに疑うのは「送る相手」「文面」「返信の求め方」の三つで、この順番に切り分けると、数を増やさずに改善の手がかりが見つかります。** Greenは、株式会社アトラエが運営するIT・Web業界中心の中途採用の求人サイトです。この記事では料金や仕様の細部には触れず、返信が少ない原因の切り分けと打ち手を整理します。

@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "求人票", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-kyujin-fukusuu"
 related: ["gr-kyujin-hyou", "gr-casual-mendan", "gr-genba-kyouryoku", "gr-kigyou-page"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 エンジニアを数名採りたいとき、「エンジニア（複数名）」として一つの求人にまとめるか、職種や役割ごとに分けるかで迷う会社は多いです。まとめれば管理は楽ですが、候補者から見ると何の仕事か分かりにくくなります。分ければ分かりやすくなりますが、管理の手間が増えます。**求人の分け方の基準は、候補者が一覧を見たときに「自分向けはこれだ」と選べるかどうかです。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）で求人を複数出すときの、職種と役割の切り方を整理します。出せる求人の数や管理の仕方は契約や仕様によるため、媒体の案内で確認してください。

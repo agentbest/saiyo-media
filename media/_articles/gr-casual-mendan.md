@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "カジュアル面談", "IT業界"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-casual-mendan"
 related: ["gr-genba-kyouryoku", "gr-kigyou-page", "gr-kyujin-fukusuu", "gr-kyujin-hyou"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 Greenで「気になる」が重なったり、スカウトに返信が来たりしたとき、次の一歩として多くの会社がカジュアル面談を設けます。ところが、名前はカジュアルでも、中身は面接と変わらない、という面談が少なくありません。**カジュアル面談は、候補者が会社を確かめる場であって、会社が候補者を評価する場ではありません。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）で生まれた接点を、選考と分けた面談でどう生かすかを、目的・流れ・話す人・選考へのつなぎ方の順で整理します。

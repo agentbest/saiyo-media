@@ -7,9 +7,14 @@ target: "業界別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "SES", "求人票"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-ses"
 related: ["gr-edtech", "gr-fintech", "gr-healthtech", "gr-jutaku"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 SES企業の求人を読む候補者は、仕事の中身と同じくらい、**働き方と案件の決まり方**を気にしています。どこの現場で、どんな案件に、どう決まって関わるのか。自分の希望はどこまで通るのか。案件の合間はどう過ごすのか。これらが曖昧な求人票は、SESの働き方を知っている候補者ほど警戒します。逆に、ここを正直に具体的に書くSES企業は、同じ業界の中で信頼を得やすくなります。この記事では、SES企業がGreenを活用するときに、働き方と案件の選び方をどう書き、運用をどう設計するかを整理します。Greenは、株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイトで、SES企業の求人も掲載されています。

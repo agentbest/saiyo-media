@@ -7,9 +7,14 @@ target: "職種別"
 reader: "company"
 tags: ["Green", "中途採用", "IT業界", "UI/UXデザイナー", "ポートフォリオ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-designer"
 related: ["gr-backend", "gr-backoffice", "gr-corporate-it", "gr-cs"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 UI/UXデザイナーの採用で、応募が来てから困ることの一つが、ポートフォリオの評価です。人事が見ても良し悪しが分からず、現場のデザイナーに回すと人によって評価が分かれ、判断に時間がかかります。その間に候補者は他社の選考に進みます。**ポートフォリオで何を見るかを、求人票を書く前に決めておく**と、この問題の大半は避けられます。見る観点が決まれば、求人票の要件もおのずと具体的になるからです。この記事では、GreenでUI/UXデザイナーを採るときの、観点の決め方から選考までの流れを整理します。Greenは株式会社アトラエが運営しており、IT・Web業界を中心に中途採用の求人が掲載されるサイトです。

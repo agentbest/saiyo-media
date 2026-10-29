@@ -7,9 +7,14 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Green", "中途採用", "書類選考", "選考設計"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "gr-shorui-sokudo"
 related: ["gr-mensetsu-chousei", "gr-casual-mendan", "gr-genba-kyouryoku", "gr-jitai-boushi"]
+sources:
+  - name: "Green（IT/Web業界の転職サイト／株式会社アトラエ）"
+    url: "https://www.green-japan.com/"
+  - name: "Green 企業向けヘルプ「「気になる」と「スカウト」の違い」"
+    url: "https://support.green-japan.com/hc/ja/articles/360000082153"
 ---
 
 「応募は来ているのに、書類選考で止まっている」。Greenの運用で、もっとも多く聞く悩みの一つです。人事は応募に気づいていても、現場の面接官が判断してくれない。催促すると「この人、どうなんだろう」と迷っている。**書類選考が遅い原因は、多くの場合、忙しさではなく判断基準が決まっていないことにあります。** この記事では、Green（株式会社アトラエが運営する、IT・Web業界を中心とした中途採用の求人サイト）経由の応募について、書類選考の判断基準を先に決めて速くする手順を整理します。
