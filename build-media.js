@@ -654,7 +654,7 @@ function topHtml(all, byPillar, page1, pages) {
 
   return head({
     title: '求人媒体の使いこなしと選び方の記事｜求人広告代理店エージェントベスト',
-    desc: 'OfferBox・Wantedly・ワンキャリアの運用ノウハウと、業界・職種・規模ごとの求人媒体の選び方。求人広告代理店が、採用担当者の実務の判断に使える形で1,000本の記事にまとめています。',
+    desc: 'OfferBox・Wantedly・ワンキャリア・Green・Infraの運用ノウハウと、業界・職種・規模ごとの求人媒体の選び方。求人広告代理店が、採用担当者の実務の判断に使える形で1,000本以上の記事にまとめています。',
     url: '/media/', navCta: entryHref('media-top'), image: topImg(),
   })
     + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事' }])
@@ -662,7 +662,7 @@ function topHtml(all, byPillar, page1, pages) {
   <div class="wrap">
     <section class="mhero">
       <h1>採用メディア</h1>
-      <p class="mhero__lead">求人媒体の選び方と、申し込んだあとの運用を<strong>${all.length.toLocaleString()}本</strong>の記事で解説しています。OfferBox・Wantedly・ワンキャリアの使いこなしから、業界・職種・規模ごとの媒体の選び方（媒体比較${byPillar.hikaku.length}本）まで。新卒・中途・インターンの求人媒体を扱う求人広告代理店の立場で、採用担当者が実務で判断に使える形にまとめています。</p>
+      <p class="mhero__lead">求人媒体の選び方と、申し込んだあとの運用を<strong>${all.length.toLocaleString()}本</strong>の記事で解説しています。OfferBox・Wantedly・ワンキャリア・Green・Infraの使いこなしから、業界・職種・規模ごとの媒体の選び方（媒体比較${byPillar.hikaku.length}本）まで。新卒・中途・インターンの求人媒体を扱う求人広告代理店の立場で、採用担当者が実務で判断に使える形にまとめています。</p>
       <nav class="jump" aria-label="記事の探し方">
         <a href="#worry">悩みから探す</a><a href="#industry">業界から探す</a><a href="#job">職種から探す</a><a href="#size">規模から探す</a><a href="#pillar">媒体から探す</a><a href="#tag">タグから探す</a><a href="#latest">新着記事</a>
       </nav>
@@ -1116,7 +1116,7 @@ function main() {
   for (let n = 2; n <= topPages; n++) {
     w(`page-${n}.html`, listPage({
       title: `求人媒体の使いこなしと選び方の記事（${n}ページ目）｜求人広告代理店エージェントベスト`,
-      desc: 'OfferBox・Wantedly・ワンキャリアの運用ノウハウと、規模・業界・職種ごとの媒体の選び方。求人広告代理店が実務の判断に使える形でまとめています。',
+      desc: 'OfferBox・Wantedly・ワンキャリア・Green・Infraの運用ノウハウと、規模・業界・職種ごとの媒体の選び方。求人広告代理店が実務の判断に使える形でまとめています。',
       url: `/media/${n > 1 ? `page-${n}.html` : ''}`,
       h1: '採用媒体の使いこなしと、選び方。',
       lead: 'どの媒体を選ぶか、申し込んだあとどう運用するか。新卒・中途・インターンの求人媒体を扱う求人広告代理店の立場で、実務の判断に使える形にまとめています。',
@@ -1137,7 +1137,7 @@ function main() {
         title: `「${t}」の記事一覧${n > 1 ? `（${n}ページ目）` : ''}｜求人広告代理店エージェントベスト`,
         desc: `「${t}」に関する採用媒体の記事${list.length}本。${list.slice(0, 2).map(a => shortTitle(a.title)).join('、')}など。`,
         url: tagUrl(t) + (n > 1 ? `page-${n}.html` : ''),
-        h1: `「${t}」の記事`, lead: `「${t}」のタグが付いた記事です。OfferBox・Wantedly・ワンキャリア・媒体比較・採用ノウハウをまたいで並べています。`,
+        h1: `「${t}」の記事`, lead: `「${t}」のタグが付いた記事です。媒体ごとの柱・媒体比較・採用ノウハウをまたいで並べています。`,
         nav: `<p class="more" style="margin:0 0 1em"><a href="/media/tag/">← タグ一覧へ</a></p>`,
         crumbs: [{ name: 'ホーム', url: '/' }, { name: '記事', url: '/media/' }, { name: 'タグ', url: '/media/tag/' }, { name: t }],
         items: list.slice((n - 1) * PER_PAGE, n * PER_PAGE), total: list.length, page: n, pages, base: tagUrl(t),
