@@ -153,7 +153,7 @@
   "pill": "タグ",
   "title": "「媒体選び」の記事",
   "chips": [
-   "60本"
+   "61本"
   ]
  },
  {
@@ -306,7 +306,7 @@
   "pill": "タグ",
   "title": "「運用代行」の記事",
   "chips": [
-   "15本"
+   "16本"
   ]
  },
  {
@@ -679,15 +679,6 @@
   ]
  },
  {
-  "name": "tag-74ae6e54ef",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「販売パートナー」の記事",
-  "chips": [
-   "7本"
-  ]
- },
- {
   "name": "tag-a939d6304b",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -827,6 +818,15 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「媒体の組み合わせ」の記事",
+  "chips": [
+   "6本"
+  ]
+ },
+ {
+  "name": "tag-74ae6e54ef",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「販売パートナー」の記事",
   "chips": [
    "6本"
   ]
