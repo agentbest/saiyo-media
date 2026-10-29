@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "求人原稿", "原稿作成", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-genkou"
 related: ["if-gakusei-shiten", "if-shigoto-naiyou", "if-title", "if-1on1"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 Infraは、学生向けの長期インターン求人サイトです。掲載を始めた会社から「原稿を出したのに応募が来ない」という相談を受けると、多くの場合、書いてある内容そのものより**書いてある順番**が学生の読み方とずれています。**結論から言うと、原稿は「学生が応募を決めるまでに確かめる順番」に沿って並べると、同じ情報量でも応募の判断がしやすくなります。** この記事では、その順番と、各段で何を書くかを、社内で原稿を書く担当者向けに整理します。媒体の仕様の細部は変わることがあるため、ここでは原稿の中身の組み立て方に絞ります。

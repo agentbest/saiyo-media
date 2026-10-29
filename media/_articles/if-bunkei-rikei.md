@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "文系", "理系", "求人原稿"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-bunkei-rikei"
 related: ["if-gakunen", "if-oubo-konai", "if-choukika", "if-gakugyou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの募集を出すとき、「文系向け」「理系向け」と分けるべきかどうか迷う会社は少なくありません。**判断の軸は文系か理系かではなく、仕事に要る前提知識と、学生が使える時間の形です。** 文理で分けることが目的になると、仕事の中身が伝わらない原稿ができてしまいます。この記事では、学生向けの長期インターン求人サイトInfraなどで募集を出す会社に向けて、文系・理系で分けるかどうかの判断と、分ける・分けない場合それぞれの書き方を整理します。

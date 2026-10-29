@@ -7,9 +7,16 @@ target: "業界別"
 reader: "company"
 tags: ["Infra", "長期インターン", "地方企業", "地元採用", "大学生"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-chihou"
 related: ["if-consulting", "if-d2c", "if-fudousan", "if-iryou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 地方の企業が長期インターンを検討するとき、最初にぶつかるのは「そもそも近くに学生がいるのか」という疑問です。**結論から言うと、地方の長期インターンは、学生の数で勝負するのではなく「通える範囲の学生に、地元で働く理由を一つ渡す」設計で考えると動き出します。** 都市部の会社と同じ書き方で募集を出すと、条件の比較で埋もれます。この記事では、Infraのような学生向けの長期インターン求人サイトを使う前提で、地方企業が募集を出す前に決めておくこと、見せ方、運用の組み方を順に整理します。

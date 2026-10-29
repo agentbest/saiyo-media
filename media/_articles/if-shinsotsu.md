@@ -7,9 +7,14 @@ target: "新卒採用への接続"
 reader: "company"
 tags: ["Infra", "長期インターン", "新卒採用", "採用設計", "インターン経由採用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-shinsotsu"
 related: ["if-chokketsu", "if-honsenkou-annai", "if-keikensha", "if-souki-senkou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンを新卒採用につなげたいと考える会社は増えています。ただ、受け入れを始めてから「どうやって本選考につなげるか」を考えると、たいていは後手に回ります。**長期インターンから新卒採用へつなぐには、募集・受け入れ・本選考・内定後の4つの段階を、最初から一本の流れとして設計しておくことが要ります。** 段階ごとに担当者が違う会社ほど、流れが途中で切れやすくなります。この記事では、学生向けの長期インターン求人サイトInfraなどで募集を始める会社に向けて、新卒採用までの設計図を順に整理します。

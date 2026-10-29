@@ -7,9 +7,16 @@ target: "規模・フェーズ別"
 reader: "company"
 tags: ["Infra", "長期インターン", "人事不在", "兼務", "採用代行"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-jinji-fuzai"
 related: ["if-100nin", "if-30nin", "if-5nin", "if-chihou-kyoten"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 専任の人事担当者がいない会社では、長期インターンの採用は「誰かの本業の合間」に進めることになります。**結論として、人事不在の会社の長期インターンは、採用の仕事を「募集」「選考」「手続き」「受け入れ」に分け、それぞれの担当を決めておくことで、兼務でも止まらずに回せます。** 一人の兼務担当者にすべてを預けると、本業が忙しい時期に応募への返信が止まり、学生が離れていきます。この記事では、人事不在の会社で割ける時間と人、最初に決めること、運用の分担を整理します。

@@ -7,9 +7,16 @@ target: "費用・プラン"
 reader: "company"
 tags: ["Infra", "長期インターン", "媒体併用", "採用媒体", "予算配分"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-heiyou"
 related: ["if-dairiten", "if-genkou-daikou", "if-plan-erabikata", "if-saiyou-tanka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの応募を増やしたいとき、学生向けの長期インターン求人サイトInfraに加えて、ほかのインターン媒体にも募集を出すことを考える会社があります。媒体を増やせば応募の入口は広がりますが、原稿の管理、応募への対応、費用の配分も増えます。**併用で成果が出るかどうかは、媒体の数ではなく、それぞれの媒体に違う役割を持たせ、その役割どおりに運用できるかどうかで決まります。** 同じ原稿を複数の媒体に出すだけの併用は、手間ばかりが増えて、どの媒体が効いているのかも分からなくなります。この記事では、Infraとほかのインターン媒体を併用するときの考え方を整理します。他の媒体の仕様や料金には触れません。

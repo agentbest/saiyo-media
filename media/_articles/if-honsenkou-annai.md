@@ -7,9 +7,14 @@ target: "新卒採用への接続"
 reader: "company"
 tags: ["Infra", "長期インターン", "新卒採用", "本選考", "案内"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-honsenkou-annai"
 related: ["if-chokketsu", "if-keikensha", "if-shinsotsu", "if-souki-senkou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生に本選考を案内するとき、多くの担当者が迷うのは「いつ言い出すか」です。早く言えば学生が身構え、遅く言えば他社に決まっている。**案内のタイミングは、カレンダーの時期ではなく、学生一人ひとりの就職活動の進み具合で決めるものです。** そのためには、案内の前に、学生の状況を知る機会をつくっておく必要があります。この記事では、学生向けの長期インターン求人サイトInfraなどで受け入れたインターン生に、本選考をいつ、誰から、どう案内するかを整理します。

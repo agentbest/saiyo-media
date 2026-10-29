@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "仕事内容", "求人原稿", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-shigoto-naiyou"
 related: ["if-gakusei-shiten", "if-genkou", "if-1on1", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの求人で、学生が最も時間をかけて読むのが仕事内容の欄です。ここが「営業サポート全般」「マーケティング業務」で終わっていると、学生は自分が毎日何をするのかを想像できず、応募を見送ります。**結論から言うと、仕事内容は「業務の名前」ではなく「入ってからの時間の経過に沿って、何を任せるか」で書くと伝わります。** この記事では、Infraなどの長期インターン求人サイトに原稿を出す会社に向けて、仕事内容の組み立て方と、現場から材料を集める方法を整理します。

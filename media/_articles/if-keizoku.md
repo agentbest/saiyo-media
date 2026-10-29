@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "定着", "離脱防止", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-keizoku"
 related: ["if-1on1", "if-gakusei-shiten", "if-genkou", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生が数か月で辞めてしまい、また募集からやり直す。この繰り返しに悩む会社は多くあります。続けてもらう工夫というと、待遇を上げる、イベントを開くといった打ち手が思い浮かびますが、それが辞める理由に当たっていなければ効果は薄くなります。**結論から言うと、続けてもらうための打ち手は、辞める理由を「時間」「業務」「人」「目的」の4つに分け、それぞれを入る前と入った後のどこで防げるかを逆算して決めると、手を打つ場所が絞れます。** この記事では、辞める理由の分け方、防ぎ方、兆しの見つけ方、休止の扱いを整理します。

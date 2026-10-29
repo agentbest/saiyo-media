@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "企業紹介", "写真", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-shashin"
 related: ["if-1on1", "if-gakusei-shiten", "if-genkou", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの求人で、仕事内容や勤務条件と並んで学生が気にしているのが「どんな場所で、どんな人と働くのか」です。これを伝えるのが、企業紹介の文章と写真です。**結論から言うと、写真はオフィスの見栄えより「働いている場面」を、企業紹介は会社の沿革より「インターン生が関わる仕事の周り」を優先すると、学生に伝わります。** この記事では、Infraに掲載する会社に向けて、写真の選び方と撮り方、企業紹介の書き方、掲載前に確認しておくことを整理します。掲載できる写真の枚数や形式などの仕様は変わることがあるため、ここでは素材の中身の選び方に絞ります。

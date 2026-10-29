@@ -7,9 +7,16 @@ target: "費用・プラン"
 reader: "company"
 tags: ["Infra", "長期インターン", "採用単価", "採用費用", "KPI"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-saiyou-tanka"
 related: ["if-seika-houshu", "if-yosan", "if-dairiten", "if-genkou-daikou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの採用費用を振り返るとき、「1人採るのにいくらかかったか」という採用単価で考える会社は多いと思います。**ただ、長期インターンの採用単価は、媒体の費用を採用人数で割るだけでは、ほとんど何も分かりません。** 社内の時間がどれだけかかったか、採った学生がどれだけ続いたか、新卒採用につながったか。これらを含めて見ないと、費用が高いのか安いのかを判断できないからです。この記事では、学生向けの長期インターン求人サイトInfraなどで長期インターン生を採る会社に向けて、採用単価の考え方を整理します。具体的な金額の相場には触れません。自社の数字で計算するための枠組みとして読んでください。

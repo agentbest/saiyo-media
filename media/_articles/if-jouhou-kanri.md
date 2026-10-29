@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "情報管理", "受け入れ体制", "新卒採用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-jouhou-kanri"
 related: ["if-choukika", "if-ikusei-jikan", "if-kakemochi", "if-mismatch"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生を受け入れると、最初に現場から上がる質問が「どこまで見せていいのか」です。**結論から言うと、情報管理は「本人を信頼するかどうか」ではなく「業務に要る範囲だけを渡す仕組み」で決めるものです。** 社員と同じアカウントを渡すか、何も触らせないかの二択にすると、事故か停滞のどちらかが起きます。この記事では、学生向けの長期インターン求人サイトInfraなどで長期インターン生を迎える会社に向けて、権限の段階、説明の順番、退任時の片付けまでを整理します。

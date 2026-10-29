@@ -7,9 +7,16 @@ target: "規模・フェーズ別"
 reader: "company"
 tags: ["Infra", "長期インターン", "複数名受け入れ", "チーム設計", "指導役"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-fukusuu"
 related: ["if-100nin", "if-30nin", "if-5nin", "if-chihou-kyoten"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生を一人受け入れて手応えを得た会社が、次に考えるのが「複数名を同時に受け入れる」ことです。**結論として、複数名の受け入れは、一人ずつの受け入れを人数分繰り返すのではなく、インターン生同士が支え合う構造を作ることで、指導役の負担を増やさずに回せます。** 人数分だけ指導の手間が増える設計にすると、指導役が先に疲れます。この記事では、複数名の受け入れで割ける時間と人、最初に決めること、運用の分担を整理します。

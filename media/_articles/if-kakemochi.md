@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "掛け持ち", "受け入れ体制", "面談"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-kakemochi"
 related: ["if-motivation", "if-choukika", "if-ikusei-jikan", "if-jouhou-kanri"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 面談で「ほかの会社でも長期インターンをしています」と言われ、受け入れるかどうか迷う担当者は少なくありません。**掛け持ちそのものを理由に見送る必要はありませんが、時間・情報・優先順位の3点で線を引かずに受け入れると、どこかで問題が表に出ます。** 掛け持ちを認めるかどうかではなく、認めるならどの条件で認めるかを先に決めておくことが大切です。この記事では、学生向けの長期インターン求人サイトInfraなどで掛け持ちの学生が応募してきたときの向き合い方を整理します。

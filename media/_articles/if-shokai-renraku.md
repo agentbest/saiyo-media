@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "応募対応", "初回連絡", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-shokai-renraku"
 related: ["if-1on1", "if-gakusei-shiten", "if-genkou", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの採用で、応募が来たのに面接まで進まない会社は少なくありません。原稿や媒体の問題に見えて、実際には**応募から最初の連絡までの間**で学生が離れていることがよくあります。**結論から言うと、初回連絡は「速さ」と「次に何をすればよいかが一通で分かること」の2つで決まります。** 丁寧な長文より、短くても次の行動が分かる一通のほうが、学生は動きやすくなります。この記事では、Infraで応募を受けた会社が最初の連絡で押さえることを、文面の組み立てと社内の分担まで含めて整理します。媒体のメッセージ機能の細かい仕様は変わることがあるため、どの連絡手段でも使える考え方で書きます。

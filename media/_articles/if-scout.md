@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "スカウト", "スカウト文面", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-scout"
 related: ["if-1on1", "if-gakusei-shiten", "if-genkou", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの採用で、応募を待つだけでは学生が集まりにくいとき、企業側から声をかける方法があります。Infraで学生に企業から連絡する場合も、考え方は同じです（使える機能や範囲はプランや時期で変わることがあるため、細部は申込時に確認してください）。**結論から言うと、学生に読まれるスカウトは「なぜあなたに送ったか」と「入ったら最初に何をするか」の2点が、最初の数行で分かる文面です。** この記事では、誰に送るかの決め方から、文面の型、返信が来た後の流れまでを整理します。

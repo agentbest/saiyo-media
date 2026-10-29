@@ -7,9 +7,16 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "面談", "選考", "志望度"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-shiboudo"
 related: ["if-kakemochi", "if-motivation", "if-bunkei-rikei", "if-choukika"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの面談で、「なぜうちに応募したのか」と聞いて、はっきりした答えが返ってこない学生は珍しくありません。複数の会社に同時に応募し、話を聞いてから決めようとしている学生も多くいます。**長期インターンの段階で、学生の志望度は面談の前には固まっていないのが普通です。見極めるべきなのは「今の志望度」ではなく「続ける力と、自社の仕事への向き合い方」です。** この記事では、学生向けの長期インターン求人サイトInfraなどで応募してきた学生を、志望度という物差しだけで落とさないための見方を整理します。

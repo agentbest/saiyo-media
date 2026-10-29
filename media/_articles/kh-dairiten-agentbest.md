@@ -9,7 +9,7 @@ tags: ["エージェントベスト", "求人広告代理店", "運用代行", "
 pubDate: 2026-09-10
 reviewedAt: 2026-10-29
 slug: "kh-dairiten-agentbest"
-related: ["kh-dairiten-chuuritsu", "kh-dairiten-hikaku", "kh-dairiten-merit", "kh-dairiten-shitsumon"]
+related: ["kh-dairiten-unyou", "kh-dairiten-campaign", "kh-dairiten-chuuritsu", "kh-dairiten-fukusuu-baitai"]
 sources:
   - name: "求人広告代理店のご案内（株式会社エージェントベスト）"
     url: "https://saiyo-media.agent-best.net/"

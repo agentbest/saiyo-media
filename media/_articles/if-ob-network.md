@@ -7,9 +7,14 @@ target: "新卒採用への接続"
 reader: "company"
 tags: ["Infra", "長期インターン", "卒業生", "アルムナイ", "採用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-ob-network"
 related: ["if-chokketsu", "if-honsenkou-annai", "if-keikensha", "if-referral"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンを続けていると、毎年何人もの学生が卒業し、別の会社に就職していきます。多くの会社では、卒業した時点で関係が途切れます。**しかし、長期インターンの卒業生は、会社の内側を知っている数少ない社外の人です。** 後輩を紹介してくれる、会社の評判を学生に伝えてくれる、数年後に中途の候補者として戻ってくる。こうした関係は、卒業のときに少し手をかけるだけで残せます。この記事では、学生向けの長期インターン求人サイトInfraなどで受け入れた学生が卒業した後、その関係を採用にどう生かすかを整理します。

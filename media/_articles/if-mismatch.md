@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "ミスマッチ", "新卒採用", "入社後"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-mismatch"
 related: ["if-jouhou-kanri", "if-saiyou-tsunagaranai", "if-bunkei-rikei", "if-choukika"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンを経て新卒で入社した社員は、会社のことをよく知っているはずです。それなのに、入社してしばらくたってから「思っていたのと違う」と感じる人がいます。**長期インターン経由の入社では、会社を知らないことではなく、インターンのときの見え方と社員になってからの見え方が違うことが、ミスマッチの原因になりやすい傾向があります。** インターンで見ていたのは会社の一部で、その一部を全体だと思って入社してしまう。この記事では、学生向けの長期インターン求人サイトInfraなどで受け入れた学生を新卒で迎える会社に向けて、ミスマッチの種類と減らし方を整理します。

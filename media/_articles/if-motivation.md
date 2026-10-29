@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "定着", "面談", "受け入れ体制"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-motivation"
 related: ["if-choukika", "if-kakemochi", "if-ikusei-jikan", "if-jouhou-kanri"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生の様子が変わったと感じたとき、受け入れ担当がまずやりがちなのは「最近どう？」と声をかけて終わることです。**やる気が下がったように見える学生の多くは、やる気そのものではなく、時間の使い方か仕事の手応えのどちらかで詰まっています。** 原因が違えば打ち手も違うので、声をかける前に何が起きているかを切り分けることが先です。この記事では、学生向けの長期インターン求人サイトInfraなどで採用したインターン生が失速したときの関わり方を、症状の見方から順に整理します。

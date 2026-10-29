@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "学生目線", "求人原稿", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-gakusei-shiten"
 related: ["if-genkou", "if-shigoto-naiyou", "if-1on1", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの求人を出すとき、多くの会社は「自社の魅力をどう伝えるか」から考えます。ところが、学生が応募先を選ぶ基準は、会社が伝えたい魅力とずれていることがよくあります。**結論から言うと、学生は「会社の魅力」より先に「自分の生活に収まるか」と「入って何が身につくか」を見ています。** この記事では、学生が長期インターンを探し始めてから応募を決めるまでの流れを追い、求人のどこを見ているかを整理します。そのうえで、原稿・面接・受け入れのどこで応えればよいかをまとめます。ここで書く学生の傾向は一般的なもので、学年や専攻、地域によって違いがある点はご了承ください。

@@ -7,9 +7,16 @@ target: "費用・プラン"
 reader: "company"
 tags: ["Infra", "長期インターン", "予算", "採用計画", "採用費用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-yosan"
 related: ["if-saiyou-tanka", "if-seika-houshu", "if-dairiten", "if-genkou-daikou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの採用を始めるとき、予算をどう組めばよいか迷う会社は多いと思います。媒体の料金を調べて、その額を予算に載せて終わり、という組み方をすると、途中で原稿の書き直しや受け入れの準備に費用がかかり、足りなくなることがあります。**長期インターン採用の予算は、媒体の費用から組むのではなく、「何人を、いつ、どの体制で受け入れるか」から逆算して組むものです。** この記事では、学生向けの長期インターン求人サイトInfraなどで長期インターン生を採る会社に向けて、予算を組む順番を整理します。具体的な金額には触れませんので、自社の数字を当てはめながら読んでください。

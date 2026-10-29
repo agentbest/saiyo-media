@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "育成", "受け入れ体制", "業務設計"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-ikusei-jikan"
 related: ["if-choukika", "if-jouhou-kanri", "if-kakemochi", "if-motivation"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンを受け入れたいが、社員はみな自分の業務で手一杯で、学生を育てる時間が取れない。少人数の会社や、事業が伸びている最中の会社ほど、この悩みを抱えています。**育成に時間をかけられないときは、育成の時間を増やす方法を探すより、育成に時間がかからない形に仕事と受け入れ方を組み替えるほうが現実的です。** 時間がないまま受け入れると、学生は放っておかれ、短期で離れていきます。この記事では、学生向けの長期インターン求人サイトInfraなどで受け入れを考える会社に向けて、少ない時間で受け入れを回す方法を整理します。

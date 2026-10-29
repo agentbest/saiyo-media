@@ -7,9 +7,14 @@ target: "新卒採用への接続"
 reader: "company"
 tags: ["Infra", "長期インターン", "リファラル", "紹介", "母集団形成"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-referral"
 related: ["if-chokketsu", "if-honsenkou-annai", "if-keikensha", "if-ob-network"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生が友人を連れてきて、その友人もインターンとして働き始める。そうした流れが自然に生まれている会社があります。インターン生の紹介は、会社の様子を内側から知っている学生が、「この人なら合いそう」と選んで声をかける入口です。**紹介は頼めば増えるものではなく、インターン生が「友人に勧めても恥ずかしくない」と思える受け入れができているかどうかで決まります。** この記事では、学生向けの長期インターン求人サイトInfraなどの募集と並行して、インターン生からの紹介で学生を集める方法を整理します。

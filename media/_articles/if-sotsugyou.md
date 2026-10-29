@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "引き継ぎ", "属人化", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-sotsugyou"
 related: ["if-1on1", "if-gakusei-shiten", "if-genkou", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生は学生である以上、就職活動や大学の卒業、留学などで離れる日がいずれ来ます。長く続けてくれた学生ほど、任されている業務は多く、その学生にしか分からないことが増えています。抜けた途端に業務が止まる、という事態は珍しくありません。**結論から言うと、引き継ぎは卒業が決まってから始めるのではなく、入ったときから「いずれ誰かに渡す」前提で業務を記録し、卒業の時期を早めに把握して、後任と重なる期間を作ることで、属人化を防げます。** この記事では、その段取りを整理します。

@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "新卒採用", "本選考", "インターン経由採用"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-saiyou-tsunagaranai"
 related: ["if-jouhou-kanri", "if-mismatch", "if-bunkei-rikei", "if-choukika"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 「長期インターン生はよく働いてくれるのに、誰も新卒の本選考に来てくれない」。長期インターンを数年続けている会社から、こうした相談を受けることがあります。**長期インターンが新卒採用につながらない会社の多くは、インターン生に「この会社で正社員として働く姿」を一度も見せていません。** 業務の戦力として扱うことと、採用の候補者として向き合うことは、同じ受け入れの中で別々に設計する必要があります。この記事では、学生向けの長期インターン求人サイトInfraなどで受け入れた学生を、新卒採用につなげるために見直す点を順に整理します。

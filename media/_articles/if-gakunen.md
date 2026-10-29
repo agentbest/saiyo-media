@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "学年", "求人原稿", "母集団形成"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-gakunen"
 related: ["if-bunkei-rikei", "if-oubo-konai", "if-choukika", "if-gakugyou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの募集を出していると、「応募が3年生ばかりで、すぐ就職活動で抜けてしまう」「1年生ばかりで、任せられる仕事が少ない」といった声を聞きます。**学年の偏りそのものは悪いことではありません。問題になるのは、偏った学年と、任せたい仕事や受け入れ期間が合っていないときです。** 偏りを直す前に、自社が本当に欲しい学年を決めることが先です。この記事では、学生向けの長期インターン求人サイトInfraなどで募集する会社が、学年の偏りにどう向き合うかを整理します。

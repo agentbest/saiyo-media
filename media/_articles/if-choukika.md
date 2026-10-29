@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "定着", "早期離脱", "受け入れ体制"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-choukika"
 related: ["if-motivation", "if-sugu-yameru", "if-ikusei-jikan", "if-jouhou-kanri"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンとして募集したのに、学生が数週間で来なくなる。数か月で辞めてしまう。こうしたことが続くと、受け入れの手間ばかりが増えて、業務も採用も前に進みません。**長期インターンが短期で終わる会社では、辞める時期がいくつかの山に集まっていることが多く、その山ごとに原因が違います。** 「最近の学生は続かない」とまとめずに、いつ辞めているかを見ることが打ち手の出発点です。この記事では、学生向けの長期インターン求人サイトInfraなどで受け入れた学生が短期で離れてしまうときの見直し方を整理します。

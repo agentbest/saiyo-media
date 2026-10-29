@@ -7,9 +7,16 @@ target: "費用・プラン"
 reader: "company"
 tags: ["Infra", "長期インターン", "代理店", "申し込み", "運用支援"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-dairiten"
 related: ["if-genkou-daikou", "if-heiyou", "if-plan-erabikata", "if-saiyou-tanka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 学生向けの長期インターン求人サイトInfraを使うとき、媒体に直接申し込む方法と、代理店を通して申し込む方法があります。当社はInfraの代理店として、原稿の作成から掲載後の運用まで伴走しています。**代理店経由で申し込む意味は、申し込みの手続きを代わりにすることより、「プランの選び方」「原稿づくり」「運用の見直し」を、他の採用の入口と並べて相談できることにあります。** この記事では、代理店経由で申し込むと何が変わるのか、代理店に頼む前に何を決めておくべきかを整理します。料金や条件の細部は、相談の際に最新の内容を確かめてください。

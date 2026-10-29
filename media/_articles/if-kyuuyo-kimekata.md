@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "給与", "時給設計", "昇給"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-kyuuyo-kimekata"
 related: ["if-bunkei-rikei", "if-choukika", "if-gakugyou", "if-gakunen"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの募集を出すとき、多くの会社が迷うのが給与の決め方です。「他社はいくらにしているのか」「高くすれば応募が増えるのか」と、相場から考え始めることが多いでしょう。**結論として、長期インターンの給与は、相場から決めるのではなく「法令の下限」「任せる仕事」「比べられ方」「上げ方」「社内の釣り合い」の順に考えると、説明のつく金額に落ち着きます。** 相場だけで決めると、任せる仕事と給与がかみ合わず、社内でも学生にも説明しにくくなります。この記事では具体的な金額には触れず、決め方の順番を整理します。

@@ -7,9 +7,16 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "応募数", "求人原稿", "改善"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-oubo-konai"
 related: ["if-bunkei-rikei", "if-gakunen", "if-choukika", "if-gakugyou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 Infraのような学生向けの長期インターン求人サイトに募集を出したのに、応募がほとんど来ない。そうしたとき、多くの会社は原稿の言葉を少し変えるか、しばらく様子を見るかのどちらかを選びがちです。**結論として、応募が来ないときは「見られていない」「読まれて離れている」「条件で外れている」のどれに当たるかを先に切り分け、その順に手を入れると、闇雲に原稿を書き換えるより早く原因に届きます。** 原因が違えば、効く打ち手も違います。この記事では、症状の確認、原因の切り分けの順番、打ち手、外に出すときの範囲を整理します。

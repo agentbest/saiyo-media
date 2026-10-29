@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "給与", "時給", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-kyuuyo-hyouki"
 related: ["if-1on1", "if-gakusei-shiten", "if-genkou", "if-hyouka"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターンの求人で、給与の欄はほとんどの学生が目を通す部分です。それにもかかわらず、「時給◯円〜（経験・能力による）」の一行だけで終わっている求人がよく見られます。**結論から言うと、給与の欄では「最初の時給」「上がる仕組み」「時給以外に支払うもの」の3つを分けて書くと、学生は続けた先まで想像できます。** この記事では、Infraなどに長期インターンの求人を出す会社に向けて、給与の書き方と、書く前に社内で決めておくことを整理します。賃金や労働時間の扱いは法令の規定を守ることが前提です。判断に迷う点は、社会保険労務士などの専門家に確認してください。

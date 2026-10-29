@@ -7,9 +7,16 @@ target: "規模・フェーズ別"
 reader: "company"
 tags: ["Infra", "長期インターン", "部署別受け入れ", "人事", "中堅企業"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-100nin"
 related: ["if-30nin", "if-5nin", "if-chihou-kyoten", "if-daikigyou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 社員が百名前後になると、長期インターンの受け入れは「一人の担当者が見る」形から「部署ごとに受け入れる」形へと移っていきます。**結論として、この規模の長期インターンは、人事が募集と基準をそろえ、各部署が仕事と指導を持つという役割分担を決めると、部署ごとの差が小さくなり続けやすくなります。** 部署任せにすると、ある部署では学生が育ち、別の部署では放置される、という差が生まれます。この記事では、この規模の会社で割ける時間と人、最初に決めること、部署ごとの運用の分担を整理します。

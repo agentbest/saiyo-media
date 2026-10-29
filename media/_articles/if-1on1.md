@@ -7,9 +7,16 @@ target: "運用ノウハウ"
 reader: "company"
 tags: ["Infra", "長期インターン", "1on1", "面談", "運用ノウハウ"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-1on1"
 related: ["if-gakusei-shiten", "if-genkou", "if-hyouka", "if-keizoku"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra 採用担当者様向け（長期インターン採用について）"
+    url: "https://www.in-fra.jp/pages/contact-for-corp"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生との1on1を始めたものの、毎回「最近どう？」「特にないです」で終わってしまう、という悩みをよく聞きます。業務の進み具合は普段の連絡で分かっているので、何を話せばよいか分からなくなるのです。**結論から言うと、1on1は業務の確認の場ではなく、「学生が続けられているか」と「次に何に挑戦したいか」を話す場として位置づけ、聞くことを先に決めておくと、短い時間でも意味のある対話になります。** この記事では、1on1と業務の振り返りの違い、頻度の目安、話すこと、聞き方、記録の残し方を整理します。

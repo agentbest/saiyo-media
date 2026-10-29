@@ -7,9 +7,14 @@ target: "課題別"
 reader: "company"
 tags: ["Infra", "長期インターン", "早期離脱", "定着", "オンボーディング"]
 pubDate: 2026-10-16
-reviewedAt: 2026-10-16
+reviewedAt: 2026-10-29
 slug: "if-sugu-yameru"
 related: ["if-choukika", "if-motivation", "if-bunkei-rikei", "if-gakugyou"]
+sources:
+  - name: "Infra（大学生向けの長期・有給インターン求人サイト／株式会社Legaseed）"
+    url: "https://in-fra.jp/"
+  - name: "Infra長期インターン採用代理店（株式会社エージェントベスト）"
+    url: "https://infra.agent-best.net/"
 ---
 
 長期インターン生を受け入れたものの、数週間や数か月で辞めてしまう。それが何人か続くと、「最近の学生は続かない」と結論づけたくなります。**結論から言うと、すぐ辞める理由の多くは学生の側の根気ではなく、「募集と実際の仕事のずれ」「最初の数週間の放置」「働き方の負担」のどれかにあり、受け入れ側の見直しで減らせることが多いです。** 辞めた時期によって、原因の当たりもつけられます。この記事では、症状の確認、原因の切り分けの順番、打ち手、外に任せられる範囲を整理します。
