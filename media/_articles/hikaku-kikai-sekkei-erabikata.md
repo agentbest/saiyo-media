@@ -37,7 +37,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。機械設計では、「対象」を段階で決めた行動で絞ることと、「運用工数」に入社後に図面を見る時間を含めることが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。機械設計で、新卒が最初に担う段階を決め、専攻とCADを外して行動で絞る形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。機械設計で、新卒が最初に担う段階を決め、専攻とCADを外して行動で絞る形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

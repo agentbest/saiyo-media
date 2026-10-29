@@ -39,7 +39,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。エネルギーでは、「対象」の軸で二層を分けることと、「変化のどこにいるか」を先に一行にすることが、他の業界と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。エネルギー業界で、自社が変化のどこにいるかの一行から、どれを先に検討するかを一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。エネルギー業界で、自社が変化のどこにいるかの一行から、どれを先に検討するかを一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

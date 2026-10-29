@@ -37,7 +37,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。生産技術では、「対象」を志望職種ではなく行動と勤務地で絞ることと、「運用工数」に工場を見せる日程を含めることが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。生産技術で、志望職種を外して行動と勤務地で絞る形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。生産技術で、志望職種を外して行動と勤務地で絞る形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

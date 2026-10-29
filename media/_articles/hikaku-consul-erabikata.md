@@ -37,7 +37,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-dantai-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。コンサルでは、「対象」の軸で「論理的」「地頭」を絞る条件にしないことが、他の業界と最も違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。コンサル業界で、自社の領域と案件の位置の一行から、どれを先に検討するかを一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。コンサル業界で、自社の領域と案件の位置の一行から、どれを先に検討するかを一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

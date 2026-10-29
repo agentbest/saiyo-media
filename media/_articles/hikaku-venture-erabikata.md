@@ -44,7 +44,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。ベンチャーでは、「対象」の軸で自社の知名度を正直に見ることが、他の業界より難しく、最も大切です。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。自社が学生に知られている側か、知られていない側かを、一緒に確かめるところから始めます。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。自社が学生に知られている側か、知られていない側かを、一緒に確かめるところから始めます。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

@@ -37,7 +37,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。理系学生を採りたい会社では、「対象」を研究の進め方で絞ることと、「運用工数」を技術の人の時間で決めることが、他の会社と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。理系学生を採りたい会社で、層を分け、技術の人の時間から入口と送る数を絞る形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。理系学生を採りたい会社で、層を分け、技術の人の時間から入口と送る数を絞る形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

@@ -37,7 +37,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。デザイナーでは、「対象」を専攻ではなく作品の説明で絞ることと、掲載の見た目そのものが読まれることが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。デザイナーで、種類を一つ決め、作品を説明で読む型と、決める人と直す観点の書き方を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。デザイナーで、種類を一つ決め、作品を説明で読む型と、決める人と直す観点の書き方を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

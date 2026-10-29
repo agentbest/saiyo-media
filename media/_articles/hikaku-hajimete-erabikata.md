@@ -37,7 +37,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。初めての会社では、「対象」を任せる仕事から決めることと、「型」で比べられる場を先にしないことが、他の会社と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。初めての新卒採用で、媒体を決める前に「一人目に何を任せ、誰が見るか」を一緒に一枚にします。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。初めての新卒採用で、媒体を決める前に「一人目に何を任せ、誰が見るか」を一緒に一枚にします。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

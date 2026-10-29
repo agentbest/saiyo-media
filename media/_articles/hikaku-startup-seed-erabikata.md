@@ -37,7 +37,7 @@ related: ["hikaku-startup-a-erabikata", "hikaku-startup-b-erabikata", "hikaku-bu
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。シード期では、「型」で比べられる場を使わないことと、「運用工数」を社長の時間だけで決めることが、他の段階と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。シード期の会社で、雇用の前に関わりの形と終わり方を決め、社長の時間から関わる人数を一緒に決めます。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。シード期の会社で、雇用の前に関わりの形と終わり方を決め、社長の時間から関わる人数を一緒に決めます。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

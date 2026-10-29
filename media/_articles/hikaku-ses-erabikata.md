@@ -36,7 +36,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。SESでは、イメージが先にあるので「隠さない」ことが文面の中心になることと、若手が自社にいないので名義と面談の枠の取り方が違うことが、他の業界と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。SESで、イメージの扱い方、常駐先の決まり方と案件の種類の書き方から、どれを先に検討するかを一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。SESで、イメージの扱い方、常駐先の決まり方と案件の種類の書き方から、どれを先に検討するかを一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

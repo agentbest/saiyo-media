@@ -36,7 +36,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。保育では、「対象」の軸で養成校の学生が媒体にいるかを先に確かめることと、養成校経由が主で媒体が補助であることが、他の業界と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。保育の園や法人で、養成校との関係を主にしたうえで、媒体をどう位置づけるかを一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。保育の園や法人で、養成校との関係を主にしたうえで、媒体をどう位置づけるかを一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

@@ -37,7 +37,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。30名の会社では、「型」で媒体を役割で分けることと、「運用工数」で現場の面接官を先に確保することが、10名との違いです。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。新卒30名の会社で、媒体を役割で分け、職種ごとの名義と面接官の枠まで一緒に組みます。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。新卒30名の会社で、媒体を役割で分け、職種ごとの名義と面接官の枠まで一緒に組みます。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

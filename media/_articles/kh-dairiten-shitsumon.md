@@ -44,7 +44,7 @@ related: ["kh-dairiten-chuuritsu", "kh-dairiten-hikaku", "kh-dairiten-merit", "k
 中立性の見分け方は[代理店の提案が中立かどうかの見分け方](/media/kh-dairiten-chuuritsu/)で詳しく書きました。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。この記事の質問を、そのまま聞いてください。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。この記事の質問を、そのまま聞いてください。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

@@ -37,7 +37,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。エンジニアでは、「型」で記事を置く型が最も向くことと、「運用工数」を技術の人の時間で決めることが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。エンジニアで、「どのエンジニアか」を一言で決め、技術の人の時間から入口と送る数を絞る形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。エンジニアで、「どのエンジニアか」を一言で決め、技術の人の時間から入口と送る数を絞る形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

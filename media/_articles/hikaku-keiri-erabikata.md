@@ -36,7 +36,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。経理・財務では、「対象」を資格の少数に集中させないことと、「運用工数」を締めの時期の外に確保することが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。経理・財務で、資格を外して行動で絞り、経理か財務かとしている範囲を先に決める形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。経理・財務で、資格を外して行動で絞り、経理か財務かとしている範囲を先に決める形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

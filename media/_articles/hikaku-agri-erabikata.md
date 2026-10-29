@@ -39,7 +39,7 @@ related: ["hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。農業では、「対象」の軸で就農と就職を分けることと、「運用工数」の軸で繁忙期を見込むことが、他の業界と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。農業で、就農と就職の違いを分け、暮らしと季節の実態を一枚にしてから、どれを先に検討するかを一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。農業で、就農と就職の違いを分け、暮らしと季節の実態を一枚にしてから、どれを先に検討するかを一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

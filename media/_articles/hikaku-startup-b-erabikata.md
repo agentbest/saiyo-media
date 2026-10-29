@@ -37,7 +37,7 @@ related: ["hikaku-startup-a-erabikata", "hikaku-startup-seed-erabikata", "hikaku
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。シリーズB以降では、「対象」で中途の条件を使わないことと、「運用工数」で中途の人事と分けることが、他の段階と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。シリーズB以降の会社で、中途の型と分けた新卒の型を作り、「なぜ新卒か」と育てる担当から媒体を一緒に決めます。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。シリーズB以降の会社で、中途の型と分けた新卒の型を作り、「なぜ新卒か」と育てる担当から媒体を一緒に決めます。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

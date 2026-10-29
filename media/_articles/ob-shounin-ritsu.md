@@ -79,7 +79,7 @@ OfferBoxを検討している会社から、「オファーの承認率は平均
 - **最新の内容は公式ページで**：[OfferBoxの機能ページ](https://offerbox.jp/company/about/function)と[データページ](https://offerbox.jp/company/data/)をご確認ください
 
 <aside class="cta-inline">
-  <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。3媒体を並べてご案内します。</p>
+  <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。取り扱い媒体を並べてご案内します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

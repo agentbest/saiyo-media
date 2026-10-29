@@ -36,7 +36,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。店舗運営職では、「対象」を転勤の可否で先に絞ることと、「運用工数」をエリア長の巡回の外に確保することが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。店舗運営職で、転勤の可否を先に決め、肩書を外して行動で絞る形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。店舗運営職で、転勤の可否を先に決め、肩書を外して行動で絞る形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

@@ -37,7 +37,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。1〜3名の会社では、「対象」を広げないことと、「運用工数」に内定後の連絡の時間を入れることが、他の会社と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。新卒1〜3名の会社で、一人に深く届く型を選び、内定後の連絡の間隔まで一緒に決めます。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。新卒1〜3名の会社で、一人に深く届く型を選び、内定後の連絡の間隔まで一緒に決めます。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

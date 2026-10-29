@@ -37,7 +37,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。10名の会社では、「型」で主軸を一つ決めることと、「運用工数」で補助を同時に始めないことが、5名との違いです。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。新卒10名の会社で、担当の時間から主軸を決め、補助を足す時期まで一緒に組みます。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。新卒10名の会社で、担当の時間から主軸を決め、補助を足す時期まで一緒に組みます。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

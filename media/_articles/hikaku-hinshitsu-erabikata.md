@@ -36,7 +36,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。品質管理では、「対象」を人柄の言葉ではなく行動で絞ることと、「運用工数」の前に品質管理か品質保証かを決めることが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。品質管理で、「几帳面」を外して行動で絞り、品質管理か品質保証かを先に決める形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。品質管理で、「几帳面」を外して行動で絞り、品質管理か品質保証かを先に決める形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

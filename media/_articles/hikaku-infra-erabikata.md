@@ -36,7 +36,7 @@ related: ["hikaku-backend-erabikata", "hikaku-frontend-erabikata", "hikaku-consu
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。インフラでは、「対象」を志望職種ではなく動かし続けた行動で探すことと、「運用工数」に当番で崩れたときの代わりを含めることが、他の職種と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。インフラエンジニアで、志望職種と基盤の名前を外し、動かし続けた行動で探す形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。インフラエンジニアで、志望職種と基盤の名前を外し、動かし続けた行動で探す形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 

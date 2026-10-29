@@ -37,7 +37,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chusho-erabikata", "hikaku-daikigyo
 軸の詳しい見方は[掲載型とスカウト型の違い](/media/hikaku-keisai-vs-scout/)、[共感型と条件型の媒体の違い](/media/hikaku-kyoukan-vs-jouken/)で書きました。地方に本社がある会社では、「対象」を三つの層に分けることと、「課金」に移動の費用を含めることが、他の会社と違います。
 
 <aside class="cta-inline">
-  <p>自社に合う媒体がどれか、3媒体を並べてご案内します。地方に本社がある会社で、学生を三つの層に分け、層ごとに媒体と文面を変える形を一緒に整理します。</p>
+  <p>自社に合う媒体がどれか、取り扱い媒体を並べてご案内します。地方に本社がある会社で、学生を三つの層に分け、層ごとに媒体と文面を変える形を一緒に整理します。</p>
   <a href="/#entry">媒体選びを相談する</a>
 </aside>
 
