@@ -87,7 +87,7 @@ const PILLAR_CTA = {
   infra: {
     lead: '長期インターンの採用と受け入れ、まとめて相談できます',
     points: ['求人原稿の作成から応募対応・面接設定まで、Infraの運用を代理店として支援します',
-             '継続して採るならサブスクリプション、まず1名ならデポジット（成果報酬）。採用計画から選べます',
+             '継続して採るならサブスクリプション、まず1名から採る人数を決めて契約するならデポジットプラン。採用計画から選べます',
              '受け入れ体制や、新卒採用へのつなぎ方も一緒に考えます'],
     label: '長期インターンの採用を相談する', short: '長期インターンの採用を無料で相談',
     media: 'Infra',
@@ -334,7 +334,7 @@ function crumbs(items) {
  * 判定は 記事の中身（slug・タグ）→ 柱 の順。インターン→Infra、エンジニア/Green→Green運用代行、OfferBox→OfferBox運用代行、
  * スカウト系→スカウト代行、媒体比較・採用ノウハウ→コーポレートの採用ご担当者さまページ（人材紹介も含む一覧）。 */
 const SERVICES = {
-  infra:    { name: '長期インターン採用（Infra）', note: '月額5万円〜／成果報酬9万円〜', href: 'https://infra.agent-best.net/' },
+  infra:    { name: '長期インターン採用（Infra）', note: '月額5万円〜／デポジットプラン1名9万円〜', href: 'https://infra.agent-best.net/' },
   green:    { name: 'Green運用代行', note: '成功報酬・入社時1名50万円', href: 'https://green.agent-best.net/' },
   offerbox: { name: 'OfferBox運用代行', note: '入社承諾時のみ20万円の完全成果報酬', href: 'https://scoutdaikou-offerbox.agent-best.net/' },
   scout:    { name: 'スカウト代行', note: '月額0円のプランから', href: 'https://scout.agent-best.net/' },
