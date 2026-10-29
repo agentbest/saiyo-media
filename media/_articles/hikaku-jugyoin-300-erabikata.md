@@ -73,7 +73,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 - **送る型と記事を置く型を、役割で**：[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **現場を巻き込む線を、契約の前に**：[現場を採用に巻き込む方法](/media/hikaku-genba-makikomi/)、[OfferBox経由の学生を面接する現場社員への説明](/media/ob-genba-mensetsukan/)
 - **自社で回すか、代行に出すかを、人事の時間の合計で**：[自社で運用するか代行に出すかの考え方](/media/hikaku-jisha-unyou/)
-- **代行に出すなら、検索・下書き・送信・一次返信から**：人事の時間を、現場との調整と面談の設定に残す。名義の選定、個別の一文、面談は出さない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行に出すなら、検索・下書き・送信・一次返信から**：人事の時間を、現場との調整と面談の設定に残す。名義の選定、個別の一文、面談は出さない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。従業員三百名規模の会社で、人事の週の時間を合計し、持てない作業を外に出して、現場との調整と面談の設定に人事の時間を残す形をお伝えします。</p>

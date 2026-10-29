@@ -12,7 +12,7 @@ slug: "kh-boshudan-kpi"
 related: ["kh-boshudan-funnel", "kh-boshudan-baitai-kumiawase", "kh-boshudan-bunkei", "kh-boshudan-chihou"]
 ---
 
-母集団形成のKPIを置きたい。ところが、エントリー数・フォロワー数・参加者数をKPIにし、全入口を足して一つの数にし、目標値を先に置いて毎月「未達」の表になり、数字が多すぎて誰も見ない。**結論から言うと、母集団形成のKPIは、入口ごとの「こんな人に近い人が面談まで来た数」と「入口→面談の日数」と「近い人の割合」の三つで、エントリー数・フォロワー数・参加者数は見ません。目標値は逆算から引き、率は月に一度置き直し、変化で見ます。見ない数字を先に決めます。** この記事では、KPIで起きる失敗、三つのKPI、入口ごとに置くこと、目標値、率の置き直し、見ない数字、上司用と直す用の分け方、台帳、分担を整理します。母集団の考え方は[母集団形成の基本｜量と質の順番](/media/kh-boshudan-kihon/)、ファネルは[採用ファネルの作り方](/media/kh-boshudan-funnel/)、媒体ごとのKPIは[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)、[Wantedlyのスカウト運用のKPI](/media/wt-scout-kpi/)、[ワンキャリアのスカウト運用のKPI](/media/oc-scout-kpi/)、[ワンキャリアの掲載のKPI](/media/oc-keisai-kpi/)で書きました。
+母集団形成のKPIを置きたい。ところが、エントリー数・フォロワー数・参加者数をKPIにし、全入口を足して一つの数にし、目標値を先に置いて毎月「未達」の表になり、数字が多すぎて誰も見ない。**結論から言うと、母集団形成のKPIは、入口ごとの「こんな人に近い人が面談まで来た数」と「入口→面談の日数」と「近い人の割合」の三つで、エントリー数・フォロワー数・参加者数は見ません。目標値は逆算から引き、率は月に一度置き直し、変化で見ます。見ない数字を先に決めます。** この記事では、KPIで起きる失敗、三つのKPI、入口ごとに置くこと、目標値、率の置き直し、見ない数字、上司用と直す用の分け方、台帳、分担を整理します。母集団の考え方は[母集団の質を上げる方法](/media/kh-boshudan-shitsu/)、ファネルは[採用ファネルの作り方](/media/kh-boshudan-funnel/)、媒体ごとのKPIは[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)、[Wantedlyのスカウト運用のKPI](/media/wt-scout-kpi/)、[ワンキャリアのスカウト運用のKPI](/media/oc-scout-kpi/)、[ワンキャリアの掲載のKPI](/media/oc-keisai-kpi/)で書きました。
 
 ## この作業の目的｜「母集団ができているか」を、三つの数で毎月答えられる状態にする
 
@@ -57,7 +57,7 @@ related: ["kh-boshudan-funnel", "kh-boshudan-baitai-kumiawase", "kh-boshudan-bun
 - **スカウト・掲載・イベント・リファラル・大学・早期、で分ける**：足さない
 - **入口ごとに、三つのKPI**：入口によって、近い人の割合と日数が違う
 - **入口ごとの表を並べて、配分を見直す**：[母集団形成の媒体の組み合わせ方](/media/kh-boshudan-baitai-kumiawase/)
-- **媒体ごとの入口の数（承認率・返信率・エントリー率）は、その媒体のKPIとして別に持つ**：媒体の運用を直すための数。[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)、[Wantedlyのスカウト運用のKPI](/media/wt-scout-kpi/)、[ワンキャリアのスカウト運用のKPI](/media/oc-scout-kpi/)
+- **媒体ごとの入口の数（承認率・返信率・エントリー率）は、その媒体のKPIとして別に持つ**：媒体の運用を直すための数。[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)、[Wantedlyのスカウト運用のKPI](/media/wt-scout-kpi/)、[ワンキャリアのスカウト運用のKPI](/media/oc-scout-kpi/)
 - **母集団形成のKPIは、媒体をまたいだ三つ**：媒体のKPIの上に置く
 
 ## 目標値は、逆算から引く
@@ -73,7 +73,7 @@ related: ["kh-boshudan-funnel", "kh-boshudan-baitai-kumiawase", "kh-boshudan-bun
 - **逆算に使う率（承諾率・内定率・選考通過率・面談進行率・入口の率）は、月に一度、台帳から出す**
 - **仮置きの率は、最初の月で置き直す**：[母集団の目標数の決め方](/media/kh-boshudan-keikaku/)の「割合は、前年の実績か仮置きで」
 - **率が変わったら、必要な入口の数を引き直す**：目標の入口の数が変わる
-- **率の置き直しの型は[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)の手順2**
+- **率の置き直しの型は[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)**
 - **率をKPIの表の「目標値」にしない**：逆算の材料
 
 <aside class="cta-inline">
@@ -87,11 +87,11 @@ related: ["kh-boshudan-funnel", "kh-boshudan-baitai-kumiawase", "kh-boshudan-bun
 |---|---|
 | エントリー数・承認数・返信数の合計 | 入口の数で、質が見えない。増やす運用に寄る |
 | フォロワー数・閲覧数・いいね | SNSと掲載の数字。母集団ではない。[SNSからの母集団形成](/media/kh-boshudan-sns/) |
-| イベントの参加者数・満足度 | 次へ進んだ数ではない。[イベントからの母集団形成](/media/kh-boshudan-event/) |
+| イベントの参加者数・満足度 | 次へ進んだ数ではない。[インターンからの母集団形成](/media/kh-boshudan-intern/) |
 | 送信数 | 手段の数。読んで書いた数は台帳に、KPIにはしない |
 | 媒体の管理画面の順位や指標 | 現在の仕様は管理画面とヘルプで確認。母集団のKPIには入れない |
 
-見ない数字を先に決めると、月に一度の場で「エントリーが減った」が議題にならなくなります。決め方は[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)の手順4で書きました。
+見ない数字を先に決めると、月に一度の場で「エントリーが減った」が議題にならなくなります。決め方は[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)で書きました。
 
 ## 上司に見せるKPIと、直すためのKPIを分ける
 
@@ -105,7 +105,7 @@ related: ["kh-boshudan-funnel", "kh-boshudan-baitai-kumiawase", "kh-boshudan-bun
 
 - **台帳に、相手ごとの「入口」「段」「各段の日付」「近さ」を持つ**：三つのKPIは、この四つから出る
 - **月に一度、台帳から入口ごとに三つを出す**：別の表を作らない
-- **台帳の項目は最小限**：[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)の手順5
+- **台帳の項目は最小限**：[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)
 - **近さの印を、面談した人が付ける**：印象ではなく、「こんな人」の三つで
 - **出す時間は短く**：三つだけなら、台帳から数えるだけ
 

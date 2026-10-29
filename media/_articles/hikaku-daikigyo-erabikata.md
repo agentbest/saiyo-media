@@ -71,9 +71,9 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 - **受け皿と3媒体を、層で分ける**：受け皿で来る層に3媒体で届けない。[複数の媒体を同時に使うときの考え方](/media/hikaku-fukusuu-baitai/)
 - **共通原稿は本社で一度、個別の一文は部門で**：確認を一度に絞る。[OfferBoxとワンキャリアの併用](/media/ob-heiyou-onecareer/)
 - **記事を置く型を、特定の職種に**：[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
-- **数字は職種ごと層ごとに、近い学生の数で**：承認率ではなく、面談まで来た近い学生の数。[併用時の数字の見方](/media/ob-heiyou-heiyou-kpi/)
+- **数字は職種ごと層ごとに、近い学生の数で**：承認率ではなく、面談まで来た近い学生の数。[媒体の効果を並べて比べる方法](/media/hikaku-baitai-kouka-hikaku/)
 - **経営への報告を、承認数ではなく近い学生の数で**：[経営層にOfferBoxの成果を説明する方法](/media/ob-keiei-rikai/)
-- **代行と組み合わせるなら、来ない層の絞る作業と共通原稿の下書きと台帳を**：部門の名義と面談は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、来ない層の絞る作業と共通原稿の下書きと台帳を**：部門の名義と面談は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。大企業で、本社の人事が型と台帳と確認の手順を持ち、部門が名義と面談を持つときの時間の置き方をお伝えします。</p>

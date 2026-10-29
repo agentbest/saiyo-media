@@ -73,7 +73,7 @@ related: ["oc-kuchikomi-shanai", "oc-kuchikomi-chimeido", "oc-kuchikomi-es", "oc
 - **面談と文面の続きとして入る**：「面談で〇〇の話をされたそうですね。その先を」「文面で触れた〇〇について」
 - **「なぜうちを」から入らない**：面談で話したことを、また聞くことになる
 - **学生の話から始める**：会社の説明から始めない。企業ページで読んでいる
-- **入り方の型は[OfferBoxの面接官への引き継ぎ](/media/ob-genba-mensetsukan/)の手順4**
+- **入り方の型は[OfferBoxの面接官への引き継ぎ](/media/ob-genba-mensetsukan/)**
 
 ## 見ていることを、先に言う
 
@@ -106,7 +106,7 @@ related: ["oc-kuchikomi-shanai", "oc-kuchikomi-chimeido", "oc-kuchikomi-es", "oc
 | 「他に受けている会社は」 | 面談で答えた | 聞かない。記録にある |
 | 「体育会系ですね」「〇〇大学ですね」 | 分類で見られている | 言わない |
 
-代わりの言葉に共通するのは、「文面と面談の続き」として聞くことです。一覧の元は[OfferBoxの面接官への引き継ぎ](/media/ob-genba-mensetsukan/)の手順3で、体育会の考え方は[OfferBoxで体育会系学生にアプローチする方法](/media/ob-taiikukai/)で書きました。
+代わりの言葉に共通するのは、「文面と面談の続き」として聞くことです。一覧の元は[OfferBoxの面接官への引き継ぎ](/media/ob-genba-mensetsukan/)で、体育会の考え方は[OfferBoxで体育会系学生にアプローチする方法](/media/ob-taiikukai/)で書きました。
 
 ## 結果の、伝え方
 
@@ -120,7 +120,7 @@ related: ["oc-kuchikomi-shanai", "oc-kuchikomi-chimeido", "oc-kuchikomi-es", "oc
 
 - **五つを、一枚に**：入り方、今日聞くこと、見ている項目、言いがちな言葉と代わり、結果の期限
 - **「印象を良く」とは書かない**：運用の五つを書く
-- **面談と文面の記録を、一行で添える**：面談で何を話したか、文面で何に触れたか。[OfferBoxの面接官への引き継ぎ](/media/ob-genba-mensetsukan/)の手順2
+- **面談と文面の記録を、一行で添える**：面談で何を話したか、文面で何に触れたか。[OfferBoxの面接官への引き継ぎ](/media/ob-genba-mensetsukan/)
 - **面接官を責めない**：「体験談に〇〇と書かれた。翌年に〇〇と書かれるために、一枚で揃える」
 - **面接後に、面接官から一行**：「学生の反応」「聞きにくかったこと」。一枚を直す材料
 

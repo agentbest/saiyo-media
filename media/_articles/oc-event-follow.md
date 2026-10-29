@@ -119,7 +119,7 @@ related: ["oc-event-kpi", "oc-online-event", "oc-event-area", "oc-event-kihon"]
 - **回の翌日に、一言**：「〇〇の質問が出た」「〇人が次の場に進んだ」
 - **学生の一通に入れた「社員の一言」を、社員にも見せる**
 - **進んだ学生の、その後を戻す**：面談、内定、入社
-- **戻さないと、次の回に出ない**：[OfferBoxの現場を巻き込む方法](/media/ob-genba-makikomi/)の手順7
+- **戻さないと、次の回に出ない**：[OfferBoxの現場を巻き込む方法](/media/ob-genba-makikomi/)
 - **社員の負担が増えていたら、減らす**：次の回の出る人を替える、頼むことを減らす
 
 ## 回の体験談を、読む
@@ -135,7 +135,7 @@ related: ["oc-event-kpi", "oc-online-event", "oc-event-area", "oc-event-kihon"]
 - **一通を送った日、次の場に進んだか、保つ連絡の最後の日**
 - **「こんな人」への近さ**：回で分かった範囲で
 - **出た質問**：誰が何を聞いたか
-- **台帳の項目は[OfferBox運用のKPI設計](/media/ob-kpi-sekkei/)の手順5**
+- **台帳の項目は[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)**
 
 ## 社内の分担
 

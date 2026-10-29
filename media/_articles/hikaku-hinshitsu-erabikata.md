@@ -67,12 +67,12 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 ## 組み合わせ
 
 - **送る型と記事を置く型を組み合わせる**：文面で原因を探した経験を読んだ一文を、記事で止める判断の一日を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
-- **研究室との関係を主に、媒体を研究室の外の学生に**：化学系・材料系の研究室で会った学生に媒体で送らない。[大学との関係からの母集団形成](/media/kh-boshudan-daigaku/)
+- **研究室との関係を主に、媒体を研究室の外の学生に**：化学系・材料系の研究室で会った学生に媒体で送らない。[OfferBoxと大学キャリアセンター経由の採用の併用](/media/ob-heiyou-daigaku-kyara/)
 - **理系の学生の探し方と重ねる**：[理系の採用媒体の選び方](/media/hikaku-rikei-erabikata/)、[研究開発職の採用媒体の選び方](/media/hikaku-kenkyu-erabikata/)。研究開発志望の学生の中に、品質管理に合う学生がいる
 - **面談の聞き方の型を、揃える**：「何を測ったかより、ばらつきが出たとき何を疑ったか、手順を守ってもらえなかったとき何をしたか」。人柄の印象で決めない
 - **内定前に、止める場面を見せる**：検査の記録と、止めた判断の記録と、現場との会話を。[内定辞退が続くときの見直し方](/media/ob-naitei-jitai/)
 - **業界の構造と重ねる**：[化学業界の採用媒体の選び方](/media/hikaku-kagaku-erabikata/)、[食品業界の採用媒体の選び方](/media/hikaku-shokuhin-erabikata/)
-- **代行と組み合わせるなら、絞る作業と文面の下書きまで。読んで直すのは品質の先輩**：[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、絞る作業と文面の下書きまで。読んで直すのは品質の先輩**：[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。品質管理で、品質管理か品質保証かを決める会議と、品質の先輩の面談の枠を先に確保し、送る数をそこから決める形をお伝えします。</p>

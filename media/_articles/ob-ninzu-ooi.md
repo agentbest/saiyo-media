@@ -81,7 +81,7 @@ related: ["ob-ninzu-henkou", "ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bu
 - **名義の人が、自分の名前で送る文面を確認する**：名前だけ貸さない
 - **週に一度、数通を並べて読む**：ばらつきが出たら、見本に戻す
 
-型と名義の考え方は[OfferBoxのオファー文面テンプレートを作るときの注意](/media/ob-offer-template/)で書きました。
+型と名義の考え方は[OfferBoxのオファー文面がマンネリ化したとき](/media/ob-bunmen-mannerika/)で書きました。
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。採る人数に応じた、送る人・返す人・面談の枠の見積もりをお伝えします。</p>
@@ -96,7 +96,7 @@ related: ["ob-ninzu-henkou", "ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bu
 - **送る人ごとの数字を並べる**：読んで書いている人と、書いていない人が、承認の割合で見える
 - **月に一度、割合を置き直す**：送る数の逆算を、実際の割合で直す
 
-週の見直しの型は[OfferBoxの週次レビュー](/media/ob-shuukan-review/)、台帳の型は[OfferBoxのKPI設計](/media/ob-kpi-sekkei/)で書きました。
+週の見直しの型は[採用KPIの週次レビュー](/media/kh-kpi-shuukan/)、台帳の型は[OfferBoxの効果が測れないときのKPIの置き直し](/media/ob-kouka-sokutei/)で書きました。
 
 ## 人数が多くても、一人あたりの文面を薄くしない
 
@@ -113,7 +113,7 @@ related: ["ob-ninzu-henkou", "ob-ninzu-sukunai", "ob-bosyu-shokushu-ooi", "ob-bu
 - **承認が集中する週に、返す人を増やす**：送った翌週
 - **面談が集中する時期に、現場の人の枠を増やす**：先に現場に伝えておく
 - **波の外の時期は、送る数を減らし、材料を集める**：型の見直し、企業ページの更新
-- **年間の波を一枚にする**：[OfferBoxの年間スケジュール](/media/ob-nenkan-schedule/)
+- **年間の波を一枚にする**：[母集団形成の年間計画](/media/kh-boshudan-nenkan/)
 
 ## 社内の分担
 

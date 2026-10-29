@@ -75,7 +75,7 @@ related: ["if-jouhou-kanri", "if-saiyou-tsunagaranai", "if-bunkei-rikei", "if-ch
 
 とくに、インターンを続ける場合の「期待の水準の切り替え」は大切です。いつまでも学生として大目に見ていると、入社した日に急に水準が上がり、本人は戸惑います。
 
-内定期間の過ごし方の考え方は、[早期離職を減らす内定期間の使い方](/media/kh-naitei-souki-rishoku/)でも整理しています。
+内定期間の過ごし方の考え方は、[入社前の辞退を減らす方法](/media/kh-naitei-nyusha-mae/)でも整理しています。
 
 <aside class="cta-inline">
   <p>長期インターンと新卒採用を一体で設計したい会社は、代理店として募集の段階から支援します。</p>

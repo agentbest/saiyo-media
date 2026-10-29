@@ -122,7 +122,7 @@ OfferBox、Wantedly、ワンキャリアを併用する場合、年間計画は�
 
 | 媒体 | 年間計画の軸 |
 |---|---|
-| OfferBox | 学生の登録と動きの時期、オファーを送る時期、面談枠。[OfferBoxの年間スケジュール](/media/ob-nenkan-schedule/) |
+| OfferBox | 学生の登録と動きの時期、オファーを送る時期、面談枠。[母集団形成の年間計画](/media/kh-boshudan-nenkan/) |
 | Wantedly | 時期に依らず、コンテンツを整えてから。スカウトは募集の予定と面談枠から。[Wantedlyのスカウト運用の年間計画](/media/wt-scout-nenkan/) |
 | ワンキャリア | 体験談が増える時期と選考の予定。整える→出す→読む→直す |
 

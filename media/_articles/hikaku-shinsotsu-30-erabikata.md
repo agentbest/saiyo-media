@@ -72,8 +72,8 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 - **送る型と比べられる場を組み合わせる**：[OfferBoxとワンキャリアの併用](/media/ob-heiyou-onecareer/)
 - **送る型と記事を置く型を組み合わせる**：[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **イベントを足すなら、職種ごとに現場が出る形で**：[イベントと掲載の違い](/media/hikaku-event-vs-keisai/)
-- **数字は職種ごとに、段ごとに**：全体の率で見ると、職種ごとの偏りが隠れる。[採用の段ごとの数の読み方](/media/kh-boshudan-funnel/)、[併用時の数字の見方](/media/ob-heiyou-heiyou-kpi/)
-- **代行と組み合わせるなら、絞る作業と職種ごとの文面の下書きと段の記録を**：面接官と名義は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **数字は職種ごとに、段ごとに**：全体の率で見ると、職種ごとの偏りが隠れる。[採用の段ごとの数の読み方](/media/kh-boshudan-funnel/)、[媒体の効果を並べて比べる方法](/media/hikaku-baitai-kouka-hikaku/)
+- **代行と組み合わせるなら、絞る作業と職種ごとの文面の下書きと段の記録を**：面接官と名義は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。新卒30名の会社で、人事の時間を返す作業と現場の調整に使い、面談と面接の枠を現場に分ける形をお伝えします。</p>

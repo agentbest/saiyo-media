@@ -70,7 +70,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 
 - **媒体は一つ、職種は一つ**：二つ目は、一人目が入ってから。[複数の媒体を同時に使うときの考え方](/media/hikaku-fukusuu-baitai/)
 - **送る型と記事を置く型を組み合わせるなら、翌年から**：文面で「一人で入ること」への答えを、記事で「なぜ少人数か」を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
-- **代行と組み合わせるなら、範囲を先に**：絞る作業と文面は外に出せる。面談と内定後の連絡は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、範囲を先に**：絞る作業と文面は外に出せる。面談と内定後の連絡は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 - **期間は一年で見る**：一人の辞退で三か月の数字は変わる。[一年で見る媒体の期間の考え方](/media/hikaku-kikan-1nen/)
 
 <aside class="cta-inline">

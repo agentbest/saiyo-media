@@ -95,7 +95,7 @@ related: ["oc-event-area", "oc-event-follow", "oc-event-kihon", "oc-event-kpi"]
 - **選考の山の後、体験談が増えた時期に、回の体験談を読む**：「ページのとおりだった」「聞けた」「違った」「話せなかった」
 - **回ごとに、四つのKPIを並べる**：どの回（種類・出た人・時期）が効いたか
 - **翌年の一枚を作る**：残す回、変える回、やめる回、足す回。時期ごとに
-- **振り返りの型は[母集団形成の振り返り方](/media/kh-boshudan-review/)**
+- **振り返りの型は[母集団形成の予算配分](/media/kh-boshudan-yosan/)**
 
 ## 企業ページとスカウトの年間計画と、揃える
 
@@ -111,7 +111,7 @@ related: ["oc-event-area", "oc-event-follow", "oc-event-kihon", "oc-event-kpi"]
 - **出る社員の繁忙期を、欄外に**
 - **各回の「誘導を外す日」を、回の日程の横に**
 - **企業ページの更新とスカウトの締めの列を足す**
-- **一枚の作り方は[OfferBoxの年間スケジュール](/media/ob-nenkan-schedule/)の手順5の考え方と同じ**
+- **一枚の作り方は[母集団形成の年間計画](/media/kh-boshudan-nenkan/)の考え方と同じ**
 
 ## 社内の分担
 

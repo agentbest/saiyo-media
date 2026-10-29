@@ -95,7 +95,7 @@ related: ["if-bizdev", "if-cs", "if-designer", "if-douga"]
   <a href="/#entry">無料で相談する</a>
 </aside>
 
-インターンから本選考への流れは[インターンから本選考への流れの設計](/media/kh-schedule-intern/)も参考にしてください。
+インターンから本選考への流れは[インターンからの母集団形成](/media/kh-boshudan-intern/)も参考にしてください。
 
 ## まとめ
 

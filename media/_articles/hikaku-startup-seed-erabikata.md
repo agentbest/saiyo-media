@@ -72,7 +72,7 @@ related: ["hikaku-startup-a-erabikata", "hikaku-startup-b-erabikata", "hikaku-bu
 - **関わりの募集と、学生の紹介を組み合わせる**：関わった学生が友人を連れてくる形が、シード期では媒体より効くことがある
 - **インターンの募集として出すなら、条件を先に**：[インターンから採用につなげる考え方](/media/kh-boshudan-intern/)、[Wantedlyでインターンを募集する書き方](/media/wt-boshu-intern/)
 - **段階が進んだら、位置づけを変える**：シリーズAで[シリーズAのスタートアップの採用媒体の選び方](/media/hikaku-startup-a-erabikata/)
-- **代行は、シード期では合わないことが多い**：関わりの提案は社長の言葉でしか書けない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行は、シード期では合わないことが多い**：関わりの提案は社長の言葉でしか書けない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。シード期の会社で、社長が週に出せる時間から、送る数と関わる人数を逆算する形をお伝えします。</p>

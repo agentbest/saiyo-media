@@ -73,7 +73,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 - **送る型を主軸に、比べられる場を補助に**：[OfferBoxとワンキャリアの併用](/media/ob-heiyou-onecareer/)
 - **送る型を主軸に、記事を置く型を補助に**：[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **現場の先輩を、面談の枠と名義で巻き込む**：十名は人事だけでは面談の枠が足りない。[現場を採用に巻き込む方法](/media/hikaku-genba-makikomi/)
-- **代行と組み合わせるなら、主軸の絞る作業と文面の下書きを**：[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、主軸の絞る作業と文面の下書きを**：[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。新卒10名の会社で、主軸の運用に人事一人分、補助に現場の先輩の面談の枠、という分け方をお伝えします。</p>

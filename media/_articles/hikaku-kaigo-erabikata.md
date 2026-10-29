@@ -70,7 +70,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 - **福祉系の学校との関係と、媒体を組み合わせる**：学校で会った学生に媒体で送らず、媒体は学校の流れの外の学生に。学校に結果を返す。[OfferBoxと大学キャリアセンター経由の採用の併用](/media/ob-heiyou-daigaku-kyara/)
 - **送る型と記事を置く型を組み合わせるなら**：文面で「地元で、この施設で、〇〇を変えた」を、記事で「夜勤の一日」と「利用者の家族と向き合った日」を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **施設の見学と組み合わせる**：媒体から見学へ。「介護」のイメージを本人が確かめる場。[OfferBoxと合同説明会の併用](/media/ob-heiyou-setsumeikai/)
-- **地元・Uターンの層を先に**：介護は地元で働く学生が多い。[地方に本社がある会社のOfferBox運用](/media/ob-chihou-unyou/)
+- **地元・Uターンの層を先に**：介護は地元で働く学生が多い。[OfferBoxで地方の学生にオファーを送る考え方](/media/ob-chihou-gakusei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。介護の法人で、交代制と夜勤で動けない若手の時間を名義と面談だけに固定し、絞る作業を外に出す形をお伝えします。</p>

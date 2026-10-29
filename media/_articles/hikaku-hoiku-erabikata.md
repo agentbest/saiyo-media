@@ -79,7 +79,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 - **養成校との関係と、媒体を組み合わせる**：学校で会った学生には媒体で送らず、媒体は学校で会えない学生に。学校に結果を返す。[OfferBoxと大学キャリアセンター経由の採用の併用](/media/ob-heiyou-daigaku-kyara/)
 - **送る型と記事を置く型を組み合わせるなら**：文面で「地元で、この園で、園長と」を、記事で「園の一日」と「保護者と向き合った日」を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **園の見学と組み合わせる**：媒体から見学へ。実習に来なかった学生が園を見る機会
-- **地元・Uターンの層を先に**：保育士は地元で働く学生が多い。[地方に本社がある会社のOfferBox運用](/media/ob-chihou-unyou/)
+- **地元・Uターンの層を先に**：保育士は地元で働く学生が多い。[OfferBoxで地方の学生にオファーを送る考え方](/media/ob-chihou-gakusei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。保育の園で、園長の時間を面談と見学だけに使い、絞る作業を外に出す形をお伝えします。</p>

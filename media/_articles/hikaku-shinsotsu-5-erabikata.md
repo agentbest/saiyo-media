@@ -71,7 +71,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 - **媒体は一つを主軸に、職種は二つまで分ける**：媒体を二つにするより、一つの媒体で職種を分ける。[複数の媒体を同時に使うときの考え方](/media/hikaku-fukusuu-baitai/)
 - **送る型と記事を置く型を組み合わせるなら、職種で役割を分ける**：送る型で職種Aを、記事で職種Bを、ではなく、両方の職種を送る型で送り、記事で「なぜ」を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **比べられる場を足すなら、翌年から**：五名の実績と体験談ができてから。[OfferBoxとワンキャリアの併用](/media/ob-heiyou-onecareer/)
-- **代行と組み合わせるなら、絞る作業と文面の下書きを**：面談と名義は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、絞る作業と文面の下書きを**：面談と名義は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。新卒5名の会社で、返す時間と面談の枠を職種ごとに先輩に分ける形をお伝えします。</p>

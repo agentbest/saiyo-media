@@ -41,7 +41,7 @@ related: ["hikaku-baitai-keiyaku", "hikaku-baitai-kirikae", "hikaku-baitai-kouka
 - **返信を当日に**：短い期間で最も効く
 - **面談の枠を、期間の前に押さえる**：返信が来てから枠を探さない
 - **選考を短く**：段階を減らし、間隔を詰める
-- **紹介と、今ある接点を使う**：リファラル、前に会った人、早期の接点。[リファラルからの母集団形成](/media/kh-boshudan-referral/)、[潜在層からの母集団形成](/media/kh-boshudan-senzai/)
+- **紹介と、今ある接点を使う**：リファラル、前に会った人、早期の接点。[OfferBoxとリファラル採用の併用](/media/ob-heiyou-referral/)、[潜在層からの母集団形成](/media/kh-boshudan-senzai/)
 
 <aside class="cta-inline">
   <p>いま使っている媒体の運用の相談だけでも構いません。短い期間で、準備が期間の外に出て、期間中が「送る・返す・会う」だけになっているかを一緒に見ます。</p>
@@ -67,7 +67,7 @@ related: ["hikaku-baitai-keiyaku", "hikaku-baitai-kirikae", "hikaku-baitai-kouka
 | 準備 | 期間の外でやること |
 |---|---|
 | 「こんな人」の一枚 | 一人に絞る。面接官と合意 |
-| 型 | 一つ。空欄は読んだ一文と仕事の一文だけ。[スカウト文面のテンプレート](/media/kh-bunmen-template/) |
+| 型 | 一つ。空欄は読んだ一文と仕事の一文だけ。[Wantedlyのスカウト文面のテンプレート管理](/media/wt-scout-template/) |
 | 企業ページ | 「こんな人」が自分で選べる材料と、選考の流れを現在のものに |
 | 面談に出る人と枠 | 決めて、期間中の週の枠を押さえる |
 | 選考の流れ | 段階を少なく、間隔を短く。面接官の日程の目安を決める |

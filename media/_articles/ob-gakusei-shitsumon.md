@@ -82,7 +82,7 @@ OfferBox経由の学生から、質問が来る。条件、配属、仕事の中
 - **書いたあと、その質問が減ったかを翌月見る**
 - **減らない質問は、書き方が分かりにくいか、書いた場所が見つけにくい**
 
-企業ページの作り方は[OfferBoxの企業ページで伝えること・伝えないこと](/media/ob-kigyo-page/)、募集要項は[OfferBoxの募集要項の書き方](/media/ob-boshu-youkou/)、質問を蓄積して戻す手順は[OfferBoxで学生からの質問に答える文面](/media/ob-offer-gakusei-shitsumon/)の手順5で書きました。
+企業ページの作り方は[OfferBoxの企業ページで伝えること・伝えないこと](/media/ob-kigyo-page/)、募集要項は[OfferBoxの募集要項の書き方](/media/ob-boshu-youkou/)、質問を蓄積して戻す手順は[OfferBoxで学生からの質問に答える文面](/media/ob-offer-gakusei-shitsumon/)で書きました。
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。質問の一枚と答える人の分担を作る時間をお伝えします。</p>
@@ -115,7 +115,7 @@ OfferBox経由の学生から、質問が来る。条件、配属、仕事の中
 - **「良い答え」を作らない**：作った答えは、入社後に戻ってくる
 - **答えられないことが多い質問は、社内で「決める」ことを検討する**：決まっていないこと自体が、学生の判断を止めている
 
-答えにくい質問の書き方は[OfferBoxで学生からの質問に答える文面](/media/ob-offer-gakusei-shitsumon/)の手順4で書きました。
+答えにくい質問の書き方は[OfferBoxで学生からの質問に答える文面](/media/ob-offer-gakusei-shitsumon/)で書きました。
 
 ## 質問の記録の残し方
 

@@ -65,7 +65,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 | 技術職を、専攻（電気・土木・機械・情報）で絞って採りたい | 企業から送る型（OfferBox） | 専攻で絞れるかは仕様で確認。現場の技術者の名義で「設備」と「教わる人」を書く |
 | 業界イメージを変えたい、若手の実態を読んでもらいたい | 通年で記事を置く型（Wantedly） | 「変わっているか」を若手の場面で書ける。記事が残る |
 | 工事・保守の中小で、知られていない | 送る型か記事を置く型 | 並べて比べる場では見られない。まず知ってもらう |
-| 拠点が多く、地方で採る | 地域ごとに拠点の社員を名義に | [地方に本社がある会社のOfferBox運用](/media/ob-chihou-unyou/)の層の分け方 |
+| 拠点が多く、地方で採る | 地域ごとに拠点の社員を名義に | [OfferBoxで地方の学生にオファーを送る考え方](/media/ob-chihou-gakusei/)の層の分け方 |
 
 どれか一つが正解ではなく、知名度と職種と拠点の広がりで、先に検討するものが変わります。
 
@@ -73,7 +73,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 
 - **大手は、比べられる場と送る型を組み合わせる**：比べられる場で総合職の受け皿を、送る型で技術職を専攻で。[OfferBoxとワンキャリアの併用](/media/ob-heiyou-onecareer/)
 - **中小は、送る型と記事を置く型を組み合わせる**：文面で「この仕事」を、記事で「若手の実態」を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
-- **学校（工業高校・高専・大学の学科）との関係と組み合わせる**：技術職は学校経由も多い。学校で会った学生に媒体で送らない。[高専生を採りたい会社のOfferBox運用](/media/ob-kosen-unyou/)、[OfferBoxと大学キャリアセンター経由の採用の併用](/media/ob-heiyou-daigaku-kyara/)
+- **学校（工業高校・高専・大学の学科）との関係と組み合わせる**：技術職は学校経由も多い。学校で会った学生に媒体で送らない。[高専生を採りたい会社の採用媒体の選び方](/media/hikaku-kosen-erabikata/)、[OfferBoxと大学キャリアセンター経由の採用の併用](/media/ob-heiyou-daigaku-kyara/)
 - **一年目は一つか二つ、型ができたら足す**：[媒体を何本併用するか](/media/hikaku-fukusuu-baitai/)
 
 <aside class="cta-inline">

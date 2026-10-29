@@ -68,7 +68,7 @@ related: ["kh-bunmen-kihon", "kh-bunmen-abtest", "kh-bunmen-ai", "kh-bunmen-bunk
 - **型の空欄に、相手が書いた言葉を入れる**：型は同じでも、空欄が相手ごとに変わる
 - **型を増やしすぎない**：二つか三つで足りる。増やすと、どの型を使うかで迷う
 - **型の考え方は、文面全体と同じ**：[スカウトを一通ずつ変える範囲の決め方](/media/kh-bunmen-kojinka/)の三層の分け方
-- **媒体ごとの型の作り方は[OfferBoxのオファーの件名](/media/ob-offer-kenmei/)の手順2**
+- **媒体ごとの型の作り方はOfferBoxのオファーの件名の手順2**
 
 型があれば、件名を考える時間は「書き出しを縮める時間」だけになります。
 
@@ -99,7 +99,7 @@ related: ["kh-bunmen-kihon", "kh-bunmen-abtest", "kh-bunmen-ai", "kh-bunmen-bunk
 
 | 媒体 | 件名の材料 | 注意 |
 |---|---|---|
-| OfferBox | 学生の自由記述の行動 | 学生は多くのオファーを受け取る。一覧で切れない短さで。[OfferBoxのオファーの件名](/media/ob-offer-kenmei/) |
+| OfferBox | 学生の自由記述の行動 | 学生は多くのオファーを受け取る。一覧で切れない短さで。OfferBoxのオファーの件名 |
 | Wantedly | 相手のストーリーやプロフィールの「なぜ」 | 相手の「なぜ」の言葉を件名に。[Wantedlyのスカウトの件名](/media/wt-scout-kenmei/) |
 | ワンキャリア | 学生の行動と、読んだ体験談への反応 | 「体験談の〇〇に反応されていて」も件名になる。[ワンキャリアのスカウトの件名](/media/oc-scout-kenmei/) |
 

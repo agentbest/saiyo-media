@@ -82,7 +82,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 
 ## 組み合わせ
 
-- **記事を置く型と送る型を組み合わせるなら**：記事で仕事の場面と安定の中身を、文面で「あなたの〇〇への関心を読んで」を。[WantedlyとOfferBoxの併用](/media/wt-heiyou-offerbox/)
+- **記事を置く型と送る型を組み合わせるなら**：記事で仕事の場面と安定の中身を、文面で「あなたの〇〇への関心を読んで」を。[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **官公庁の試験の時期と重ねない**：学生が試験勉強をしている時期を避け、両立できる時期に送る・会う
 - **学校との関係と組み合わせる**：団体は、学校の推薦や紹介で採ることもある。学校で会った学生に媒体で送らない。[OfferBoxと大学キャリアセンター経由の採用の併用](/media/ob-heiyou-daigaku-kyara/)
 - **一年目は一つ**：事務局の時間が足りるかを一年目で見る。[媒体を何本併用するか](/media/hikaku-fukusuu-baitai/)
@@ -116,7 +116,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 | 予算の承認の手続き | 事務局長。年度の前に |
 
 - **事務局の時間は、一枚と面談に**：作業は外に。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
-- **少人数の団体の窓口の決め方**：[専任の人事がいない会社のOfferBox運用](/media/ob-jinji-fuzai-unyou/)
+- **少人数の団体の窓口の決め方**：[専任の人事がいない会社の採用媒体の選び方](/media/hikaku-jinji-fuzai-erabikata/)
 
 運用代行や代理店が支えられるのは、利用の可否の確かめ方の整理、一枚の型、型の選び方の整理、文面と記事の型、送る型の作業、記事を整える部分までで、規定の確認、一枚の中身、安定の中身の開示、面談、予算の手続きは団体が行います。代理店の代行の範囲は[代理店に運用まで頼めるか](/media/kh-dairiten-unyou/)で書きました。
 

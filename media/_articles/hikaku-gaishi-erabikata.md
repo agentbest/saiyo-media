@@ -74,7 +74,7 @@ related: ["hikaku-bunkei-erabikata", "hikaku-chihou-erabikata", "hikaku-chusho-e
 - **送る時期を、二つに分ける前提で**：承認が下りた分と、追加の承認の分。[複数の媒体を同時に使うときの考え方](/media/hikaku-fukusuu-baitai/)
 - **人数が減った場合の扱いを、先に決める**：承認した学生に断る事態が起きたときの伝え方。起きないように送る数を絞るのが先。[内定辞退が続くときの見直し方](/media/ob-naitei-jitai/)
 - **中途の採用と、担当と型を分ける**：日本法人の人事が中途も担うので、新卒の型を別に。[新卒と中途で媒体はどう違うか](/media/hikaku-shinsotsu-vs-chuuto-baitai/)
-- **代行と組み合わせるなら、承認前の型の準備と絞る作業を**：日本法人の一枚と面談は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、承認前の型の準備と絞る作業を**：日本法人の一枚と面談は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。外資系企業で、承認前の型の準備と承認後の短い時期に日本法人の人事の時間を集める形をお伝えします。</p>

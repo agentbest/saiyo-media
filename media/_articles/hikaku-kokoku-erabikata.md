@@ -111,7 +111,7 @@ related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-e
 | 台帳の「近さ」で、応募の中の近い学生の数を見る | 人事 |
 
 - **現場に頼むのは、名義・一文・面談の三つ**：[OfferBoxの運用に現場社員を巻き込む方法](/media/ob-genba-makikomi/)
-- **応募が多い会社は、集める作業ではなく見分ける作業に人事の時間を**：[OfferBoxを含む複数媒体の効果を並べて見る方法](/media/ob-heiyou-heiyou-kpi/)
+- **応募が多い会社は、集める作業ではなく見分ける作業に人事の時間を**：[媒体の効果を並べて比べる方法](/media/hikaku-baitai-kouka-hikaku/)
 
 運用代行や代理店が支えられるのは、位置づけの整理、職種ごとの絞り方の型、一枚の型、文面と記事の型、送る型の作業、記事を整える部分、台帳の型までで、位置づけの決定、「こんな人」の決定、実態の開示、名義の選定、面談は企業が行います。代理店の代行の範囲は[代理店に運用まで頼めるか](/media/kh-dairiten-unyou/)で書きました。
 

@@ -99,7 +99,7 @@ related: ["kh-bunmen-abtest", "kh-bunmen-ai", "kh-bunmen-bunkei", "kh-bunmen-chi
 
 | 媒体 | フォローで気をつけること |
 |---|---|
-| OfferBox | 学生の時期（試験・研究室）に配慮。返信がない相手への再送は[OfferBoxで同じ学生に再度オファーを送るときの考え方](/media/ob-offer-saisou/) |
+| OfferBox | 学生の時期（試験・研究室）に配慮。返信がない相手への再送は[スカウトの再送文面の考え方](/media/kh-bunmen-saisou/) |
 | Wantedly | 在職中の相手が多い。時間帯と秘密に配慮。[Wantedlyのスカウト後のフォロー連絡](/media/wt-scout-follow/) |
 | ワンキャリア | フォローの仕方が体験談に書かれる。「しつこかった」も「丁寧だった」も残る。[ワンキャリアでスカウトが受諾されたあとの連絡](/media/oc-scout-judaku-go/) |
 

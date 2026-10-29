@@ -73,7 +73,7 @@ related: ["hikaku-startup-a-erabikata", "hikaku-startup-seed-erabikata", "hikaku
 - **二年目に、比べられる場を足す**：一期生の体験談と、企業ページに「選考で何が起きるか」を。[OfferBoxとワンキャリアの併用](/media/ob-heiyou-onecareer/)
 - **一期生の育て方を、媒体と同じ重さで**：一期生の一年目が、二期生以降の体験談になる
 - **段階が進んだら、位置づけを変える**：IPO準備で[IPO準備企業の採用媒体の選び方](/media/hikaku-ipo-erabikata/)
-- **代行と組み合わせるなら、絞る作業と文面の下書きを**：「なぜ新卒か」と育てる担当は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、絞る作業と文面の下書きを**：「なぜ新卒か」と育てる担当は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。シリーズB以降の会社で、中途の人事と分けた新卒の担当と、現場の育てる担当の二人の時間から、初年度の大きさをお伝えします。</p>

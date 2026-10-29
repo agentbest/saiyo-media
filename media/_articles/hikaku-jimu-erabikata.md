@@ -74,7 +74,7 @@ related: ["hikaku-backend-erabikata", "hikaku-consultant-erabikata", "hikaku-cs-
 - **記事を置く型で、事務の一日と繁忙期を**：[OfferBoxとWantedlyの併用](/media/ob-heiyou-wantedly/)
 - **総合職と並べて募集するなら、違いを両方の募集に**：[総合職の採用媒体の選び方](/media/hikaku-sogo-erabikata/)
 - **面接で「なぜ事務職か」を聞かず、総合職に誘導しない**：体験談に「誘導された」と書かれる
-- **代行と組み合わせるなら、絞る作業と返信と文面の下書きを**：総合職との違いの決定と面談は出せない。[媒体と代行の違い](/media/hikaku-baitai-vs-daikou/)
+- **代行と組み合わせるなら、絞る作業と返信と文面の下書きを**：総合職との違いの決定と面談は出せない。[運用代行に出す前提の媒体の選び方](/media/hikaku-daikou-zentei/)
 
 <aside class="cta-inline">
   <p>申込前に、運用に必要な時間の見積もりだけでも聞いてみませんか。事務職で、返せる数から送る数と募集の出し方を決め、多すぎる数を返す作業を外に出す形をお伝えします。</p>
