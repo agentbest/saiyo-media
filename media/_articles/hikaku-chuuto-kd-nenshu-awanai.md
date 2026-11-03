@@ -9,7 +9,7 @@ tags: ["中途採用", "年収", "媒体選び", "求人票", "条件提示"]
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-nenshu-awanai"
-related: ["hikaku-chuuto-kd-gyokai-image", "hikaku-chuuto-kd-keisai-umoreru", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-cost-takai"]
+related: ["hikaku-chuuto-kd-eigyo-torenai", "hikaku-chuuto-kd-gyokai-image", "hikaku-chuuto-kd-keisai-umoreru", "hikaku-chuuto-kd-kyuuyo-hikui"]
 ---
 
 いいと思った候補者ほど、希望年収が自社の想定を上回っている。面接まで進んだのに、最後の条件の話で折り合わない。中途採用では、こうした年収のずれがよく起きます。**結論から言うと、希望年収が合わないときは、媒体を替える前に「どの段階で、どの層の候補者と、どれだけ離れているか」を確かめ、年収の伝え方と手段の選び方を分けて見直します。** ずれは、媒体が悪いから起きるのではなく、求人の見せ方、狙う層、伝える順番が組み合わさって起きることが多いからです。この記事では、ずれの確かめ方から、手段ごとの年収の扱い方までを整理します。

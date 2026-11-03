@@ -9,7 +9,7 @@ tags: ["媒体比較", "中途採用", "応募が来ない", "媒体の見直し
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-oubo-konai"
-related: ["hikaku-chuuto-kd-oubo-shitsu", "hikaku-chuuto-kd-gyokai-image", "hikaku-chuuto-kd-keisai-umoreru", "hikaku-chuuto-kd-nenshu-awanai"]
+related: ["hikaku-chuuto-kd-oubo-shitsu", "hikaku-chuuto-kd-baitai-fuman", "hikaku-chuuto-kd-eigyo-torenai", "hikaku-chuuto-kd-gyokai-image"]
 ---
 
 中途採用の求人を出したのに、応募がほとんど来ない。そのとき多くの会社が最初に考えるのは「媒体が合っていないのでは」ということです。ただ、媒体を替えても応募が増えなかった、という相談も同じくらい受けます。**結論から言うと、中途採用で応募が来ないときは、媒体を替える前に「求人の中身」「条件」「露出」「返信の速さ」の順で原因を切り分け、媒体が原因だと分かってから、四つの判断軸で選び直すのが基本です。** この記事では、症状の確かめ方、切り分けの順番、媒体が原因のときの見直し方と組み合わせを整理します。

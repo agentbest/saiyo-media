@@ -9,7 +9,7 @@ tags: ["中途採用", "スカウト", "返信率", "媒体選び", "ダイレ�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-scout-henshin-nai"
-related: ["hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-keikensha-konai", "hikaku-chuuto-kd-shoukai-izon", "hikaku-chuuto-kd-cost-takai"]
+related: ["hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-engineer-torenai", "hikaku-chuuto-kd-keikensha-konai", "hikaku-chuuto-kd-nagaku"]
 ---
 
 時間をかけてスカウトを送っているのに、返信がほとんど来ない。この媒体には合う候補者がいないのではないか。そう考えて、別の媒体を探し始める担当者は少なくありません。**結論から言うと、スカウトの返信が来ないときは、媒体を替える前に「誰に送っているか」「何を書いているか」「どう送っているか」の三つを、この順番で見直します。** 三つのどれかがずれていると、媒体を替えても同じことが起きます。三つを見直しても変わらないときに、初めて媒体や手段の組み合わせを考えます。この記事では、その切り分けの順番と、媒体を替える判断の目安を整理します。

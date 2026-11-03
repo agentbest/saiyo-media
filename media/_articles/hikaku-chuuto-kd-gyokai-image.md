@@ -9,7 +9,7 @@ tags: ["中途採用", "業界イメージ", "媒体選び", "採用広報", "�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-gyokai-image"
-related: ["hikaku-chuuto-kd-keisai-umoreru", "hikaku-chuuto-kd-nenshu-awanai", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-cost-takai"]
+related: ["hikaku-chuuto-kd-eigyo-torenai", "hikaku-chuuto-kd-keisai-umoreru", "hikaku-chuuto-kd-kyuuyo-hikui", "hikaku-chuuto-kd-mikeiken-ooi"]
 ---
 
 業界の名前を出しただけで、候補者に身構えられる。きつそう、古そう、将来が不安そう。そうしたイメージが先に立ち、仕事の中身を読んでもらう前に候補から外される。業界イメージに悩む会社は少なくありません。**結論から言うと、業界イメージが不利な会社の中途採用は、イメージを打ち消そうとする前に、候補者が実際に何を気にしているかを確かめ、その点に事実で答えられる場を持つ手段を選びます。** イメージは、言葉で否定しても消えにくいものです。候補者が気にしている点に、具体的な事実で答えることで、比べられ方が変わります。この記事では、イメージの影響の見分け方から、手段の選び方までを整理します。

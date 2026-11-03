@@ -9,7 +9,7 @@ tags: ["中途採用", "求人掲載", "求人票", "媒体選び", "転職サ�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-keisai-umoreru"
-related: ["hikaku-chuuto-kd-gyokai-image", "hikaku-chuuto-kd-nenshu-awanai", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-cost-takai"]
+related: ["hikaku-chuuto-kd-eigyo-torenai", "hikaku-chuuto-kd-gyokai-image", "hikaku-chuuto-kd-kyuuyo-hikui", "hikaku-chuuto-kd-mikeiken-ooi"]
 ---
 
 転職サイトに求人を出したのに、見られている気がしない。同じ職種の求人がたくさん並ぶ中で、自社の求人が埋もれている。中途採用の掲載では、よくある悩みです。**結論から言うと、掲載しても埋もれるときは、目立たせる工夫を考える前に「候補者がどんな言葉で探し、どこで自社の求人を見つけるか」から見直し、そのうえで掲載以外の入口を足すかを決めます。** 埋もれる原因の多くは、求人の中身よりも、候補者の探し方と求人の言葉がずれていることにあります。この記事では、埋もれ方の確かめ方から、入口の足し方までを整理します。

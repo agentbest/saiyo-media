@@ -9,7 +9,7 @@ tags: ["中途採用", "採用コスト", "媒体選び", "予算", "採用単�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-cost-takai"
-related: ["hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-gyokai-image", "hikaku-chuuto-kd-jitai-ooi", "hikaku-chuuto-kd-keikensha-konai"]
+related: ["hikaku-chuuto-kd-yosan-sukunai", "hikaku-chuuto-kd-baitai-fuman", "hikaku-chuuto-kd-chihou-torenai", "hikaku-chuuto-kd-chimeido-nai"]
 ---
 
 採用一人あたりの費用が、思ったより膨らんでいる。経営者から「もっと安く採れないのか」と言われる。中途採用の担当者にとって、コストの話は避けて通れません。**結論から言うと、コストが高いときは、安い媒体を探す前に、費用を「媒体に払う費用」「紹介に払う費用」「社内で使っている時間」の三つに分け、どこで膨らんでいるかを確かめてから組み直します。** 支払いの額だけを見て媒体を替えると、社内の時間が増えて、かえって採用が止まることがあります。この記事では、費用の分け方から、型ごとの見方、組み直しの順番までを整理します。

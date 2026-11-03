@@ -9,7 +9,7 @@ tags: ["媒体比較", "中途採用", "応募の質", "媒体の見直し", "�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-oubo-shitsu"
-related: ["hikaku-chuuto-kd-oubo-konai", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-cost-takai", "hikaku-chuuto-kd-gyokai-image"]
+related: ["hikaku-chuuto-kd-oubo-konai", "hikaku-chuuto-kd-baitai-fuman", "hikaku-chuuto-kd-mikeiken-ooi", "hikaku-chuuto-kd-norikae"]
 ---
 
 応募の数はあるのに、書類で見送る人ばかり。面接に進んでも、求めていた経験とずれている。中途採用でこの状態が続くと、書類を見る時間と面接の時間ばかりが増え、「この媒体は質が低い」と感じがちです。**結論から言うと、応募は来るが合わないときは、媒体を替える前に、ずれが「求人の書き方」「要件」「媒体の対象」のどこにあるかを確かめ、媒体の対象のずれだと分かってから選び直すのが基本です。** 合わない応募の多くは、媒体ではなく、求人が誰に向けて書かれているかで生まれています。この記事では、ずれの見つけ方、切り分けの順番、媒体の選び直しと組み合わせを整理します。

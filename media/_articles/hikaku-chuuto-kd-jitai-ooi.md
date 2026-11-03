@@ -9,7 +9,7 @@ tags: ["中途採用", "辞退", "選考", "媒体選び", "採用手法"]
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-jitai-ooi"
-related: ["hikaku-chuuto-kd-keikensha-konai", "hikaku-chuuto-kd-shoukai-izon", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-cost-takai"]
+related: ["hikaku-chuuto-kd-corporate-torenai", "hikaku-chuuto-kd-eigyo-torenai", "hikaku-chuuto-kd-fukusuu-shokushu", "hikaku-chuuto-kd-isogi"]
 ---
 
 応募は来る、面接の日程も決まる。それなのに、面接の直前や内定のあとに辞退される。中途採用で辞退が続くと、媒体の質を疑いたくなります。**結論から言うと、辞退が多いときは、媒体を替える前に「どの段階で辞退されているか」を分け、手段の問題なのか、選考の進め方の問題なのかを切り分けることが先です。** 辞退の多くは、候補者が複数の会社を同時に受けている中で、比べられて起きます。手段を替えても、比べられ方が変わらなければ、辞退は続きます。この記事では、段階ごとの辞退の見方と、手段との関係を整理します。

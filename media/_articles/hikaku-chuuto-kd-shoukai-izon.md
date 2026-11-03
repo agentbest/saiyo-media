@@ -9,7 +9,7 @@ tags: ["中途採用", "人材紹介", "媒体選び", "スカウト", "採用�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "hikaku-chuuto-kd-shoukai-izon"
-related: ["hikaku-chuuto-kd-keikensha-konai", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-jitai-ooi", "hikaku-chuuto-kd-scout-henshin-nai"]
+related: ["hikaku-chuuto-kd-keikensha-konai", "hikaku-chuuto-kd-chimeido-nai", "hikaku-chuuto-kd-corporate-torenai", "hikaku-chuuto-kd-eigyo-torenai"]
 ---
 
 中途採用のほとんどを紹介会社に頼っている。費用はかかるが、自社で媒体を回す余裕がない。いつかは自社で採れるようにしたいと思いながら、手がつけられずにいる。そうした相談をよく受けます。**結論から言うと、紹介に頼りすぎているときは、紹介をやめるのではなく、職種ごとに「紹介で採る」と「媒体で採る」を分け、媒体で採れそうな職種から一つずつ媒体を足していきます。** 紹介にも媒体にも、それぞれに合う職種と状況があります。どちらかに寄せきるのではなく、役割を分けることで、費用と社内の時間の釣り合いが取れていきます。
