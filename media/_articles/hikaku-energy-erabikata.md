@@ -9,7 +9,7 @@ tags: ["媒体比較", "エネルギー業界", "業界別", "新卒採用", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-energy-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-energy", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 電力、ガス、石油、再生可能エネルギー、またはその設備や工事に関わる会社が、新卒を採る。業界は変化の途中で、既存の事業と新しい事業が同じ会社の中にあり、学生は「変わる業界に関わりたい」層と「安定」層の二層で来る。文面や記事に「脱炭素」「エネルギーの転換」と書くと承認や応募は付くが、配属が既存の事業で「思っていたのと違う」で離れる。**結論から言うと、エネルギー業界の学生は二層で来て、どちらの層も「自社が変化のどこにいるか」「配属が既存の事業か新しい事業か」を確かめます。媒体の選び方は、自社が変化のどこにいるかを一行にしたうえで、変化の実態を場面で書ける会社は記事を置く型を、技術で絞りたい会社は送る型を、知られた大手は学生が並べて比べる場を先に検討します。** この記事では、エネルギー業界の採用構造、判断軸の当て方、学生が確かめること、条件ごとにどれを先に検討するか、組み合わせ、見せ方、分担を整理します。インフラ全般の見方は[インフラ業界の採用媒体の選び方](/media/hikaku-infra-gyokai-erabikata/)、3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

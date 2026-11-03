@@ -9,7 +9,7 @@ tags: ["媒体比較", "農業", "業界別", "新卒採用", "地方"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-agri-erabikata"
-related: ["hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata", "hikaku-denki-erabikata"]
+related: ["hikaku-chuuto-ind-agri", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
 ---
 
 農業法人、農業関連の会社（資材、流通、加工、農機）、JAなどが、新卒を採る。新卒採用の経験は少なく、社長か現場の責任者が採用を見ている。「農業に興味のある学生は増えている」と聞いて媒体を探すが、興味のある学生が来ても、季節の繁閑、体力、住まい、収入の実態を知って離れる。就農（自分で農業をする）を考えている学生と、農業法人に就職する学生の違いも、会社の側で整理されていない。**結論から言うと、学生の「農業に興味がある」と、季節・体力・住まい・収入の実態には差があります。媒体の前に、就農と就職の違いを分け、暮らしと季節の実態を資料にまとめます。媒体は、地元やUターンの層に絞って送る型か、暮らしと仕事の場面を記事で読んでもらう型を先に検討し、学生が並べて比べる場は先にすることが少ないです。** この記事では、農業業界の採用構造、判断軸の当て方、学生が確かめること、条件ごとにどれを先に検討するか、組み合わせ、見せ方、分担を整理します。地方の会社の層の分け方は[OfferBoxで地方の学生にオファーを送る考え方](/media/ob-chihou-gakusei/)、3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

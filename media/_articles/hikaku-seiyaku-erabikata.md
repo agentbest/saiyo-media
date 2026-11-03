@@ -9,7 +9,7 @@ tags: ["媒体比較", "製薬業界", "業界別", "新卒採用", "MR"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-seiyaku-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-seiyaku", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 大手の製薬会社、中堅、後発品、受託（開発・製造）、創薬ベンチャー、医薬品卸が、新卒を採る。職種は、MR（営業）、研究、開発（臨床開発）、生産（製造・品質）、薬事、本社の職種に分かれ、採用の形が職種で違う。薬学と理系の学生は研究室と学会と専攻の流れで会社を選び、大手は知られていて学生の候補に入っているが、中堅・後発・受託・創薬ベンチャーは候補に入っていない。**結論から言うと、製薬業界は職種で採用の形が違うので、職種ごとに「こんな人」の一行を分け、MRは「薬の営業」の実態を隠さず一枚にします。大手は学生が並べて比べる場を、知られていない中堅・受託・ベンチャーは専攻と研究の内容で絞って送る型か、研究や開発の一日を記事で読んでもらう型を先に検討します。研究・開発は研究室と学会の流れの中で媒体を位置づけます。** この記事では、製薬業界の採用構造、判断軸の当て方、学生が確かめること、職種ごとの一行、条件ごとにどれを先に検討するか、組み合わせ、見せ方、分担を整理します。3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

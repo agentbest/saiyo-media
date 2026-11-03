@@ -9,7 +9,7 @@ tags: ["媒体比較", "ベンチャー", "業界別", "新卒採用", "知名�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-venture-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-venture", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 自社を「ベンチャー」と呼んでいる。成長志向で、若手が多く、変化が速い。社員は数十名から数百名。新卒採用は毎年行っていて、媒体を選ぶときに「ベンチャー志望の学生が集まる媒体はどれか」で考えている。ところが、学生が「ベンチャー」で思い浮かべるのは、知名度のある成長企業で、自社がその中に入っているかどうかは、会社の側の自己認識と合っていないことがあります。**結論から言うと、「ベンチャー」の一語は、学生と会社で思い浮かべるものがずれます。媒体の選び方は、自社が「知名度のある成長企業」か「知られていない成長企業」かで分かれ、前者は学生が並べて比べる場を先に、後者は企業から送る型か記事を置く型を先に検討します。どちらでも、「ベンチャーらしさ」（成長、裁量、若手）で戦わず、最初の年の具体で見せます。** この記事では、ベンチャーの言葉のずれ、採用構造、判断軸の当て方、学生が確かめること、知名度の有無でどれを先に検討するか、組み合わせ、見せ方、分担を整理します。段階が初期のスタートアップは[スタートアップ業界の採用媒体の選び方](/media/hikaku-startup-erabikata/)、3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

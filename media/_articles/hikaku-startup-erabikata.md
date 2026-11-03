@@ -9,7 +9,7 @@ tags: ["媒体比較", "スタートアップ", "業界別", "新卒採用", "�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-startup-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-startup", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 sources:
   - name: "OfferBox よくある質問（i-plug 企業向けサイト）"
     url: "https://offerbox.jp/company/faq"

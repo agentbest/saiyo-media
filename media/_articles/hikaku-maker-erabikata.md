@@ -9,7 +9,7 @@ tags: ["媒体比較", "メーカー", "業界別", "新卒採用", "製造業"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-maker-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-maker", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 BtoCの大手、BtoBの大手、BtoCの中堅・中小、BtoBの中堅・中小、地方のメーカーが、新卒を採る。学生が「メーカー志望」と言うとき、指しているのは製品名で知られたBtoCの大手で、BtoBの中堅・中小のメーカーが「メーカー」の言葉で募集しても、その学生には自社を指していると読まれない。技術系は研究室と学校の推薦の流れで会社を選び、文系は営業と管理。工場が地方にあり、配属が入社後に決まることが多い。**結論から言うと、メーカーは「BtoCかBtoBか」「大手か中堅・中小か」の四つに分けてから媒体を選びます。「メーカー志望」の学生は自社を指していないことを前提に、BtoBは「何の最終製品に入っているか」でつなぐ書き出しを、中堅・中小は地元と最終製品を最初に置きます。技術系は研究室と推薦の流れを主にし、媒体は推薦の外の学生に研究の距離を渡す補助に、文系は「ものづくりに興味」ではなく「技術や仕組みを人に説明した」の記述で絞ります。BtoC大手は学生が並べて比べる場で職種と配属の実態を、BtoBは最終製品を示す紹介で専攻と研究の内容で絞って送る型を、中小は地元と工場の一日の記事を先に検討します。** この記事では、メーカーに共通する採用構造、判断軸の当て方、学生が確かめること、四つの区分ごとの一行、条件ごとにどれを先に検討するか、組み合わせ、見せ方、分担を整理します。業界ごとの違いは[化学](/media/hikaku-kagaku-erabikata/)、[食品](/media/hikaku-shokuhin-erabikata/)、[電機](/media/hikaku-denki-erabikata/)、[半導体](/media/hikaku-handoutai-erabikata/)、[自動車](/media/hikaku-jidosha-erabikata/)の記事で、3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

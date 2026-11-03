@@ -9,7 +9,7 @@ tags: ["媒体比較", "広告業界", "業界別", "新卒採用", "Web広告"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-kokoku-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-kokoku", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 広告代理店、Web広告の会社、制作会社が、新卒を採る。大手代理店は独自の早い選考で、学生の憧れが集まり、応募には困らない。Web広告や制作や中小の代理店は多数あり、学生には知られておらず、大手の選考のあとで「残った学生」に会う形になりがち。学生は「華やか」「面白いことができる」の憧れで来て、数字を追う営業、クライアント対応、修正の繰り返し、長時間の実態を知って離れる。**結論から言うと、広告業界の応募の多さは憧れの数で、要る学生の数ではありません。営業・企画・クリエイティブ・運用の職種で「こんな人」を「数字を追った・作った・人を動かした経験」に分け、大手は学生が並べて比べる場を、Web広告・制作・中小代理店は経験で絞って送る型か、仕事の場面を記事で読んでもらう型を先に検討します。どちらも、憧れと実態の差を隠さないことが先です。** この記事では、広告業界の採用構造、判断軸の当て方、学生が確かめること、職種ごとの「こんな人」、条件ごとにどれを先に検討するか、組み合わせ、見せ方、分担を整理します。3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

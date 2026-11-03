@@ -9,7 +9,7 @@ tags: ["媒体比較", "NPO", "非営利", "業界別", "新卒採用"]
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-npo-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-npo", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 NPO法人や非営利の団体が、新卒を職員として採る。事務局は少人数で、採用の経験は少ない。ミッションに共感する学生に来てほしいが、給与では企業と並べず、「この仕事で食べていけるのか」を学生も家族も心配している。媒体を選ぶときに、「社会課題に関心のある学生が集まる媒体はどれか」で考えがちですが、学生が確かめているのは、関心の一致ではなく、働き続けられる実態です。**結論から言うと、NPOは「ミッションで選ばれ、給与で選ばれない」前提を隠さず、学生が確かめる「食べていけるか」「活動の実態」「キャリアの道」「財源が続くか」に先に答えます。媒体は、ミッションを理念ではなく出来事で書ける団体は記事を置く型を、少人数で書く時間がない団体は企業から送る型を先に検討し、学生が並べて比べる場は候補に入ってから足します。** この記事では、NPOの採用構造、判断軸の当て方、学生が確かめること、条件ごとにどれを先に検討するか、組み合わせ、見せ方、分担を整理します。3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。

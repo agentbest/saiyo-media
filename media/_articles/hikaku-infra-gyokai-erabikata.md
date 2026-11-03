@@ -9,7 +9,7 @@ tags: ["媒体比較", "インフラ業界", "業界別", "新卒採用", "技�
 pubDate: 2026-09-20
 reviewedAt: 2026-09-20
 slug: "hikaku-infra-gyokai-erabikata"
-related: ["hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata", "hikaku-dantai-erabikata"]
+related: ["hikaku-chuuto-ind-infra-gyokai", "hikaku-agri-erabikata", "hikaku-butsuryu-erabikata", "hikaku-consul-erabikata"]
 ---
 
 電力、ガス、鉄道、通信、水道、またはその工事や保守を担う会社が、新卒を採る。学生は「インフラは安定している」で来るが、入ってから「現場が多い」「転勤がある」「夜勤がある」「地方の勤務地だった」で離れる。媒体を選ぶときに「安定志向の学生が集まる媒体はどれか」で考えがちですが、学生が確かめているのは、安定の言葉ではなく、現場と転勤と夜勤と地方の実態です。**結論から言うと、インフラ業界の学生は「安定」で来て、「現場・転勤・夜勤・地方」の実態を確かめて離れます。媒体の選び方は、地域で知られた大手なら学生が並べて比べる場を先に、技術職なら専攻で絞って送る型を、知られていない工事・保守の会社なら送る型か記事を置く型を先に検討します。どの媒体でも、実態を隠さない見せ方が媒体より先です。** この記事では、インフラ業界の採用構造、判断軸の当て方、学生が確かめること、知名度と職種でどれを先に検討するか、組み合わせ、見せ方、分担を整理します。3媒体の全体像は[OfferBox・Wantedly・ワンキャリアの違いと選び方](/media/hikaku-3baitai/)で書きました。数値と料金は書きません。優劣は断定しません。
