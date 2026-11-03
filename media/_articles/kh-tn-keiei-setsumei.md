@@ -9,7 +9,7 @@ tags: ["採用担当", "経営報告", "採用KPI", "採用予算", "採用ノ�
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "kh-tn-keiei-setsumei"
-related: ["kh-tn-joushi-houkoku", "kh-tn-hajimete", "kh-tn-shigoto-zentai", "kh-tn-shuukan"]
+related: ["kh-tn-joushi-houkoku", "kh-tn-baitai-tantou", "kh-tn-dairiten-tantou", "kh-tn-denwa"]
 ---
 
 採用担当者が経営会議で採用の数字を説明すると、応募数や通過率の話の途中で「結局、いつ何人入るの？」と遮られることがあります。採用担当者にとって大切な数字と、経営者が知りたいことがずれているからです。**結論から言うと、採用の数字を経営に説明するときは、数字をそのまま並べず、「間に合うか」「いくらかかるか」「何を決めればよいか」の三つの問いに置き換えて伝えるのが基本です。** この記事では、三つの問いへの置き換え方と、見せる順番、費用と予実の差の説明の仕方、一枚の型を整理します。

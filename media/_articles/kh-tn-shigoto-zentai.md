@@ -9,7 +9,7 @@ tags: ["採用担当", "採用業務", "年間スケジュール", "採用ノウ
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "kh-tn-shigoto-zentai"
-related: ["kh-tn-hajimete", "kh-tn-joushi-houkoku", "kh-tn-keiei-setsumei", "kh-tn-shuukan"]
+related: ["kh-tn-hajimete", "kh-tn-baitai-tantou", "kh-tn-dairiten-tantou", "kh-tn-denwa"]
 ---
 
 採用担当者の仕事は、応募者への連絡や面接の調整のように目の前の作業が多く、全体像が見えにくい仕事です。目の前の作業に追われていると、計画を立てる時期や、次の募集の準備を始める時期を逃してしまいます。**結論から言うと、採用担当者の仕事は「計画」「母集団づくり」「選考」「入社前後」の四つの層に分け、1年のどの時期にどの層が重くなるかを先に知っておくと、全体を見ながら動けます。** この記事では、四つの層の中身と、新卒と中途を重ねた1年の流れ、毎月と毎週の仕事を整理します。

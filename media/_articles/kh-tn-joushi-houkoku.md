@@ -9,7 +9,7 @@ tags: ["採用担当", "報告", "採用KPI", "採用ノウハウ"]
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "kh-tn-joushi-houkoku"
-related: ["kh-tn-keiei-setsumei", "kh-tn-hajimete", "kh-tn-shigoto-zentai", "kh-tn-shuukan"]
+related: ["kh-tn-keiei-setsumei", "kh-tn-shiryou", "kh-tn-baitai-tantou", "kh-tn-dairiten-tantou"]
 ---
 
 採用の進捗を上司に報告すると、「で、間に合うの？」「何をすればいいの？」と聞き返されることがあります。応募の数や面接の予定を丁寧に並べても、上司が知りたいことに答えていないと、報告のたびに同じ質問が返ってきます。**結論から言うと、採用の進捗の報告は「事実」「判断」「お願い」の三つの段に分けて伝えるのが基本です。** この記事では、段ごとに書くこと、報告の間隔と形、そのまま使える報告の型を整理します。

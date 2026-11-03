@@ -9,7 +9,7 @@ tags: ["採用担当", "業務設計", "スケジュール", "採用ノウハウ
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "kh-tn-shuukan"
-related: ["kh-tn-hajimete", "kh-tn-joushi-houkoku", "kh-tn-keiei-setsumei", "kh-tn-shigoto-zentai"]
+related: ["kh-tn-baitai-tantou", "kh-tn-dairiten-tantou", "kh-tn-denwa", "kh-tn-genba-chousei"]
 ---
 
 採用担当者の1週間は、応募の通知や面接の依頼が入るたびに予定が動き、気づくと求人票の更新やスカウトの作業が後回しになっています。予定を立てても崩れるのは、どの時間を守るかが決まっていないからです。**結論から言うと、採用担当者の1週間は「候補者への返信の時間」「面接の枠」「週の振り返り」の三つを先に固定し、残りの時間に作業を置くと崩れにくくなります。** この記事では、固定する時間の決め方と1週間の型、兼務や繁忙期のときの組み方を整理します。なお、ここで示す時間の置き方は設計上の例で、会社ごとに置き換えて使うことを想定しています。

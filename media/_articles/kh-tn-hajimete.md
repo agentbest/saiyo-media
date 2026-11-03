@@ -9,7 +9,7 @@ tags: ["採用担当", "新任", "採用業務", "採用ノウハウ"]
 pubDate: 2026-11-04
 reviewedAt: 2026-11-04
 slug: "kh-tn-hajimete"
-related: ["kh-tn-shigoto-zentai", "kh-tn-joushi-houkoku", "kh-tn-keiei-setsumei", "kh-tn-shuukan"]
+related: ["kh-tn-shigoto-zentai", "kh-tn-baitai-tantou", "kh-tn-dairiten-tantou", "kh-tn-denwa"]
 ---
 
 異動や兼務で、初めて採用担当になった人は、何から手をつければよいか迷います。前任者から引き継いだ資料は多く、媒体の管理画面や紹介会社からのメールも次々に届きます。**結論から言うと、初めて採用担当になった人がまず覚えるのは、「自社の採用のいまの状態」「採用でよく使う言葉」「候補者への連絡の基本」「社内の関係者」の四つで、この順番で押さえるのが近道です。** この記事では、四つの中身と、最初の数週間にやらないほうがよいことを整理します。
