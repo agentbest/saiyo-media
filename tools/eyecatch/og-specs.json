@@ -59,7 +59,7 @@
   "pill": "記事一覧",
   "title": "採用ノウハウの記事",
   "chips": [
-   "101本"
+   "201本"
   ]
  },
  {
@@ -90,7 +90,7 @@
   "pill": "タグ",
   "title": "「新卒採用」の記事",
   "chips": [
-   "290本"
+   "300本"
   ]
  },
  {
@@ -99,7 +99,7 @@
   "pill": "タグ",
   "title": "「中途採用」の記事",
   "chips": [
-   "117本"
+   "132本"
   ]
  },
  {
@@ -157,12 +157,39 @@
   ]
  },
  {
+  "name": "tag-7b2efd5a50",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「求人票」の記事",
+  "chips": [
+   "59本"
+  ]
+ },
+ {
   "name": "tag-db069bd72c",
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「掲載」の記事",
   "chips": [
-   "54本"
+   "55本"
+  ]
+ },
+ {
+  "name": "tag-69bc7e0c9e",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「面接」の記事",
+  "chips": [
+   "42本"
+  ]
+ },
+ {
+  "name": "tag-6d952dbfe4",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「採用計画」の記事",
+  "chips": [
+   "38本"
   ]
  },
  {
@@ -180,7 +207,16 @@
   "pill": "タグ",
   "title": "「運用」の記事",
   "chips": [
-   "36本"
+   "37本"
+  ]
+ },
+ {
+  "name": "tag-618fff8cc1",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「選考設計」の記事",
+  "chips": [
+   "34本"
   ]
  },
  {
@@ -188,15 +224,6 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「オファー文面」の記事",
-  "chips": [
-   "29本"
-  ]
- },
- {
-  "name": "tag-7b2efd5a50",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「求人票」の記事",
   "chips": [
    "29本"
   ]
@@ -274,6 +301,24 @@
   ]
  },
  {
+  "name": "tag-b882192df3",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「運用代行」の記事",
+  "chips": [
+   "21本"
+  ]
+ },
+ {
+  "name": "tag-38f076a693",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「採用体制」の記事",
+  "chips": [
+   "21本"
+  ]
+ },
+ {
   "name": "tag-bfe8b8d109",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -297,14 +342,14 @@
   "pill": "タグ",
   "title": "「採用媒体」の記事",
   "chips": [
-   "17本"
+   "18本"
   ]
  },
  {
-  "name": "tag-b882192df3",
+  "name": "tag-e268a44255",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「運用代行」の記事",
+  "title": "「面接官」の記事",
   "chips": [
    "16本"
   ]
@@ -315,6 +360,24 @@
   "pill": "タグ",
   "title": "「エンジニア採用」の記事",
   "chips": [
+   "15本"
+  ]
+ },
+ {
+  "name": "tag-f1e2365ccd",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「書き方」の記事",
+  "chips": [
+   "15本"
+  ]
+ },
+ {
+  "name": "tag-03f440e0d5",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「スタートアップ」の記事",
+  "chips": [
    "14本"
   ]
  },
@@ -323,15 +386,6 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「会社ページ」の記事",
-  "chips": [
-   "14本"
-  ]
- },
- {
-  "name": "tag-f1e2365ccd",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「書き方」の記事",
   "chips": [
    "14本"
   ]
@@ -355,10 +409,10 @@
   ]
  },
  {
-  "name": "tag-03f440e0d5",
+  "name": "tag-7a9dd791d9",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「スタートアップ」の記事",
+  "title": "「カジュアル面談」の記事",
   "chips": [
    "13本"
   ]
@@ -382,15 +436,6 @@
   ]
  },
  {
-  "name": "tag-7a9dd791d9",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「カジュアル面談」の記事",
-  "chips": [
-   "12本"
-  ]
- },
- {
   "name": "tag-547f350f6b",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -400,19 +445,19 @@
   ]
  },
  {
-  "name": "tag-6d952dbfe4",
+  "name": "tag-2b76450fb6",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「採用計画」の記事",
+  "title": "「引き継ぎ」の記事",
   "chips": [
    "11本"
   ]
  },
  {
-  "name": "tag-618fff8cc1",
+  "name": "tag-1bd4f666ec",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「選考設計」の記事",
+  "title": "「採用予算」の記事",
   "chips": [
    "11本"
   ]
@@ -422,15 +467,6 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「インターン」の記事",
-  "chips": [
-   "10本"
-  ]
- },
- {
-  "name": "tag-2b76450fb6",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「引き継ぎ」の記事",
   "chips": [
    "10本"
   ]
@@ -463,6 +499,15 @@
   ]
  },
  {
+  "name": "tag-eec4a3145d",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「年間計画」の記事",
+  "chips": [
+   "10本"
+  ]
+ },
+ {
   "name": "tag-176f656223",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -485,6 +530,15 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「共感採用」の記事",
+  "chips": [
+   "9本"
+  ]
+ },
+ {
+  "name": "tag-175a648ad4",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「採用単価」の記事",
   "chips": [
    "9本"
   ]
@@ -517,10 +571,10 @@
   ]
  },
  {
-  "name": "tag-175a648ad4",
+  "name": "tag-2f872c7d50",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「採用単価」の記事",
+  "title": "「候補者対応」の記事",
   "chips": [
    "8本"
   ]
@@ -544,6 +598,15 @@
   ]
  },
  {
+  "name": "tag-4ebcb087a7",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「新規事業」の記事",
+  "chips": [
+   "8本"
+  ]
+ },
+ {
   "name": "tag-0f1114824b",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -553,28 +616,19 @@
   ]
  },
  {
-  "name": "tag-eec4a3145d",
+  "name": "tag-829fe410e1",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「年間計画」の記事",
+  "title": "「人材紹介」の記事",
   "chips": [
    "8本"
   ]
  },
  {
-  "name": "tag-69bc7e0c9e",
+  "name": "tag-91f09276c9",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「面接」の記事",
-  "chips": [
-   "8本"
-  ]
- },
- {
-  "name": "tag-e268a44255",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「面接官」の記事",
+  "title": "「募集要項」の記事",
   "chips": [
    "8本"
   ]
@@ -616,6 +670,15 @@
   ]
  },
  {
+  "name": "tag-70c85a35e7",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「勤務地」の記事",
+  "chips": [
+   "7本"
+  ]
+ },
+ {
   "name": "tag-4c542544c4",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -629,6 +692,15 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「効果測定」の記事",
+  "chips": [
+   "7本"
+  ]
+ },
+ {
+  "name": "tag-fe71ecd323",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「採用人数」の記事",
   "chips": [
    "7本"
   ]
@@ -661,19 +733,19 @@
   ]
  },
  {
-  "name": "tag-4ebcb087a7",
+  "name": "tag-86cd060c1e",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「新規事業」の記事",
+  "title": "「導入」の記事",
   "chips": [
    "7本"
   ]
  },
  {
-  "name": "tag-86cd060c1e",
+  "name": "tag-c224f70f11",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「導入」の記事",
+  "title": "「役割分担」の記事",
   "chips": [
    "7本"
   ]
@@ -724,19 +796,19 @@
   ]
  },
  {
-  "name": "tag-70c85a35e7",
+  "name": "tag-981e1ef1ac",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「勤務地」の記事",
+  "title": "「現場社員」の記事",
   "chips": [
    "6本"
   ]
  },
  {
-  "name": "tag-1bd4f666ec",
+  "name": "tag-eeca3817a8",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「採用予算」の記事",
+  "title": "「辞退」の記事",
   "chips": [
    "6本"
   ]
@@ -778,6 +850,15 @@
   ]
  },
  {
+  "name": "tag-ec97fdf87c",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「選考フロー」の記事",
+  "chips": [
+   "6本"
+  ]
+ },
+ {
   "name": "tag-0bffb04dc9",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -800,6 +881,15 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「導線」の記事",
+  "chips": [
+   "6本"
+  ]
+ },
+ {
+  "name": "tag-003c0b6eb1",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「内定」の記事",
   "chips": [
    "6本"
   ]
@@ -832,6 +922,15 @@
   ]
  },
  {
+  "name": "tag-14ec94e9cf",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「評価基準」の記事",
+  "chips": [
+   "6本"
+  ]
+ },
+ {
   "name": "tag-45655c94ef",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -850,12 +949,12 @@
   ]
  },
  {
-  "name": "tag-c224f70f11",
+  "name": "tag-2277af8a0c",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「役割分担」の記事",
+  "title": "「ATS」の記事",
   "chips": [
-   "6本"
+   "5本"
   ]
  },
  {
@@ -886,6 +985,15 @@
   ]
  },
  {
+  "name": "tag-dc13fdaf63",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「リファラル」の記事",
+  "chips": [
+   "5本"
+  ]
+ },
+ {
   "name": "tag-4a2933d384",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -904,10 +1012,28 @@
   ]
  },
  {
+  "name": "tag-d8a1d33e36",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「応募」の記事",
+  "chips": [
+   "5本"
+  ]
+ },
+ {
   "name": "tag-f59bd9e46e",
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「改善」の記事",
+  "chips": [
+   "5本"
+  ]
+ },
+ {
+  "name": "tag-7f1f063128",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「外注」の記事",
   "chips": [
    "5本"
   ]
@@ -922,6 +1048,15 @@
   ]
  },
  {
+  "name": "tag-0c17716fea",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「給与」の記事",
+  "chips": [
+   "5本"
+  ]
+ },
+ {
   "name": "tag-d802eaf18f",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -931,10 +1066,10 @@
   ]
  },
  {
-  "name": "tag-981e1ef1ac",
+  "name": "tag-30a4e1ceb5",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「現場社員」の記事",
+  "title": "「見直し」の記事",
   "chips": [
    "5本"
   ]
@@ -958,15 +1093,6 @@
   ]
  },
  {
-  "name": "tag-eeca3817a8",
-  "pillar": "hikaku",
-  "pill": "タグ",
-  "title": "「辞退」の記事",
-  "chips": [
-   "5本"
-  ]
- },
- {
   "name": "tag-96495f78b7",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -985,10 +1111,10 @@
   ]
  },
  {
-  "name": "tag-829fe410e1",
+  "name": "tag-15da28cb5e",
   "pillar": "hikaku",
   "pill": "タグ",
-  "title": "「人材紹介」の記事",
+  "title": "「早期離職」の記事",
   "chips": [
    "5本"
   ]
@@ -1030,6 +1156,15 @@
   ]
  },
  {
+  "name": "tag-ff4d90ffe3",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「複数職種」の記事",
+  "chips": [
+   "5本"
+  ]
+ },
+ {
   "name": "tag-fe77d4b66f",
   "pillar": "hikaku",
   "pill": "タグ",
@@ -1043,6 +1178,15 @@
   "pillar": "hikaku",
   "pill": "タグ",
   "title": "「編集」の記事",
+  "chips": [
+   "5本"
+  ]
+ },
+ {
+  "name": "tag-659b3528a8",
+  "pillar": "hikaku",
+  "pill": "タグ",
+  "title": "「予算配分」の記事",
   "chips": [
    "5本"
   ]
