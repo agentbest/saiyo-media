@@ -59,6 +59,7 @@ const PILLAR_CTA = {
              'これから申し込む場合も、料金はWantedlyの正規料金のままです'],
     label: 'Wantedlyの運用を相談する', short: 'Wantedlyの運用を無料で相談',
     media: 'Wantedly',
+    page: { href: '/wantedly/', label: 'Wantedly販売代理店のご案内を読む' },
     placeholder: '例：エンジニアの募集を出しているが応募が少ない。ストーリーとスカウトの回し方を相談したい。' },
   onecareer: {
     lead: 'ワンキャリアの掲載・スカウト・イベント、組み立てから相談できます',
@@ -337,6 +338,7 @@ const SERVICES = {
   infra:    { name: '長期インターン採用（Infra）', note: '月額5万円〜／デポジットプラン1名9万円〜', href: 'https://infra.agent-best.net/' },
   green:    { name: 'Green運用代行', note: '成功報酬・入社時1名50万円', href: 'https://green.agent-best.net/' },
   offerbox: { name: 'OfferBox運用代行', note: '入社承諾時のみ20万円の完全成果報酬', href: 'https://offerboxapp.com/' },
+  wantedly: { name: 'Wantedly販売代理店', note: '採用課題の相談から申込・運用代行まで', href: '/wantedly/' },
   scout:    { name: 'スカウト代行', note: '月額0円のプランから', href: 'https://scout.agent-best.net/' },
   business: { name: '採用ご担当者さま向けサービス一覧', note: '人材紹介・採用代行・求人広告代理店', href: 'https://www.agent-best.net/business/' },
 };
@@ -352,7 +354,9 @@ function serviceFor(a) {
       (/(^|-)(engineer|backend|frontend|infra|sre|mobile|data|pdm|pm|designer|it|saas|web|tech|findy|bizreach|youtrust|doda|linkedin)(-|$)/.test(a.slug) || has('IT業界') || has('エンジニア')))
     return SERVICES.green;
   if (a.pillar === 'offerbox' || /(^|-)ob-|offerbox/.test(a.slug)) return SERVICES.offerbox;
-  if (a.pillar === 'wantedly' || a.pillar === 'onecareer' || has('ダイレクトスカウト') || has('運用代行') || /scout|daikou/.test(a.slug)) return SERVICES.scout;
+  /* Wantedlyの記事は Wantedly販売代理店の記事LP（/wantedly/）へ（2026-11-14） */
+  if (a.pillar === 'wantedly' || /(^|-)(wt|wantedly)(-|$)/.test(a.slug)) return SERVICES.wantedly;
+  if (a.pillar === 'onecareer' || has('ダイレクトスカウト') || has('運用代行') || /scout|daikou/.test(a.slug)) return SERVICES.scout;
   return SERVICES.business;
 }
 
@@ -404,7 +408,8 @@ function ctaBand(key, from) {
     <p class="band__lead">${esc(c.lead)}</p>
     <ul>${c.points.map(x => `<li>${esc(x)}</li>`).join('')}</ul>
   </div>
-  <a class="btn btn-primary" href="${escAttr(entryHref(from, c.media))}" data-cta="band">${esc(c.label)} →</a>
+  <a class="btn btn-primary" href="${escAttr(entryHref(from, c.media))}" data-cta="band">${esc(c.label)} →</a>${c.page ? `
+  <a class="band__page" href="${escAttr(c.page.href)}" data-cta="band_page">${esc(c.page.label)} →</a>` : ''}
 </aside>`;
 }
 
