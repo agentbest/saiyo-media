@@ -2110,5 +2110,16 @@
    "中途",
    "インターン"
   ]
+ },
+ {
+  "name": "wantedly-lp",
+  "pillar": "wantedly",
+  "pill": "Wantedly販売代理店",
+  "title": "採用に課題はありませんか？Wantedlyという選択肢",
+  "chips": [
+   "正規料金のまま",
+   "申込・立ち上げ",
+   "運用代行"
+  ]
  }
 ]

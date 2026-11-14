@@ -1149,12 +1149,14 @@ function main() {
 
   /* LP（index.html は手書き。og:image は /images/og/lp.jpg を直書きしている） */
   og('lp', { pillar: 'site', pill: '求人広告代理店', title: 'どの媒体で採るか。そこから、一緒に。', chips: ['新卒', '中途', 'インターン'] });
+  /* Wantedly販売代理店の記事LP（wantedly/index.html も手書き。og:image は /images/og/wantedly-lp.jpg を直書き） */
+  og('wantedly-lp', { pillar: 'wantedly', pill: 'Wantedly販売代理店', title: '採用に課題はありませんか？Wantedlyという選択肢', chips: ['正規料金のまま', '申込・立ち上げ', '運用代行'] });
   /* 同じ名前は1回だけ（ページ送りで何度も積まれるため） */
   const seenOg = new Set();
   fs.writeFileSync(path.join(DIR, 'tools', 'eyecatch', 'og-specs.json'),
     JSON.stringify(OG_SPECS.filter(x => !seenOg.has(x.name) && seenOg.add(x.name)), null, 1), 'utf8');
 
-  const urls = ['/', '/media/', '/media/tag/'].concat([...LIVE_TAGS.keys()].map(tagUrl)).concat(PILLARS.map(p => `/media/${p.key}/`)).concat(all.map(a => `/media/${a.slug}/`));
+  const urls = ['/', '/wantedly/', '/media/', '/media/tag/'].concat([...LIVE_TAGS.keys()].map(tagUrl)).concat(PILLARS.map(p => `/media/${p.key}/`)).concat(all.map(a => `/media/${a.slug}/`));
   fs.writeFileSync(path.join(DIR, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`
     + urls.map(u => `  <url><loc>${SITE}${u}</loc></url>`).join('\n') + `\n</urlset>\n`, 'utf8');
