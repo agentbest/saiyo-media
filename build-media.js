@@ -324,8 +324,8 @@ function foot() {
 </html>`;
 }
 
-function crumbs(items) {
-  return `<nav class="crumb" aria-label="パンくず"><div class="wrap">`
+function crumbs(items, wide) {
+  return `<nav class="crumb${wide ? ' crumb--wide' : ''}" aria-label="パンくず"><div class="wrap">`
     + items.map(x => x.url ? `<a href="${escAttr(x.url)}">${esc(x.name)}</a>` : `<span>${esc(x.name)}</span>`).join('<i>›</i>')
     + `</div></nav>`;
 }
@@ -475,10 +475,13 @@ function articleHtml(a, all) {
     ? `<nav class="toc" aria-label="目次"><p class="toc__t">目次</p><ol>`
       + heads.map(h => `<li><a href="#${h.id}">${esc(h.text)}</a></li>`).join('') + `</ol></nav>` : '';
   const rel = (a.related || []).map(s => all.find(x => x.slug === s)).filter(Boolean);
-  const relHtml = rel.length
-    ? `<section class="related"><h2 class="block-title">関連記事</h2><ul class="art-list">`
-      + rel.map(r => `<li><a href="/media/${esc(r.slug)}/"><span class="art-title">${esc(r.title)}</span><span class="art-desc">${esc(r.description || '')}</span></a></li>`).join('')
-      + `</ul></section>` : '';
+  /* 関連記事はカードの格子（ポータル風・2026-11-14）。related が無い記事は同じ柱の新しい順で埋める */
+  const relCards = rel.length ? rel
+    : (BY_PILLAR[a.pillar] || []).filter(x => x.slug !== a.slug).slice(0, 6);
+  const relHtml = relCards.length
+    ? `<section class="related"><h2 class="block-title">関連記事</h2><ul class="ggrid ggrid--rel">`
+      + relCards.map(r => gcard(r)).join('')
+      + `</ul><p class="more"><a href="/media/${p.key}/">${esc(p.name)}の記事をもっと見る →</a></p></section>` : '';
   /* 同じ柱の他の記事。コーポレートと同じく「自分の次の6件」を巡回して取り、内部リンクを柱全体に散らす */
   const mates = pillarOrder(all, a.pillar);
   const me = Math.max(0, mates.findIndex(x => x.slug === a.slug));
@@ -519,7 +522,9 @@ function articleHtml(a, all) {
     ],
   }];
   return head({ title: `${a.title}｜求人広告代理店エージェントベスト`, desc: a.description, url, ogType: 'article', jsonld, navCta: '#consult', image: img })
-    + `<main class="wrap article">
+    + catTabs(p.key)
+    + `<div class="wrap art-layout">
+<main class="article">
   <nav class="breadcrumb" aria-label="パンくず"><a href="/">ホーム</a><span aria-hidden="true">/</span><a href="/media/">記事</a><span aria-hidden="true">/</span><a href="/media/${p.key}/">${esc(p.name)}</a></nav>
   ${img ? `<img class="eyecatch" src="${img}" alt="" width="1200" height="630">` : ''}
   <h1>${esc(a.title)}</h1>
@@ -539,7 +544,30 @@ ${html}
   ${sameHtml}
   ${AUTHOR}
 </main>
+${articleSide(a, p, new Set([...skip, ...same.map(m => m.slug), ...relCards.map(r => r.slug)]))}
+</div>
 ${stickyCta(a)}` + foot();
+}
+/* 記事ページの右サイドバー（1024px以上。未満は本文の後ろに回る）。
+ * カテゴリ一覧は上に置いて流し、同じカテゴリの記事＋相談だけを sticky にする（長すぎると下まで見えないため） */
+function articleSide(a, p, skip) {
+  const c = PILLAR_CTA[a.pillar] || PILLAR_CTA.hikaku;
+  const mates = (BY_PILLAR[a.pillar] || []).filter(x => !skip.has(x.slug)).slice(0, 5);
+  return `<aside class="art-side" aria-label="サイドバー">
+  ${sideCats(p.key)}
+  <div class="art-side__sticky">
+    ${mates.length ? `<section class="side-box">
+      <h2 class="side-h">${esc(p.name)}の新着記事</h2>
+      <ul class="side-mini">${mates.map(m => `<li><a href="/media/${esc(m.slug)}/">${thumb(m)}<span class="side-mini__t">${esc(shortTitle(m.title))}</span></a></li>`).join('')}</ul>
+      <p class="more"><a href="/media/${p.key}/">もっと見る →</a></p>
+    </section>` : ''}
+    <section class="side-cta">
+      <p class="side-cta__lead">${esc(c.lead)}</p>
+      <p class="side-cta__sub">${TRUST.slice(0, 3).map(esc).join('・')}</p>
+      <a class="btn btn-primary" href="#consult" data-cta="side">${esc(c.short)} →</a>
+    </section>
+  </div>
+</aside>`;
 }
 const _order = {};
 function pillarOrder(all, key) {
@@ -560,6 +588,37 @@ function card(a) {
       </span>
     </a></li>`;
 }
+/* ---------- ポータル風の部品（2026-11-14 site-network/portal-brief.md） ----------
+ * サムネ：アイキャッチがあればそれ（16:9に切り抜き）。無い記事（約700本）はCSSだけで作る：
+ * 柱ごとに決まった色の面（.th-<柱>）＋柱名＋シリーズ名。外部画像・生成画像は使わない。 */
+let BY_PILLAR = {};   /* 柱 → 記事（新しい順）。main() で作る */
+function thumb(a) {
+  const img = imgOf(a.slug);
+  if (img) return `<span class="thumb"><img src="${img}" alt="" loading="lazy" decoding="async" width="1200" height="630"></span>`;
+  const p = PILLAR[a.pillar] || PILLARS[0];
+  return `<span class="thumb thumb--css th-${p.key}" aria-hidden="true"><span class="thumb__cat">${esc(p.name)}</span><span class="thumb__kw">${esc(a.series || p.name)}</span></span>`;
+}
+/* カード（サムネ・カテゴリ・日付・タイトル）。日付は記事ページのメタと同じ値（更新日 → 公開日） */
+function gcard(a, cls) {
+  const p = PILLAR[a.pillar] || PILLARS[0];
+  const d = a.reviewedAt || a.pubDate;
+  return `<li class="gcard${cls ? ' ' + cls : ''}"><a href="/media/${esc(a.slug)}/">${thumb(a)}<span class="gcard__b"><span class="gcard__meta"><span class="gcard__cat">${esc(p.name)}</span>${d ? `<time datetime="${escAttr(d)}">${jpDate(d)}</time>` : ''}</span><span class="gcard__t">${esc(a.title)}</span></span></a></li>`;
+}
+/* ヘッダー直下のカテゴリタブ。スマホはタブ列の中だけ横スクロール */
+function catTabs(active) {
+  return `<nav class="ctabs" aria-label="カテゴリ"><div class="wrap"><div class="ctabs__in">`
+    + `<a href="/media/"${active === '' ? ' class="on" aria-current="page"' : ''}>すべて</a>`
+    + PILLARS.map(p => `<a href="/media/${p.key}/"${p.key === active ? ' class="on"' : ''}>${esc(p.name)}</a>`).join('')
+    + `<a href="/media/tag/">タグ</a></div></div></nav>`;
+}
+/* サイドバーのカテゴリ一覧（件数つき） */
+function sideCats(active) {
+  return `<section class="side-box">
+    <h2 class="side-h">カテゴリ</h2>
+    <ul class="side-cats">${PILLARS.map(p => `<li><a href="/media/${p.key}/"${p.key === active ? ' class="on"' : ''}><span>${esc(p.name)}</span><span class="count">${(BY_PILLAR[p.key] || []).length}</span></a></li>`).join('')}</ul>
+  </section>`;
+}
+
 /* ページ送り。42ページぶんの数字を全部並べず、先頭・前後2・末尾と「前へ／次へ」だけ出す */
 function pagerHtml(page, pages, base) {
   if (pages <= 1) return '';
@@ -651,30 +710,57 @@ function topHtml(all, byPillar, page1, pages) {
   const pillarRows = PILLARS.map(p => {
     const list = byPillar[p.key];
     return `<section class="prow">
-    <div class="prow__h"><h3>${esc(p.name)}</h3><a href="/media/${p.key}/">すべて見る（${list.length}件）→</a></div>
+    <div class="prow__h"><h3>${esc(p.name)}</h3><a href="/media/${p.key}/">もっと見る（${list.length}件）→</a></div>
     <p class="prow__lead">${esc(p.lead)}</p>
-    <ul class="art-list">${list.slice(0, 3).map(card).join('')}</ul>
+    <ul class="ggrid ggrid--row">${list.slice(0, 4).map(a => gcard(a)).join('')}</ul>
   </section>`;
   }).join('\n');
+  /* ピックアップ（大1＋小4）と右サイドの「注目の記事」は、既存の手選び WORRIES から決める（アクセス数は使わない） */
+  const [pick, ...pickRest] = worries;
+  const pickSmall = pickRest.slice(0, 4);
+  const sidePicks = pickRest.slice(4);
 
   return head({
     title: '求人媒体の使いこなしと選び方の記事｜求人広告代理店エージェントベスト',
     desc: 'OfferBox・Wantedly・ワンキャリア・Green・Infraの運用ノウハウと、業界・職種・規模ごとの求人媒体の選び方。求人広告代理店が、採用担当者の実務の判断に使える形で1,000本以上の記事にまとめています。',
     url: '/media/', navCta: entryHref('media-top'), image: topImg(),
   })
-    + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事' }])
+    + catTabs('')
+    + crumbs([{ name: 'ホーム', url: '/' }, { name: '記事' }], true)
     + `<main class="mtop">
   <div class="wrap">
     <section class="mhero">
       <h1>採用メディア</h1>
       <p class="mhero__lead">求人媒体の選び方と、申し込んだあとの運用を<strong>${all.length.toLocaleString()}本</strong>の記事で解説しています。OfferBox・Wantedly・ワンキャリア・Green・Infraの使いこなしから、業界・職種・規模ごとの媒体の選び方（媒体比較${byPillar.hikaku.length}本）まで。新卒・中途・インターンの求人媒体を扱う求人広告代理店の立場で、採用担当者が実務で判断に使える形にまとめています。</p>
       <nav class="jump" aria-label="記事の探し方">
-        <a href="#worry">悩みから探す</a><a href="#industry">業界から探す</a><a href="#job">職種から探す</a><a href="#size">規模から探す</a><a href="#pillar">媒体から探す</a><a href="#tag">タグから探す</a><a href="#latest">新着記事</a>
+        <a href="#pickup">ピックアップ</a><a href="#latest">新着記事</a><a href="#worry">悩みから探す</a><a href="#industry">業界から探す</a><a href="#job">職種から探す</a><a href="#size">規模から探す</a><a href="#pillar">媒体から探す</a><a href="#tag">タグから探す</a>
       </nav>
       <aside class="cta-inline">
         <p>読んでも決めきれないときは、採りたい職種・人数・時期から取り扱い媒体を横並びで比較します（${TRUST.slice(0, 3).map(esc).join('・')}）。</p>
         <a href="${escAttr(entryHref('media-top-hero'))}" data-cta="hero">無料で相談する</a>
       </aside>
+    </section>
+
+  <div class="portal">
+  <div class="portal__main">
+    ${pick ? `<section class="msec" id="pickup">
+      <h2>ピックアップ</h2>
+      <p class="msec__note">運用中の相談が多いつまずきから、編集部が選んだ記事です。</p>
+      <div class="pickup">
+        <ul class="pickup__main">${gcard(pick, 'gcard--big')}</ul>
+        <ul class="pickup__sub">${pickSmall.map(a => gcard(a, 'gcard--side')).join('')}</ul>
+      </div>
+    </section>` : ''}
+
+    <section class="msec" id="latest">
+      <h2>新着記事</h2>
+      <ul class="ggrid">${page1.map(a => gcard(a)).join('')}</ul>
+      ${pagerHtml(1, pages, '/media/')}
+    </section>
+
+    <section class="msec" id="pillar">
+      <h2>媒体から探す</h2>
+      ${pillarRows}
     </section>
 
     <section class="msec" id="worry">
@@ -701,19 +787,26 @@ function topHtml(all, byPillar, page1, pages) {
 
     ${ctaBand('hikaku', 'media-top-mid')}
 
-    <section class="msec" id="pillar">
-      <h2>媒体から探す</h2>
-      ${pillarNav('')}
-      ${pillarRows}
-    </section>
-
-    <section class="msec" id="latest">
-      <h2>新着記事</h2>
-      <ul class="art-list">${page1.map(card).join('')}</ul>
-      ${pagerHtml(1, pages, '/media/')}
-    </section>
-
     ${ctaBand('knowhow', 'media-top-end')}
+  </div>
+  <aside class="portal__side" aria-label="サイドバー">
+    ${sidePicks.length ? `<section class="side-box">
+      <h2 class="side-h">注目の記事</h2>
+      <ol class="side-rank">${sidePicks.map(a => `<li><a href="/media/${esc(a.slug)}/"><span class="side-rank__c">${esc(PILLAR[a.pillar].name)}</span>${esc(shortTitle(a.title))}</a></li>`).join('')}</ol>
+    </section>` : ''}
+    ${sideCats('')}
+    <section class="side-cta">
+      <p class="side-cta__lead">${esc(PILLAR_CTA.hikaku.lead)}</p>
+      <p class="side-cta__sub">${TRUST.slice(0, 3).map(esc).join('・')}</p>
+      <a class="btn btn-primary" href="${escAttr(entryHref('media-top-side', PILLAR_CTA.hikaku.media))}" data-cta="side">${esc(PILLAR_CTA.hikaku.short)} →</a>
+    </section>
+    <section class="side-box">
+      <h2 class="side-h">タグ</h2>
+      ${tagCloud([...LIVE_TAGS.keys()].slice(0, 20))}
+      <p class="more"><a href="/media/tag/">すべてのタグ →</a></p>
+    </section>
+  </aside>
+  </div>
   </div>
 </main>` + foot();
 }
@@ -956,6 +1049,102 @@ footer{background:var(--navy);color:var(--on-navy-soft);padding:46px 0 40px;font
   .art-desc{-webkit-line-clamp:1}
   .art-list a.has-img{grid-template-columns:116px minmax(0,1fr);gap:.75em}
 }
+/* ===== ポータル風（2026-11-14 site-network/portal-brief.md）：カテゴリタブ・カード格子・サイドバー ===== */
+.ctabs{background:#fff;border-bottom:1px solid var(--line)}
+.ctabs__in{display:flex;gap:2px;overflow-x:auto;white-space:nowrap;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.ctabs__in::-webkit-scrollbar{display:none}
+.ctabs a{flex:none;padding:11px 14px 9px;font-size:.88rem;font-weight:600;color:var(--ink-soft);border-bottom:3px solid transparent}
+.ctabs a:hover{color:var(--head)}
+.ctabs a.on{color:var(--head);border-bottom-color:var(--head)}
+.crumb--wide .wrap{max-width:var(--maxw)}
+.mtop .wrap{max-width:var(--maxw)}
+/* サムネ（16:9）。画像が無い記事はCSSの面：柱ごとの固定色＋柱名＋シリーズ名 */
+.thumb{position:relative;display:block;aspect-ratio:16/9;overflow:hidden;border-radius:8px;background:var(--surface-3)}
+.thumb img{display:block;width:100%;height:100%;object-fit:cover}
+.thumb--css{display:flex;flex-direction:column;justify-content:space-between;padding:10px 12px;color:#fff;background:linear-gradient(135deg,var(--th1),var(--th2))}
+.thumb__cat{font-size:.68rem;font-weight:700;letter-spacing:.06em;opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.thumb__kw{font-size:1.05rem;font-weight:800;line-height:1.35;color:var(--th3);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.th-offerbox{--th1:#0d2f2e;--th2:#1d4d48;--th3:#9ee6da}
+.th-wantedly{--th1:#0e1e38;--th2:#1f3a66;--th3:#a9cbff}
+.th-onecareer{--th1:#2e2110;--th2:#5a4120;--th3:#efc985}
+.th-hikaku{--th1:#17172a;--th2:#33334f;--th3:#d0d0f5}
+.th-green{--th1:#0f2a1b;--th2:#22513a;--th3:#a8e3bf}
+.th-infra{--th1:#2c1730;--th2:#4f2c55;--th3:#e5b8ec}
+.th-knowhow{--th1:#1f1f1f;--th2:#454545;--th3:#e2e2e2}
+/* カード格子 */
+.ggrid{list-style:none;margin:0;padding:0;display:grid;gap:22px 18px;grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr))}
+.ggrid--row{grid-template-columns:repeat(auto-fill,minmax(min(100%,170px),1fr));margin-top:.6em}
+.gcard{margin:0;min-width:0}
+.gcard a{display:flex;flex-direction:column;gap:.6em;height:100%;color:inherit}
+.gcard a:hover .gcard__t{text-decoration:underline}
+.gcard__b{display:block;min-width:0}
+.gcard__meta{display:flex;flex-wrap:wrap;align-items:center;gap:.5em;font-size:.74rem;color:var(--ink-faint);line-height:1.6}
+.gcard__cat{background:var(--head);color:#fff;border-radius:4px;padding:1px 7px;font-weight:700}
+.gcard__t{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin-top:.35em;font-weight:700;font-size:.93rem;line-height:1.6;color:var(--head)}
+/* ピックアップ（大1＋小4） */
+.pickup{display:grid;gap:18px}
+.pickup ul{list-style:none;margin:0;padding:0}
+.pickup__sub{display:grid;gap:14px}
+.gcard--big .gcard__t{font-size:1.2rem;line-height:1.55}
+.gcard--big .thumb__kw{font-size:1.6rem}
+.gcard--big .thumb--css{padding:16px 18px}
+.gcard--side a{display:grid;grid-template-columns:120px minmax(0,1fr);gap:.8em;align-items:start}
+.gcard--side .gcard__t{font-size:.88rem;-webkit-line-clamp:2}
+.gcard--side .thumb--css,.side-mini .thumb--css{padding:6px 8px}
+.gcard--side .thumb__cat,.side-mini .thumb__cat{display:none}
+.gcard--side .thumb__kw{font-size:.78rem}
+@media (min-width:760px){.pickup{grid-template-columns:minmax(0,1.5fr) minmax(0,1fr)}}
+/* トップ：本文＋右サイドバー（1024px以上。未満はサイドバーを本文の下へ） */
+.portal__side{margin-top:3rem;display:grid;gap:20px;align-content:start}
+@media (min-width:1024px){.portal{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:40px;align-items:start}.portal__side{margin-top:2.6em}}
+/* 記事：本文＋右サイドバー */
+.article{margin:0 auto}
+.art-side{max-width:var(--readw);margin:0 auto 64px;display:grid;gap:20px;align-content:start}
+.art-side__sticky{display:grid;gap:20px}
+@media (min-width:1024px){
+  .art-layout{display:grid;grid-template-columns:minmax(0,700px) 290px;justify-content:space-between;gap:40px}
+  .article{margin:0;max-width:none;min-width:0}
+  .art-side{margin:32px 0 64px;max-width:none}
+  .art-side__sticky{position:sticky;top:84px}
+}
+/* サイドバーの箱 */
+.side-box{border:1px solid var(--line);border-radius:10px;padding:14px 16px;background:#fff;min-width:0}
+.side-h{font-size:.95rem;margin:0 0 .6em;padding-bottom:.5em;border-bottom:2px solid var(--head);color:var(--head);line-height:1.5}
+.side-box .tag-cloud a{font-size:.8rem;padding:.25em .8em}
+.side-rank{list-style:none;margin:0;padding:0;counter-reset:r}
+.side-rank li{counter-increment:r;border-bottom:1px solid var(--line-soft)}
+.side-rank li:last-child{border-bottom:0}
+.side-rank a{display:grid;grid-template-columns:1.6em minmax(0,1fr);column-gap:.4em;padding:.6em 0;font-size:.88rem;font-weight:600;line-height:1.55;color:var(--head)}
+.side-rank a::before{content:counter(r);grid-row:span 2;font-weight:800;font-size:1.05rem;color:var(--ink-faint);line-height:1.4}
+.side-rank__c{font-size:.72rem;color:var(--ink-faint);font-weight:400}
+.side-rank a:hover{text-decoration:underline}
+.side-cats{list-style:none;margin:0;padding:0}
+.side-cats a{display:flex;justify-content:space-between;gap:.6em;padding:.45em .2em;font-size:.9rem;border-bottom:1px dashed var(--line);color:var(--ink)}
+.side-cats li:last-child a{border-bottom:0}
+.side-cats a:hover,.side-cats a.on{color:var(--head);font-weight:700}
+.side-cats .count{font-size:.78rem;color:var(--ink-faint);font-weight:400}
+.side-mini{list-style:none;margin:0;padding:0;display:grid;gap:12px}
+.side-mini a{display:grid;grid-template-columns:88px minmax(0,1fr);gap:.7em;align-items:start}
+.side-mini .thumb{border-radius:6px}
+.side-mini .thumb__kw{font-size:.66rem}
+.side-mini__t{font-size:.84rem;font-weight:600;line-height:1.55;color:var(--head);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.side-mini a:hover .side-mini__t{text-decoration:underline}
+.side-box .more{margin-top:.7em;font-size:.85rem}
+.side-cta{background:var(--navy);color:var(--on-navy);border-radius:10px;padding:18px 16px}
+.side-cta__lead{color:#fff;font-weight:700;line-height:1.6;font-size:.98rem}
+.side-cta__sub{font-size:.76rem;color:var(--on-navy-soft);margin:.4em 0 .9em}
+.side-cta .btn{display:flex;justify-content:center;text-align:center;white-space:normal;background:#fff;color:var(--head);padding:11px 14px;font-size:.88rem}
+.side-cta .btn:hover{background:#e9ecf0}
+.related .ggrid{margin-top:1em}
+@media (max-width:600px){
+  .ggrid{gap:14px}
+  .ggrid .gcard a{display:grid;grid-template-columns:120px minmax(0,1fr);gap:.8em;align-items:start}
+  .ggrid .thumb--css{padding:6px 8px}
+  .ggrid .thumb__cat{display:none}
+  .ggrid .thumb__kw{font-size:.78rem}
+  .ggrid .gcard__t{font-size:.88rem}
+  .gcard--big .gcard__t{font-size:1.05rem}
+}
 `;
 
 /* ---------- JS（記事末フォーム・下部バー・計測） ----------
@@ -1069,6 +1258,7 @@ function main() {
   LIVE_TAGS = collectTags(all);
   const byPillar = {};
   PILLARS.forEach(p => byPillar[p.key] = all.filter(a => a.pillar === p.key));
+  BY_PILLAR = byPillar;
   console.log(`記事 ${all.length}件`);
   PILLARS.forEach(p => console.log(`  ${p.name}: ${byPillar[p.key].length}件`));
   if (bad.length) { console.log('⚠ 問題:'); bad.slice(0, 40).forEach(x => console.log('   - ' + x)); }
