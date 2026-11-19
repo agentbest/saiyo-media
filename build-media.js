@@ -1355,7 +1355,12 @@ function main() {
   const urls = ['/', '/wantedly/', '/media/', '/media/tag/'].concat([...LIVE_TAGS.keys()].map(tagUrl)).concat(PILLARS.map(p => `/media/${p.key}/`)).concat(all.map(a => `/media/${a.slug}/`));
   fs.writeFileSync(path.join(DIR, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`
-    + urls.map(u => `  <url><loc>${SITE}${u}</loc></url>`).join('\n') + `\n</urlset>\n`, 'utf8');
+    + urls.map(u => {
+      /* lastmod は記事だけ（ページの dateModified と同じ値）。一覧・タグには付けない */
+      const a = all.find(x => `/media/${x.slug}/` === u);
+      const d = a ? String(a.reviewedAt || a.pubDate || '').slice(0, 10) : '';
+      return `  <url><loc>${SITE}${u}</loc>${/^\d{4}-\d{2}-\d{2}$/.test(d) ? `<lastmod>${d}</lastmod>` : ''}</url>`;
+    }).join('\n') + `\n</urlset>\n`, 'utf8');
   fs.writeFileSync(path.join(DIR, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`, 'utf8');
   console.log(`media/ に ${all.length}記事 ＋ ハブ${PILLARS.length}本 ＋ トップを書き出しました`);
   console.log(`sitemap.xml: ${urls.length}URL`);
